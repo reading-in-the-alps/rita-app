@@ -1,10 +1,10 @@
 xquery version "3.1";
 
-import module namespace nlp="http://www.digital-archiv.at/ns/dsebaseapp/nlp" at "../modules/nlp.xqm";
+import module namespace nlp="http://www.digital-archiv.at/ns/rita-app/nlp" at "../modules/nlp.xqm";
 (:declare option exist:serialize "method=json media-type=text/javascript";:)
 
 
-let $input := doc("/db/apps/dsebaseapp/nlp/temp/oko.xml")
+let $input := doc("/db/apps/rita-app/nlp/temp/oko.xml")
 (:let $posTaggd := nlp:pos-tagging($input):)
 (:    return $posTaggd:)
 

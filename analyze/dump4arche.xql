@@ -1,8 +1,8 @@
 xquery version "3.1";
 declare namespace functx = "http://www.functx.com";
 import module namespace xmldb="http://exist-db.org/xquery/xmldb";
-import module namespace config="http://www.digital-archiv.at/ns/dsebaseapp/config" at "../modules/config.xqm";
-import module namespace app="http://www.digital-archiv.at/ns/dsebaseapp/templates" at "../modules/app.xql";
+import module namespace config="http://www.digital-archiv.at/ns/rita-app/config" at "../modules/config.xqm";
+import module namespace app="http://www.digital-archiv.at/ns/rita-app/templates" at "../modules/app.xql";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare namespace util = "http://exist-db.org/xquery/util";
 declare option exist:serialize "method=xml media-type=text/xml omit-xml-declaration=no indent=yes";

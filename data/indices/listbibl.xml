@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bücherverzeichnis des Editionsprojects Reading in The Alps</title>
+                <respStmt>
+                    <resp>Datenkruation</resp>
+                    <name>
+                        <rs type="person" ref="#span_michael">Michael Span</rs>
+                    </name>
+                    <name>
+                        <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
+                    </name>
+                    <name>
+                        <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Reading in the Alps</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born Digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl xml:id="listbibl">
+                <bibl xml:id="knellingers_predigten">Reverentis Patris Knellingers Prödigen Auf Alle Andert Jahr</bibl>
+                <bibl xml:id="marianischer_ehren_saal">Mariänischer Ehren Saal</bibl>
+                <bibl xml:id="pater_reittmayr_lehrverfassung">Pater Reittmayrs Christliche Lehr Verfassung</bibl>
+                <bibl xml:id="pater_ilhum">Pater Ilhum</bibl>
+                <bibl xml:id="pater_texto_trius">Pater Texto Trius Polagirico Morales</bibl>
+                <bibl xml:id="gerardi_pauli">Gerardi Pauli Prödigen</bibl>
+                <bibl xml:id="pater_heger">Pater Heger</bibl>
+                <bibl xml:id="lucianus">Lucianus, Geistliches Khinder Spil, vier thomi</bibl>
+                <bibl xml:id="teutsche_bibl">Teutsche Bibl</bibl>
+                <bibl xml:id="lacrua">Lacrua</bibl>
+                <bibl xml:id="pauli_leymans_theologi_moralis">Pauli Leymans Theologi Moralis</bibl>
+                <bibl xml:id="ples_proedigen">Ples Prödigen</bibl>
+                <bibl xml:id="wolfgang_schallerer_dominical">Wolfgang Schallerer Dominical Et Festival</bibl>
+                <bibl xml:id="reverentis_patris_heches_proedigen">Reverentis Patris Heches Prödigen</bibl>
+                <bibl xml:id="pater_jordan_predigen">Pater Jordan Predigen</bibl>
+                <bibl xml:id="pater_stophans_predigen">Pater Stophans Predigen</bibl>
+                <bibl xml:id="pater_lucas_proedigen">Pater Lucas Prödigen</bibl>
+                <bibl xml:id="purgensionus_proedigen">Purgensionus Prödigen</bibl>
+                <bibl xml:id="pater_heffnes_proedigen">Pater Heffnes Prödigen</bibl>
+                <bibl xml:id="pater_kellerhaus">Pater Kellerhaus</bibl>
+                <bibl xml:id="patris_partingers_proedigen">Patris Partingers Prödigen</bibl>
+                <bibl xml:id="patris_laudri_proedigen">Patris Laudri Prödigen</bibl>
+                <bibl xml:id="biblia_sacra">Biblia Sacra</bibl>
+                <bibl xml:id="martyriologium_romanum">Martyriologium Romanum</bibl>
+                <bibl xml:id="pater_letelies_geistliche_veldt">Pater Letelies Geistliche Veldt Pau</bibl>
+                <bibl xml:id="prinzing_proedigen">Prinzing Prödigen</bibl>
+                <bibl xml:id="parzios_ain_thail">Parzios ain Thail</bibl>
+                <bibl xml:id="graf_geistlicher_schaz_casten">Graf geistlicher Schaz Casten</bibl>
+                <bibl xml:id="reiffenstuehl_theologus">Reiffenstuehl Theologus</bibl>
+                <bibl xml:id="moralis">moralis</bibl>
+                <bibl xml:id="concordantia">Concandantia</bibl>
+                <bibl xml:id="bibliorum">Bibliorum</bibl>
+                <bibl xml:id="consilium_dominicum">Consilium Dominicum</bibl>
+                <bibl xml:id="graf_acht_seeligligkheiten">Graf Acht Seeligligkheiten</bibl>
+                <bibl xml:id="thrauner">Thrauner</bibl>
+                <bibl xml:id="callans_contans">Callans Contans, item Geistliche Seellen Jagt</bibl>
+                <bibl xml:id="graf_belagerung">Graf Belagerung</bibl>
+                <bibl xml:id="patris_amandi_proedigen">Patris Amandi Prödigen</bibl>
+                <bibl xml:id="sacredotall_prixinense">Sacredotall Prixinense</bibl>
+                <bibl xml:id="pater_stoz_tribunal">Pater Stoz Tribunal</bibl>
+                <bibl xml:id="poenitentiae">Poenitentiae</bibl>
+                <bibl xml:id="pater_iljunae">Pater Iljunae</bibl>
+                <bibl xml:id="pater_segnari_himbel_proth">Pater Segnari Himbel Proth</bibl>
+                <bibl xml:id="pater_ertl_proedigen">Pater Ertl Prödigen</bibl>
+                <bibl xml:id="pater_prugger_exempl_buech">Pater Prugger Exempl Buech</bibl>
+                <bibl xml:id="pater_neumayr_municulus_triplex">Pater Neumayr Municulus Triplex</bibl>
+                <bibl xml:id="saintjure_erkhantnus_jesu_christi">Saintjure Erkhantnus Jesu Christi</bibl>
+                <bibl xml:id="synodus_prixinensis">Synodus Prixinensis</bibl>
+                <bibl xml:id="johan_goestl_caethaekhismus">Johan Göstl Cäthäkhismus</bibl>
+                <bibl xml:id="pater_wolff_rugitus_leonis">Pater Wolff Rugitus Leonis</bibl>
+                <bibl xml:id="eschenlotter_khinder_lehrer">Eschenlotter Khinder Lehrer</bibl>
+                <bibl xml:id="strobl_geistliches_khartten">Strobl Geistliches Khartten</bibl>
+                <bibl xml:id="spill">Spill</bibl>
+                <bibl xml:id="pater_melchior_paurn_concept">Pater Melchior Paurn Concept</bibl>
+                <bibl xml:id="pater_panholzer_sermones_breves">Pater Panholzer Sermones Breves</bibl>
+                <bibl xml:id="graf_herrliche_gesoellschafft">Graf Herrliche Gesöllschafft</bibl>
+                <bibl xml:id="trauner_fragmenta_sacra">Trauner Fragmenta Sacra</bibl>
+                <bibl xml:id="trauners_erstes_dominicale">Trauners Erstes Dominicale</bibl>
+                <bibl xml:id="pater_winterholler_messis_evangelica">Pater Winterholler Messis Evangelica</bibl>
+                <bibl xml:id="graff_geistliche_denst_stuckh">Graff Geistliche Denst Stuckh</bibl>
+                <bibl xml:id="pistoricus">Pistoricus</bibl>
+                <bibl xml:id="heribertus_conciones_pastorales">Heribertus Conciones Pastorales</bibl>
+                <bibl xml:id="pater_prinzing_candelabrum_apocalipticum">Pater Prinzing Candelabrum Apocalipicum</bibl>
+                <bibl xml:id="liber_apocalipicus_signatus">Liber Apocalipicus Signatus</bibl>
+                <bibl xml:id="praxis_confessionalis">Praxis Confessionalis</bibl>
+                <bibl xml:id="pater_inderstorfer_in_decalogi">Pater Inderstorfer In Decalogi</bibl>
+                <bibl xml:id="erhard_erkhantnus_und_liebe">Erhard Erkhantnus, Und Liebe</bibl>
+                <bibl xml:id="marchonzius_rationale_et_hortus_pastorum">Marchonzius Rationale Et Hortus Pastorum</bibl>
+                <bibl xml:id="pater_knellingers_proedigen">Pater Knellingers Prödigen</bibl>
+                <bibl xml:id="armamentarium_terrestrium_cherubinarum">Armamentarium Terrestrium Cherubinarum</bibl>
+                <bibl xml:id="khazenperger_theologus_moralis">Khazenperger Theologus Moralis</bibl>
+                <bibl xml:id="pater_sporer_theologus_moralis">Pater Sporer Theologus Moralis</bibl>
+                <bibl xml:id="khnelinger_exempl_proedigen">Khnelinger Exempl Prödigen</bibl>
+                <bibl xml:id="ius_canonicum_petern_pichler">Ius Canonicum Petern Pichler</bibl>
+                <bibl xml:id="pater_rosignolli_wunderwerckh">Pater Rosignolli, Wunderwerckh</bibl>
+                <bibl xml:id="pater_elbl">Pater Elbl</bibl>
+                <bibl xml:id="dictionnarius">Dictionnarius</bibl>
+                <bibl xml:id="praeviarium_in_octav">Praeviarium in Octav</bibl>
+                <bibl xml:id="silva_cogitationum">Silva Cogitationum</bibl>
+                <bibl xml:id="baudon_ebige_anbettung">Baudon Ebige Anbettung</bibl>
+                <bibl xml:id="dicilia_completissimus_thesaurus">DiCilia Completissimus Thesaurus</bibl>
+                <bibl xml:id="heinpach_khinder_lehr">Heinpach Khinder Lehr</bibl>
+                <bibl xml:id="weinzierl_conscientiae_rectae">Weinzierl Conscientiae Rectae</bibl>
+                <bibl xml:id="nadasi_anni_coelestis">Nadasi Anni Coelestis</bibl>
+                <bibl xml:id="pater_neppl">Pater Neppl</bibl>
+                <bibl xml:id="concilium_tridentinum">Concilium Tridentinum</bibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
