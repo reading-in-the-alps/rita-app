@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1761 VII 23 – 1761 VIII 17, St. Georgen (in der Benefiziaten-Behausung) [Fezl Christoph Sebastian (Benefiziat), Nr. 908]</title>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>
+                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Reading in the Alps</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Südtiroler Landesarchiv (SLA)</institution>
+                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
+                  <idno>1761 VII 23</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="24ar" to="24v"/>
+                     <note>
+                        <rs type="skos" ref="#inventar">Inventar</rs>
+                     </note>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1761-07-23" notAfter="1761-08-17">
+                     <rs type="place" ref="st_georgen">St. Georgen</rs>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listbibl.xml" xpointer="listbibl">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-07-30" notAfter="2018-07-30" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <pb n="24ar"/>
+            </p>
+            <p>Unseren freundlichen Grues und Dienst anvor ehrwürdig edl hochgelehrt besonders lieben Freundt und Hern.</p>
+            <p>Aus des Herrn Bericht Schreiben haben wür des mehrern ersechen, wie das Priester <rs type="person" ref="#fezl_christoph">Christoph Fezl</rs> Beneficiatus ad <rs type="place" ref="#st_georgen">St. Georgium</rs> den <date when="1761-07-20">20. July dies Jahrs</date> zeitlichen Todts verfahren, und bey dessen Verlassenschafft in unseren Nammen die behörige Secretur angelegt worden seye. Gleichwie hiermit ganz wohl beschechen, als tragen dem Herrn hiemit die Commission auf, befelchende, das derselbe sein Priester <rs type="person" ref="#fezl_christoph">Christoph Fezl</rs> zeitliche Vermögenheit servatis servandis vollstandig verhandlen, verhaillen, und behörigen Orthen extradieren, da er aber ein Testament, oder andere letstwillige Disposition hinterlassen hätte, und darwüder von denen Erbs Interessentn oder jemande anderen ein Difficultöt movieret wurde, das den Stritt inter partes in Güthe zu vereinbahren, oder zu entschaiden verfachende Project von dessen Publication uns zu gebihrender Deliberation, und folglicher Verbschaydung, wie auch seiner Zeit so die Abhandlungs Acta in originali, aut copia authentica mit seinen umbständlichen Bericht anhero einsenden solle. Habende der Herr zu ain so anderen</p>
+            <p>
+               <pb n="24av"/>
+            </p>
+            <p>wie ob stehet hiemit all erforderlichen Gewalth, dan daran vollziecht derselbe unseren Willen und Mainung, und wür verbleiben demselben anbey wohl zuegethann. Geben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs>, den <date when="1761-07-23">23. July 1761</date>.</p>
+            <p>
+                    <rs type="person" ref="#graf_zu_lodron_dumbherr">Sebastian Graf zu Lodron Dumbherr</rs>
+                </p>
+            <p>undt geystlicher Rath m.p.</p>
+            <p>
+                    <rs type="person" ref="#tangl_georg">Georg Tangl</rs>
+                </p>
+            <p>Secret. Eulicus m.p.</p>
+            <p>
+               <pb n="24bv"/>
+            </p>
+            <p>[Briefadresse:] Dem ehrwürdig edlen hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain und Fragburg</rs>, fürstlich <rs type="place" ref="#brixen">Brixnerischer</rs> wirckhlichen Consistorial Rath, auch Dechand und Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>, unseren besonders lieben Freundt und Herrn.</p>
+            <p>
+                    <rs type="place" ref="#brunegg">Brunegg</rs>
+                </p>
+            <p>[Rubrum:] <date when="1761-07-23">23 July 1761</date>
+                </p>
+            <p>Commissionsbefehl zur Abhandlung des gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Jörgen</rs> Priester <rs type="person" ref="#fezl_christoph">Christoph Fezl</rs> Verlassenschafts</p>
+            <p>Praes. den 31ten detto</p>
+            <p>[Titelblatt]</p>
+            <p>[Kanzleivermerk:] Coll.</p>
+            <p>[Rubrum:] 1761</p>
+            <p>Vermigene Thaillung und Einraumbung,</p>
+            <p>So Entzwischen weillende des wohl erwirdigen Herrn <rs type="person" ref="#fezl_christoph">Sebastian Christoph Fezl</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Geörgen</rs> seeligen, hinterlassenen zwen Herrn Gebriedern vorbeigangen und respective beschechen.</p>
+            <p>[Aktenvermerk:] Zu Gerichtshanden geherig.</p>
+            <p>[späterer Archivvermerk:] No -908-</p>
+            <p>
+               <pb n="1r"/>
+            </p>
+            <p>Actum in der Beneficiaten Behausung zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> den siben<hi rend="strikethrough">zenden</hi> zechende<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+            </note> <date when="1761-08-10">Tag Manaths Augusti änno sibenzechenhundert ainundsechzig</date>
+                </p>
+            <p>Vor Ihro Hochwirden, und Gnaden dem hochwirdig, hochedlgebohrnen Herren Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain, unnd Fragwurg</rs> tyrollischen Herren, unnd <rs type="person" ref="#landtmann">Landtmann</rs>, hochfirstlich <rs type="place" ref="#brixen">Brixnerisch</rs> wirckhlichen Consistorial Rath, auch Dechandt, unnd Pfarrherrn zu <rs type="place" ref="#brunegg">Brunögg</rs> als vermig vorgewisen, unnd allda ad acta registrierten gnedigen Commissions Befelch gnedig verordneten Commissario</p>
+            <p>Und dem wohledlgebohrn gestreng unnd hochgelehrten Herren <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohrögg</rs> beeder Rechten Lit. oo. Regiments</p>
+            <p>
+               <pb n="1v"/>
+            </p>
+            <p>Advocaten, auch Pfleger, unnd Landtrichteren der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>
+                </p>
+            <p>Zugegen des wohledlen Herren <rs type="person" ref="#marchner_franz_michael">Franz Michel Marchner</rs> Ambtgerichtschreiberen zu <rs type="place" ref="#brunegg">Brunögg</rs>, umd<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Irrig für</hi> und.</p>
+            </note> des Herren <rs type="person" ref="#kerschpaember_johan">Johann Kherschpämber</rs> Landtgerichtschreiberen zu <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Commissionsgerichliche [sic!] und respective obrigkheitliche Relation</p>
+            <p>Vellicher gestalten mann auf jungst ervolgt christselliges Hinscheiden weillende des wohl ehrwirdig <note>
+                  <p rend="footnote text">
+                     <hi rend="superscript">-3</hi> 
+                     <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
+                  </p>
+            </note>edl und wohlgelehrten herrn<hi rend="superscript">3</hi> <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs> lötsterhandt in Leben gewesten Beneficiaten allda zu <rs type="place" ref="#st_georgen">Sanct Geörgen</rs>, Gott gnad der Seelen, unnd bei zugleich anheut zu Hilf, und Trost der abgeleibten Seel Christ cäthollischen Gebrauch nach abgehaltnen dreissigist Gottes Dienst von dessen zurugg</p>
+            <p>
+               <pb n="2r"/>
+            </p>
+            <p>verlassenen annoch ledig jedoch genuegsamb vogtbaren Standts befindlichen Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> allfordertist ainsmahl zu Erwitterung des von kurz ermelt verstorbenen seinen geistlichen Herren Brueder etwo mintlich hinterlassener, unnd dem wohl ehrwirdigen Herren <rs type="person" ref="#saliet_joseph">Joseph Saliet</rs> als dermahligen Beneficii Provisorn commitierter Testamentlichen Verordnunwirteng, unnd sohin dessen hinterlassene Vermigen in aine ordentlicher Ergenzung unnd Verthaillung zu bringen, seinen annoch weiters verhandenen jedoch abwesig, unnd dermahlen unter den loblich Wirttenpergischen Träganer Regiment in Veldt stehenden Brueder <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> aber, ainen Curatorn, unnd ohnmaasgeblichn beraits anwesigen <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> Huefschmidt zu <rs type="place" ref="#brunegg">Brunögg</rs> als ihren negsten Anverwahnten, unnd befreundten zuezugeben in Gehorsamb belanget worden seyn.</p>
+            <p>Wan man nun von Seiten der geist-</p>
+            <p>
+               <pb n="2v"/>
+            </p>
+            <p>lichen Commission, sowohl, als weltlichen Obrigkheit nit ermanglet, disen sein Herren <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> Begehrn zu deferieren, unnd mithin zu ain, so anderen gebettenen Ende auf däto Anstalt zugeben, dem abwesigen Brueder zumahlen ihme <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> pro curatore zuezugeben, unnd zu verpflichten, als will man demnach all vorderist von dem Herren Beneficii Provisorn Wohl Ehrwirden zu vernemben gewertigen, in wemb die von dem Herren Ableiber seeligen demselben anverthraut, und commitiert worden sein sollende mintliche Verordnung bestehen möchte, umb sohin das weitere pro re nata vorkheren, unnd exequieren zu khenen,</p>
+            <p>Woraufhin der wohl ehrwirdige Herr <rs type="person" ref="#saliet_joseph">Joseph Saliet</rs> referiert, das Herr Ableiber seeligen zwo Teg vor seinen Hinscheiden bei zwar guetten Verstandt sin, bedt, unnd deitlicher Ausprach in Gegenwarth zwoer ehrwirdigen Patern Capucineren, als benantlichen des Patris Ursicin, unnd seines Gespans demselben eröfnet, dessen</p>
+            <p>
+               <pb n="3r"/>
+            </p>
+            <p>letster Willen, da allenfahls der Allerhegste mit deme disponieren sollte, zusein, das</p>
+            <p>Erstlichen dessen entselte Leib priesterlich begraben, auch die gewahnlich Heillige Gottes Dienst abgehalten, nit weniger</p>
+            <p>Andertens zu Hilf, und Trost der abgeleibten Seelen umb sibenzig Gulden Heillige Mössen hinnach gelesen</p>
+            <p>Dritens die vorhandene Maria Hilf Bildnis mit schwarz gebaister Ramb, unnd vergolten Laubwerch in der alhisigen Kirchen zu offentlicher Verehrung hingegeben, unnd gestellet, die verhandene ybrige Varnussen ohne Ausnamb belanget aber</p>
+            <p>Viertens dem<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+            </note> weltlichen Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> in Voraus zuesteheen, unnd verbleiben, das noch ybrige Vermigen hingegen aber</p>
+            <p>
+               <pb n="3v"/>
+            </p>
+            <p>Finfftens gleichwohlen unter seinen ermelt, unnd abwesigen Brueder <rs type="person" ref="#fezl_johannes">Johannes</rs> in geliebter Giette verthailt werden solle.</p>
+            <p>Vellich dise mintliche Verordnung sohin er Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Fezl</rs> in Gegenwarth des verpflichten Vertretter zu eröfnen, unnd respective zu erwittern ein geistliche Commission, unnd weltliche Obrigkheit aber selben dabei zu manutenieren gebetten.</p>
+            <p>Facta Publicatione</p>
+            <p>Hat Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfang [sic!] Fezl</rs> einer gnedigen Commission, unnd loblichen Obrigkheit fir die beschechenen Publication gehorsamben Danckh abgestattet, unnd nochmahls umb Matntention<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic" xml:space="preserve">Verschrieben für </hi>Manutention.</p>
+               </note> gebetten,</p>
+            <p>Her Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> hat das mintlich gemachte Testament ableslichen vernomben, unnd verhofet, es wird auch sein Principäll es darbei verbleiben lassen, als auf dessen Ratification</p>
+            <p>
+               <pb n="4r"/>
+            </p>
+            <p>selber solliches gestelt haben will, umb damit aber selber gleichwohlen auf Anverlangen seines Herren Principällen, den Bericht geben khene, was selbe betragen haben möchten, als wolle selber gebetten haben, sothanner Varnussen, wo nit in ordentlicher Beschreibung zubringen, wenigistens einen unvergreiflichen Tax, oder Anschlag zu geben,</p>
+            <p>Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> hette zwar nit gelaubt eine ordentliche Beschreibung vonnöthen zu haben, wann aber ein geistliche Commission doch jehe vermeinte, solliche zu besserer Sicherheit erforerlich zusein, so wolle selber die Vernembung dessen auch nit verhinteren, unnd volglich hierwider nit entgegen sein,</p>
+            <p>waraufhin, unnd yber vorleifig der Jungfrau Heiserin <rs type="person" ref="#vestner_maria">Maria Vestnerin</rs> von Seiten der gnedig geistlichen Commission, unnd weltlichen Obrigkheit gethannen Zue-</p>
+            <p>
+               <pb n="4v"/>
+            </p>
+            <p>spruch, das selbe all, unnd jedes, was zu des Herren Erbgebers seeligen Verlassenschafft geherig sein möchte, gethreulichen am Tag geben, unnd hievon nichts verhalten wolle, deme selbe auch nachzukhomben das Handt Anloben erstatt, die von der gnedig geistlichen Commission unnd weltlicher Obrigkheit angelegte Secretur<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+               </note> eröfnet, umd<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Irrig für</hi> und.</p>
+               </note> sohin vorgenomben, worden, hernachvolgende</p>
+            <p>Inventur</p>
+            <p>Als erstlichen in der</p>
+            <p>Stuben</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain roth angestrichnes Tischl mit ainer Schubladt pr</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain aufstehendes Puldt pr</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain groser liderener Lain Sessl pr</cell>
+                  <cell>48 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="5r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain grien angestrichner Lainstuell</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferenes Ober- unnd <hi rend="strikethrough">ain</hi> Untergiespechet pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain zines Weichbrun Khriegl</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo Gemähl mit vergulten Ramben, unnd Gläser</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+            </table>
+            <p>In der Stuben Camer</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain eisene Haus Uhr pr</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain eingelegtes Tischl mit ainer stainen Plath</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>
+                     Piecher
+                  </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     In Folio zechen thomi pr
+                  </cell>
+                  <cell>
+                     10 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     In Quart vierundtzwainzig deto zu vierzig Khreizer thuet
+                  </cell>
+                  <cell>
+                     16 f 0 x
+                  </cell>
+               </row>
+            </table>
+            <p>
+               <pb n="5v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     Ingefer funfzig unterschidliche Piechlen in Octav zu zwelf Khreizer thuet
+                  </cell>
+                  <cell>
+                     10 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>In Rugg- und Leibclaider</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Ain Rocolor, ain grauer Caput, zwo schwarze Reckh, ain Cämisoll sambt Hosen, unnd Strimpf, unnd ainen schwarzen Hueth, so alles schlecht pr</cell>
+                  <cell>10 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Vierundtzwainzig zinen greser, unnd clenere Schissl, unnd Thäller, ain Viertl, ain Maas, ain Trinckhen unnd ain halbes Fräggen Khändele, verer ain Zimmer Leichter, ain Salz Pixl, ain Pecher, unnd ain clains Khändele wegt alles zusamben sechs undt dreissig Pfundt zu vierundt zwainzig Khreizer, thuet</cell>
+                  <cell>14 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Ain roth geweggleter Tisch Töbich pr</cell>
+                  <cell>30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="6r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Mer ain dergleichen deto pr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par härbene Leillacher, mit roten Fransen</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Aber zwo Par deto pr</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Verer ain härben unnd ain leichhächlens deto pr</cell>
+                  <cell>1 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Ittem ain Par rupfene Leillacher pr</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Finf gewegglete Tisch, unnd drei Hanndt Tiecher</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zwelf unterschiedliche Tisch Salveter pr</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Zu ain Par Leillacher die Spiz von siben Ellen pr</cell>
+                  <cell>1 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Vierundtzwainzig Ellen gewegleter Tisch Zeig zu vierundtzwainzig Khreizer thuet</cell>
+                  <cell>9 f 36 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="6v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Zwainzig Ellen härbens Tuech zu achtzechen Khreizer, thuet</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Nein Ellen rupfens deto zu funfzechen Khreizer thuet</cell>
+                  <cell>2 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Zechen Ellen plauer Peth Zwilch zu vierundtzwainzig Khreizer thuet</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Vier Ellen praun wullener Zeig pr</cell>
+                  <cell>1 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Zeig zu ainen Schlafrockh sambt dem flanelen Fuether pr</cell>
+                  <cell>1 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Acht härbene Hemather pr</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+            </table>
+            <p>In der Khuchl</p>
+            <table rend="rules">
+               <row>
+                  <cell>Siben greser, unnd clenere Eisene schlechte Pfannen <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-8</hi> 
+                           <hi rend="italic">Auf der linken Seite eingefügt.</hi>
+                        </p>
+                     </note>ain eisener Herd Pfan Knecht<hi rend="superscript">8</hi> ain Feur Hundt, ain eisenes Tempf Pfändl, ain Prath Testl, ain Dirchling, unnd ain Schepf Kellele, zwo Prath</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="7r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Spis, unnd ain Hainzl pr</cell>
+                  <cell>1 f 42<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus Auslassungsstrich.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferene Wasser Gaz, unnd ain mössinges Pfändl</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain plechener, unnd ain Rohr Leichter, ain Drei Fiesl, <hi rend="strikethrough">unnd</hi> ain Raifmösser, unnd drei Hafen Plätlen pr</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupfener Heng Kessl wegt neinzechen Pfundt zu zwelf Khreizer thuet</cell>
+                  <cell>3 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferener Fues Kessl wigt acht Pfundt pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+            </table>
+            <p>In untern Stibele</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Unterpeth mit inern Zwilch, unnd aussern plau gestraiften Ziechen, wegt vierzig Pfundt zu sechs Khreizer thuet</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain Unterpeth sambt dem</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="7v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Polster, unnd Khis mit ineren Zwilch unnd ausseren plau gewickleten, der Polster, unnd Khis aber mit weisen Ziechen, wegt sibenundtzwainzig Pfundt zu acht Khreizer thuet</cell>
+                  <cell>3 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Yberpeth mit inern Zwilch, unnd aussern plauen Ziechen wegt funfzechen Pfundt zu zwelf Khreizer thuet</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Maderazen pr</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Ain plau carthanen, unnd ain Welsperger unterfieterte Deckhen pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+            </table>
+            <p>In der Camer hinein</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain weises Khorn Trichele mit zwo Clester pr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Finf Stör Waiz zu ain Gulden thuet</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="8r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Vier Egerer Flaschen, ain groses Glas, unnd ain Trinckhen Khriegl pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferener Wassersprizer Kolmb pr</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Pachmitl, ain Tregele unnd ain Prothgrambl pr</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain Madrazen pr</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr ain Yberpeth, unnd ain Polster mit ineren Zwilch ohne ausseren Ziechen, wegt funfzechen Pfundt zu nein Khreizer thuet</cell>
+                  <cell>2 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Strosackh, unnd ain Polster pr</cell>
+                  <cell>12 x</cell>
+               </row>
+            </table>
+            <p>In dem Kheller</p>
+            <table rend="rules">
+               <row>
+                  <cell>Zwo Yhren rother Wein pr</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Sechs Pfundt gesotnes Schmalz pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="8v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Vier Yhren roths Geschir pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Drei Claffter von Herren Ableiber selbs gekhaufftes Prenholz pr</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Summä vorbeschribener Inventur ainhundert neinundt funfzig Gulden, neinundtzwainzig Khreizer id est</cell>
+                  <cell>159 f 29 x</cell>
+               </row>
+            </table>
+            <p>Silber Geschmeidt</p>
+            <table rend="rules">
+               <row>
+                  <cell>Weiters ist verhanden ain von schlechten Silber clains Tawaggierl pr</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Ittem ain silberens Palsamb Pixl, sambt dem Fueterällele pr</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd ain gleserenes Lotlorn Fläschl mit Silber eingefast pr</cell>
+                  <cell>24 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="9r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Macht das Silber Geschmeidt vier Gulden, achtzechen Khreizer sage</cell>
+                  <cell>4 f 18 x</cell>
+               </row>
+            </table>
+            <p>Paarschafft</p>
+            <table rend="rules">
+               <row>
+                  <cell>An sollicher ist an unterschidlichen Gelt erfunden worden, achtzechen Gulden sibenzechen Khreizer sage</cell>
+                  <cell>18 f 17 x</cell>
+               </row>
+            </table>
+            <p>Ligende Guether</p>
+            <p>Nemblichen die Paurecht nach volgende Stuckh, unnd Gietter die Prugger Stuckh genant zu bestimbten <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Landt Gerichts <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs> gelegen, als erstens ain Jauch Ackher gehaisen in der Grindten auf den Rienz Veldt legent, stosst</p>
+            <p>
+               <pb n="9v"/>
+            </p>
+            <p>gegen Morgent an Andreen Kachler Proger Huebers Inhabern, Mittentag an Mösen Gueths Ackher, Abent an dem gemainen Weeg der von <rs type="place" ref="#st_georgen">Sanct Georgen</rs> gehen Steegen gehent, unnd gegen Mitternacht an ain Stuckh, so jetzt der Obermutschlechner zu Steegen innehat, verer ain Tradten zu Kofflach bei drei Tagmaden gros, coherenzt gegen Morgen an Herren Merls zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Stuckh, Mittentag an Herren Herren Grafen Troyers seeligen Erben Erden Ackher, Abent an ain Akcher, so in die Hueben in Anger zu beretten <rs type="place" ref="#st_georgen">Sanct Georgen</rs> geherig, unnd die Herren Herren Grafen Troyerischen Erben innehaben, unnd Mitternacht an gemelts anderen Khachler Progers Stuckh, mer ain Ackherle Obmayr Kuenzen Thall bei ainer Äch gros, stosst gegen Morgent an des <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofers</rs> innehabenden Stuckh Mittentag an ain Stuckh, so die <rs type="person" ref="#kessler_geoerg">Geörg Kesslerischen</rs> Eheleith inne-</p>
+            <p>
+               <pb n="10r"/>
+            </p>
+            <p>haben, gegen Abent an <rs type="person" ref="#pifrader_hanns">Hannsen Pifrader</rs> halben Kuchlmayrs Stuckh, unnd Mitternacht an widerholten <rs type="person" ref="#kessler_geoerg">Georgen Kesslerischen</rs> Eheleithen innehabenden Stuckh, umd<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Irrig für</hi> und.</p>
+            </note> lötstlichen ain sanders Stuckh Erdtrich in Wüsen ohngefährlichen zwo Tagmaden gros, wellches vor Alters frei ledig, unnd lutaigen gewest, hienach aber zu vorbemelter Paurecht geschlagen, und auf ewig incorporiert worden, stosst gegen morgent an Herren Merl, Mittag an <rs type="person" ref="#tinckhhauser_hanns">Hannsen Tinckhhausers</rs> Ehewirthin, Abent an bestimbten <rs type="person" ref="#khachler_andre">Andreen Khachlers</rs> Stuckh, unnd Mitternacht an ain Stuckh so in die Hueben in Anger geherig, yber wellich dise vier Stuckh ist das Luttarhische Ambt an Stockh zu <rs type="place" ref="#uttenheim">Uttenhaimb</rs> Recht ordentliche Grundtherrschafft, dahin verzinst, unnd verdient man jährlichen, unnd weltewig, auch jedes Jahr besanders allwegen nach Utten-</p>
+            <p>
+               <pb n="10v"/>
+            </p>
+            <p>haimb zum <rs type="place" ref="#stockh">Ansiz Stockh</rs> zu lifern, unnd zu antworthen in guetten Gelt funfzig Khreizer, in Getraidt Roggen sechs und Gersten auch 6 Stär Luttacher Ambt Maas, guets saubers wohl gefirmets Korn, zu Weisath ain Kiz, dreissig Ayr, unnd zwo Hennen, alles rechten Grundt, und Herren Zins, dargegen hat man hierein zu haben, ain halb Stär Gersten, unnd sechs Khreizer Hilf Zinsl, so titl. Herr <rs type="person" ref="#sell_franz_joseph">Franz Joseph Sell</rs> Forstmaister in Pusterthall von zwoen Äckherlen negst ob der Mihlfehrlichen zugeben schuldig ist.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Vellich dise hievor beschribne Prugger Stuckh, unnd Hilf Zinsl Herr Ableiber seeligen von des <rs type="person" ref="#wanger_peter">Petern Wanger</rs> gewesten Khachlers seeligen Herren, unnd Gelteren inhalt Khaufs Abredt von anderten, und <date when="1760-04-16">sechzechenden Äprill änno sibenzechenhundert sechzig</date> als gewester Mitgelter kheiflichen an sich gebracht hat, in Tax per aintaus-</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="11r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>sent dreihundertfinfundtzweinzig Gulden id est</cell>
+                  <cell>1325 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Summä des Ligenden</cell>
+                  <cell>per se</cell>
+               </row>
+            </table>
+            <p>Schulden herein</p>
+            <table rend="rules">
+               <row>
+                  <cell>Vorige Prugger Stuckh hat Ableiber seeligen den <rs type="person" ref="#pifrader_prantlechner_andree">Andree Pifrader Prantlechner</rs> zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> zu Bestandt verlassen, unnd weillen mer gemelter Besteheer <rs type="person" ref="#pifrader_prantlechner_andree">Andree Pifrader</rs> laut des am <date when="1760-05-26">sechsundtzwainzigisten May änno sibenzechenhundert sechzig</date> aufgerichten Bestandts Contract hievon jährlich zu zwoo Fristen, als auf Liechtmössen, unnd May Marckht sibenundtvierzig Gulden funfzechen Khreizer Bestandt Zins zu geben obli-</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="11v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>giert worden, als gebirt sich seit Neu Jahr bis verwichen Sanebenten von der sibenzechenhundert ainundtsechzigisten Jahrs Benuzung das ratum von einen halben Jahr bei ihme Besteheer alda pr Vermigen zutragen mit dreiundzwainzig Gulden, sibenundt dreissig Khreizer id est</cell>
+                  <cell>23 f 37 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd von der sibenzechenhundert sechzigisten Benuzung stehent noch Bestandt Zins aus acht Gulden sage</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>
+                            <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frisch Hueberischen zurugg gelassenen Kinderen zu Neinheiseren Gerichts Alträsen ist auf Ybergeben der <rs type="person" ref="#stainer_maria">Maria Stainerin</rs> Georgen Lercher Gatterers auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto Räsen <date when="1743-05-01">ersten May sibenzechenhundert dreiundt vierzig</date> der Frauen <rs type="person" ref="#pacher_maria">Maria Pa-</rs>
+                        </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="12r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>cherin seeligen zwohundert neinundtneinzig Gulden neinundtfunfzig Khreizer Capitall schuldig worden, welliche nunmehro auf deren Ableiber auf Ihren Herren Sohn, als dissahligen Erblasser erblichen gekhomben id est mit</cell>
+                  <cell>299 f 59 x</cell>
+               </row>
+               <row>
+                  <cell>Widerumben ist obgedachter <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> als Gerhab vorbenambster <rs type="person" ref="#stainer_andree">Andree Stainerischen</rs> Kinderen, dann <rs type="person" ref="#gasmayr_maria">Maria Gasmayrin</rs> hinterlassen <rs type="person" ref="#stainer_andree">Andree Stainerische</rs> Wittib auf Ybergeben vorbemelter <rs type="person" ref="#stainer_maria">Maria Stainerin</rs> laut Ybergab, und Schultsbekhantnus de däto <date when="1744-06-29">neinundtzwainzigisten Juni änno sibenzechenhundert vierundtvierzig</date> Cäpitäll in alten Rechten der Frauen <rs type="person" ref="#pacher_maria">Maria Pacherin</rs> nunmehro aber dem Herren Ableiber schuldig worden, zwohundert Gulden id est</cell>
+                  <cell>200 f 0 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="12v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Interesse Austandt von beeden Posten auf verwichen May Marckht unnd Sanebenten sibenzechenhundert ainundtsechzig verfallen bei finfundtsibenzig Gulden id est</cell>
+                  <cell>75 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Umd<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Irrig für</hi> unnd.</p>
+                     </note> pro rato von disen ersten zwohundert neinundtneinzig Gulden, neinundtfunfzig Khreizer seit May Marckht bis verwichen Sanebenten ain Gulden neinundtzwainzig Khreizer sage</cell>
+                  <cell>1 f 29 x</cell>
+               </row>
+               <row>
+                  <cell>
+                            <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in Mitterthall Antholz sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto Äntholz <date when="1745-12-22">zwo undtzwainzigisten December änno sibenzechenhundert finf undtvierzig</date> Capitall zwohundert <hi rend="strikethrough">Gulden</hi> funfzig Gulden, so Herr Ableiber seeligen von dessen Frauen Muetter <rs type="person" ref="#pacher_maria">Maria</rs>
+                        </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="13r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Pacherin seeligen erörbt id est mit</cell>
+                  <cell>250 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr solle er <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> crafft Ybergab de däto Räsen <date when="1751-06-29">neinundt zwainzigisten Juni änno sibenzechenhundert ainundtfunfzig</date> auf Ybergeben seines Brueder <rs type="person" ref="#techterle_simon">Simon Techterle</rs> zu Räsen ebenfahls von dessen Frau Muetter herrierendes Capitall vierundtsibenzig Gulden, vierzig Kreizer id est</cell>
+                  <cell>74 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Gleich gestalten stehent von disen zwoen Capitalls Posten auf verwichen Sanebenten sibenzechenhundert ainundtsechzig verfallen Verzinsung aus, zwainzig Gulden sage</cell>
+                  <cell>20 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>
+                            <rs type="person" ref="#mayr_martin">Martin Mayr</rs>, unnd sein Ehewirthin <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs> als Inhabere der halben Kalten Hauser Hueber zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs>
+                        </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="13v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>sollen auch laut obrigkheitlichen Schultbrief <date when="1750-08-16">sechzechenden Augusti änno sibenzechenhundert funfzig</date> Capitäll ebenfahls von dern Frau Muettern herrierende ainhundert Gulden sage</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Weiters sollen sie Eheleith <rs type="person" ref="#mayr_martin">Martin Mayr</rs>, unnd <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs> ohnfirpfändliche Post zwainzig Gulden sage</cell>
+                  <cell>20 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd mithin von beede Posten Interesse Ausstandt auf verwichen Sanebenten verfallen, von vier Jahren zu vier pro cento yber siben Gulden Zahlung, noch zwelf Gulden, zwelf Khreizer sage</cell>
+                  <cell>12 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>An dem Herren briederlich <rs type="person" ref="#fezl_michael">Michael Fezlischen</rs> Erb seint zwar den Herren Ableiber bei <rs type="person" ref="#sotora_johann_baebtistae">Johann Bäbtistä Sotora</rs> aus seiner schuldigen Haubtsach ainhundert sechs undt dreissig Gulden zechen</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="14r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Khreizer, unnd bei <rs type="person" ref="gogl_stampfer_martin">Martin Gogl Stampfer</rs>, unnd Wiser aus der Haubtsach, unnd Interesse siben undtsechzig Gulden, sechsundt vierzig ⅔<note>
+                        <p rend="footnote text"> ⅔ <hi rend="italic">nachträglich eingefügt.</hi>
+                        </p>
+                     </note> Khreizer zu empfangen assigniert, umd<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Irrig für</hi> und.</p>
+                     </note> angewisen worden, weillen aber sye Herren Gebriedern sich mintlich verainparet, unnd respective die Ausgleichung gemacht, das die vellige Welsche Schult pr vierhundert Gulden denen zwo weltlichen Herren Gebriederen allain, hingen die bei <rs type="person" ref="#gogl_stampfer_martin">Martin Gogl</rs> ausligende zwohundert Gulden ebenfahls dem Herren Ableiber allain angebirig sein sollen, als werden mithin jennige allda bei ersagten <rs type="person" ref="#gogl_stampfer_martin">Martin Gogl</rs> pr Vermigen getragen id est mit</cell>
+                  <cell>200 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse Ausstandt auf verwichen Sanebenten verfallen abgeraittermassen finf Gulden, ainundt zwainzig Khreizer sage</cell>
+                  <cell>5 f 21 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="14v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Der abwesige Herr Brueder <rs type="person" ref="#fezl_johannes">Johann Fezl</rs> solle auch wegen demselben eingeraumbter Behausung zu <rs type="place" ref="#brunegg">Brunögg</rs> darauf assignierte briederliche Erbschafft dreihundert dreiundt dreissig Gulden, zwainzig Khreizer id est</cell>
+                  <cell>333 f 20 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse Ausstandt bis <date when="1760-05-17">sibenzechenden May sibenzechenhundert ainundtsechzig</date> geraitt, zu drei ainhalb pro cento zwoundtfunfzig Gulden, zwoundtfunfzig Khreizer id est</cell>
+                  <cell>52 f 52 x</cell>
+               </row>
+               <row>
+                  <cell>Und pro rato bis Sanebenten darauf ain Gulden, vierzechen Khreizer sage</cell>
+                  <cell>1 f 14 x</cell>
+               </row>
+               <row>
+                  <cell>Ittem solle <rs type="person" ref="#laehner_forcher_jacob">Jacob Lähner Forcher</rs> in <rs type="place" ref="#Oberwiellenpach">Oberwiellenpach</rs> auf Ybergeben der <rs type="person" ref="#pacher_maria">Maria</rs>, unnd <rs type="person" ref="#pacher_maegdaelenae">Mägdälenä Pacherischen</rs> Schwesteren inhalt Ybergab <date when="1747-07-08">anderten Julli änno sibenzechenhundert sibenundt vierzig</date> Capitall, nunmehro aber</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="15r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>auf Verkhaufung sein <rs type="person" ref="#laehner_forcher_jacob">Jacoben Lähners</rs> innegehabten Forchner Gueths dessen Khaufer <rs type="person" ref="#mayr_joseph">Joseph Mayr</rs> Mayr in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs> dreihundert Gulden sage</cell>
+                  <cell>300 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse auf verwichen Sanebenten verfallen von ain Jahr zwelf Gulden id est</cell>
+                  <cell>12 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Frau <rs type="person" ref="#khlettenhamber_aennae">Ännä Khlettenhamberin</rs> Herren <rs type="person" ref="#steeger_carl_felix">Carl Felix Steegers</rs> zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> Ehewirthin, solle auch Capitall ohne verhandenen Schultbrief ainhundert Gulden sage</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse auf verwichen Sanebenten verfallen, von ain<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Über der Zeile eingefügt.</hi>
+                        </p>
+                     </note> Jahr drei Gulden, dreissig Khreizer id est</cell>
+                  <cell>3 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Herr Stattschreiber zu <rs type="place" ref="#brunegg">Brunögg</rs> <rs type="person" ref="von_tschusi_franz_andree">Franz Andree von Tschusi</rs> ware auch Capitall ainhundert funfzig Gulden, unnd darzue Inte-</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="15v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>resse bis ersten dis Manaths Augusti geraitt, drei Gulden, vier Khreizer, unnd zusamben ain hundert dreiundtfunfzig Gulden, vier Khreizer schuldig, weillen aber selber dem Herren Ableiber seeligen willen abgebnen Wein lauth Conto sibenundtvierzig Gulden, dreissig Khreizer, unnd dessen Herrn Bruederen <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> nach des Herren Ableibers Totfahl, in paren Gelt ainhundert finf Gulden, vierundt dreissig Khreizer guetgemacht, und mithin die vellige Schuldigkheit abgezalt, als werden die durch gemelten Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> Empfanger ainhundert finf Gulden, vierundt dreissig Khreizer allda bei dem selben pr Vermigen getragen id est mit</cell>
+                  <cell>105 f 34 x</cell>
+               </row>
+               <row>
+                  <cell>Wohl gemelter Herr Ableiber seeligen hat wegen den gehabten Bene-</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="16r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>ficium jährlichen ainhundert sechzig Gulden zu beziechen gehabt, unnd weillen deme seit <date when="1760-09-20">zwainzigisten Sebtember sibenzechenhundert sechzig</date> bis <date when="1761-07-20">zwainzigisten Julli sibenzechenhundert ainundtsechzig</date> als ervolgten Totfahl von dreissig Wochen das ratum mit zwoundtneinzig Gulden, zwainzig Khreizer angebirig, hingegen wohl derselbe hieran neinundtvierzig Gulden, sechsundtfunfzig Khreizer empfangen, als verbleibt yber deren Abzug gemelte Nachparschafft, oder vilmer dero bestelte Casier <rs type="person" ref="#renzler_martin">Martin Renzler</rs> yber deme weitters in Handen gelassner ain Gulden, noch ain undtvierzig Gulden, vierundt zwainzig Khreizer schuldig, so derselbe däto dem Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> bezalt hat, unnd mithin dise bei ihme Herren Fezl allda pr Vermigen getragen wurde<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Links neben dem Text eingefügt.</hi>
+                        </p>
+                     </note> id est mit</cell>
+                  <cell>41 f 24 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="16v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Und aus den weitters zu empfangen habenden Opfer, unnd Speiswein betrifft das ratum ob alberaith ainen halben Jahr ain Gulden, dreiundtfunfzig Khreizer id est</cell>
+                  <cell>1 f 53 x</cell>
+               </row>
+               <row>
+                  <cell>Entlichen solle auch Herr <rs type="person" ref="#wenzl_martin">Martin Wenzl</rs> zu <rs type="place" ref="dietenheim">Dietenhaimb</rs> wegen in Versaz geben, unnd annoch in natura verhandenen sechs silberen Löfl, unnd ainen in Silber eingefasten Gleseren Pecherle zwainzig Gulden sage</cell>
+                  <cell>20 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Summä der Schulden herein zwotausent zwohundert zwoundtsechzig Gulden finf Khreizer id est</cell>
+                  <cell>2262 f 5 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="17r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Summa Sumarum des ganz, und velligen Vermigens dreitaussent sibenhundert neinundtsechzig Gulden, nein Khreizer id est</cell>
+                  <cell>3769 f 9 x</cell>
+               </row>
+            </table>
+            <p>Dargegen seint verhanden volgende</p>
+            <p>Schulden hinaus</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ihro Hochwirden dem Herren Pfarrer zu <rs type="place" ref="#gais">Gais</rs> fir der Begrebnusgotts Dienst, unnd Vigill acht Gulden id est</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Denen Herren Cooperatorn fir Conduct, unnd Vigill drei Gulden din</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Fir der Provision dreissig Khreizer sage</cell>
+                  <cell>30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="17v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Aber denenselben willen dem Herren Ableiber yberlassener Provision den hierfir zuvergiettten habenden ain Gulden sage</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Organisten zwo Gulden, vierundtzwainzig Khreizer id est</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Herren Provisorn <rs type="person" ref="#saliet_joseph">Joseph Saliet</rs> fir gelestnen zechen Stypendiis unnd zwo Stüfft Mössen zu vierundtzwanzig undt dreissig Khreizer geraith thuet finf Gulden sage</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd aber deme fir sein extra Bemiehung als drei Täg, unnd Nächt gethanner Beiwahnung, unnd ainer Wochen versechnen Beneficii ainen Duggatten pr vier Gulden zechen Khreizer id est</cell>
+                  <cell>4 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>Der Khirchen alhier fir die angelegt, unnd in Grab getragnen Paramentis, auch in der Khirchen</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="18r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>verwilligter Begräbnus, unnd geschaffner Beleichtung dreissig Gulden is est</cell>
+                  <cell>30 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Fir dem gewohnlichen Jahrstag sambt Bitten, unnd Vigill wohl gemelten Herrn Pfarrer zwo Gulden, finf undtvierzig Khreizer, sage</cell>
+                  <cell>2 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>Denen Herren Cooperatorn sechsundt dreissig Khreizer id est</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Sodann haben pr Abzug zukhomben, die verschaffene extra Heiligen Mössen mit sibenzig Gulden id est</cell>
+                  <cell>70 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <p>Wegen erkhaufften Prugger Stuckh ist Herr Ableiber noch volgende Capitallien yberpendenermasser zu bezahlen schuldig,</p>
+                     <p>Als dem loblichen <rs type="place" ref="#st_georgen">Sanct Georgen</rs>
+                            </p>
+                  </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="18v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Gotts Haus allda zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Capittäll sechshundertacht Gulden id est</cell>
+                  <cell>608 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse Ausstandt dem gewesten Khirchprobsten <rs type="person" ref="#khachler_hanns">Hannsen Khachler</rs> auf verwichen Liechtmössen sibenzechenhundert ainundtsechzig verfallen von ain Jahr vierundt zwainzig Gulden neinzechen Khreizer, daran ihme der Nachparschaffts Cassier, das deme von der Kirch aus zu empfangen gehabte Deputat inhanden gelassen mit funfzechen Gulden, sechs Khreizer, Rest noch ihme Khirchprobst nein Gulden, dreizechen Khreizer id est</cell>
+                  <cell>9 f 13 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd pro rato seit gemelter Zeit bis verwichen Sanebenten von finf Manather zechen Gulden, acht Khreizer, sage</cell>
+                  <cell>10 f 8 x</cell>
+               </row>
+               <row>
+                  <cell>Den vorherig gewesten Khirchprobsten <rs type="person" ref="#graber_moesner_christian">Christian Graber Mösner</rs>
+                        </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="19r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>auch noch alt ausstendige Interesse zwo Gulden, neinundt dreissig Khreizer sage</cell>
+                  <cell>2 f 39 x</cell>
+               </row>
+               <row>
+                  <cell>Aber deme wegen sollichen Todt Fahl mit Einschluss des Jahrtags drei Gulden sage</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd mer ihme fir gehabter extra Bemiheung verrichten Geng unnd Wachen ain Gulden id est</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Herren <rs type="person" ref="#haberstroo_johann">Johann Haberstro</rs> Purger, unnd Handlsmann zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> Haubtsach ainhundert Gulden sage</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse auf verwichen Sanebenten sibenzechenhundert ainundtsechzig abgefallen, von finf Jahr zwainzig Gulden sage</cell>
+                  <cell>20 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem loblichen Sanct Jacobs Gottes Haus zu <rs type="place" ref="dietenheim">Dietenheim</rs> yberpundene Interesse ainhundert nein-</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="19v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>zechen Gulden, finfundtfunfzig Khreizer id est</cell>
+                  <cell>119 f 55 x</cell>
+               </row>
+               <row>
+                  <cell>Der Herr Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph <hi rend="strikethrough">Fezl</hi> Wolfgang Fezl</rs> hat selbsten an dem Herren Ableiber willen vorgestreckhten Gelt Capitall zubegehren ainhundert Gulden id est</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Interesse hievon bis zwelfften Juni sibenzechenhundert ainundt sechzig geraith nein Gulden sechs undt dreissig Khreizer sage</cell>
+                  <cell>9 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>Fir der Totten Truchen machen ain Gulden funfzechen Khreizer sage</cell>
+                  <cell>1 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Denen Grabmacheren achtundt vierzig Khreizer id est</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Fir zwo ain halb Pfundt weise Wax Kerzen, so bei der Leich verprent worden drei Gulden id est</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="20r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                            <rs type="person" ref="#prugger_franz">Franzen Prugger</rs> Jäger unnd Vischer alhier umb abgeben Visch finf Gulden vier Khreizer sage</cell>
+                  <cell>5 f 4 x</cell>
+               </row>
+               <row>
+                  <cell>
+                            <rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu Steegen umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
+                  <cell>5 f 9 x</cell>
+               </row>
+               <row>
+                  <cell>
+                            <rs type="person" ref="#eppacher_schmidt_martin">Martin Eppacher Schmidt</rs> alhier sibenundtfunfzig Khreizer sage</cell>
+                  <cell>57 x</cell>
+               </row>
+               <row>
+                  <cell>Herren <rs type="person" ref="#mutio_georg">Georg Mutio</rs> Parbierer zu <rs type="place" ref="#brunegg">Brunögg</rs> Bestallung zwo Gulden, achtundtdreissig Khreizer id est</cell>
+                  <cell>2 f 38 x</cell>
+               </row>
+               <row>
+                  <cell>Herren <rs type="person" ref="#auracher_johann_joseph">Johann Joseph Auracher</rs> Handlsmann alldort umb <hi rend="strikethrough">g</hi> abgebenen Laden Waaren ainlif Gulden, ainlif Khreizer sage</cell>
+                  <cell>11 f 11 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#tinckhhauser_joseph">Josephen Tinckhhauser</rs> Statt Mözger zu Brunögg fir abgebenen Fleisch dreiundtzwainzig Gulden, ainundtvierzig Khreizer sage</cell>
+                  <cell>23 f 41 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="20v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Der Jungfrau Heiserin <rs type="person" ref="#vestner_maria">Mariä Vestnerin</rs> von vier Jahr ausstendigen Lidlahn zwoundtdreissig Gulden sage</cell>
+                  <cell>32 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ihro an vorgestreckhten Gelt nein Gulden sage</cell>
+                  <cell>9 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Unnd mer deroselben fir das gewahnliche Clag Gewanth, unnd extra Erkhäntligkheit zwelf Gulden sage</cell>
+                  <cell>12 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem abwesigen Brueder Herren <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> willen durch den Herren Ableiber von demselben empfangenen Mobilien vier Gulden id est</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofer</rs> Wirth zu <rs type="place" ref="st_georgen">Sanct Georgen</rs> druch dem Kirch Volckh bei der Begrebnus erloffene Wirths Zöhrung, sambt nein Gulden, zwainzig Khreizer alter Ausstandt zwoundtvierzig Gulden, zwelf Khreizer id est</cell>
+                  <cell>42 f 12 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="21r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Wie hievorn zu ersechen seint die verhandene Mobilien ainsmahlen zum Vermigen getragen, hingegen solliche dem Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> vermacht worden, mithin jennige allda fir demeselben widerumben pr Abzug zukhomben haben, mit ainhundert neinundtfunfzig Gulden, neinundtzwainzig Khreizer id est</cell>
+                  <cell>159 f 29 x</cell>
+               </row>
+               <row>
+                  <cell>Umd<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Irrig für</hi> und.</p>
+                     </note> yber gegenwertiger Vermigens Abhandlung werden auf allseitig ergehende Uncösten, und etwo unbewust hervor komben mögenden Schulden hinaus gegen Rechnung ausgesteckht ainhundert finfundtvierzig Gulden, neinzechen Khreizer thuet</cell>
+                  <cell>145 f 19 x</cell>
+               </row>
+               <row>
+                  <cell>Summä der Abzüg und Schulden hinaus aintaussent</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="21v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>finfhundert neinundtsechzig Gulden, nein Khreizer id est</cell>
+                  <cell>1569 f 9 x</cell>
+               </row>
+               <row>
+                  <cell>Hieryber verbleibt noch briederlich Herr <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezlisch</rs> gleichthailbares Vermigen vorstendig, zwotaussent zwohundert Gulden id est</cell>
+                  <cell>2200 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Darzue seint zwo Herren Gebrieder verhanden, gebirt also ainen zur Helffte, aintaussent ainhundert Gulden id est</cell>
+                  <cell>1100 f 0 x</cell>
+               </row>
+            </table>
+            <p>Alldieweillen aber der aine Herr Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfang [sic!] Fezl</rs> auf Ansuechen des abwesigen Herren</p>
+            <p>
+               <pb n="22r"/>
+            </p>
+            <p>Brueder <hi rend="strikethrough">der</hi> <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> bestelter Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> sich ercleret, das ganze unnd vellige Vermigen gegen Bezahlung der Schulden hinaus, unnd des Brueder <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> Ebs Portion, zu ybernemben, als hat man auch von Seiten der gnedigen Commission, unnd weltlichen Obrigkheit hieran keine Bedenckhen getragen, unnd wurde mithin erstlich, unnd allforderist ermelt ihme Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs>, unnd zum Fahl dessen Erben das ganze unnd vellig hievor beschribene briederlich Herr <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezlische</rs> Vermigen an ligenten unnd vahrenden nichts davon ausgenomben hiemit, unnd incrafft dis zu wirckhlichen Besiz, unnd Aigentumb damit willkhurlichen (jedoch vorbehältlich der grundtherrlichen Recht) handlen, und wandlen</p>
+            <p>
+               <pb n="22v"/>
+            </p>
+            <p>zu khenen allain eingeraumbt, unnd yberlassen, das selber</p>
+            <p>Andertens seines anerstorbenen Herren briederlichen Erbs, unnd zubegehen gehabten Testaments Prich, sambt was dabei beriert, vollstendig abgefertiget, unnd entricht, dargegen aber</p>
+            <p>Drittens schuldig, unnd verbunden sein solle, alle hievor beschribene Abzüg, unnd Schulden hinaus an seiner Geherde allain, unnd ohne Entgelt des Brueders <rs type="person" ref="#fezl_johannes">Johannes</rs> abzufieren, unnd zu bezahlen, die verschaffene Maria Hilf Tafl zu extradieren, unnd sovorth auch umb das auf Uncosten ausgesteckhte Gelt beherige Raittung zu erstatten, seinen abwesigen und in Veldt steheenden <note>
+                  <p rend="footnote text">
+                     <hi rend="superscript">-17</hi> Herrn Brueder <hi rend="italic">auf der linken Seite eingefügt.</hi>
+                  </p>
+            </note>Herrn Brueder<hi rend="superscript">17</hi> <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> aber</p>
+            <p>Viertens zu firzichtlicher Entricht, unnd Abfertigung des</p>
+            <p>
+               <pb n="23r"/>
+            </p>
+            <p>ihme anerstorbenen Herren briederlichen Erbs, unnd zwar der Interesse halber von verwichen Sanebenten dis sibenzechenhundert ainundtsechzigiste Jahr fir par angeraith, unnd in Zeit der Stilligung jährlichen zu drei ainhalb pro cento zu verinteressieren, hinaus zu geben, unnd zubezahlen, die denselben auf seiner Portion zuegekhombene</p>
+            <table rend="rules">
+               <row>
+                  <cell>aintaussent ainhundert Gulden id est</cell>
+                  <cell>1100 f 0 x</cell>
+               </row>
+            </table>
+            <p>Wo dargegen finfftens er Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> befuegt sein solle, was mer widerholter Brueder Herr <rs type="person" ref="#fezl_johannes">Johann Fezl</rs> zum Vermigen schuldig, an sollichen Erb unnd Entricht Gelt abziechen zu mögen, und da</p>
+            <p>Sechstens vom dem ihme Herren</p>
+            <p>
+               <pb n="23v"/>
+            </p>
+            <p>
+                    <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> eingeraumbten Schulden herein inerhalb drei Jahren von verwichen Sanebenten angeraith, was in Verlust geheen, oder derselbe sollich nit einbringlich machen khenen, hette der abwesige Herr Brueder <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> aus sollichen Verlurst hiemit bedingtermassen ebenfahls die Helffte zu patieren, inzwischen aber</p>
+            <p>Sibendens dessen bestelter Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> in Obligenheit haben solle, ihme Herren <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> zu Eintreibung und Habhafftwerdung gemelter Schulden herein bestmöglichist an Handen zu geheen.</p>
+            <p>Schliesslichen verbleibt aum die Schulden hinaus, unnd zu bezahlen habenden Herren briederlichen Erbs, umd<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Irrig für</hi> und.</p>
+            </note> hievon allseitig abreifenden Interessen, des Vermigens ybernembenden Herren <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> ganze und vellige Vermigen in specie die Ein-</p>
+            <p>
+               <pb n="24r"/>
+            </p>
+            <p>raumbung firpfändlichen eingesezt, verhafft, unnd verschriben, unnd zwar ohne Novation alt erlangter Firpfandts Rechten.</p>
+            <p>Nachdem Ablesen bei sollicher Vermigens Thaillung und Einraumbung es verbleiben zu lassen, unnd darwider nicht anderes vorzunemben oder zu handlen sonderen alles vest, unnd stätt zu halten, haben der Vermigens ybernembende Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs>, unnd anstatt des abwesigen Herren Brueder <rs type="person" ref="fezl_johannes">Johannes Fezl</rs> dessen bestelte Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> der gnedigen Commission, unnd loblich weltlichen Obrigkheit das Hanndt Anloben, unnd zu Ausfertigung zwoer sollichen Instrumenter die Sigl Bitt erstattet.</p>
+            <p>Testes nöbst denen Gerichts Beisizeren, <rs type="person" ref="#preindl_joseph">Joseph Preindl</rs> Kupferschmidt</p>
+            <p>
+               <pb n="24v"/>
+            </p>
+            <p>zu <rs type="place" ref="#brunegg">Brunögg</rs>, unnd <rs type="person" ref="#steeger_johan_antonien">Johann Antani Steeger</rs> Schreiberei Verwahnter zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</p>
+            <p>Ohnegeverde</p>
+            <p>Hierauf und des zu wahren Urkhundt haben demnach vor hoch gedacht ihro Hochwirden, unnd Gnaden Herr Dechandt, unnd Commissarius <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias von Ingramb etc.</rs> unnd vorwohl ersagt Ihro gestreng der Herr Pfleger Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignati Englmohr</rs> von Commission, umd<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Irrig für</hi> und.</p>
+               </note> obrigkheitlichen Ambts dero hoch, unnd wohl adelich angebohrne Insigler (jedoch daran anderwerts ohne Schaden) hierfirgestelt, unnd anmit gegenwertiges Instrument bestermassen verfertiget unnd bekhrefftiget. Actum et testes ut supra.</p>
+            <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

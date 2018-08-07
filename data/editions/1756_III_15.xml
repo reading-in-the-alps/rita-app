@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -46,23 +47,17 @@
       </fileDesc>
       <encodingDesc>
          <p>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listperson.xml"
-                        xpointer="listperson">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listplace.xml"
-                        xpointer="listplace">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-               href="../indices/listbibl.xml"
-               xpointer="listbibl">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listbibl.xml" xpointer="listbibl">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
@@ -83,21 +78,30 @@
             <p>Wür haben aus des Herrn Bericht Schreiben des mereren vernomben, wie das der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs> den 8. dis in Gott seelig verschiden, waraufhin bey dessen zeitlichen Verlassenschaft von dem selben die gewohnliche Secretur in unseren Nomben angeleget, und die Interimsprovision Priestern <rs type="person" ref="#hueber_martin">Martin Hueber</rs> auf getragen worden seye. Gleichwie es nun bey angelegter Secretur so wohl, als auch vorgekherter Provision dermahlen zu bewenden hat; Als tragen dem Herrn hierdurch die Commission auf, befelchende, das er sein Priesters <rs type="person" ref="#stainer_sebastian">Stainers</rs> seeligen Verlassenschafft servatis servandis vollstendig verhandlen, verthailen, und behöriger Orthen extradieren. Da er aber ein Testament oder anderley Disposition hinterlassen hette, und darwider von denen Erbsinteressenten oder jemande anderen ein Difficultet moviert wurde, das dem Stritt inter partes in Giethe zu vereinpahren</p>
             <p>
                <pb n="42dv"/> oder zu entschaiden verfachende Project, vor dessen Publication uns zu gebihrender Deliberation, und volglicher Verbschaidung, wie auch seiner Zeit die Abhandlungs Acta in originali, aut copia authenticae mit seinen umbstendlichsten Bericht des Verlauffs anhero einsenden solle. Habende der Herr zu ain und anderen, wie obstehet hiemit all erforderlichen Gewalt. Hieran vollziecht der Herr unseren Willen und Mainung, und wür verbleiben dem selben anebey wohl beygethan. Geben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1756-03-15">15. Marti 1756</date>.</p>
-            <p><rs type="person" ref="#joseph_ferdinand">Ferdinand Joseph</rs> Bisch zu Hyschopl</p>
-            <p><rs type="person" ref="#graf_von_saernthein">Graf v. Särnthein</rs> Praeses m.p.</p>
-            <p><rs type="person" ref="#mueller_joseph_andree">Joseph Andree Müller</rs> Secret.</p>
+            <p>
+                    <rs type="person" ref="#joseph_ferdinand">Ferdinand Joseph</rs> Bisch zu Hyschopl</p>
+            <p>
+                    <rs type="person" ref="#graf_von_saernthein">Graf v. Särnthein</rs> Praeses m.p.</p>
+            <p>
+                    <rs type="person" ref="#mueller_joseph_andree">Joseph Andree Müller</rs> Secret.</p>
             <p>
                <pb n="42ev"/>
             </p>
-            <p>[Briefadresse:] Dem ehrwürdig edlen hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb</rs> von Liebenrain, und Fragburg, hochfürstlich <rs type="place" ref="#brixen">Brixnerischer</rs> geistlicher Rath, auch Döchandt und Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>, unsern besonders lieben Freindt und Herrn.</p>
-            <p><rs type="place" ref="#brunegg">Brunegg</rs></p>
-            <p>[Rubrum] <date when="1756-03-15">15 Marty 1756</date></p>
-            <p>Commissionsbefehl zur Abhandlung zeitlich seel. Verlassenschaft des Beneficiaten zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs></p>
-            <p>Praes. den <date when="1756-03-18">18ten detto</date></p>
+            <p>[Briefadresse:] Dem ehrwürdig edlen hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain, und Fragburg</rs>, hochfürstlich <rs type="place" ref="#brixen">Brixnerischer</rs> geistlicher Rath, auch Döchandt und Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>, unsern besonders lieben Freindt und Herrn.</p>
+            <p>
+                    <rs type="place" ref="#brunegg">Brunegg</rs>
+                </p>
+            <p>[Rubrum] <date when="1756-03-15">15 Marty 1756</date>
+                </p>
+            <p>Commissionsbefehl zur Abhandlung zeitlich seel. Verlassenschaft des Beneficiaten zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs>
+                </p>
+            <p>Praes. den <date when="1756-03-18">18ten detto</date>
+                </p>
             <p>
                <pb n="42fv"/>
             </p>
-            <p>[Rubrum]<date notBefore="1756-01-01" notAfter="1756-12-31">1756</date></p>
+            <p>[Rubrum]<date notBefore="1756-01-01" notAfter="1756-12-31">1756</date>
+                </p>
             <p>Gwalt.</p>
             <p>Fir dem wolernvesten Herrn <rs type="person" ref="#iser_michael">Michaeln Iser</rs> Raths Burgern und Handlsman zu <rs type="place" ref="#klausen">Clausen</rs>, und <rs type="person" ref="#kels_franz">Franzen Kels</rs>, Tischlermaisern zu Layen.</p>
             <p>Von ut intus.</p>
@@ -105,7 +109,7 @@
                <pb n="42ar"/>
             </p>
             <p>Actum <rs type="place" ref="#klausen">Clausen</rs> den <date when="1756-03-25">finfundzwainzigisten Tag Mannats Marti anno sibenzöchenhundert sechsund funfzig</date>.</p>
-            <p>Zumahlen Iro Wol Erwirden Herr <rs type="person" ref="#stainer_sebastian">Joseph Sebastian Stainer</rs>, gewester Beneficiat zu <rs type="place" ref="#saalen">Saln</rs>, in Pusterthal, yber dessen jingstliches Verableiben, seeligen, selbst khaine, dargegen von dessen Vatern, <rs type="person" ref="#stainer_jacob">Jacoben Stainer</rs>, gewesten Burger unnd Seckhlermaister alhier in <rs type="place" ref="#klausen">Clausen</rs>, vermig disortigen Statgerichts Protocol, zwo Stainerische eheleibliche Geschwistriget, namens <rs type="person" ref="#stainer_christoph">Christoph</rs>, und <rs type="person" ref="#stainer_mariae">Mariä</rs>, als vaterpendiger seits negste Erben, verlassen, davon volgende Descendenz verhanden, als von ersten Haubtstollen, weilend Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewesten Raths Burger, und Handlsman disorts, aus <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesnerischer</rs> Ehe, finf Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs>, Vicari unter den Erzbistumb Salzburg, dan <rs type="person" ref="#stainer_joseph">Joseph</rs>, Seckhlermaister zu Ratenberg, <rs type="person" ref="#stainer_anthoni">Anthoni</rs>, so verstorben, unnd von <rs type="person" ref="#thaler_mariae">Mariä Thalerischer</rs> Ehe, acht Khinder, namens</p>
+            <p>Zumahlen Iro Wol Erwirden Herr <rs type="person" ref="#stainer_sebastian">Joseph Sebastian Stainer</rs>, gewester Beneficiat zu <rs type="place" ref="#saalen">Saln</rs>, in Pusterthal, yber dessen jingstliches Verableiben, seeligen, selbst khaine, dargegen von dessen Vatern, <rs type="person" ref="#stainer_jacob">Jacoben Stainer</rs>, gewesten Burger unnd Seckhlermaister alhier in <rs type="place" ref="#klausen">Clausen</rs>, vermig disortigen Statgerichts Protocol, zwo Stainerische eheleibliche Geschwistriget, namens <rs type="person" ref="#stainer_christoph">Christoph</rs>, und <rs type="person" ref="#stainer_mariae">Mariä</rs>, als vaterpendiger seits negste Erben, verlassen, davon volgende Descendenz verhanden, als von ersten Haubtstollen, weilend Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewesten Raths Burger, und Handlsman disorts, aus <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesnerischer</rs> Ehe, finf Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs>, Vicari unter den Erzbistumb Salzburg, dan <rs type="person" ref="#stainer_joseph">Joseph</rs>, Seckhlermaister zu <rs type="place" ref="#rattenberg">Ratenberg</rs>, <rs type="person" ref="#stainer_anthoni">Anthoni</rs>, so verstorben, unnd von <rs type="person" ref="#thaler_mariae">Mariä Thalerischer</rs> Ehe, acht Khinder, namens</p>
             <p>
                <pb n="42av"/> <rs type="person" ref="#stainer_joseph_2">Joseph</rs>, <rs type="person" ref="#stainer_mariae_2">Mariä</rs>, <rs type="person" ref="#stainer_anna">Anna</rs>, <rs type="person" ref="#stainer_catharinae">Catharinä</rs>, <rs type="person" ref="#stainer_helenae">Helenä</rs>, <rs type="person" ref="#stainer_elisabeth">Elisabeth</rs>, <rs type="person" ref="#stainer_ursulae">Ursulä</rs>, unnd <rs type="person" ref="#stainer_margreth">Margreth</rs>, zurugg begeben, dan <rs type="person" ref="#stainer_franz">Franz</rs>, gewester Seckhlermaisters alhier, bei <rs type="person" ref="#hueber_margreth">Margreth Hueberin</rs>, ehelich erzeugter Sohn, <rs type="person" ref="#stainer_johann_michael">Johann Michael</rs> genant, unnd <rs type="person" ref="#stainer_mariae">Mariä Stainerin</rs>, noch unverheyraten Stants, alhier wahnend, verer von anderten Hauptstollen, <rs type="person" ref="#stainer_mariae">Mariä Stainerin</rs>, bei iren gehabten Eheman, <rs type="person" ref="#planer_stephan">Stephan Planer</rs>, erzeigter Sohn, <rs type="person" ref="#planer_ignaeti">Ignäti Planer</rs>, gewester Bstantswirth am Bern alda in <rs type="place" ref="#klausen">Clausen</rs>, so auch verstorben, unnd bei <rs type="person" ref="#riglin_elisabeth">Elisabeth Riglin</rs>, zwai Khinder verlassen, namens <rs type="person" ref="#planer_jacob">Jacob</rs>, und <rs type="person" ref="#planer_anna">Anna</rs>. Damit nun all dise, bei firwerender Herrn veterlich ermelt <rs type="person" ref="#stainer_sebastian">Joseph Sebastian Stainerischen</rs> Vermigens Abhandlung erforderlich vertreten werden, haben vonseiten des Herrn <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Hauptstollens, Herr <rs type="person" ref="#glanganer_joseph">Joseph Glanganer</rs>, des Raths alhier, als obrigkheitllich Verpflichter Gerhab des <rs type="person" ref="#stainer_anthoni">Anthoni Stainerischen</rs> Nachstollens noch maistenthails minderjerigen Khinder, unnd in Versprechung der ybrigen von disen Nach-</p>
             <p>
@@ -118,7 +122,7 @@
                <pb n="42cr"/>
             </p>
             <p>Ohnegeverde.</p>
-            <p>Zu wahren Urkhundt, hat der wohledl gestreng, unnd hochgelehrte herr <rs type="person" ref="#lunz_christian">Christian Lunz</rs>, beeder Rechten Lit. hochfürstlich Brixnerischer Statrichter zu <rs type="place" ref="#klausen">Clausen</rs>, unnd Gerichts Verwalter zu Lazfonns und Verdings, von Obrigkheitlichen Ambts unnd in Sonderheit auf voreinkhombnes Siglpith wegen, dero angebohrnes Insigl (doch anderwerts ohne Schaden) hierfirgestölt unnd anmit disen Gwalt pösten dessen verförth, unnd becröfftiget. Actum ut supra.</p>
+            <p>Zu wahren Urkhundt, hat der wohledl gestreng, unnd hochgelehrte herr <rs type="person" ref="#lunz_christian">Christian Lunz</rs>, beeder Rechten Lit. hochfürstlich Brixnerischer Statrichter zu <rs type="place" ref="#klausen">Clausen</rs>, unnd Gerichts Verwalter zu <rs type="place" ref="#lazfonns">Lazfonns</rs> und <rs type="place" ref="#verdings">Verdings</rs>, von Obrigkheitlichen Ambts unnd in Sonderheit auf voreinkhombnes Siglpith wegen, dero angebohrnes Insigl (doch anderwerts ohne Schaden) hierfirgestölt unnd anmit disen Gwalt pösten dessen verförth, unnd becröfftiget. Actum ut supra.</p>
             <p>[Titelblatt]</p>
             <p>[Kanzleivermerk:] Coll.</p>
             <p>[Rubrum:]</p>
@@ -130,9 +134,10 @@
             <p>
                <pb n="1r"/>
             </p>
-            <p>Actum Saallen in der Beneficiaten Behausung, den <date when="1756-03-29">neinundtzwainzigisten Tag Monaths Märti anno sibenzöchenhundert sechsundtfunfzig.</date></p>
-            <p>Vor Ihro Hochwirden, und Gnaden, dem hochwirdig hoch edlgebohrnen und hochgelehrten Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb</rs>, von Liebenrain, unnd Fragburg Tyrollischen Herrn und Landtman, des hochfirstlichen Stüffts Brixen, Consistorialrath, dan Döchandt, und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als von hochgeistlicher Obrigkheit zu <rs type="place" ref="#brixen">Brixen</rs> verordneten Herrn Comissario.</p>
-            <p>Und den wohl edlgebohrn gstrengen und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr</rs>, von Aufkhirchen zu Moregg beeder Rechten Lit. oo. Regiments Advocaten, auch Pflöger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>.</p>
+            <p>Actum Saallen in der Beneficiaten Behausung, den <date when="1756-03-29">neinundtzwainzigisten Tag Monaths Märti anno sibenzöchenhundert sechsundtfunfzig.</date>
+                </p>
+            <p>Vor Ihro Hochwirden, und Gnaden, dem hochwirdig hoch edlgebohrnen und hochgelehrten Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb, von Liebenrain, unnd Fragburg</rs> Tyrollischen Herrn und Landtman, des hochfirstlichen Stüffts Brixen, Consistorialrath, dan Döchandt, und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als von hochgeistlicher Obrigkheit zu <rs type="place" ref="#brixen">Brixen</rs> verordneten Herrn Comissario.</p>
+            <p>Und den wohl edlgebohrn gstrengen und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr, von Aufkhirchen zu Moregg</rs> beeder Rechten Lit. oo. Regiments Advocaten, auch Pflöger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>.</p>
             <p>Zugegen des wohledlen Herrn</p>
             <p>
                <pb n="1v"/> <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> Ambtgerichtschreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>, dan des auch wohl edlen Herrn <rs type="person" ref="#kerschpaember_johan">Johan Kerschpämber</rs> Landtgerichtschreiber zu <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>, und des firnemben <rs type="person" ref="#hueber_rindler_hans">Hansen Hueber Rindler</rs>, und Wirths auch Gerichtsverpflichten zu erdeuten Saalen.</p>
@@ -145,7 +150,8 @@
             <p>
                <pb n="2v"/> und wolle mehr hochernenter Herr Döchändt etc. danenhero von denen Erbsinteressenten, oder denen von Haus zu vernemben gewertigen, obe etwan ein Testäment verhanden, umb solliches all vorderist behörigen Ordnung nach publiciern zu migen.</p>
             <p>Die sich anruembende Erbsinteressenten vermelden, das denenselben von einichen Testäment nichts bewust, wie selbe aber vernomben, solle Ihro Hochehrwürden Herr Cooperator <rs type="person" ref="#mayrhofer_franz">Franz Mayrhofer</rs> zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, und der <rs type="person" ref="#hueber_rindler_hans">Hans Hueber Rindler</rs> allhier zu Sallen, hievon einiche Wissenschaft haben, und bitten dohero eine geistliche Comission, und weltliche Obrigkheit dieselbe beikhumben zu lassen, und hieryber zuvernemben.</p>
-            <p>Waraufhin Herr Cooperator <rs type="person" ref="#mayrhofer_franz">Franz</rs></p>
+            <p>Waraufhin Herr Cooperator <rs type="person" ref="#mayrhofer_franz">Franz</rs>
+                </p>
             <p>
                <pb n="3r"/> <rs type="person" ref="#mayrhofer_franz">Mayrhofer</rs> vermeldet, das ihme Herr Ableiber angesagt hätt, er vermache allhier der loblichen <rs type="person" ref="#caepellen_lauretae">Lauretä Cäpellen</rs> ainhundert Gulden, wie auch der Himblfahrts Bruederschafft zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs> ainhundert Gulden, und der Heillig Creuz Khirchen auf der Franewisen auch ainhundert Gulden. Nöbst etwöllich extra Heilligen Mössen, und zugleich auch seiner Heisserin zu ainen Angedenckhen nein Gulden.</p>
             <p>Ein gleiches hat auch Herr Ableiber seel. dem Gerichts Verpflichten allhier zu Saallen <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> hienach angesagt, jedoch aber, das an jeden Orth hierfier ihme ein jehrlich weltebiger Jahrtag gehalten werden solle.</p>
@@ -1825,7 +1831,7 @@
                </row>
                <row>
                   <cell/>
-                  <cell>Die Gschir von sollichen Wein sambt ainen andern Gschir, von zway Yhren ain Pareiden, seint Herrn Beneficiaten Schifferle zu Soneburg gehörig, und deme zurugg zustöllen,</cell>
+                  <cell>Die Gschir von sollichen Wein sambt ainen andern Gschir, von zway Yhren ain Pareiden, seint Herrn Beneficiaten Schifferle zu <rs type="place" ref="#soneburg">Soneburg</rs> gehörig, und deme zurugg zustöllen,</cell>
                   <cell>pr Bht,</cell>
                </row>
                <row>
@@ -2279,7 +2285,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#sacredotall_prixinense">Sacredotall Prixinense</rs> in francösischen Pundt, pr
+                     <rs type="bibl" ref="#sacerdotale_brixinense">Sacredotall Prixinense</rs> in francösischen Pundt, pr
                   </cell>
                   <cell>
                      1 f 12 x
@@ -3026,15 +3032,17 @@
                   <cell>4 f 54 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#muz_johan_geoerg">Johan Geörg Muz</rs> Parbierer daselbs, vor ainer verrichten Aderlas sambt dem Gang,</cell>
+                  <cell>
+                            <rs type="person" ref="#muz_johan_geoerg">Johan Geörg Muz</rs> Parbierer daselbs, vor ainer verrichten Aderlas sambt dem Gang,</cell>
                   <cell>40 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#stieger_michael">Michaelen Stieger</rs> Tischler allhier zu <rs type="place" ref="st_lorenzen">Sänct Lorenzen</rs>, wegen gemachter Todten Truch sambt den hilzen Grab Creuz, auch Einschlagen</cell>
+                  <cell>
+                            <rs type="person" ref="#stieger_michael">Michaelen Stieger</rs> Tischler allhier zu <rs type="place" ref="st_lorenzen">Sänct Lorenzen</rs>, wegen gemachter Todten Truch sambt den hilzen Grab Creuz, auch Einschlagen</cell>
                   <cell>2 f 24 x</cell>
                </row>
                <row>
-                  <cell>Ihro Wohl Ehrwürden Herrn <rs type="person" ref="#schifferle_jacob">Jacob Schifferle</rs> Beneficiaten zu Soneburg laut Conto um abgöbnen Wein yber den Empfang, noch </cell>
+                  <cell>Ihro Wohl Ehrwürden Herrn <rs type="person" ref="#schifferle_jacob">Jacob Schifferle</rs> Beneficiaten zu <rs type="place" ref="#soneburg">Soneburg</rs> laut Conto um abgöbnen Wein yber den Empfang, noch </cell>
                   <cell>49 f 7 x</cell>
                </row>
                <row>
@@ -3063,7 +3071,8 @@
                   <cell>7 f 20 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#renzler_pinter_joseph">Josephen Renzler Pinter</rs> zu Soneburg, umb verrichter Arbeith</cell>
+                  <cell>
+                            <rs type="person" ref="#renzler_pinter_joseph">Josephen Renzler Pinter</rs> zu <rs type="place" ref="#soneburg">Soneburg</rs>, umb verrichter Arbeith</cell>
                   <cell>34 x</cell>
                </row>
                <row>
@@ -3079,7 +3088,7 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell>Der Jungfrau <rs type="person" ref="#luzin_hellenae_theresiae">Hellenä Theresiä Luzin</rs> zu Soneburg, willen gemachter Forderung an ausstendigen Lidlohn, und hergelichnen Hausgerecht, vermitletermassen,</cell>
+                  <cell>Der Jungfrau <rs type="person" ref="#luzin_hellenae_theresiae">Hellenä Theresiä Luzin</rs> zu <rs type="place" ref="#soneburg">Soneburg</rs>, willen gemachter Forderung an ausstendigen Lidlohn, und hergelichnen Hausgerecht, vermitletermassen,</cell>
                   <cell>25 f 0 x</cell>
                </row>
                <row>
@@ -3129,7 +3138,8 @@
                   <cell>12 f 47 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#hueber_rindler_hans">Hansen Hueber Rindler</rs>, und Wirth zu <rs type="place" ref="saallen">Saallen</rs>, umb Willen ausgehaltnen Mahlzeithen, item hergöbnen Wein, geschafnen Fischen, sambt was selber mit Auf- und Zuemachung des Grabs, den Maurer zahlt, yber dem Empfang noch,</cell>
+                  <cell>
+                            <rs type="person" ref="#hueber_rindler_hans">Hansen Hueber Rindler</rs>, und Wirth zu <rs type="place" ref="saallen">Saallen</rs>, umb Willen ausgehaltnen Mahlzeithen, item hergöbnen Wein, geschafnen Fischen, sambt was selber mit Auf- und Zuemachung des Grabs, den Maurer zahlt, yber dem Empfang noch,</cell>
                   <cell>40 f 47 x</cell>
                </row>
                <row>
@@ -3231,11 +3241,12 @@
             <p>Waraufhin gehorsamblich beikhumben Herr <rs type="person" ref="#iser_michael">Michael Isser</rs>, des Raths, und Handlsman zu <rs type="place" ref="klausen">Clausen</rs>, und <rs type="person" ref="#kels_franz">Franz Khöls</rs> Tischlermaister zu Layen, als bestölte Gewalthabern, produciern all vorderist einen obrigkheitlich geförtigten Gewaldt- und respective Legitimationsbrief, de däto <rs type="place" ref="klausen">Clausen</rs>, <date when="1756-03-25">finfundtzwainzigisten Märti, anno sibenzöchenhundert söchsundtfunfzig</date>, chrafft wöllichen zu ersöchen, das Herr Ableiber <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs> seeligen, selbst kheine, dargegen von dössen Vattern <rs type="person" ref="#stainer_jacob">Jacoben Stainer</rs> gewösten Burger und Söckhlermaister zuersagten <rs type="place" ref="klausen">Clausen</rs> vermig daselbstigen Stattgerichts Protocol zwo Stainerisch Eheleibliche Geschwistrigeth, namens <rs type="person" ref="#stainer_christoph">Christoph</rs>,</p>
             <p>
                <pb n="33r"/> und <rs type="person" ref="#stainer_mariae">Märiä</rs>, als vatterpendigerseiths negste Erben verlassen, davon volgende Descendenz verhanden,</p>
-            <p>als von ersten Haubtstollen, weillendt Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewösten Rathsburger, und Handlsman zu widerholten <rs type="place" ref="klausen">Clausen</rs>, aus <rs type="person" ref="#mesner_apolaniae">Appolonia Mösnerischer</rs> Ehe finff Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs> Vicari unter den Erzbistumb Salzburg, dan <rs type="person" ref="#stainer_joseph">Joseph</rs> Seckhlermaister zu Rottenpurg, <rs type="person" ref="#stainer_antoni">Antoni</rs>, so verstorben, und von <rs type="person" ref="#thaler_mariae">Märiä Schallerischer</rs> Ehe acht Khinder, namens <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_mariae">Märiä</rs>, <rs type="person" ref="#stainer_anna">Ännä</rs>, <rs type="person" ref="#stainer_catharinae">Cätharinä</rs>, <rs type="person" ref="#stainer_helenae">Helenä</rs>, <rs type="person" ref="#stainer_elisabeth">Elisäbeth</rs>, <rs type="person" ref="#stainer_ursulae">Ursulä</rs>, und <rs type="person" ref="#stainer_margreth">Margreth</rs>, zurugg begöben, dan <rs type="person" ref="#stainer_franz">Franz</rs> gewösten Söckhlermaisters zu <rs type="place" ref="klausen">Clausen</rs>, bei <rs type="person" ref="#hueber_margreth">Martgreth Hueberin</rs> ehelich erzeugten Sohn <rs type="person" ref="#stainer_johann_michael">Johan Michael</rs> genandt, und <rs type="person" ref="#stainer_mariae">Märiä Stainerin</rs>, noch ohnverheyrathen Standts, zu mehrgemelten <rs type="place" ref="klausen">Clausen</rs> wohnendt, wöllich dise von den <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen abstambende Khinder, unnd Khints Khinder durch mehr widerholten</p>
+            <p>als von ersten Haubtstollen, weillendt Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewösten Rathsburger, und Handlsman zu widerholten <rs type="place" ref="klausen">Clausen</rs>, aus <rs type="person" ref="#mesner_apolaniae">Appolonia Mösnerischer</rs> Ehe finff Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs> Vicari unter den Erzbistumb Salzburg, dan <rs type="person" ref="#stainer_joseph">Joseph</rs> Seckhlermaister zu <rs type="place" ref="rattenperg">Rattenperg</rs>, <rs type="person" ref="#stainer_antoni">Antoni</rs>, so verstorben, und von <rs type="person" ref="#thaler_mariae">Märiä Schallerischer</rs> Ehe acht Khinder, namens <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_mariae">Märiä</rs>, <rs type="person" ref="#stainer_anna">Ännä</rs>, <rs type="person" ref="#stainer_catharinae">Cätharinä</rs>, <rs type="person" ref="#stainer_helenae">Helenä</rs>, <rs type="person" ref="#stainer_elisabeth">Elisäbeth</rs>, <rs type="person" ref="#stainer_ursulae">Ursulä</rs>, und <rs type="person" ref="#stainer_margreth">Margreth</rs>, zurugg begöben, dan <rs type="person" ref="#stainer_franz">Franz</rs> gewösten Söckhlermaisters zu <rs type="place" ref="klausen">Clausen</rs>, bei <rs type="person" ref="#hueber_margreth">Martgreth Hueberin</rs> ehelich erzeugten Sohn <rs type="person" ref="#stainer_johann_michael">Johan Michael</rs> genandt, und <rs type="person" ref="#stainer_mariae">Märiä Stainerin</rs>, noch ohnverheyrathen Standts, zu mehrgemelten <rs type="place" ref="klausen">Clausen</rs> wohnendt, wöllich dise von den <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen abstambende Khinder, unnd Khints Khinder durch mehr widerholten</p>
             <p>
                <pb n="33v"/> Herrn <rs type="person" ref="#iser_michael">Michael Isser</rs>, und <rs type="person" ref="#kels_franz">Franzen Köls</rs>, als wie gemelt bestölten Gewalthabern vertrötten werden, erster</p>
             <p>verer von anderten Haubtstollen des Herrn Ableibers seelligen Vatern Schwöster <rs type="person" ref="#stainer_mariae">Märiä Stainerin</rs>, bei ihren gehabten Ehemann <rs type="person" ref="#planer_stephan">Stöfan Planer</rs> erzeugter Sohn <rs type="person" ref="#planer_ignaeti">Ignäti Planner</rs>, gewöster Bestants Wirth am Bern, zu mehr widerholten <rs type="place" ref="klausen">Clausen</rs>, so auch verstorben, und bei <rs type="person" ref="#riglin_elisabeth">Elisabeth Riglin</rs> seiner gehabten Ehewirthin zway Khinder verlassen, namens <rs type="person" ref="#planer_jacob">Jacob</rs>, und <rs type="person" ref="#planer_anna">Ännä</rs>, Plannerische Geschwistrigeth, die ebenfahls offterdeuter bestelte Gewalthaber Herr <rs type="person" ref="#iser_michael">Michael Isser</rs> vertrötten, wiegemelt anderter vaterpändiger Haubtstollen,</p>
-            <p>und so seint auch, von den driten Haubtstollen des Herrn Erblassers <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainers</rs> seeligen Muettern <rs type="person" ref="#hinterseer_ursulae">Ursulä Hinterseerin</rs>, auch verstorbnen Brueder <rs type="person" ref="#hinterseer_johanes">Johanes Hinterseer</rs> gewösten Puchpinters zu <rs type="place" ref="#brixen">Brixen</rs> bei <rs type="person" ref="#gasser_toratheae">Toratheä Gasserin</rs></p>
+            <p>und so seint auch, von den driten Haubtstollen des Herrn Erblassers <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainers</rs> seeligen Muettern <rs type="person" ref="#hinterseer_ursulae">Ursulä Hinterseerin</rs>, auch verstorbnen Brueder <rs type="person" ref="#hinterseer_johanes">Johanes Hinterseer</rs> gewösten Puchpinters zu <rs type="place" ref="#brixen">Brixen</rs> bei <rs type="person" ref="#gasser_toratheae">Toratheä Gasserin</rs>
+                </p>
             <p>
                <pb n="34r"/>
             </p>
@@ -3271,7 +3282,8 @@
                   <cell>150 f 0 x</cell>
                </row>
                <row>
-                  <cell>Whan also dise von vorig ainsmahlen gezochenen restierendt verblibnen Vermigen, hievon weitters defalciert werden, erscheint noch Herr vätterlich <rs type="person" ref="#stainer_sebastian">Seba-</rs></cell>
+                  <cell>Whan also dise von vorig ainsmahlen gezochenen restierendt verblibnen Vermigen, hievon weitters defalciert werden, erscheint noch Herr vätterlich <rs type="person" ref="#stainer_sebastian">Seba-</rs>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -3300,7 +3312,9 @@
                <pb n="36r"/>
             </p>
             <p>Und zwar erstlich so gebihrt den ersten vätterlich</p>
-            <p><rs type="person" ref="#stainer_christoph">Christoph</rs></p>
+            <p>
+                    <rs type="person" ref="#stainer_christoph">Christoph</rs>
+                </p>
             <table rend="rules">
                <row>
                   <cell>Stainerischen Haubtstollen, nemblichen den finf hievon verhandenen Khindern, <rs type="person" ref="#stainer_michael">Michael</rs>, <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_anthoni">Antani</rs>, <rs type="person" ref="#stainer_franz">Franz</rs>, und <rs type="person" ref="#stainer_mariae">Märiä</rs>, und respective davon weitters verlassenen Descendenz, miteinander Herr vätterliche Erbschafft aintausent zwaihundert achtzöchen Gulden vierzig Khreizer id est</cell>
@@ -3318,7 +3332,8 @@
                   <cell>44 f 35 x</cell>
                </row>
                <row>
-                  <cell>Bei Herrn <rs type="person" ref="#wachtler_johann_antoni">Johan Antoni Wachtler</rs></cell>
+                  <cell>Bei Herrn <rs type="person" ref="#wachtler_johann_antoni">Johan Antoni Wachtler</rs>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -3365,7 +3380,9 @@
                </row>
             </table>
             <p>So hat auch <hi rend="strikethrough">zuhaben</hi> der anderte vätterlich</p>
-            <p><rs type="person" ref="#stainer_mariae">Märiä</rs></p>
+            <p>
+                    <rs type="person" ref="#stainer_mariae">Märiä</rs>
+                </p>
             <table rend="rules">
                <row>
                   <cell>Stainerische Haubtstollen, einvolglich von den ainzig verhandenen Sohn <rs type="person" ref="#planer_ignaeti">Ignäti Planer</rs>, die zwo ruggs verlassne Khinder <rs type="person" ref="#planer_jacob">Jacob</rs>, und <rs type="person" ref="#planer_anna">Ännä</rs>, gleichmiteinander Herr vötterliche Erbschafft zuhaben</cell>
@@ -3427,7 +3444,9 @@
                </row>
             </table>
             <p>Und entlichen so gebihrt auch den mieterlich</p>
-            <p><rs type="person" ref="#hinterseer_johanes">Johanes</rs></p>
+            <p>
+                    <rs type="person" ref="#hinterseer_johanes">Johanes</rs>
+                </p>
             <table rend="rules">
                <row>
                   <cell>Hinterseerischen dritten Haubtstollen, nemblichen den drei hievon verhan-</cell>
@@ -3458,7 +3477,8 @@
                   <cell>14 f 51⅔ x</cell>
                </row>
                <row>
-                  <cell>Bei den <rs type="person" ref="#schmoelzer_geoerg">Geörg Schmölzerischen</rs></cell>
+                  <cell>Bei den <rs type="person" ref="#schmoelzer_geoerg">Geörg Schmölzerischen</rs>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -3588,11 +3608,11 @@
             </p>
             <p>wieauch <rs type="person" ref="#hinterseer_johann_chrisostomus">Johan Chrisostomus Hinterseer</rs>, nöbst seinen zwo Schwöster <rs type="person" ref="#hinterseer_maeriae">Märiä</rs> und <rs type="person" ref="#hinterseer_aennae_elisaebeth">Ännä Elisäbeth Hinterseerinen</rs>, sambt, und nöben dern Anweiser Herrn <rs type="person" ref="#steeger_johan_antonien">Johan Antani Steeger</rs>, vor hoch wohl belobt, Ihro Hochwirden, und Gnaden, dem Herrn Döchandt, unnd vorwohl eingefierten Herrn Pflöger, mit Mundt, und Handen gelobt, und zu Aussenförtigung, dreiersollicher Thaillungen die Sigl Pith erstath.</p>
             <p>Ohnegeverde.</p>
-            <p>Hierauf und des zu wahren Urkhundt, seint demnach drei gleichlautende Erbsthaillungen aines Inhalt expediert, und ausgeschriben, und zwar jede in Sonderheit unter und mit vor hochwohl gedacht Ihro Hochwirden, und Gnaden, des Herrn Döchandt, und Comissarii, <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngramb</rs> von Liebenstain, und Fragburg etc. und vorwohl eingefiehrts Ihro gstreng des Herrn Pfleger, und Landtricht-</p>
+            <p>Hierauf und des zu wahren Urkhundt, seint demnach drei gleichlautende Erbsthaillungen aines Inhalt expediert, und ausgeschriben, und zwar jede in Sonderheit unter und mit vor hochwohl gedacht Ihro Hochwirden, und Gnaden, des Herrn Döchandt, und Comissarii, <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngramb von Liebenstain, und Fragburg etc.</rs> und vorwohl eingefiehrts Ihro gstreng des Herrn Pfleger, und Landtricht-</p>
             <p>
                <pb n="42r"/>
             </p>
-            <p>ers zu <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>, Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohrs</rs>, von Aufkhirchen zu Moregg etc. von Commission und respective Obrigkheit wegen, hierfirgestölten hoch- und wohl adelich angebohrnen Insigler (jedoch anderwerts daran ganz ohne Schaden) verförtigter und bechröfftigter, hievon die aine den erst vätterlich <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen, dan die anderte, den andert väterlich <rs type="person" ref="#stainer_mariae">Maria Stainerischen</rs> Haubtstollen, und die drite, und lötste, den driten mieterlich <rs type="person" ref="#hinterseer_johanes">Johanes Hinterseerischen</rs> Haubtstollen, auch dern allseitigen Pflichten Trager, und Vertröttern miteinander, zu dern nothwendigen Behelf, und Gebrauch hinaus ertheilt worden. Beschechen die entliche Thaillung in Beisein der voreingefiehrten Gerichts Beisizern als Gezeugen, vorig <date when="1756-03-31">ainundtdreissigisten Tag Monaths Märti</date>, nach der gnaden reichen Geburth unsers lieben Herrn Heyl-</p>
+            <p>ers zu <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>, Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohrs, von Aufkhirchen zu Moregg</rs> etc. von Commission und respective Obrigkheit wegen, hierfirgestölten hoch- und wohl adelich angebohrnen Insigler (jedoch anderwerts daran ganz ohne Schaden) verförtigter und bechröfftigter, hievon die aine den erst vätterlich <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen, dan die anderte, den andert väterlich <rs type="person" ref="#stainer_mariae">Maria Stainerischen</rs> Haubtstollen, und die drite, und lötste, den driten mieterlich <rs type="person" ref="#hinterseer_johanes">Johanes Hinterseerischen</rs> Haubtstollen, auch dern allseitigen Pflichten Trager, und Vertröttern miteinander, zu dern nothwendigen Behelf, und Gebrauch hinaus ertheilt worden. Beschechen die entliche Thaillung in Beisein der voreingefiehrten Gerichts Beisizern als Gezeugen, vorig <date when="1756-03-31">ainundtdreissigisten Tag Monaths Märti</date>, nach der gnaden reichen Geburth unsers lieben Herrn Heyl-</p>
             <p>
                <pb n="42v"/>
             </p>

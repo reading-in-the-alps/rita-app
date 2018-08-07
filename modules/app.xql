@@ -11,7 +11,7 @@ declare variable  $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
 declare variable $app:personIndex := $config:app-root||'/data/indices/listperson.xml';
 declare variable $app:orgIndex := $config:app-root||'/data/indices/listorg.xml';
-declare variable $app:workIndex := $config:app-root||'/data/indices/listwork.xml';
+declare variable $app:workIndex := $config:app-root||'/data/indices/listbibl.xml';
 declare variable $app:defaultXsl := doc($config:app-root||'/resources/xslt/xmlToHtml.xsl');
 
 declare function functx:contains-case-insensitive
@@ -191,11 +191,8 @@ for $title in ($entities, $terms)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $person in doc($app:personIndex)//tei:listPerson/tei:person
-    let $gnd := $person/tei:note/tei:p[3]/text()
-    let $gnd_link := if ($gnd != "no gnd provided") then
-        <a href="{$gnd}">{$gnd}</a>
-        else
-        "-"
+    let $family := normalize-space(string-join($person/tei:note[@type='family']//text(), ' '))
+    let $function := normalize-space(string-join($person/tei:note[@type='function']//text(), ' '))
         return
         <tr>
             <td>
@@ -205,7 +202,10 @@ declare function app:listPers($node as node(), $model as map(*)) {
                 {$person/tei:persName/tei:forename}
             </td>
             <td>
-                {$gnd_link}
+                {$family}
+            </td>
+            <td>
+                {$function}
             </td>
         </tr>
 };
@@ -317,7 +317,7 @@ declare function app:listBibl($node as node(), $model as map(*)) {
    return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($item/@xml:id))}">{$item//tei:title[1]/text()}</a>
+                <a href="{concat($hitHtml,data($item/@xml:id))}">{$item/text()}</a>
             </td>
             <td>
                 {$author}

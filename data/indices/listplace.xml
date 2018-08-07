@@ -7,14 +7,17 @@
             <respStmt>
                <resp>Datenkruation</resp>
                <name>
-                        <rs type="person" ref="#span_michael">Michael Span</rs>
-                    </name>
+                  <rs type="person" ref="#span_michael">Michael Span</rs>
+               </name>
                <name>
-                        <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
-                    </name>
+                  <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
+               </name>
                <name>
-                        <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
-                    </name>
+                  <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
+               </name>
+               <name>
+                  <rs type="person" ref="#kirnbauer_martin">Martin Kirnbauer</rs>
+               </name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -22,9 +25,14 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>The (CC BY-SA 4.0)-License applies to this document.</p>
-                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
-                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
-                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or
+                     format) and adapt (remix, transform, and build upon the material) for any
+                     purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate
+                     if changes were made. You may do so in any reasonable manner, but not in any
+                     way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must
+                     distribute your contributions under the same license as the original.</p>
                </licence>
             </availability>
          </publicationStmt>
@@ -36,7 +44,7 @@
          <geoDecl xml:id="LatLng">latitude whitespace longitute</geoDecl>
       </encodingDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
          <listPlace xml:id="listplace">
             <place xml:id="brixen">
@@ -54,11 +62,11 @@
                <idno type="URL"/>
             </place>
             <place xml:id="st_georgen">
-               <placeName>St. Georgen</placeName>
+               <placeName>San Giorgio</placeName>
                <location>
-                  <geo decls="#LatLng"/>
+                  <geo decls="#LatLng">46.81254 11.93416</geo>
                </location>
-               <idno type="URL"/>
+               <idno type="GEONAMES">http://www.geonames.org/3168310</idno>
             </place>
             <place xml:id="st_lorenzen">
                <placeName>San Lorenzo di Sebato</placeName>
@@ -73,7 +81,8 @@
                   <geo decls="#LatLng">46.757974 11.874139</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
-               <note>Ist Teil von <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note>Ist Teil von <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
             </place>
             <place xml:id="brunegg">
                <placeName>Brunico</placeName>
@@ -89,22 +98,149 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
             </place>
-			<place xml:id="saenct_michaelspurg">
-               <placeName>Castel di San Michele</placeName>
+            <place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="alt">St. Michelsburg</placeName>
+               <placeName type="alt">Michaelsburg</placeName>
+               <placeName type="alt">Michelsburg</placeName>
+               <placeName type="alt">St. Michaelspurg</placeName>
                <location>
-                  <geo decls="#LatLng">46.783333 11.9</geo>
+                  <geo decls="#LatLng">46.772234 11.892195</geo>
                </location>
-               <idno type="GEONAMES"></idno>
-			   <note>Teil von <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs></note>
+               <idno type="GEONAMES"/>
+               <note>Gericht</note>
             </place>
-			<place xml:id="welsberg">
+            <place xml:id="welsberg">
                <placeName>Monguelfo</placeName>
                <location>
                   <geo decls="#LatLng">46.75774 12.10556</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
             </place>
+            <place xml:id="lazfonns">
+               <placeName>Lazfons</placeName>
+               <location>
+                  <geo decls="#LatLng">46.66965 11.55135</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3174978</idno>
+            </place>
+            <place xml:id="verdings">
+               <placeName>Verdignes</placeName>
+               <location>
+                  <geo decls="#LatLng">46.65653 11.57221</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8951089</idno>
+            </place>
+            <place xml:id="rattenperg">
+               <placeName>Rattenberg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.43941 11.89407</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2767902</idno>
+            </place>
+            <place xml:id="soneburg">
+               <placeName>Sonnenburg</placeName>
+               <location>
+                  <geo decls="#LatLng">46.78644 11.89123</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
+               <note>Hof- und Lehengericht</note>
+            </place>
+            <place xml:id="getreuenstain">
+               <placeName>Getreuenstain</placeName>
+               <location>
+                  <geo decls="#LatLng"/>
+               </location>
+               <idno type="GEONAMES"/>
+               <note>Ansitz zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs>
+                    </note>
+            </place>
+            <place xml:id="uttenheim">
+               <placeName>Villa Ottone</placeName>
+               <location>
+                  <geo decls="#LatLng">46.86507 11.94753</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164169</idno>
+            </place>
+            <place xml:id="stockh">
+               <placeName>Stockh</placeName>
+               <location>
+                  <geo decls="#LatLng">46.86507 11.94753</geo>
+               </location>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="oberwiellenpach">
+               <placeName>Oberwielenpach</placeName>
+               <location>
+                  <geo decls="#LatLng"/>
+               </location>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="gais">
+               <placeName>Gais</placeName>
+               <location>
+                  <geo decls="#LatLng"/>
+               </location>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="strengen">
+               <placeName>Strengen</placeName>
+               <location>
+                  <geo decls="#LatLng">47.12589 10.46199</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2764137</idno>
+            </place>
+            <place xml:id="telfes">
+               <placeName>Telfes</placeName>
+               <location>
+                  <geo decls="#LatLng">47.16667 11.36667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2763811</idno>
+            </place>
+            <place xml:id="yhnsprugg">
+               <placeName>Yhnsprugg</placeName>
+               <placeName type="alt">Innsbruck</placeName>
+               <location>
+                  <geo decls="#LatLng">47.26266 11.39454</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
+            </place>
+            <place xml:id="ymbst">
+               <placeName>Ymbst</placeName>
+               <location>
+                  <geo decls="#LatLng">47.24504 10.73974</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2775307</idno>
+            </place>
+            <place xml:id="salzburg">
+               <placeName>Salzburg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.79941 13.04399</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2766824</idno>
+            </place>
+            <place xml:id="lienz">
+               <placeName>Lienz</placeName>
+               <location>
+                  <geo decls="#LatLng">46.8289 12.76903</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2772505</idno>
+            </place>
+            <place xml:id="steegen">
+               <placeName>Steegen</placeName>
+               <location>
+                  <geo decls="#LatLng"/>
+               </location>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="pflaurenz">
+               <placeName>Floronzo</placeName>
+               <location>
+                  <geo decls="#LatLng">46.78225 11.89223</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3176902</idno>
+            </place>
          </listPlace>
       </body>
-  </text>
+   </text>
 </TEI>

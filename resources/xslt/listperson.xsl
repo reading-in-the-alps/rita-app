@@ -78,6 +78,36 @@
                                             </xsl:when>
                                         </xsl:choose>
                                         <xsl:choose>
+                                            <xsl:when test="$entity//tei:note[@type='function']">
+                                                <tr>
+                                                    <th>
+                                                        Funktion
+                                                    </th>
+                                                    <td>
+                                                        <xsl:for-each select="$entity//tei:note[@type='function']">
+                                                            <xsl:value-of select="."/>
+                                                            <br/>
+                                                        </xsl:for-each>
+                                                    </td>
+                                                </tr>
+                                            </xsl:when>
+                                        </xsl:choose>
+                                        <xsl:choose>
+                                            <xsl:when test="$entity//tei:note[@type='family']">
+                                                <tr>
+                                                    <th>
+                                                        Familie
+                                                    </th>
+                                                    <td>
+                                                        <xsl:for-each select="$entity//tei:note[@type='family']">
+                                                            <xsl:value-of select="."/>
+                                                            <br/>
+                                                        </xsl:for-each>
+                                                    </td>
+                                                </tr>
+                                            </xsl:when>
+                                        </xsl:choose>
+                                        <xsl:choose>
                                             <xsl:when test="$entity//tei:birth and $entity//tei:death">
                                                 <tr>
                                                     <th>
