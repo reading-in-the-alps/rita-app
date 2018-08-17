@@ -240,6 +240,41 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3176902</idno>
             </place>
+            <place xml:id="rodenegg">
+               <placeName>Rodengo</placeName>
+               <location>
+                  <geo decls="#LatLng">46.783333 11.683333</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/6534787</idno>
+            </place>
+            <place xml:id="iniching">
+               <placeName>San Candido</placeName>
+               <location>
+                  <geo decls="#LatLng">46.733333 12.266667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3168508</idno>
+            </place>
+            <place xml:id="sterzing">
+               <placeName>Vipiteno</placeName>
+               <location>
+                  <geo decls="#LatLng">46.897321 11.431832</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164065</idno>
+            </place>
+            <place xml:id="st_martin">
+               <placeName>San Martino in Badia</placeName>
+               <location>
+                  <geo decls="#LatLng">46.683333 11.9</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
+            </place>
+            <place xml:id="ollang">
+               <placeName>Valdaora</placeName>
+               <location>
+                  <geo decls="#LatLng">46.766667 12.033333</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164949</idno>
+            </place>
          </listPlace>
       </body>
    </text>

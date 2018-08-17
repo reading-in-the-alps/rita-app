@@ -39,7 +39,7 @@
                </msContents>
                <history>
                   <origin notBefore="1771-04-17">
-                     <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
+                     <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                   </origin>
                </history>
             </msDesc>
@@ -85,7 +85,7 @@
             <p>
                <pb n="72v"/>
             </p>
-            <p>wohledl und wohlgelehrten Herrn <rs type="person" ref="#jais_celestin_johan">Celestin <hi rend="strikethrough">Jais</hi> Johan Jais</rs> gewest eltisten Cooperotore alhier zue <rs type="st_lorenzen" ref="#st_lorenzen">Sanct Lorenzen</rs> nach langwirig schmerzlich ausgestandener Leibs Kranckhheit entlich wohl resignierter, von dism Zeitlichen zu dem Ebigen zu meniglichen Bethauren, abzufordern und zweiflsohne zu sich in die ebige Freidt und Glickhseeligkheit aufzunemben, Gott gnadt der Seelen, wurde von der gnedig geistlichen Commission sowohl als auch weltlichen Obrigkheit die gebreichige Secretur angelegt, und nach der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gottesdenst, auch an der loblichen Pfleggerichtsobrigkeit zu Ymbst die Requisition erlassen, sein des Herrn Ableibers seel. hinterlassene Geschwistrigeth und Erbs Interessenten zu Verabhandlung desselben hinterbegebenen Vermigens alhero zu verschaffen, alldieweillen aber sie Erbs Interessenten nach formierten Inventäri die Thaillung zu Ymbst vornemben zu migen von darumben angesprochen, als Herr Ableiber dortselbs gebohrn auch mit Liegenden</p>
+            <p>wohledl und wohlgelehrten Herrn <rs type="person" ref="#jais_celestin_johan">Celestin <hi rend="strikethrough">Jais</hi> Johan Jais</rs> gewest eltisten Cooperotore alhier zue <rs type="#st_lorenzen" ref="#st_lorenzen">Sanct Lorenzen</rs> nach langwirig schmerzlich ausgestandener Leibs Kranckhheit entlich wohl resignierter, von dism Zeitlichen zu dem Ebigen zu meniglichen Bethauren, abzufordern und zweiflsohne zu sich in die ebige Freidt und Glickhseeligkheit aufzunemben, Gott gnadt der Seelen, wurde von der gnedig geistlichen Commission sowohl als auch weltlichen Obrigkheit die gebreichige Secretur angelegt, und nach der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gottesdenst, auch an der loblichen Pfleggerichtsobrigkeit zu Ymbst die Requisition erlassen, sein des Herrn Ableibers seel. hinterlassene Geschwistrigeth und Erbs Interessenten zu Verabhandlung desselben hinterbegebenen Vermigens alhero zu verschaffen, alldieweillen aber sie Erbs Interessenten nach formierten Inventäri die Thaillung zu Ymbst vornemben zu migen von darumben angesprochen, als Herr Ableiber dortselbs gebohrn auch mit Liegenden</p>
             <p>
                <pb n="73r"/>
             </p>
@@ -604,7 +604,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#armamentarium_ecclesiastium">Armamentarium Ecclesiastium P. Ubaldi Stueber</rs> per
+                     <rs type="bibl" ref="#p_ubaldi_stueber_armamentarium_ecclesiastium">Armamentarium Ecclesiastium P. Ubaldi Stueber</rs> per
                   </cell>
                   <cell>
                      12 x
@@ -612,7 +612,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</rs>
+                     <rs type="bibl" ref="#p_francisci_neymayr_exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</rs>
                   </cell>
                   <cell>
                      15 x
@@ -1273,7 +1273,7 @@
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
-            </note> sollichemach <hi rend="strikethrough">auch</hi> das ganz und vellig hievorbeschribene Herr <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jaisische</rs> zurugg gelassene Vermigen, an ligendt und vahrenden hievon nichts ausgenemben, dem Brueder <rs type="person" ref="#jais_joseph">Joseph</rs>, ittem des verstorbenen Brueder <rs type="person" ref="#jais_johann_michael">Johan Michael Jais</rs> seel. hinterlassenen Sohn auch <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> alsogleich unter ihnen selbsten miteinander verthaillen zu migen, zu wirckhlichen Aigenthumb yedoch gegen deme eingeraumbt und yberlassen.</p>
+            </note> sollichemach <hi rend="strikethrough">auch</hi> das ganz und vellig hievorbeschribene Herr <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jaisische</rs> zurugg gelassene Vermigen, an ligendt und vahrenden hievon nichts ausgenemben, dem Brueder <rs type="person" ref="#jais_joseph">Joseph</rs>, ittem des verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> seel. hinterlassenen Sohn auch <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> alsogleich unter ihnen selbsten miteinander verthaillen zu migen, zu wirckhlichen Aigenthumb yedoch gegen deme eingeraumbt und yberlassen.</p>
             <p>Das dieselbn dargegen oder villmeher an dern statt, die Gewalthabern schuldig, und verpunden sein sollen, alle hievor beschribene Abzüg und Schulden hinaus, nebst deren erlofenen Commission und Gerichts Uncosten, auch Würths Zehrung an Geferde abzu-</p>
             <p>
                <pb n="85v"/>

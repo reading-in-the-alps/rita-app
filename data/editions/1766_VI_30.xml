@@ -39,7 +39,7 @@
                </msContents>
                <history>
                   <origin notBefore="1766-06-30">
-                     <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
+                     <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                   </origin>
                </history>
             </msDesc>
@@ -621,7 +621,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#peckher_schuldigistes andenckhen">Pëckher Schuldigistes Andenckhen</rs> per
+                     <rs type="bibl" ref="#peckher_schuldigistes_andenckhen">Pëckher Schuldigistes Andenckhen</rs> per
                   </cell>
                   <cell>
                      22 x
@@ -1009,7 +1009,7 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>No 7: Deto Dem Herrn Pfarrer zu <rs type="place" ref="#telfes">Telfes</rs> <rs type="person" ref="penz_franz_de_paula">Franz de Paula Penz</rs>, wegen daselbs den Herrn Ableiber gehaltenen Funeral Gottesdienst mit Einschluss der Bitten und Jahrtag, laut Schein</cell>
+                  <cell>No 7: Deto Dem Herrn Pfarrer zu <rs type="place" ref="#telfes">Telfes</rs> <rs type="person" ref="#de_paula_penz_franz">Franz de Paula Penz</rs>, wegen daselbs den Herrn Ableiber gehaltenen Funeral Gottesdienst mit Einschluss der Bitten und Jahrtag, laut Schein</cell>
                   <cell>5 f 26 x</cell>
                </row>
                <row>
@@ -1072,11 +1072,11 @@
             </p>
             <p>verhandene Vermigen dem Herrn Landtgerichtschreiber alhier, <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs>, als ersuechten Gemainschafft Fiehrer mit deme bestölt, und respective yberlassen, das selber die annoch verhandene Mobilien böst möglichist zu versilberen, all vorderist hievon, samt den ybrigen Vermigen die allseitig verhandene Abzüg und Schulden hinaus, nebst dem geschöpfften Gedenckhzaichen abzufiehren und zu bezahlen, und sofort aus dem verbleibenden Vorstandt die Helffte hievon denen haus armen Leuthen auszuthaillen, und die ybrige Helffte zu Heiligen Mössen zu applicieren bedacht, und respective gehalten seyn solle, deme auch selber nachzukhommen zuegesagt, und der gnedig geistlichen Commission und weldtlichen Obrigkheit das Handt Anloben erstatt hat.</p>
             <p>Testes Ihro wohl Ehrwürden Herr <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiat bey dem Heiligen Creuz auf der Fronewisen, und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber alhier.</p>
-            <p>Actum <rs type="place" ref="st_lorenzen">Sanct Lorenzen</rs> den <date when="1766-12-31">31isten December 1766</date>: Wie vor zu söchen, ist zwahr beschlossen worden, das das Herrn Ableibers seel(igem) zwoen Gebrüedern <rs type="person" ref="sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="sigmayr_michael">Michael Sigmayr</rs> jeden drey Duggaten zu ainen brüederlichen Gedenckhzaichen gegeben, und das ybrig verbleibende Vermigen zu des Herrn Ableibers Seelen Hayl angewendet und appliciert werden solle. All</p>
+            <p>Actum <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> den <date when="1766-12-31">31isten December 1766</date>: Wie vor zu söchen, ist zwahr beschlossen worden, das das Herrn Ableibers seel(igem) zwoen Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> jeden drey Duggaten zu ainen brüederlichen Gedenckhzaichen gegeben, und das ybrig verbleibende Vermigen zu des Herrn Ableibers Seelen Hayl angewendet und appliciert werden solle. All</p>
             <p>
                <pb n="225r"/>
             </p>
-            <p>dieweillen aber die däto anhero bey gekhommene Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> vermig den von der loblichen Obrigkheit zu Alträsen beygebrachten vidimierten Extract von <date when="1766-12-01">ersten December anno 1766</date>, so auf dessen verstorbenen Vattern <rs type="person" ref="sigmayr_andree">Andreen Sigmayr</rs> seeligen Verabhandlung von <date when="1743-05-20">20ten May anno 1743</date> gezochen worden, dargethan und erwisen, das denenselben der abgeleibte Herr Brueder <rs type="person" ref="#sigmayr_andree">Andree Sigmayr</rs> seelige noch von Studieren per 128 f 41 x richtig schuldig verbliben seyn, und mithin das völlig restierende Vermigen anbegehrt. Vorwider man von Seithen der gdg geistlichen Commission und weldtlichen Obrigkheit an dessen Ausfolglassung bis auf 10 f umbsoweniger Bedenckhen getragen, als ohnedeme solches zu Contentierung ihrer Praetension nit zue lenckhlich ware, die 10 f aber zu Vergnüegung des inzwischen in Vorschein kommen und dem Herrn <rs type="person" ref="#baldtauf_mathias">Mathias Baldtauf</rs> noch schuldigen Yberpoths anrugg zu verbleiben haben sollen. Als wurde sohin auch von den Gemainschafftfiehrer Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> ihnen zwo Gebrüedern das noch restierende Vermigen, yedoch wie gemelt, yber Abzug der 10 f mit denen noch be-</p>
+            <p>dieweillen aber die däto anhero bey gekhommene Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> vermig den von der loblichen Obrigkheit zu Alträsen beygebrachten vidimierten Extract von <date when="1766-12-01">ersten December anno 1766</date>, so auf dessen verstorbenen Vattern <rs type="person" ref="#sigmayr_andree">Andreen Sigmayr</rs> seeligen Verabhandlung von <date when="1743-05-20">20ten May anno 1743</date> gezochen worden, dargethan und erwisen, das denenselben der abgeleibte Herr Brueder <rs type="person" ref="#sigmayr_andree">Andree Sigmayr</rs> seelige noch von Studieren per 128 f 41 x richtig schuldig verbliben seyn, und mithin das völlig restierende Vermigen anbegehrt. Vorwider man von Seithen der gdg geistlichen Commission und weldtlichen Obrigkheit an dessen Ausfolglassung bis auf 10 f umbsoweniger Bedenckhen getragen, als ohnedeme solches zu Contentierung ihrer Praetension nit zue lenckhlich ware, die 10 f aber zu Vergnüegung des inzwischen in Vorschein kommen und dem Herrn <rs type="person" ref="#baldtauf_mathias">Mathias Baldtauf</rs> noch schuldigen Yberpoths anrugg zu verbleiben haben sollen. Als wurde sohin auch von den Gemainschafftfiehrer Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> ihnen zwo Gebrüedern das noch restierende Vermigen, yedoch wie gemelt, yber Abzug der 10 f mit denen noch be-</p>
             <p>
                <pb n="225v"/>
             </p>

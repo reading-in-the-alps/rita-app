@@ -39,7 +39,7 @@
                </msContents>
                <history>
                   <origin notBefore="1761-07-23" notAfter="1761-08-17">
-                     <rs type="place" ref="st_georgen">St. Georgen</rs>
+                     <rs type="place" ref="#st_georgen">St. Georgen</rs>
                   </origin>
                </history>
             </msDesc>
@@ -115,7 +115,7 @@
                   </p>
             </note> <date when="1761-08-10">Tag Manaths Augusti änno sibenzechenhundert ainundsechzig</date>
                 </p>
-            <p>Vor Ihro Hochwirden, und Gnaden dem hochwirdig, hochedlgebohrnen Herren Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain, unnd Fragwurg</rs> tyrollischen Herren, unnd <rs type="person" ref="#landtmann">Landtmann</rs>, hochfirstlich <rs type="place" ref="#brixen">Brixnerisch</rs> wirckhlichen Consistorial Rath, auch Dechandt, unnd Pfarrherrn zu <rs type="place" ref="#brunegg">Brunögg</rs> als vermig vorgewisen, unnd allda ad acta registrierten gnedigen Commissions Befelch gnedig verordneten Commissario</p>
+            <p>Vor Ihro Hochwirden, und Gnaden dem hochwirdig, hochedlgebohrnen Herren Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain, unnd Fragwurg</rs> tyrollischen Herren, unnd Landtmann, hochfirstlich <rs type="place" ref="#brixen">Brixnerisch</rs> wirckhlichen Consistorial Rath, auch Dechandt, unnd Pfarrherrn zu <rs type="place" ref="#brunegg">Brunögg</rs> als vermig vorgewisen, unnd allda ad acta registrierten gnedigen Commissions Befelch gnedig verordneten Commissario</p>
             <p>Und dem wohledlgebohrn gestreng unnd hochgelehrten Herren <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohrögg</rs> beeder Rechten Lit. oo. Regiments</p>
             <p>
                <pb n="1v"/>
@@ -568,7 +568,7 @@
             <p>Schulden herein</p>
             <table rend="rules">
                <row>
-                  <cell>Vorige Prugger Stuckh hat Ableiber seeligen den <rs type="person" ref="#pifrader_prantlechner_andree">Andree Pifrader Prantlechner</rs> zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> zu Bestandt verlassen, unnd weillen mer gemelter Besteheer <rs type="person" ref="#pifrader_prantlechner_andree">Andree Pifrader</rs> laut des am <date when="1760-05-26">sechsundtzwainzigisten May änno sibenzechenhundert sechzig</date> aufgerichten Bestandts Contract hievon jährlich zu zwoo Fristen, als auf Liechtmössen, unnd May Marckht sibenundtvierzig Gulden funfzechen Khreizer Bestandt Zins zu geben obli-</cell>
+                  <cell>Vorige Prugger Stuckh hat Ableiber seeligen den <rs type="person" ref="#pifrader_andree">Andree Pifrader</rs> Prantlechner zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> zu Bestandt verlassen, unnd weillen mer gemelter Besteheer <rs type="person" ref="#pifrader_andree">Andree Pifrader</rs> laut des am <date when="1760-05-26">sechsundtzwainzigisten May änno sibenzechenhundert sechzig</date> aufgerichten Bestandts Contract hievon jährlich zu zwoo Fristen, als auf Liechtmössen, unnd May Marckht sibenundtvierzig Gulden funfzechen Khreizer Bestandt Zins zu geben obli-</cell>
                   <cell/>
                </row>
             </table>
@@ -586,7 +586,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frisch Hueberischen zurugg gelassenen Kinderen zu Neinheiseren Gerichts Alträsen ist auf Ybergeben der <rs type="person" ref="#stainer_maria">Maria Stainerin</rs> Georgen Lercher Gatterers auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto Räsen <date when="1743-05-01">ersten May sibenzechenhundert dreiundt vierzig</date> der Frauen <rs type="person" ref="#pacher_maria">Maria Pa-</rs>
+                            <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frisch Hueberischen zurugg gelassenen Kinderen zu Neinheiseren Gerichts Alträsen ist auf Ybergeben der <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs> Georgen Lercher Gatterers auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto Räsen <date when="1743-05-01">ersten May sibenzechenhundert dreiundt vierzig</date> der Frauen <rs type="person" ref="#pacher_maria">Maria Pa-</rs>
                         </cell>
                   <cell/>
                </row>
@@ -600,7 +600,7 @@
                   <cell>299 f 59 x</cell>
                </row>
                <row>
-                  <cell>Widerumben ist obgedachter <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> als Gerhab vorbenambster <rs type="person" ref="#stainer_andree">Andree Stainerischen</rs> Kinderen, dann <rs type="person" ref="#gasmayr_maria">Maria Gasmayrin</rs> hinterlassen <rs type="person" ref="#stainer_andree">Andree Stainerische</rs> Wittib auf Ybergeben vorbemelter <rs type="person" ref="#stainer_maria">Maria Stainerin</rs> laut Ybergab, und Schultsbekhantnus de däto <date when="1744-06-29">neinundtzwainzigisten Juni änno sibenzechenhundert vierundtvierzig</date> Cäpitäll in alten Rechten der Frauen <rs type="person" ref="#pacher_maria">Maria Pacherin</rs> nunmehro aber dem Herren Ableiber schuldig worden, zwohundert Gulden id est</cell>
+                  <cell>Widerumben ist obgedachter <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> als Gerhab vorbenambster <rs type="person" ref="#stainer_andree">Andree Stainerischen</rs> Kinderen, dann <rs type="person" ref="#gasmayr_maria">Maria Gasmayrin</rs> hinterlassen <rs type="person" ref="#stainer_andree">Andree Stainerische</rs> Wittib auf Ybergeben vorbemelter <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs> laut Ybergab, und Schultsbekhantnus de däto <date when="1744-06-29">neinundtzwainzigisten Juni änno sibenzechenhundert vierundtvierzig</date> Cäpitäll in alten Rechten der Frauen <rs type="person" ref="#pacher_maria">Maria Pacherin</rs> nunmehro aber dem Herren Ableiber schuldig worden, zwohundert Gulden id est</cell>
                   <cell>200 f 0 x</cell>
                </row>
             </table>
@@ -675,13 +675,13 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Khreizer, unnd bei <rs type="person" ref="gogl_stampfer_martin">Martin Gogl Stampfer</rs>, unnd Wiser aus der Haubtsach, unnd Interesse siben undtsechzig Gulden, sechsundt vierzig ⅔<note>
+                  <cell>Khreizer, unnd bei <rs type="person" ref="#gogl_martin">Martin Gogl</rs> Stampfer, unnd Wiser aus der Haubtsach, unnd Interesse siben undtsechzig Gulden, sechsundt vierzig ⅔<note>
                         <p rend="footnote text"> ⅔ <hi rend="italic">nachträglich eingefügt.</hi>
                         </p>
                      </note> Khreizer zu empfangen assigniert, umd<note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Irrig für</hi> und.</p>
-                     </note> angewisen worden, weillen aber sye Herren Gebriedern sich mintlich verainparet, unnd respective die Ausgleichung gemacht, das die vellige Welsche Schult pr vierhundert Gulden denen zwo weltlichen Herren Gebriederen allain, hingen die bei <rs type="person" ref="#gogl_stampfer_martin">Martin Gogl</rs> ausligende zwohundert Gulden ebenfahls dem Herren Ableiber allain angebirig sein sollen, als werden mithin jennige allda bei ersagten <rs type="person" ref="#gogl_stampfer_martin">Martin Gogl</rs> pr Vermigen getragen id est mit</cell>
+                     </note> angewisen worden, weillen aber sye Herren Gebriedern sich mintlich verainparet, unnd respective die Ausgleichung gemacht, das die vellige Welsche Schult pr vierhundert Gulden denen zwo weltlichen Herren Gebriederen allain, hingen die bei <rs type="person" ref="#gogl_martin">Martin Gogl</rs> ausligende zwohundert Gulden ebenfahls dem Herren Ableiber allain angebirig sein sollen, als werden mithin jennige allda bei ersagten <rs type="person" ref="#gogl_martin">Martin Gogl</rs> pr Vermigen getragen id est mit</cell>
                   <cell>200 f 0 x</cell>
                </row>
                <row>
@@ -706,7 +706,7 @@
                   <cell>1 f 14 x</cell>
                </row>
                <row>
-                  <cell>Ittem solle <rs type="person" ref="#laehner_forcher_jacob">Jacob Lähner Forcher</rs> in <rs type="place" ref="#Oberwiellenpach">Oberwiellenpach</rs> auf Ybergeben der <rs type="person" ref="#pacher_maria">Maria</rs>, unnd <rs type="person" ref="#pacher_maegdaelenae">Mägdälenä Pacherischen</rs> Schwesteren inhalt Ybergab <date when="1747-07-08">anderten Julli änno sibenzechenhundert sibenundt vierzig</date> Capitall, nunmehro aber</cell>
+                  <cell>Ittem solle <rs type="person" ref="#laehner_jacob">Jacob Lähner</rs> Forcher in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs> auf Ybergeben der <rs type="person" ref="#pacher_maria">Maria</rs>, unnd <rs type="person" ref="#pacher_maegdaelenae">Mägdälenä Pacherischen</rs> Schwesteren inhalt Ybergab <date when="1747-07-08">anderten Julli änno sibenzechenhundert sibenundt vierzig</date> Capitall, nunmehro aber</cell>
                   <cell/>
                </row>
             </table>
@@ -715,7 +715,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>auf Verkhaufung sein <rs type="person" ref="#laehner_forcher_jacob">Jacoben Lähners</rs> innegehabten Forchner Gueths dessen Khaufer <rs type="person" ref="#mayr_joseph">Joseph Mayr</rs> Mayr in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs> dreihundert Gulden sage</cell>
+                  <cell>auf Verkhaufung sein <rs type="person" ref="#laehner_jacob">Jacoben Lähners</rs> innegehabten Forchner Gueths dessen Khaufer <rs type="person" ref="#mayr_joseph">Joseph Mayr</rs> Mayr in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs> dreihundert Gulden sage</cell>
                   <cell>300 f 0 x</cell>
                </row>
                <row>
@@ -735,7 +735,7 @@
                   <cell>3 f 30 x</cell>
                </row>
                <row>
-                  <cell>Herr Stattschreiber zu <rs type="place" ref="#brunegg">Brunögg</rs> <rs type="person" ref="von_tschusi_franz_andree">Franz Andree von Tschusi</rs> ware auch Capitall ainhundert funfzig Gulden, unnd darzue Inte-</cell>
+                  <cell>Herr Stattschreiber zu <rs type="place" ref="#brunegg">Brunögg</rs> <rs type="person" ref="#von_tschusi_franz_andree">Franz Andree von Tschusi</rs> ware auch Capitall ainhundert funfzig Gulden, unnd darzue Inte-</cell>
                   <cell/>
                </row>
             </table>
@@ -774,7 +774,7 @@
                   <cell>1 f 53 x</cell>
                </row>
                <row>
-                  <cell>Entlichen solle auch Herr <rs type="person" ref="#wenzl_martin">Martin Wenzl</rs> zu <rs type="place" ref="dietenheim">Dietenhaimb</rs> wegen in Versaz geben, unnd annoch in natura verhandenen sechs silberen Löfl, unnd ainen in Silber eingefasten Gleseren Pecherle zwainzig Gulden sage</cell>
+                  <cell>Entlichen solle auch Herr <rs type="person" ref="#wenzl_martin">Martin Wenzl</rs> zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> wegen in Versaz geben, unnd annoch in natura verhandenen sechs silberen Löfl, unnd ainen in Silber eingefasten Gleseren Pecherle zwainzig Gulden sage</cell>
                   <cell>20 f 0 x</cell>
                </row>
                <row>
@@ -878,8 +878,7 @@
                   <cell>10 f 8 x</cell>
                </row>
                <row>
-                  <cell>Den vorherig gewesten Khirchprobsten <rs type="person" ref="#graber_moesner_christian">Christian Graber Mösner</rs>
-                        </cell>
+                  <cell>Den vorherig gewesten Khirchprobsten <rs type="person" ref="#graber_christian">Christian Graber</rs> Mösner</cell>
                   <cell/>
                </row>
             </table>
@@ -908,7 +907,7 @@
                   <cell>20 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem loblichen Sanct Jacobs Gottes Haus zu <rs type="place" ref="dietenheim">Dietenheim</rs> yberpundene Interesse ainhundert nein-</cell>
+                  <cell>Dem loblichen Sanct Jacobs Gottes Haus zu <rs type="place" ref="#dietenheim">Dietenheim</rs> yberpundene Interesse ainhundert nein-</cell>
                   <cell/>
                </row>
             </table>
@@ -957,7 +956,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#eppacher_schmidt_martin">Martin Eppacher Schmidt</rs> alhier sibenundtfunfzig Khreizer sage</cell>
+                            <rs type="person" ref="#eppacher_martin">Martin Eppacher</rs> Schmidt alhier sibenundtfunfzig Khreizer sage</cell>
                   <cell>57 x</cell>
                </row>
                <row>
@@ -994,7 +993,7 @@
                   <cell>4 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofer</rs> Wirth zu <rs type="place" ref="st_georgen">Sanct Georgen</rs> druch dem Kirch Volckh bei der Begrebnus erloffene Wirths Zöhrung, sambt nein Gulden, zwainzig Khreizer alter Ausstandt zwoundtvierzig Gulden, zwelf Khreizer id est</cell>
+                  <cell>Dem <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofer</rs> Wirth zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> druch dem Kirch Volckh bei der Begrebnus erloffene Wirths Zöhrung, sambt nein Gulden, zwainzig Khreizer alter Ausstandt zwoundtvierzig Gulden, zwelf Khreizer id est</cell>
                   <cell>42 f 12 x</cell>
                </row>
             </table>
@@ -1077,7 +1076,7 @@
                <pb n="24r"/>
             </p>
             <p>raumbung firpfändlichen eingesezt, verhafft, unnd verschriben, unnd zwar ohne Novation alt erlangter Firpfandts Rechten.</p>
-            <p>Nachdem Ablesen bei sollicher Vermigens Thaillung und Einraumbung es verbleiben zu lassen, unnd darwider nicht anderes vorzunemben oder zu handlen sonderen alles vest, unnd stätt zu halten, haben der Vermigens ybernembende Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs>, unnd anstatt des abwesigen Herren Brueder <rs type="person" ref="fezl_johannes">Johannes Fezl</rs> dessen bestelte Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> der gnedigen Commission, unnd loblich weltlichen Obrigkheit das Hanndt Anloben, unnd zu Ausfertigung zwoer sollichen Instrumenter die Sigl Bitt erstattet.</p>
+            <p>Nachdem Ablesen bei sollicher Vermigens Thaillung und Einraumbung es verbleiben zu lassen, unnd darwider nicht anderes vorzunemben oder zu handlen sonderen alles vest, unnd stätt zu halten, haben der Vermigens ybernembende Herr <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs>, unnd anstatt des abwesigen Herren Brueder <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> dessen bestelte Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> der gnedigen Commission, unnd loblich weltlichen Obrigkheit das Hanndt Anloben, unnd zu Ausfertigung zwoer sollichen Instrumenter die Sigl Bitt erstattet.</p>
             <p>Testes nöbst denen Gerichts Beisizeren, <rs type="person" ref="#preindl_joseph">Joseph Preindl</rs> Kupferschmidt</p>
             <p>
                <pb n="24v"/>

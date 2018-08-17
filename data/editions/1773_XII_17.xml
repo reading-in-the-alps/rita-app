@@ -64,6 +64,9 @@
             </xi:include>
          </p>
       </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-08-06" notAfter="2018-08-07" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -72,7 +75,7 @@
                <pb n="117r"/>
             </p>
             <p>[Rubrum:] Vermigens Egenzung Einraumung und Erbs Thaillung</p>
-            <p>Weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="st_georgen">Sanct Georgen</rs> seel.</p>
+            <p>Weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> seel.</p>
             <p>[Aktenvermerk:] Exped. 1 [mal]</p>
             <p>Actum <rs type="place" ref="#st_georgen">Sanct Georgen</rs> in der Caplaney Behausung, den <date when="1773-12-17">17</date> und <date when="1773-12-18">18sten December, anno 1773</date>.</p>
             <p>Vor Ihro Hochwürden, und Gnaden, dem wohl gebohrnen Herrn <rs type="person" ref="#ingramb_joseph_mathias">Herrn Joseph Mathias Igramb zu Liebenrain, und Fragburg</rs>, Tyrolischen Herren und Landman, S.S. Theol. Dri. hochfürstlich <rs type="place" ref="#brixen">Brixnerisch</rs> würcklichen Consistorial Rath, auch Dochand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>. Dann dem wohl edlgebohrnen, gestrengen, und hochgelehrten <rs type="person" ref="#englmohr_joseph_ignaeti">Herrn Joseph Innocenz Englmohr, von Aufkirchen, zu Mohregg</rs>, Pfleger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
@@ -1077,10 +1080,10 @@
                </row>
                <row>
                   <cell>
-                     Ariadnae Evangelica P. Leopoldi Gramiller, in weisen Pirment, per
+                     <rs type="bibl" ref="#p_leopoldi_gramiller_ariadnae_evangelica">Ariadnae Evangelica P. Leopoldi Gramiller</rs>, in weisen Pirment, per
                   </cell>
                   <cell>
-                     <hi rend="bold">1 f 12 x</hi>
+                     1 f 12 x
                   </cell>
                </row>
                <row>
@@ -1094,39 +1097,39 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">P. Josephus a Virg. Mariae Sonntag Predigen in weisen Pirment, per</hi>
+                     <rs type="bibl" ref="#p_josephus_sonntag_predigen">P. Josephus a Virg. Mariae Sonntag Predigen</rs> in weisen Pirment, per
                   </cell>
                   <cell>
-                     <hi rend="bold">1 f 12 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Francis Hefler Concionator 2 thom in Pirment, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">1 f 30 x</hi>
+                     1 f 12 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Balthasar Keilinger</hi>
+                     <rs type="bibl" ref="#p_francis_hefler_concionator">P. Francis Hefler Concionator</rs> 2 thom in Pirment, per
+                  </cell>
+                  <cell>
+                     1 f 30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_balthasar_knellinger_predigen">P. Balthasar Keilinger</rs>
                      <note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Irrig für</hi> Knellinger.</p>
                      </note>
-                     <hi rend="bold" xml:space="preserve"> Predigen auf alle Festtäg, in Schwein Leder, per</hi>
+                     <rs type="bibl" ref="#p_balthasar_knellinger_predigen">Predigen auf alle Festtäg</rs>, in Schwein Leder, per
                   </cell>
                   <cell>
-                     <hi rend="bold">1 f 24 x</hi>
+                     1 f 24 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Concordantiae Biblionum in französischen Bund, per</hi>
+                     <rs type="bibl" ref="#concordantiae_biblionum">Concordantiae Biblionum</rs> in französischen Bund, per
                   </cell>
                   <cell>
-                     <hi rend="bold">2 f 20 x</hi>
+                     2 f 20 x
                   </cell>
                </row>
             </table>
@@ -1136,66 +1139,66 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">Ecclesiastes Apreviatus 3 thom französischen Bund, per</hi>
+                     <rs type="bibl" ref="#ecclesiastes_apreviatus">Ecclesiastes Apreviatus</rs> 3 thom französischen Bund, per
                   </cell>
                   <cell>
-                     <hi rend="bold">2 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Claudius Joly Der Seelen Eüfrige Bus Bredigen, in französischen Bund, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">40 x</hi>
+                     2 f 0 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Marcelinus Holzer Exempl Predigen, mit obigen Bund, per</hi>
+                     <rs type="bibl" ref="#claudius_joly_seelen_euefrige_bus_predigen">Claudius Joly Der Seelen Eüfrige Bus Bredigen</rs>, in französischen Bund, per
                   </cell>
                   <cell>
-                     <hi rend="bold">45 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Idem Cathecismus, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">48 x</hi>
+                     40 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Franz Anoni [sic!] Reichle Groser und Allgemeiner Cathecismus in Praunpappier, per</hi>
+                     <rs type="bibl" ref="#p_marcelinus_holzer_exempl_predigen">P. Marcelinus Holzer Exempl Predigen</rs>, mit obigen Bund, per
                   </cell>
                   <cell>
-                     <hi rend="bold">40 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Cyrilus Riga Horti Plantation in praunn Pappier, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">48 x</hi>
+                     45 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Sacerdotale Prixinense, in französischen Bund, per</hi>
+                     <rs type="bibl" ref="#idem_cathecismus">Idem Cathecismus</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">36 x</hi>
+                     48 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Roja Hugmond Biblische Geschichten in französischen Bund, per</hi>
+                     <rs type="bibl" ref="#franz_anoni_reichle_groser_allgemeiner_cathecismus">Franz Anoni [sic!] Reichle Groser und Allgemeiner Cathecismus</rs> in Praunpappier, per
                   </cell>
                   <cell>
-                     <hi rend="bold">36 x</hi>
+                     40 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_cyrilus_riga_horti_plantation">P. Cyrilus Riga Horti Plantation</rs> in praunn Pappier, per
+                  </cell>
+                  <cell>
+                     48 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#sacerdotale_brixinense">Sacerdotale Prixinense</rs>, in französischen Bund, per
+                  </cell>
+                  <cell>
+                     36 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#roja_hugmond_biblische_geschichten">Roja Hugmond Biblische Geschichten</rs> in französischen Bund, per
+                  </cell>
+                  <cell>
+                     36 x
                   </cell>
                </row>
                <row>
@@ -1209,126 +1212,126 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">P. Anecletus Weiler Instructio Practica Moralis, per</hi>
+                     <rs type="bibl" ref="#p_anecletus_weiler_instructio_practica_moralis">P. Anecletus Weiler Instructio Practica Moralis</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">18 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Antoni Freisl Paurn Predigen per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">18 x</hi>
+                     18 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Aberham à S. Clara 3 thom, per</hi>
+                     <rs type="bibl" ref="#antoni_freisl_paurn_predigen">Antoni Freisl Paurn Predigen</rs> per
                   </cell>
                   <cell>
-                     <hi rend="bold">1 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Engl Ius Canonicus in Schwein Leder per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">51 x</hi>
+                     18 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Conradus Prigl Centifolium Vernons Flori in Schwein Leder, per</hi>
+                     <rs type="bibl" ref="#p_aberham_a_S_Clara">P. Aberham à S. Clara</rs> 3 thom, per
                   </cell>
                   <cell>
-                     <hi rend="bold">40 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Benedict Fischer Centifolium Marianum in Schwein Leder, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">24 x</hi>
+                     1 f 0 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Heribert von Salurn 2 thom in Pirment, per</hi>
+                     <rs type="bibl" ref="#p_engl_ius_canonici">P. Engl Ius Canonicus</rs> in Schwein Leder per
                   </cell>
                   <cell>
-                     <hi rend="bold">48 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Mauritius Notenssussae Homo Simplex Et Rectus, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">24 x</hi>
+                     51 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Hortus Viriguus, per</hi>
+                     <rs type="bibl" ref="#p_conradus_prigl_centifolium_vernons_flori">P. Conradus Prigl Centifolium Vernons Flori</rs> in Schwein Leder, per
                   </cell>
                   <cell>
-                     <hi rend="bold">24 x</hi>
+                     40 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Georgius Historicus</hi>
+                     <rs type="bibl" ref="#p_benedict_fischer_centifolium_manianum">P. Benedict Fischer Centifolium Marianum</rs> in Schwein Leder, per
+                  </cell>
+                  <cell>
+                     24 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_heribert_von_salurn">P. Heribert von Salurn</rs> 2 thom in Pirment, per
+                  </cell>
+                  <cell>
+                     48 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_mauritius_notenssussae_homo_simplex_et_rectus">P. Mauritius Notenssussae Homo Simplex Et Rectus</rs>, per
+                  </cell>
+                  <cell>
+                    24 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#hortus_viriguus">Hortus Viriguus</rs>, per
+                  </cell>
+                  <cell>
+                     24 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Georgius Historicus</rs>
                      <note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Irrig für</hi> Pistorius.</p>
                      </note>
-                     <hi rend="bold" xml:space="preserve"> Himlische Wunder Werck, </hi>
+                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Himlische Wunder Werck,</rs> 
                      <hi rend="bold strikethrough">per</hi>
-                     <hi rend="bold" xml:space="preserve"> Mariae, per</hi>
+                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Mariae</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">18 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Vitus Haberius 30 Predigen, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">15 x</hi>
+                     18 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Ignatius Ertl Manitocium</hi>
+                     <rs type="bibl" ref="#p_vitus_haberius_predigen">P. Vitus Haberius 30 Predigen</rs>, per
+                  </cell>
+                  <cell>
+                     15 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_ignatius_ertl_promontorium">P. Ignatius Ertl Manitocium</rs>
                      <note>
                         <p rend="footnote text"> 
                            <hi rend="italic" xml:space="preserve">Irrig für </hi>Promontorium.</p>
                      </note>
-                     <hi rend="bold" xml:space="preserve"> Bonaespei per</hi>
+                     <rs type="bibl" ref="#p_ignatius_ertl_promontorium">Bonaespei</rs> per
                   </cell>
                   <cell>
-                     <hi rend="bold">15 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Jubel in Jubl Jahr, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">10 x</hi>
+                     15 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Wunderschöner Einzug, in Pappier per</hi>
+                     <rs type="bibl" ref="#jubel_in_jubl_jahr">Jubel in Jubl Jahr</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">10 x</hi>
+                     10 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                    Wunderschöner Einzug, in Pappier per
+                  </cell>
+                  <cell>
+                     10 x
                   </cell>
                </row>
                <row>
@@ -1342,10 +1345,10 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">Nur Kein Tod Sind, per</hi>
+                     Nur Kein Tod Sind, per
                   </cell>
                   <cell>
-                     <hi rend="bold">10 x</hi>
+                     10 x
                   </cell>
                </row>
             </table>
@@ -1355,98 +1358,98 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">P. Carolus Rosignoli Geistliche Betrachtung 2 thom, per</hi>
+                     <rs type="bibl" ref="#p_carolus_rosignoli_geistliche_betrachtung">P. Carolus Rosignoli Geistliche Betrachtung</rs> 2 thom, per
                   </cell>
                   <cell>
-                     <hi rend="bold">24 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Joannis Taberni Sinop. Theol. Practicae, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">10 x</hi>
+                     24 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Lusus Mirabiles, per</hi>
+                     <rs type="bibl" ref="#joannis_taberni_sinop_theol_practicae">Joannis Taberni Sinop. Theol. Practicae</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">9 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Truz Andacht, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">12 x</hi>
+                     10 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Pusenpaum Medulae Theol. Moral., per</hi>
+                     <rs type="bibl" ref="#lusus_mirabiles">Lusus Mirabiles</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">12 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Joann Christoph Peer Der In Eyl Bereitete Prediger 2 thom, pr</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">30 x</hi>
+                     9 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Francis Neymayr 10 thom per</hi>
+                     <rs type="bibl" ref="#truz_andacht">Truz Andacht</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">3 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Bilibaldus Cobold Scherz Und Ernst Beysammen, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">15 x</hi>
+                     12 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Aloysius Peletius Seelig Sterbender Christ, per</hi>
+                     <rs type="bibl" ref="#p_pusenpaum_medulae_theol_moral">P. Pusenpaum Medulae Theol. Moral.</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">30 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Concilium Tridentinum, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">30 x</hi>
+                     12 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Patronillus Schreger Lustige Und Nutzliche Zeit Vertreibung per</hi>
+                     <rs type="bibl" ref="#joann_christoph_peer_der_in_eyl_bereitete_prediger">Joann Christoph Peer Der In Eyl Bereitete Prediger</rs> 2 thom, pr
                   </cell>
                   <cell>
-                     <hi rend="bold">21 x</hi>
+                     30 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Chopius Christliche Betrachtung 2 thom, per</hi>
+                     <rs type="bibl" ref="#p_francis_neymayr">P. Francis Neymayr</rs> 10 thom per
                   </cell>
                   <cell>
-                     <hi rend="bold">52 x</hi>
+                     3 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_bilibaldus_cobold_scherz_und_ernst_beysammen">P. Bilibaldus Cobold Scherz Und Ernst Beysammen</rs>, per
+                  </cell>
+                  <cell>
+                     15 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#aloysius_peletius_seelig_sterbender_christ">Aloysius Peletius Seelig Sterbender Christ</rs>, per
+                  </cell>
+                  <cell>
+                     30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#concilium_tridentinum">Concilium Tridentinum</rs>, per
+                  </cell>
+                  <cell>
+                     30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#patronillus_schreger_lustige_zeit_vertreibung">Patronillus Schreger Lustige Und Nutzliche Zeit Vertreibung</rs> per
+                  </cell>
+                  <cell>
+                     21 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#chopius_christliche_betrachtung">Chopius Christliche Betrachtung</rs> 2 thom, per
+                  </cell>
+                  <cell>
+                     52 x
                   </cell>
                </row>
                <row>
@@ -1460,124 +1463,124 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">P. Udalricus Probst Betrachtung, per</hi>
+                     <rs type="bibl" ref="#p_udalricus_probst_betrachtung">P. Udalricus Probst Betrachtung</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">18 x</hi>
+                     18 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold" xml:space="preserve">Geistlicher Vatter des Heiligen Francisci v. </hi>
+                     <rs type="bibl" ref="#geistlicher_vatter_des_heiligen_francisci_v_sales">Geistlicher Vatter des Heiligen Francisci v.</rs>
                      <hi rend="bold strikethrough">S</hi>
-                     <hi rend="bold" xml:space="preserve"> Sales, per</hi>
+                        <rs type="bibl" ref="#geistlicher_vatter_des_heiligen_francisci_v_sales">Sales</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">20 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Stubenpeck In Casus Reservatis, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">28 x</hi>
+                     20 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Arztney, Und Chyrurgi Der Armen per</hi>
+                     <rs type="bibl" ref="#stubenpeck_in_casus_reservatis">Stubenpeck In Casus Reservatis</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">18 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Flagellum Demonum Hyronimus Mengolt, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">21 x</hi>
+                     28 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Cathecismus Concilium Tridentinum per</hi>
+                     <rs type="bibl" ref="#arztney_und_chyrurgi_der_armen">Arztney, Und Chyrurgi Der Armen</rs> per
                   </cell>
                   <cell>
-                     <hi rend="bold">15 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Tobias Lohner Instruction Practicae per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">20 x</hi>
+                     18 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Joann Paul Hausinger Christliches Fruehestuck, per</hi>
+                     <rs type="bibl" ref="#flagellum_demonum_hyronimus_mengolt">Flagellum Demonum Hyronimus Mengolt</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">18 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Balthasar Knellinger Geschicht Predigen per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">20 x</hi>
+                     21 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Diurnale Neu Curati, per</hi>
+                     <rs type="bibl" ref="#cathecismus_concilium_tridentinum">Cathecismus Concilium Tridentinum</rs> per
                   </cell>
                   <cell>
-                     <hi rend="bold">12 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Ad Casus Conscientiae Ad Mandatum etc.</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">9 x</hi>
+                    15 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Englberti Kranckenbuch, per</hi>
+                     <rs type="bibl" ref="#p_tobias_lohner_instruction_practicae">P. Tobias Lohner Instruction Practicae</rs> per
                   </cell>
                   <cell>
-                     <hi rend="bold">12 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Ain altes klains Previer samt ain Diurnal, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">30 x</hi>
+                     20 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Gilasius de Cilio Thesourus, per</hi>
+                     <rs type="bibl" ref="#joann_paul_hausinger_christliches_fruehestuck">Joann Paul Hausinger Christliches Fruehestuck</rs>, per
                   </cell>
                   <cell>
-                     <hi rend="bold">26 x</hi>
+                     18 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Nattürliches Zauberbuch, per</hi>
+                     <rs type="bibl" ref="#knellingers_predigten">Balthasar Knellinger Geschicht Predigen</rs> per
                   </cell>
                   <cell>
-                     <hi rend="bold">18 x</hi>
+                     20 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#diurnale_neu_curati">Diurnale Neu Curati</rs>, per
+                  </cell>
+                  <cell>
+                     12 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#ad_casus_conscientiae_ad_mandatum">Ad Casus Conscientiae Ad Mandatum etc.</rs>
+                  </cell>
+                  <cell>
+                     9 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#englberti_kranckenbuch">Englberti Kranckenbuch</rs>, per
+                  </cell>
+                  <cell>
+                     12 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     Ain altes klains Previer samt ain Diurnal, per
+                  </cell>
+                  <cell>
+                     30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#gilasius_de_cilio_thesourus">Gilasius de Cilio Thesourus</rs>, per
+                  </cell>
+                  <cell>
+                     26 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#nattuerliches_zauberbuch">Nattürliches Zauberbuch</rs>, per
+                  </cell>
+                  <cell>
+                    18 x
                   </cell>
                </row>
                <row>
@@ -1591,42 +1594,42 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">P. Leopold Freüd 12 thom in französischen Bund, per</hi>
+                     <rs type="bibl" ref="#p_leopold_freued">P. Leopold Freüd</rs> 12 thom in französischen Bund, per
                   </cell>
                   <cell>
-                     <hi rend="bold">6 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">P. Gervasius Pulver Cathecismus Historicus, und Auserlesene Lob Reden, 2 thom, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">1 f 20 x</hi>
+                     6 f 0 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">P. Elbl Theol. Moralis 10 thom in französischen Bund, per</hi>
+                     <rs type="bibl" ref="#p_gervasius_pulver_cathecismus_historicus">P. Gervasius Pulver Cathecismus Historicus, und Auserlesene Lob Reden</rs>, 2 thom, per
                   </cell>
                   <cell>
-                     <hi rend="bold">4 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="bold">Joann Imhof Messis Mistica Theol. Moral. 2 thom, per</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="bold">1 f 12 x</hi>
+                     1 f 20 x
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">Etliche schlechte unterschiedliche Büechlen, per</hi>
+                     <rs type="bibl" ref="#p_elbl_theol_moralis">P. Elbl Theol. Moralis</rs> 10 thom in französischen Bund, per
                   </cell>
                   <cell>
-                     <hi rend="bold">1 f 30 x</hi>
+                     4 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#joann_imhof_messis_mistica_theol_moral">Joann Imhof Messis Mistica Theol. Moral.</rs> 2 thom, per
+                  </cell>
+                  <cell>
+                     1 f 12 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     Etliche schlechte unterschiedliche Büechlen, per
+                  </cell>
+                  <cell>
+                     1 f 30 x
                   </cell>
                </row>
                <row>
@@ -1756,11 +1759,11 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell>Ingleichen hat auch der Caplanei Administrierer Joseph Mayr Kuchlmayr allda zu St. Georgen das von den lezten Quartal Luciae dem Herren Ableiber noch betroffene ratum von 11 Wochen, und die Woch zu 3 f 4 x, und zusammen zahlt</cell>
+                  <cell>Ingleichen hat auch der Caplanei Administrierer <rs type="person" ref="#mayr_joseph_2">Joseph Mayr</rs> Kuchlmayr allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> das von den lezten Quartal Luciae dem Herren Ableiber noch betroffene ratum von 11 Wochen, und die Woch zu 3 f 4 x, und zusammen zahlt</cell>
                   <cell>33 f 44 x</cell>
                </row>
                <row>
-                  <cell>Und mehr zahlt er Joseph Mayr für den, von dem Herren Ableiber seel. gelesenen und gehaltenen Herrn Michael Mutschlechner, und Herrn v. Wenzlischen Jahrtag die hierfür zu empfangen gehabte</cell>
+                  <cell>Und mehr zahlt er <rs type="person" ref="#mayr_joseph_2">Joseph Mayr</rs> für den, von dem Herren Ableiber seel. gelesenen und gehaltenen Herrn <rs type="person" ref="#mutschlechner_michael">Michael Mutschlechner</rs>, und Herrn v. Wenzlischen Jahrtag die hierfür zu empfangen gehabte</cell>
                   <cell>2 f 42 x</cell>
                </row>
                <row>
@@ -1786,7 +1789,7 @@
             <p>Abzüg</p>
             <table rend="rules">
                <row>
-                  <cell>Als Ihro Hochwürden dem Herrn Pfarrer zu Gais für der Begräbnus, gehaltenen Heiligen Gottesdienst, als Bestättnus 7 und 30gist jedes mall mit Seel- und Lob Amt samt Vigil, gleichwie von verstorbenen Herren Sebastian Christoph Fezl auch gewesten Beneficiaten allhier anno 1761 bezahlt worden</cell>
+                  <cell>Als Ihro Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnus, gehaltenen Heiligen Gottesdienst, als Bestättnus 7 und 30gist jedes mall mit Seel- und Lob Amt samt Vigil, gleichwie von verstorbenen Herren <rs type="person" ref="#fezl_christoph">Sebastian Christoph Fezl</rs> auch gewesten Beneficiaten allhier anno 1761 bezahlt worden</cell>
                   <cell>8 f 0 x</cell>
                </row>
                <row>
@@ -1810,7 +1813,7 @@
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell>Dem Mesner allda zu St. Georgen mit Einschluss des Jahrtags</cell>
+                  <cell>Dem Mesner allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einschluss des Jahrtags</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -1847,7 +1850,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dem Herren Niedergätscher als gewesten Beichtvatter, und das derselbe ihme zulezt beygestanden zu einer Erkantlichkeit</cell>
+                  <cell>Dem Herren <rs type="person" ref="#niedergaetscher_">Niedergätscher</rs> als gewesten Beichtvatter, und das derselbe ihme zulezt beygestanden zu einer Erkantlichkeit</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
@@ -1863,11 +1866,11 @@
                   <cell>35 f 54 x</cell>
                </row>
                <row>
-                  <cell>Der Catharina Lercherin Krankenwartherin in Spittal zu Brixen um geliehenen Geld samt 13 f 36 x hiezue gesezter Verzinsung von 17 Jahren</cell>
+                  <cell>Der <rs type="lercher_catharina">Catharina Lercherin</rs> Krankenwartherin in Spittal zu <rs type="place" ref="#brixen">Brixen</rs> um geliehenen Geld samt 13 f 36 x hiezue gesezter Verzinsung von 17 Jahren</cell>
                   <cell>36 f 36 x</cell>
                </row>
                <row>
-                  <cell>Der Christian Vieschnaler Mayr zu Rodenegg begehrt an dem Herrn Ableiber Willen von 6 Jahren vorgestreckten Geld 70 f, dargegen ist in sein des Herren Ableibers Aufschreibung zu ersehen, das Herr Ableiber deme <hi rend="strikethrough">auch</hi> nur 66 f 24 x schuldig verblieben seye, an welchen aber derselbe weiters zahlt, sein des Christian Vischnalers Ehewürthin 11 f, dann für ihro den Barbierer 3 f, und zulezt auch deroselben bey ihren allhier seyn, 2 Ducaten pr 8 f 44 x thuet zusamen 22 f 44 x, also das man ihme Christian Vieschnaler yber deren Abzug noch schuldig verbleiben wurde</cell>
+                  <cell>Der <rs type="person" ref="#vieschnaler_christian">Christian Vieschnaler</rs> Mayr zu <rs type="place" ref="#rodenegg">Rodenegg</rs> begehrt an dem Herrn Ableiber Willen von 6 Jahren vorgestreckten Geld 70 f, dargegen ist in sein des Herren Ableibers Aufschreibung zu ersehen, das Herr Ableiber deme <hi rend="strikethrough">auch</hi> nur 66 f 24 x schuldig verblieben seye, an welchen aber derselbe weiters zahlt, sein des <rs type="person" ref="#vieschnaler_christian">Christian Vischnalers</rs> Ehewürthin 11 f, dann für ihro den Barbierer 3 f, und zulezt auch deroselben bey ihren allhier seyn, 2 Ducaten pr 8 f 44 x thuet zusamen 22 f 44 x, also das man ihme <rs type="person" ref="#vieschnaler_christian">Christian Vieschnaler</rs> yber deren Abzug noch schuldig verbleiben wurde</cell>
                   <cell>43 f 40 x</cell>
                </row>
                <row>
@@ -1880,15 +1883,15 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dem Michael Ehrnhauser Hinteregger in der Neustüft, noch Rest an abgebenen Wein</cell>
+                  <cell>Dem <rs type="person" ref="#ehrnhauser_michael">Michael Ehrnhauser</rs> Hinteregger in der Neustüft, noch Rest an abgebenen Wein</cell>
                   <cell>5 f 21 x</cell>
                </row>
                <row>
-                  <cell>Der Freyele Maria Anna v. Mörl willen aufzubehalten gegebenen Geld</cell>
+                  <cell>Der Freyele <rs type="person" ref="#von_moerl_maria_anna">Maria Anna v. Mörl</rs> willen aufzubehalten gegebenen Geld</cell>
                   <cell>2 f 6 x</cell>
                </row>
                <row>
-                  <cell>Dem Herren Doctor Frenes zu Brunegg willen gemachten Visiten</cell>
+                  <cell>Dem Herren Doctor <rs type="person" ref="#frenes_">Frenes</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> willen gemachten Visiten</cell>
                   <cell>36 x</cell>
                </row>
                <row>
@@ -1896,23 +1899,25 @@
                   <cell>1 f 19 x</cell>
                </row>
                <row>
-                  <cell>Dem Herren Äppoteker zu Iniching</cell>
+                  <cell>Dem Herren Äppoteker zu <rs type="place" ref="#iniching">Iniching</rs>
+                        </cell>
                   <cell>1 f 57 x</cell>
                </row>
                <row>
-                  <cell>Dem Herren Franz Canrad Chyrurgos an ausständiger Bestallung, und abgebener Medicin</cell>
+                  <cell>Dem Herren <rs type="person" ref="#canrad_franz">Franz Canrad</rs> Chyrurgos an ausständiger Bestallung, und abgebener Medicin</cell>
                   <cell>8 f 52 x</cell>
                </row>
                <row>
-                  <cell>Dem Johann Perffler Materalisten zu Dietenhaim</cell>
+                  <cell>Dem <rs type="person" ref="#perffler_johann">Johann Perffler</rs> Materalisten zu <rs type="place" ref="#dietenheim">Dietenhaim</rs>
+                        </cell>
                   <cell>27 x</cell>
                </row>
                <row>
-                  <cell>Der Brigita Eggerin allda zu St. Georgen, willen dem Herren Ableiber in Behalt gegebenen Geld</cell>
+                  <cell>Der <rs type="person" ref="#egger_brigita">Brigita Eggerin</rs> allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs>, willen dem Herren Ableiber in Behalt gegebenen Geld</cell>
                   <cell>8f 33 x</cell>
                </row>
                <row>
-                  <cell>Titl. etc. Herrn Johann Balthasar v. Mörl noch ausständiges Cost Geld von 19 Wochen, à 1 f 36 x, thuet</cell>
+                  <cell>Titl. etc. Herrn <rs type="person" ref="#von_moerl_johann_balthasar">Johann Balthasar v. Mörl</rs> noch ausständiges Cost Geld von 19 Wochen, à 1 f 36 x, thuet</cell>
                   <cell>30 f 24 x</cell>
                </row>
                <row>
@@ -1920,7 +1925,7 @@
                   <cell>6 f 18 x</cell>
                </row>
                <row>
-                  <cell>Dem Niclaus Hueber, so von des Herrn Ableibers Todfall an bis anhero in dem Widum gewesten, und auf die Fahrnussen obacht getragen, mit Einschlus der auf Brixen zu Ansagung des Todfalls gemachten Rais</cell>
+                  <cell>Dem <rs type="person" ref="#hueber_niclaus">Niclaus Hueber</rs>, so von des Herrn Ableibers Todfall an bis anhero in dem Widum gewesten, und auf die Fahrnussen obacht getragen, mit Einschlus der auf <rs type="place" ref="#brixen">Brixen</rs> zu Ansagung des Todfalls gemachten Rais</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -1953,11 +1958,11 @@
                   <cell>270 f 47 x</cell>
                </row>
                <row>
-                  <cell>Yber deren Abnemmung verbleibt noch Herr Joseph Gasserisches Vermigen vorständig</cell>
+                  <cell>Yber deren Abnemmung verbleibt noch Herr <rs type="person" ref="#gasser_joseph">Joseph Gasserisches</rs> Vermigen vorständig</cell>
                   <cell>190 f 48 x</cell>
                </row>
                <row>
-                  <cell>Weilen aber nach so ergänzten Vermigen der Mathes Tratter Tratter allda zu St. Georgen beykommen, und hievorbeschrieben völlige Inventurs Posten für seinen geistlichen Herrn Brueder, und nunnmehrige würcklich resolvierten Beneficiaten allda zu St. Georgen Joseph Tratter zu ybernemmen, und yber vorigen Anschlag noch um 50 f mehrer zu geben, und diese zusammen betröffende 441 f 15 x inner halb acht Tag baar zu bezahlen versprochen, warmit man sich auch contentiert, als haben solche noch darzue zu kommen, id est mit</cell>
+                  <cell>Weilen aber nach so ergänzten Vermigen der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> Tratter allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> beykommen, und hievorbeschrieben völlige Inventurs Posten für seinen geistlichen Herrn Brueder, und nunnmehrige würcklich resolvierten Beneficiaten allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> zu ybernemmen, und yber vorigen Anschlag noch um 50 f mehrer zu geben, und diese zusammen betröffende 441 f 15 x inner halb acht Tag baar zu bezahlen versprochen, warmit man sich auch contentiert, als haben solche noch darzue zu kommen, id est mit</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
@@ -1965,7 +1970,7 @@
                   <cell>240 f 48 x</cell>
                </row>
             </table>
-            <p>Zu welch diesen Vermögen der Erb, Joseph Gasser mit Nahmen, verhanden, deme solches erblichen zue- und angefallen wärn, alldieweilen aber von allerhöchsten Ort aus vermig der untern 10ten October 1772 und 12ten Juny anno 1773 allergnädigst ergangener Verordnungen statuieret worden, das die geistliche Verlassenschaften dergestalten verhandlet werden sollen, als nemlichen solle, wann kein Testament verhanden, aus dem verlassenen Vermögen die Helfte denen Erbs-</p>
+            <p>Zu welch diesen Vermögen der Erb, <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit Nahmen, verhanden, deme solches erblichen zue- und angefallen wärn, alldieweilen aber von allerhöchsten Ort aus vermig der untern <date when="1772-10-10">10ten October 1772</date> und <date when="1773-06-12">12ten Juny anno 1773</date> allergnädigst ergangener Verordnungen statuieret worden, das die geistliche Verlassenschaften dergestalten verhandlet werden sollen, als nemlichen solle, wann kein Testament verhanden, aus dem verlassenen Vermögen die Helfte denen Erbs-</p>
             <p>
                <pb n="130v"/>
             </p>
@@ -1976,7 +1981,7 @@
                   <cell>120 f 24 x</cell>
                </row>
                <row>
-                  <cell>Dann von der ybrigen Helfte ain Dritl für der allhiesigen St. Georgen Kirchen, mit</cell>
+                  <cell>Dann von der ybrigen Helfte ain Dritl für der allhiesigen <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirchen, mit</cell>
                   <cell>40 f 8 x</cell>
                </row>
                <row>
@@ -1988,16 +1993,16 @@
                   <cell>240 f 48 x</cell>
                </row>
             </table>
-            <p>Und so nun, wie hievor zu sehen, der Mathes Tratter die völligen Inventurs Posten ybernommen, und deren samt deme mehrers gegebenen 50 f mit zusamen 441 f 15 x ein Schuldner worden, als wirdet auch <hi rend="strikethrough">erstlich, und</hi>
+            <p>Und so nun, wie hievor zu sehen, der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> die völligen Inventurs Posten ybernommen, und deren samt deme mehrers gegebenen 50 f mit zusamen 441 f 15 x ein Schuldner worden, als wirdet auch <hi rend="strikethrough">erstlich, und</hi>
             </p>
-            <p>Erstlich, und allvorderist ihme Mathes Tratter die Baarschafft und mithin das ganze und völlige hievorbeschrieben Herr Joseph Gasserische zurugg gelassene Vermigen für seinen Herren Brueder Joseph Tratter hiemit, und in Kraft dies also gleich zu würklichen Besizthum und Aigenthum, um anmit willkurlichen disponiern zu können, eingeraumt, und yberlassen,</p>
+            <p>Erstlich, und allvorderist ihme <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> die Baarschafft und mithin das ganze und völlige hievorbeschrieben Herr <rs type="person" ref="#gasser_joseph">Joseph Gasserische</rs> zurugg gelassene Vermigen für seinen Herren Brueder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> hiemit, und in Kraft dies also gleich zu würklichen Besizthum und Aigenthum, um anmit willkurlichen disponiern zu können, eingeraumt, und yberlassen,</p>
             <table rend="rules">
                <row>
                   <cell>so zusammen betrifft</cell>
                   <cell>511 f 35 x</cell>
                </row>
                <row>
-                  <cell>Dargegen er Mathes Tratter andertens obligiert, zumalen schuldig, und verbunden seyn solle, alle hievorbeschriebene Abzüg und Schulden hinaus, mit </cell>
+                  <cell>Dargegen er <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> andertens obligiert, zumalen schuldig, und verbunden seyn solle, alle hievorbeschriebene Abzüg und Schulden hinaus, mit </cell>
                   <cell>270 f 47 x</cell>
                </row>
             </table>
@@ -2006,11 +2011,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dan der loblichen St. Georgen Kirchen die</cell>
+                  <cell>Dan der loblichen <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirchen die</cell>
                   <cell>40 f 8 x</cell>
                </row>
                <row>
-                  <cell>Und dem Erb Joseph Gasser das betroffene Herr brüederliche Erb, mit</cell>
+                  <cell>Und dem Erb <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> das betroffene Herr brüederliche Erb, mit</cell>
                   <cell>200 f 40 x</cell>
                </row>
                <row>
@@ -2018,28 +2023,28 @@
                   <cell>511 f 35 x</cell>
                </row>
             </table>
-            <p>Weilen aber drittens von abwesig beidpändigen Brueder Jacob Gasser kain aigentliche Nachricht verhanden, obe selber no bey Leben, oder tod seye, so hat das Erb solang stilligen zu verbleiben, bis er Erb Joseph Gasser hierummen ein<hi rend="strikethrough">en</hi> annemliche Caution einstöllen wirdet, mit verspröchen, wann er Jacob Gasser, oder von ihme jemande Legitimierter yber kurz, oder lang beykommen, und das Erb anspröchen wurde, demenselben zu Red, und Antworth zu stehen, allenfalls Satisfaction zu geben, und diesfalls sowohl die gnädig geistliche Commission als weltliche Obrigkeit ohne Nachtheil und Schaden zu halten.</p>
-            <p>Schlüslichen verbleibt um die Schulden hinaus, der Kirchen ihr Contingent, und Herrn brüederlichen Erb, des Vermigens ybernemenden Mathesen Tratters ganzes und völliges Vermigen in specie die Einraummung fürpfändlichen einge-</p>
+            <p>Weilen aber drittens von abwesig beidpändigen Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> kain aigentliche Nachricht verhanden, obe selber no bey Leben, oder tod seye, so hat das Erb solang stilligen zu verbleiben, bis er Erb <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> hierummen ein<hi rend="strikethrough">en</hi> annemliche Caution einstöllen wirdet, mit verspröchen, wann er <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs>, oder von ihme jemande Legitimierter yber kurz, oder lang beykommen, und das Erb anspröchen wurde, demenselben zu Red, und Antworth zu stehen, allenfalls Satisfaction zu geben, und diesfalls sowohl die gnädig geistliche Commission als weltliche Obrigkeit ohne Nachtheil und Schaden zu halten.</p>
+            <p>Schlüslichen verbleibt um die Schulden hinaus, der Kirchen ihr Contingent, und Herrn brüederlichen Erb, des Vermigens ybernemenden <rs type="person" ref="#tratter_mathes">Mathesen Tratters</rs> ganzes und völliges Vermigen in specie die Einraummung fürpfändlichen einge-</p>
             <p>
                <pb n="131v"/>
             </p>
             <p>sezt verhaften und verschrieben.</p>
-            <p>Nach dem Ablesen bey voriger Vermigens Ergänzung Einraumung und Erbsthailung es verbleiben zu lassen, und darwider nicht anderes vorzunemmen, oder zu vorhandlen, sonderen alles fäst, und stäth zu halten, haben der ainpändige Bruder Joseph Gasser mit Rath, und neben seinen Stüefvattern, und verpflichten Curatore Antoni Brunegger, und der Vermigens ybernemmende Mathes Tratter der gnädig geistlichen Commission und weltlichen Obrigkeit etc. das Hand Anloben, und zu Ausförtigung aines solchen Instruments die Siglbitt erstatt.</p>
-            <p>Testes nebst denen Gerichts Beysizern Martin Eppacher gewester Schneidermeister zu St. Georgen, und Joseph Steeger Schreiber.</p>
+            <p>Nach dem Ablesen bey voriger Vermigens Ergänzung Einraumung und Erbsthailung es verbleiben zu lassen, und darwider nicht anderes vorzunemmen, oder zu vorhandlen, sonderen alles fäst, und stäth zu halten, haben der ainpändige Bruder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit Rath, und neben seinen Stüefvattern, und verpflichten Curatore <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs>, und der Vermigens ybernemmende <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> der gnädig geistlichen Commission und weltlichen Obrigkeit etc. das Hand Anloben, und zu Ausförtigung aines solchen Instruments die Siglbitt erstatt.</p>
+            <p>Testes nebst denen Gerichts Beysizern <rs type="person" ref="#eppacher_martin">Martin Eppacher</rs> gewester Schneidermeister zu <rs type="place" ref="#st_georgen">St. Georgen</rs>, und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber.</p>
             <div>
                <p>
                   <pb n="183v"/>
                </p>
                <p>[Rubrum:] 1788</p>
                <p>Neüerliche Vermögensergänzung und respective Untersuchung samt was dabey berührt.</p>
-               <p>So auf bereits schon anno 1773 christseelig erfolgtes Hinscheiden des hochehrwürdigen geistlichen Herrn Joseph Gasser gewesten Beneficiaten zu St. Georgen Landgerichts St. Michaelsburg instehendermassen vorgenommen worden.</p>
+               <p>So auf bereits schon anno 1773 christseelig erfolgtes Hinscheiden des hochehrwürdigen geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> instehendermassen vorgenommen worden.</p>
                <p>[Kanzleivermerk:] Exped.</p>
                <p>
                   <pb n="178r"/>
                </p>
-               <p>Actum St. Lorenzen den 18ten Februar 1788.</p>
-               <p>Vor loblicher Landgerichtsobrigkeit der Herrschaft St. Michaelsburg.</p>
-               <p>Zugegen Herr Johann Anton Wachtler.</p>
+               <p>Actum <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1788-02-18">18ten Februar 1788</date>.</p>
+               <p>Vor loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
+               <p>Zugegen Herr <rs type="person" ref="#wachtler_johann_antoni">Johann Anton Wachtler</rs>.</p>
                <p>
                   <note>
                      <p rend="footnote text"> 
@@ -2097,11 +2102,11 @@
                      <cell>6 f 55 x</cell>
                   </row>
                </table>
-               <p>Auf Absterben des hochehrwürdigen Herrn Joseph Gasser gewesten Beneficiaten zu St. Georgen Landgerichts St. Michaelsburg wurde untern 17. Et 18ten December 1773 das hinterlassene Vermögen in eine Ergänzung gebracht, woselbs sich zeiget, das der fürnehme Mathias Tratter, Tratter zu St. Georgen in Namen seines geistlichen Herrn Bruders des auch hochehrwürdigen geistlichen Herrn Joseph Tratter als successoris in beneficio deductis deducendis denen Herrn Gasserischen Eventual Erben 240 f 48 x schuldig verblieben, worvon aber zufolg der allerhöchsten Verordnung nur die Helfte würklich denen Erben mit 120 f 24 x <hi rend="strikethrough">de</hi> von der übrigen Helfte aber ein Dritl der Kirche mit 40 f 8 x und die übrigen ⅔tl mit 80 f 16 x dem sich als Erben angemeldeten einbändigen Bruder auch<note>
+               <p>Auf Absterben des hochehrwürdigen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> wurde untern <date when="1773-12-17">17.</date> Et <date when="1773-12-18">18ten December 1773</date> das hinterlassene Vermögen in eine Ergänzung gebracht, woselbs sich zeiget, das der fürnehme <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, Tratter zu <rs type="place" ref="#st_georgen">St. Georgen</rs> in Namen seines geistlichen Herrn Bruders des auch hochehrwürdigen geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> als successoris in beneficio deductis deducendis denen Herrn Gasserischen Eventual Erben 240 f 48 x schuldig verblieben, worvon aber zufolg der allerhöchsten Verordnung nur die Helfte würklich denen Erben mit 120 f 24 x <hi rend="strikethrough">de</hi> von der übrigen Helfte aber ein Dritl der Kirche mit 40 f 8 x und die übrigen ⅔tl mit 80 f 16 x dem sich als Erben angemeldeten einbändigen Bruder auch<note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Links neben der Zeile nachgetragen.</hi>
                      </p>
-                  </note> Joseph Gasser titulo paupertatis zugemitlt worden. Wie nun aber dieser nämliche Joseph Gasser sowohl um<note>
+               </note> <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> titulo paupertatis zugemitlt worden. Wie nun aber dieser nämliche <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> sowohl um<note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Über der Zeile nachgetragen.</hi>
                      </p>
@@ -2109,23 +2114,23 @@
                      <p rend="footnote text"> 
                         <hi rend="italic">Über der Zeile nachgetragen.</hi>
                      </p>
-                  </note> das Erb per 120 f 24 x verbscheidet worden, dass weilen von beidbändigen Bruder Jacob Gasser, ob selber noch bey Leben, oder Todt seye,</p>
+                  </note> das Erb per 120 f 24 x verbscheidet worden, dass weilen von beidbändigen Bruder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs>, ob selber noch bey Leben, oder Todt seye,</p>
                <p>
                   <pb n="178v"/>
                </p>
-               <p>keine eigentliche Nachricht sich veroffenbahret habe, das Erb in so lang stilligen verbleiben solle, bis er einbändige Bruder Joseph Gasser hierumen eine annehmliche Caution einstellen werde. Also solle sich auch gleich nach solchen Vermögens Abhandlung geäusseret haben, dass <hi rend="strikethrough">die Urs zu</hi> zu<note>
+               <p>keine eigentliche Nachricht sich veroffenbahret habe, das Erb in so lang stilligen verbleiben solle, bis er einbändige Bruder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> hierumen eine annehmliche Caution einstellen werde. Also solle sich auch gleich nach solchen Vermögens Abhandlung geäusseret haben, dass <hi rend="strikethrough">die Urs zu</hi> zu<note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Über der Zeile korrigiert.</hi>
                      </p>
-                  </note> des Herrn Ableibers Mutter Ursula gebohrene <hi rend="strikethrough">Mut</hi> Plankin Befreunde in dem Landgericht Sterzing verhanden seyen, welche das mütterlich Ursula Plankische Stammengut anzusprechen gedenken, und eben darum seye auch dem geistlichen Herrn Joseph Tratter die Bezahlung solcher Erbgelder von der loblichen geistlichen und weltlichen Obrigkeit einsmals mündlich inhibieret worden.</p>
-               <p>Der ainbändige Bruder Joseph Gasser hat bis anhero immer auf Erhebung dieser Gelder gedrungen, und der geistliche Herr Joseph Tratter ware immer bereit seine Schuldigkeit abzuführen, protestierte demenach schon gleich anfänglich wider eine allenfallige Verzinssung, sondern machte vielmehr wegen Wag, und Gefahr der Gelder, und wegen mehrfälltigen Gängen die gebührende Forderung.</p>
-               <p>Bereits schon untern 27ten Jänner 1780 hat Joseph Gasser von loblicher Stadtgerichts Obrigkeit zu Brixen ein Attestat beygebracht, dass ihme die von solcher Verlassenschaft für</p>
+               </note> des Herrn Ableibers Mutter <rs type="person" ref="#plank_ursula">Ursula gebohrene <hi rend="strikethrough">Mut</hi> Plankin</rs> Befreunde in dem Landgericht <rs type="place" ref="#sterzing">Sterzing</rs> verhanden seyen, welche das mütterlich <rs type="person" ref="#plank_ursula">Ursula Plankische</rs> Stammengut anzusprechen gedenken, und eben darum seye auch dem geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> die Bezahlung solcher Erbgelder von der loblichen geistlichen und weltlichen Obrigkeit einsmals mündlich inhibieret worden.</p>
+               <p>Der ainbändige Bruder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> hat bis anhero immer auf Erhebung dieser Gelder gedrungen, und der geistliche Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> ware immer bereit seine Schuldigkeit abzuführen, protestierte demenach schon gleich anfänglich wider eine allenfallige Verzinssung, sondern machte vielmehr wegen Wag, und Gefahr der Gelder, und wegen mehrfälltigen Gängen die gebührende Forderung.</p>
+               <p>Bereits schon untern <date when="1780-01-27">27ten Jänner 1780</date> hat <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> von loblicher Stadtgerichts Obrigkeit zu <rs type="place" ref="#brixen">Brixen</rs> ein Attestat beygebracht, dass ihme die von solcher Verlassenschaft für</p>
                <p>
                   <pb n="179r"/>
                </p>
                <p>eigen angefallene, und zugemitlte Erbs Gebührnuss samt was dabey berühret, verabgefolget werden könne.</p>
-               <p>Den 18ten July 1787 hat derselbe, da er sich schon etliche Jahr in Naudersberg verehelichet, und mitlst eines Hauss Ankaufs ansessig gemachet, seinem Stiefvater anvor Brunegger Hafnermeister zu Brixen zu Erhebung dieser Erbschaft, worzu er wegen so langer Abwesenheit des Jacob Gasser eine Caution einzustellen nicht beursachet seyn werde, den Gewalt abgeben.</p>
-               <p>Verwichenes Monat November, und December 1787 ist er Joseph Gasser, und zwar erstmals mit seinen Stiefvater, letzterhand aber allein dieser Ursachen halber anhero beygekommen, eben darumen hat sich derselbe auch vorgestern zu titl. Herrn Pfleger zu Altrasen in Meynung, dieser seye von denen Befreünden in Sterzing begwältiget, begeben, aber ohnverrichter Sachen wiederumen zurück gekommen; dessentwegen auf dessen Ansuchen unter heüntigen Dato ein Promotoriale nacher Alträsen ausgefertiget, unterdessen aber das sich dermalen zeigende Erbs Quantum einsmals, so viel möglich, in folgende Richtigkeit gebracht worden.</p>
+               <p>Den <date when="1787-07-18">18ten July 1787</date> hat derselbe, da er sich schon etliche Jahr in Naudersberg verehelichet, und mitlst eines Hauss Ankaufs ansessig gemachet, seinem Stiefvater anvor <rs type="place" ref="#brunegg">Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs> zu Erhebung dieser Erbschaft, worzu er wegen so langer Abwesenheit des Jacob Gasser eine Caution einzustellen nicht beursachet seyn werde, den Gewalt abgeben.</p>
+               <p>Verwichenes Monat November, und December 1787 ist er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>, und zwar erstmals mit seinen Stiefvater, letzterhand aber allein dieser Ursachen halber anhero beygekommen, eben darumen hat sich derselbe auch vorgestern zu titl. Herrn Pfleger zu Altrasen in Meynung, dieser seye von denen Befreünden in <rs type="place" ref="#sterzing">Sterzing</rs> begwältiget, begeben, aber ohnverrichter Sachen wiederumen zurück gekommen; dessentwegen auf dessen Ansuchen unter heüntigen Dato ein Promotoriale nacher Alträsen ausgefertiget, unterdessen aber das sich dermalen zeigende Erbs Quantum einsmals, so viel möglich, in folgende Richtigkeit gebracht worden.</p>
                <p>
                   <pb n="179v"/>
                </p>
@@ -2135,7 +2140,7 @@
                      <cell>240 f 48 x</cell>
                   </row>
                   <row>
-                     <cell>Davon kommen die bereits der St. Georgen Kirche schon erlegte</cell>
+                     <cell>Davon kommen die bereits der <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirche schon erlegte</cell>
                      <cell>40 f 8 x</cell>
                   </row>
                   <row>
@@ -2143,7 +2148,7 @@
                      <cell>200 f 40 x</cell>
                   </row>
                   <row>
-                     <cell>Nämlich für den Joseph Gasser als Armen</cell>
+                     <cell>Nämlich für den <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> als Armen</cell>
                      <cell>80 f 16 x</cell>
                   </row>
                   <row>
@@ -2167,7 +2172,7 @@
                      <cell>1 f 40 x</cell>
                   </row>
                   <row>
-                     <cell>Wie bereits schon oben angeführt, hat geistlicher Herr Joseph Tratter nicht nur allein von seiner Schuldigkeit keine Interesse, deren ihme auch schon bey der Abhandlung keine auferladen worden, zu bezahlen, sondern er hatt noch überdies, weilen er anfänglich</cell>
+                     <cell>Wie bereits schon oben angeführt, hat geistlicher Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> nicht nur allein von seiner Schuldigkeit keine Interesse, deren ihme auch schon bey der Abhandlung keine auferladen worden, zu bezahlen, sondern er hatt noch überdies, weilen er anfänglich</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                </table>
@@ -2191,7 +2196,7 @@
                         </note> f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Herr Jakob Vallentin Salcher willen in dieser Sach zu Abgebung der nöthigen Auskonften beygezohenen Confidenten</cell>
+                     <cell>Herr <rs type="person" ref="#salcher_jakob_vallentin">Jakob Vallentin Salcher</rs> willen in dieser Sach zu Abgebung der nöthigen Auskonften beygezohenen Confidenten</cell>
                      <cell>45 x</cell>
                   </row>
                   <row>
@@ -2207,7 +2212,7 @@
                      <cell>174 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Nämlich für dem Joseph Gasser als Armen, als welcher in erst obige Abzüge, weilen die St. Georgen Kirche schon ganz bezahlet, die völlige Helfte mit 13 f 20 x zu entgelten hat, noch</cell>
+                     <cell>Nämlich für dem <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> als Armen, als welcher in erst obige Abzüge, weilen die <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirche schon ganz bezahlet, die völlige Helfte mit 13 f 20 x zu entgelten hat, noch</cell>
                      <cell>66 f 56 x</cell>
                   </row>
                   <row>
@@ -2224,7 +2229,7 @@
                      <cell>174 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Von obigen 66 f 56 x hat der Joseph Gasser, oder vielmehr dessen Curator Peter v. Klausner Schneidermeister zu Brixen a conto empfangen</cell>
+                     <cell>Von obigen 66 f 56 x hat der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>, oder vielmehr dessen Curator <rs type="von_klausner_peter">Peter v. Klausner</rs> Schneidermeister zu <rs type="place" ref="#brixen">Brixen</rs> a conto empfangen</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
@@ -2232,7 +2237,8 @@
                      <cell>15 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Wiederumen den 16ten December 1787</cell>
+                     <cell>Wiederumen den <date when="1787-12-16">16ten December 1787</date>
+                            </cell>
                      <cell>12 f 0 x</cell>
                   </row>
                   <row>
@@ -2248,47 +2254,49 @@
                      <cell>22 f 56 x</cell>
                   </row>
                   <row>
-                     <cell>Wann nun auch die denen Eventual Erben noch betreffende Gebühr per 107 f 4 x hinzugesetzt wird, erscheinet, dass geistlicher Herr Joseph Tratter über die Zahlungen noch in allen schuldig verbleibe</cell>
+                     <cell>Wann nun auch die denen Eventual Erben noch betreffende Gebühr per 107 f 4 x hinzugesetzt wird, erscheinet, dass geistlicher Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> über die Zahlungen noch in allen schuldig verbleibe</cell>
                      <cell>130 f 0 x</cell>
                   </row>
                </table>
-               <p>Nach so liquidierten Vermögen ist der Joseph Gasser mit dem Ersuchschreiben nacher Alträsen abgegangen, geistlicher Herr Joseph Tratter hat angelanget die Sach doch dermaleinist dem Ausgang zuzuwenden.</p>
+               <p>Nach so liquidierten Vermögen ist der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit dem Ersuchschreiben nacher Alträsen abgegangen, geistlicher Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> hat angelanget die Sach doch dermaleinist dem Ausgang zuzuwenden.</p>
                <p>Wobey es dato einsmals verblieben.</p>
                <p>
                   <pb n="181r"/>
                </p>
-               <p>Actum St. Lorenzen den 19ten Februar 1788.</p>
+               <p>Actum St. Lorenzen den <date when="1788-02-19">19ten Februar 1788</date>.</p>
                <p>Vor, und zugegen ut supra.</p>
-               <p>Hat Joseph Gasser von titl. Herrn Pfleger zu Alträsen ein Antwortschreiben von heüntigen Dato beygebracht, und gebetten, ihme nicht nur seine Particular Praetension, sondern auch das würkliche Erb erfolgen zu lassen, da ihme ehedeme aus Verursachung der Sterzingerischen Befreünden die jährliche Interesse hievon entgangen, er dessentwegen viele Reisen, und Gäng um sein baares Geld verrichten, auch eben wegen dem geistlichen Herrn brüderlichen Erb an der pässlichen Mollaunerischen Erbschaft verkürzet werden musste, derowegen er sich auch all weiteren Gesuch vorbehaltet.</p>
+               <p>Hat <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> von titl. Herrn Pfleger zu Alträsen ein Antwortschreiben von heüntigen Dato beygebracht, und gebetten, ihme nicht nur seine Particular Praetension, sondern auch das würkliche Erb erfolgen zu lassen, da ihme ehedeme aus Verursachung der <rs type="place" ref="#sterzing">Sterzingerischen</rs> Befreünden die jährliche Interesse hievon entgangen, er dessentwegen viele Reisen, und Gäng um sein baares Geld verrichten, auch eben wegen dem geistlichen Herrn brüderlichen Erb an der pässlichen Mollaunerischen Erbschaft verkürzet werden musste, derowegen er sich auch all weiteren Gesuch vorbehaltet.</p>
                <p>Ex parte judicii</p>
-               <p>findet man in dieser Erbs Anliegenheit 2 Gegenstände, nämlich, wer dann zu dieser Erbschaft zu admittieren, und obe dann auch ein Stammenguts Praetension noch Blatz habe. Betrachtet man nur die Berufung zur Erbschaft, erhellet aus der Vermögens Abhandlung de anno 1773 und zwar aus der Einraumung No. 3tens, dass der Joseph Gasser nur von darumen, weilen von dem baidbändigen Bruder Jakob Gasser, obe selber ja, oder nicht bey Leben, nichts bekannt ware, in so lang nicht erheben kunte, bis nicht er Joseph Gasser eine annehmliche Caution allda einstelle, und, zum Fahl der Jakob Gasser, oder</p>
+               <p>findet man in dieser Erbs Anliegenheit 2 Gegenstände, nämlich, wer dann zu dieser Erbschaft zu admittieren, und obe dann auch ein Stammenguts Praetension noch Blatz habe. Betrachtet man nur die Berufung zur Erbschaft, erhellet aus der Vermögens Abhandlung de anno 1773 und zwar aus der Einraumung No. 3tens, dass der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> nur von darumen, weilen von dem baidbändigen Bruder <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, obe selber ja, oder nicht bey Leben, nichts bekannt ware, in so lang nicht erheben kunte, bis nicht er Joseph Gasser eine annehmliche Caution allda einstelle, und, zum Fahl der <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, oder</p>
                <p>
                   <pb n="181v"/>
                </p>
-               <p>ss. ein von ihme Legitimirter hierzu eine Ansprach machen wurde, Red und Antwort, auch Satisfaction leiste; Dieser Bescheid lautete also nur auf den Fall des Jakob Gassers, oder eines von ihme Legitimirten, keineswegs aber auf einige Stammenguts Praetendenten. Wann man überdies betrachtet, dass laut allegierter Abhandlung de anno 1773 der Jakob Gasser schon 25 Jahr abwesig gewesen, und für todt gehalten worden, seithero aber wiederumen bereits bey 15 Jahr verflossen, so hat der Joseph Gasser zu dieser Erbschaft allerdings das Recht erworben, welches Recht ihme auch das auf den obrigkeitlich gefertigten geistlichen Herrn Joseph Gasserischen Abhandlungsbrief von loblicher Stadtgerichts Obrigkeit zu Brixen, also wo selbs <hi rend="strikethrough">alld</hi> alle diese Brüder gehohren, den 27ten Jänner 1780 hiezu gefertigte Zeigniss zusprichet. Ausser diesen enthaltet auch der von loblicher Obrigkeit zu Naudersberg den 18ten July 1787 ausgefertigte, und allda bey den Acten liegende Gewalt, dass der Joseph Gasser alldort selbs ansessig, mithin, wann es doch eine Red und Antwort noch nöthig hätte, solche selbs zu geben vermögend seye.</p>
-               <p>Ist hingegen der Jacob Gasser ohne ehelicher Succession verstorben, so wurde es</p>
+               <p>ss. ein von ihme Legitimirter hierzu eine Ansprach machen wurde, Red und Antwort, auch Satisfaction leiste; Dieser Bescheid lautete also nur auf den Fall des <rs type="person" ref="#gasser_jacob">Jakob Gassers</rs>, oder eines von ihme Legitimirten, keineswegs aber auf einige Stammenguts Praetendenten. Wann man überdies betrachtet, dass laut allegierter Abhandlung de anno 1773 der <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs> schon 25 Jahr abwesig gewesen, und für todt gehalten worden, seithero aber wiederumen bereits bey 15 Jahr verflossen, so hat der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> zu dieser Erbschaft allerdings das Recht erworben, welches Recht ihme auch das auf den obrigkeitlich gefertigten geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasserischen</rs> Abhandlungsbrief von loblicher Stadtgerichts Obrigkeit zu <rs type="place" ref="#brixen">Brixen</rs>, also wo selbs <hi rend="strikethrough">alld</hi> alle diese Brüder gehohren, den <date when="1780-01-27">27ten Jänner 1780</date> hiezu gefertigte Zeigniss zusprichet. Ausser diesen enthaltet auch der von loblicher Obrigkeit zu Naudersberg den <date when="1787-07-18">18ten July 1787</date> ausgefertigte, und allda bey den Acten liegende Gewalt, dass der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> alldort selbs ansessig, mithin, wann es doch eine Red und Antwort noch nöthig hätte, solche selbs zu geben vermögend seye.</p>
+               <p>Ist hingegen der <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> ohne ehelicher Succession verstorben, so wurde es</p>
                <p>
                   <pb n="182r"/>
                </p>
-               <p>auf die Zeit des Todtfalls vorzüglich zu wissen ankommen, und man hätte schon bey der geistlichen Herrn Gasserischen Abhandlung untersuchen müssen, obe solche<hi rend="strikethrough">s</hi> Erbschaft als ein gewunenes, oder als ein Stammengut zu nemmen, und nach dem tyrol. Landes Recht zu bereisen seye, mann will aber dieses allda umgehen, da der Joseph Gasser wegen der allzu langen Abwesenheit seines baidbändigen Bruder, und aus weiteren ob angeführten Ursachen schon das Recht hierzu erhalten; Nur die zu den baidbändigen Bruder Jacob Gasser mutterseitige in dem Landgericht Sterzing befündliche Befreünde sollen als mutterseitig Ursula Plankische Stammenguts Praetendenten diesfalls gleich nach der Abhandlung einen Anstand erreget haben.</p>
-               <p>Zu geschweigen, dass die Inhibition an geistlichen Herrn Joseph Tratter das Vermögen zu extradieren weder ad instantiam partium, weder schriftlich, oder legalisch, sondern nur mündlich beschehen, so hätte doch in bereits 15 Jahren die Rechtsfertigung dieses Verboths beschehen, und nicht so lange Zeit so schläfrig vorbey gehen sollen, ohne an das Werk Hand anzulegen, und die Inhibition geltend zu machen.</p>
-               <p>Dass in Sterzing Ursula Plankische Erben, mithin in eventum alldaige Stammenguts Praetendenten verhanden seyen, erhellet nicht nur allein aus der Antwort des titl. Herrn Pflegers zu Alträsen, sondern es hat solches auch Herr Jacob Valentin</p>
+               <p>auf die Zeit des Todtfalls vorzüglich zu wissen ankommen, und man hätte schon bey der geistlichen Herrn Gasserischen Abhandlung untersuchen müssen, obe solche<hi rend="strikethrough">s</hi> Erbschaft als ein gewunenes, oder als ein Stammengut zu nemmen, und nach dem tyrol. Landes Recht zu bereisen seye, mann will aber dieses allda umgehen, da der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> wegen der allzu langen Abwesenheit seines baidbändigen Bruder, und aus weiteren ob angeführten Ursachen schon das Recht hierzu erhalten; Nur die zu den baidbändigen Bruder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> mutterseitige in dem Landgericht <rs type="place" ref="#sterzing">Sterzing</rs> befündliche Befreünde sollen als mutterseitig <rs type="person" ref="#plank_ursula">Ursula Plankische</rs> Stammenguts Praetendenten diesfalls gleich nach der Abhandlung einen Anstand erreget haben.</p>
+               <p>Zu geschweigen, dass die Inhibition an geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> das Vermögen zu extradieren weder ad instantiam partium, weder schriftlich, oder legalisch, sondern nur mündlich beschehen, so hätte doch in bereits 15 Jahren die Rechtsfertigung dieses Verboths beschehen, und nicht so lange Zeit so schläfrig vorbey gehen sollen, ohne an das Werk Hand anzulegen, und die Inhibition geltend zu machen.</p>
+               <p>Dass in <rs type="place" ref="#sterzing">Sterzing</rs> <rs type="person" ref="#plank_ursula">Ursula Plankische</rs> Erben, mithin in eventum alldaige Stammenguts Praetendenten verhanden seyen, erhellet nicht nur allein aus der Antwort des titl. Herrn Pflegers zu Alträsen, sondern es hat solches auch Herr <rs type="person" ref="#salcher_jakob_vallentin">Jacob Valentin</rs>
+                    </p>
                <p>
                   <pb n="182v"/>
                </p>
-               <p>Salcher bestättiget. Allein <hi rend="strikethrough">das</hi> die Haubtfrag nur ist von Jakob Gasser, und zur gegenwärtigen Erbschaft als angeblich nur gewunenes Vermögen ein ainbändiger Bruder als nächster in<note>
+               <p>
+                        <rs type="person" ref="#salcher_jakob_vallentin">Salcher</rs> bestättiget. Allein <hi rend="strikethrough">das</hi> die Haubtfrag nur ist von <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, und zur gegenwärtigen Erbschaft als angeblich nur gewunenes Vermögen ein ainbändiger Bruder als nächster in<note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Zusammengeschriebenes</hi> nächster in <hi rend="italic">durch Strich getrennt.</hi>
                      </p>
-                  </note> Grad verhanden, können die Plankische Befreünde mit ihrem Gesuch noch nicht auslangen, wohl vielmehr lieget der Landgerichts Obrigkeit ob, die Sach zum Ausgang zu beförderen, und zu Vermeidung der weiteren unnützen Unkosten so wohl den geistlichen Herrn Joseph Tratter von der Wag und Gefahr der Gelder zu befreyen, als auch den Joseph Gasser entlich klaglos zu stellen.</p>
-               <p>In dieser Absicht wird hiemit er Joseph Gasser in die noch bestehende 107 f 4 x geistlichen Herrn brüderliche Erbschaft gegen Überlassung aller weiteren Rechtsbehelfen kraft dies doch mit deme immittieret, dass derselbe unter Verpfändung seiner ganzen und völligen Vermögenheit all, und jeden, welche eine bessere Erbs- oder andere Ansprach hierzu haben wollten, gebührende Redt und Antwort, auch Satisfaction leisten solle, und gleichwie demeselben die noch behangende 22 f 56 x ehedeme zuständig, und ihme titl. Herr Kaplan zu St. Georgen Joseph Tratter die völlige 130 f auf dieses baar aufgezehlt, als hat auch er Joseph Gasser auszahlenden geistlichen Herrn Tratter, und wer weiters nöthig, um solchen Erlag</p>
+               </note> Grad verhanden, können die Plankische Befreünde mit ihrem Gesuch noch nicht auslangen, wohl vielmehr lieget der Landgerichts Obrigkeit ob, die Sach zum Ausgang zu beförderen, und zu Vermeidung der weiteren unnützen Unkosten so wohl den geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> von der Wag und Gefahr der Gelder zu befreyen, als auch den <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> entlich klaglos zu stellen.</p>
+               <p>In dieser Absicht wird hiemit er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> in die noch bestehende 107 f 4 x geistlichen Herrn brüderliche Erbschaft gegen Überlassung aller weiteren Rechtsbehelfen kraft dies doch mit deme immittieret, dass derselbe unter Verpfändung seiner ganzen und völligen Vermögenheit all, und jeden, welche eine bessere Erbs- oder andere Ansprach hierzu haben wollten, gebührende Redt und Antwort, auch Satisfaction leisten solle, und gleichwie demeselben die noch behangende 22 f 56 x ehedeme zuständig, und ihme titl. Herr Kaplan zu <rs type="place" ref="#st_georgen">St. Georgen</rs> <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> die völlige 130 f auf dieses baar aufgezehlt, als hat auch er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> auszahlenden geistlichen Herrn Tratter, und wer weiters nöthig, um solchen Erlag</p>
                <p>
                   <pb n="183r"/>
                </p>
                <p>und völligen Ansprach hiemit bestens quitieret.</p>
-               <p>Zur Bekräftigung dessen er Joseph Gasser nach dem Ablesen loblicher Landgerichts Obrigkeit globt, und weilen er des Schreibens unkündig, ein Kreützzeichen allda gemacht.</p>
-               <p>Testes Herr Beysitzer Johann Anton Wachtler, und Peter Mayr Schreiber.</p>
-               <p>[Kreuz des Joseph Gasser]</p>
+               <p>Zur Bekräftigung dessen er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> nach dem Ablesen loblicher Landgerichts Obrigkeit globt, und weilen er des Schreibens unkündig, ein Kreützzeichen allda gemacht.</p>
+               <p>Testes Herr Beysitzer <rs type="person" ref="#wachtler_johann_antoni">Johann Anton Wachtler</rs>, und <rs type="person" ref="#mayr_peter">Peter Mayr</rs> Schreiber.</p>
+               <p>[Kreuz des <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>]</p>
             </div>
          </div>
       </body>
