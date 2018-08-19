@@ -275,6 +275,13 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3164949</idno>
             </place>
+            <place xml:id="st_oswald">
+               <placeName>Sant'Osvaldo</placeName>
+               <location>
+                  <geo decls="#LatLng">46.55664 11.521267</geo>
+               </location>
+               <idno type="GEONAMES"/>
+            </place>
          </listPlace>
       </body>
    </text>

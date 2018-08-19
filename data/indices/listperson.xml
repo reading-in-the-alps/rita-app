@@ -438,12 +438,12 @@
                <note type="function">Landtgerichtschreiber zu <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>
                     </note>
             </person>
-            <person xml:id="hueber_rindler_hans">
+            <person xml:id="hueber_hans">
                <persName>
                   <forename>Hans</forename>
-                  <surname>Hueber Rindler</surname>
+                  <surname>Hueber</surname>
                </persName>
-               <note type="function">Khirchprobst und Wirth zu <rs type="place" ref="#saalen">Saallen</rs>
+               <note type="function">Khirchprobst, Gerichts Verpflichter, Rindler und Wirth zu <rs type="place" ref="#saalen">Saallen</rs>
                     </note>
             </person>
             <person xml:id="mayrhofer_franz">
@@ -457,14 +457,6 @@
                   <forename>Lauretä</forename>
                   <surname>Cäpellen</surname>
                </persName>
-            </person>
-            <person xml:id="hueber_hans">
-               <persName>
-                  <forename>Hans</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="function">Gerichts Verpflichter zu <rs type="place" ref="#saalen">Saallen</rs>
-                    </note>
             </person>
             <person xml:id="pirchner_aennae">
                <persName>
@@ -1862,6 +1854,131 @@
                   <surname>Grueber</surname>
                </persName>
                <note type="function">Erschpämer zu Moos</note>
+            </person>
+            <person xml:id="stocker_franz_xaver">
+               <persName>
+                  <forename>Franz Xaver</forename>
+                  <surname>Stocker</surname>
+               </persName>
+               <note type="function">Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs>, Priester</note>
+            </person>
+            <person xml:id="von_pasotti_carl">
+               <persName>
+                  <forename>Carl</forename>
+                  <surname>von Pasotti</surname>
+               </persName>
+               <note type="function">Prosecret. m.p.</note>
+            </person>
+            <person xml:id="taxis_felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <surname>Taxis</surname>
+               </persName>
+               <note type="function">Praesident m.p.</note>
+            </person>
+            <person xml:id="von_elzenbaum_johann_rudolph">
+               <persName>
+                  <forename>Johann Rudolph</forename>
+                  <surname>von Elzenbaum</surname>
+               </persName>
+            </person>
+            <person xml:id="steinburger_johann_stephann">
+               <persName>
+                  <forename>Johann Stephann</forename>
+                  <surname>Steinburger</surname>
+               </persName>
+            </person>
+            <person xml:id="hueber_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Hueber</surname>
+               </persName>
+            </person>
+            <person xml:id="stocker_antoni">
+               <persName>
+                  <forename>Antoni</forename>
+                  <surname>Stocker</surname>
+               </persName>
+            </person>
+            <person xml:id="stocker_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Stocker</surname>
+               </persName>
+               <note type="function">Pfarrmesner zu <rs type="place" ref="#brunegg">Brunneck</rs>
+                    </note>
+            </person>
+            <person xml:id="taesser_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Taesser</surname>
+               </persName>
+            </person>
+            <person xml:id="stocker_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Stocker</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs> und <rs type="person" ref="#taesser_maria">Maria Tässer</rs>
+                    </note>
+            </person>
+            <person xml:id="stocker_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Stocker</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs> und <rs type="person" ref="#taesser_maria">Maria Tässer</rs>
+                    </note>
+            </person>
+            <person xml:id="schwaickhofer_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Schwaickhofer</surname>
+               </persName>
+               <note type="function">Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>
+                    </note>
+            </person>
+            <person xml:id="knilling_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Knilling</surname>
+               </persName>
+               <note type="function">Provisor</note>
+            </person>
+            <person xml:id="huber_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Huber</surname>
+               </persName>
+               <note type="function">Rindler und Wirth zu <rs type="place" ref="#saalen">Saalen</rs>
+                    </note>
+            </person>
+            <person xml:id="gartner_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Gartner</surname>
+               </persName>
+            </person>
+            <person xml:id="prechtl_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname>Prechtl</surname>
+               </persName>
+            </person>
+            <person xml:id="anrather_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Anrather</surname>
+               </persName>
+               <note type="function">Chyrurgo zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            </person>
+            <person xml:id="von_leys_ignatz_josef">
+               <persName>
+                  <forename>Ignatz Josef</forename>
+                  <surname>von Leys</surname>
+               </persName>
+               <note type="function">Landgerichtschreiber</note>
             </person>
          </listPerson>
       </body>

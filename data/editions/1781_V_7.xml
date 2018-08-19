@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1781 V 7/8, Saalen (in der Kaplanei) [Stocker Franz (Benefiziat), fol. 294r-307v]</title>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>
+                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Reading in the Alps</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Südtiroler Landesarchiv (SLA)</institution>
+                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
+                  <idno>1781 V 7</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="306r" to="305r"/>
+                     <note>
+                        <rs type="skos" ref="#inventar">Inventar</rs>
+                     </note>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1781-05-07">
+                     <rs type="place" ref="#saalen">Saalen</rs>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listbibl.xml" xpointer="listbibl">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-08-17" notAfter="2018-08-19" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <pb n="306r"/>
+            </p>
+            <p>Unsern freundlichen Gruss, und Dienst anvor: Ehrwürdig, edl, hochgelehrt, besonders lieber Freund, und Herr!</p>
+            <p>Da aus des Herrn Berichte erhellet, das den 7ten dies der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs> verstorben, und in unserm Namen die Sperre an dessen Verlassenschaft behörig angeleget worden;</p>
+            <p>Also ertheilen wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
+            <p>Hieran vollziecht der Herr unsern Willen, und Meynung; und wir verbleiben anbey demselben wohl beygethan.</p>
+            <p>Gegeben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1781-04-23">23ten April 1781</date>.</p>
+            <p>
+                    <rs type="person" ref="#taxis_felix">Felix Taxis</rs>
+                </p>
+            <p>Praesident m.p.</p>
+            <p>
+                    <rs type="person" ref="#von_pasotti_carl">Carl v. Pasotti</rs>
+                </p>
+            <p>Prosecret. m.p.</p>
+            <p>[Taxvermerk:] Taxa 1 f 12 x</p>
+            <p>
+               <pb n="307v"/>
+            </p>
+            <p>
+                    <date when="1762-01-04">4 Jener 1762</date>
+                </p>
+            <p>[Aktennotiz:] Commission für Abhandlung des Beneficiaten in <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> Verlassenschaft</p>
+            <p>Praes. den <date when="1781-04-29">29 April 1781</date>
+                </p>
+            <p>[Briefadresse:] Dem ehrwürdig, edl, hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram von Liebenrain, und Fragburg</rs> SS. Theol. Dri. fürstlich Brixnerisch geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unseren besonders lieben Freund, und Herrn.</p>
+            <p>
+                    <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
+            <p>
+               <pb n="305v"/>
+            </p>
+            <p>[Rubrum:] 1781</p>
+            <p>Vermögens Ergänzung und Erbstheillung.</p>
+            <p>So auf tödtlich Hintritt weiland des wohlehrwürdiegen geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs> gewessten Beneficiaten zu <rs type="place" ref="#saalen">Saalen</rs> innstehendermassen vorgangen.</p>
+            <p>Exped. Herr <rs type="person" ref="#von_elzenbaum_johann_rudolph">v. Elzenbaum</rs>
+                </p>
+            <p>
+               <pb n="294r"/>
+            </p>
+            <p>Actum <rs type="place" ref="#saalen">Saalen</rs> in der Kaplanei Behausung den <date when="1781-05-07">7ten May 1781</date>.</p>
+            <p>Vor Ihro Hochwürden und Gnaden dem hochwürdig wohlgebohrn und hochgelehrten Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngram v. Liebenrain und Fragburg</rs> Tyrol. Herrn und Landman des hochfürstlichen Stifts Brixen würcklichen Consistorial Rath, dan Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunneck</rs>, als vermög beylegend hochgnädigen Consistorial Befehl – [späterer Vermerk:] NB Dieser allegierte Befehl ist hinach fol. 306 eingebundner zu erfünden. – zu <rs type="place" ref="#brixen">Brixen</rs> dato <date when="1781-04-23">23ten Apprill 1781</date> verordneten Herrn Commissario etc.</p>
+            <p>Und dem wohledl gestrengen und hochgelehrten Herrn <rs type="person" ref="#steinburger_johann_stephann">Johann Stephann Steinburger</rs> i. u. cand. auch Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
+            <p>Zugegen des wohledlen Herrn <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmayr</rs> Amtschreibern zu <rs type="place" ref="#brunegg">Brunneck</rs>, dann dem fürnemmen <rs type="person" ref="#hueber_joseph">Joseph Hueber</rs> Winckler und Gerichts Ausschuss allda zu <rs type="place" ref="#saalen">Saalen</rs>.</p>
+            <p>Demnach es Gott dem Allerhöchsten abermalen nach seinen unerforschlich allerheiligsten Rathschluss beliebet, seinen allerhailligsten Willen zu vollziechen, und andurch dem wohl ehrwürdig geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs>
+                </p>
+            <p>
+               <pb n="294v"/>
+            </p>
+            <p>S.S. theol. et S.S. canonicus cand. in Leben gewesten Beneficiaten allhier zu <rs type="place" ref="#saalen">Saalen</rs> jüngst verschiner Zeit nach vorhero ausgestandener Leibskranckheit den <date when="1781-04-07">7ten Apprill</date> von diesen Zeitlichen zweifls ohne zu sich in die himmelische Freyd zu beruffen, Gott gnade dero Seele. Wurde einsmalen auf erfolgten Todtfall von Ihro Hochwürden und Gnaden Herrn Herrn Dechant etc. und vor wohlersagten Herrn Landrichter die Secretur an denen behörigen Orthen angelegt, und sodan am dato von hocherdeuten Herrn Herrn Decano etc. referiret, welcher gestalten hochdemselben von dem hochgeistlichen officio zu <rs type="place" ref="#brixen">Brixen</rs> das Commissorium ertheillet worden, mit dem Innhalt, das hochselber des geistlichen Herrn Ableibers seel. Verlassenschaft vollständig verhandlen, und sohin den Bericht hierüber einsenden solle,</p>
+            <p>Woraufhin dann in Gehorsam beykommen und erschinnen seind des abgeleibten geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> seel. <hi rend="strikethrough">Geschw Brüders zweyen</hi> eheleiblichen Bruder<hi rend="strikethrough">n <rs type="person" ref="#stocker_antoni">Antoni</rs>
+                    </hi> zuruckgelassene Kinder als, von des ebenfals abgeleibten <rs type="person" ref="#stocker_johann">Johann Stockers</rs> gewesten Pfarrmesners zu <rs type="place" ref="#brunegg">Brunneck</rs> bey <rs type="person" ref="#taesser_maria">Maria Tässerin</rs> seel. erzeügten und zurück-</p>
+            <p>
+               <pb n="295r"/>
+            </p>
+            <p>gelassenen zweyen Töchtern <rs type="person" ref="#stocker_maria">Maria</rs> und <rs type="person" ref="#stocker_anna">Anna</rs>, wovon die <rs type="person" ref="#stocker_anna">Anna</rs> anwessig, und beede in Vertrettung des schon vorhero verpflichten Gerhabens Herrn <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>, und haben bey der gnädigen angeordenten Commission und loblicher Landgerichts Obrigkeit etc. um Vornemmung der ieblichen und Lands gebräuchigen Inventur demüthig und gehorsam angelanget, welchem petito wohlbehabt gnädige Commission etc. und loblichen Obrigkeit etc. nicht abseyn können, von dahero wurde auf am dato Nach Mittig zu Vornemmung solcher Inventur <hi rend="strikethrough">g</hi> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+            </note> bey Befund der recognoscirten und unbedencklich erfundenen Secretur, nachdem vorhero an die Miterbin <rs type="person" ref="#stocker_anna">Anna Stockerin</rs> als geweste Hauswirthschafterin bey dem Herrn Ableiber seel. under ihren Herrn Gerhaben gehörten <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> ratione der getreülichen Anzeügung halber der Zuspruch und darauf <hi rend="strikethrough">von</hi> an beeden erfolget ist, geschritten zu folgender</p>
+            <p>Inventursbeschreibung.</p>
+            <p>Und zwar erstlichen</p>
+            <p>
+               <pb n="295v"/>
+            </p>
+            <p>In dem ordinari Wohnzimer.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Eine schlechte aufstehende Bethstadt, so zusamm gelegt werden kann pr</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>3 Par Messer und Gabl mit mössingen und übersilberten Heftern pr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Tränschier Messer und Gabl mit painen Heftern</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>7 Par Messer, und Gabl mit painen Heftern a 6 x</cell>
+                  <cell>42 x</cell>
+               </row>
+               <row>
+                  <cell>4 einschichtige Gabl mit <hi rend="strikethrough">ein</hi> dergleichen Heftern</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>6 painene Lefl per</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>1 messinges Begl Eisen mit 2 Stächl per</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>1 Schneider Begl Eisen</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>1 blechene Spritzen</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>1 deto schlechtere pr</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell>5 blau gestreifte Schnupftuechlen a 8 x</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>4 f</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="296r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 schlechts feichtens Tischl pr</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>2 schlechte Lainstüel pr</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>1 deto gefieterter mit Leder</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>1 Fuespänckl</cell>
+                  <cell>2 x</cell>
+               </row>
+               <row>
+                  <cell>1 schlechte <hi rend="bold">Bücher Stehle</hi> pr</cell>
+                  <cell>8x</cell>
+               </row>
+               <row>
+                  <cell>1 schlechter Altar, worauf 4 unterschiedliche Täfelen und 9 geschnizte Bilder sich befinden pr Bcht.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="strikethrough">Ein Perspectiv mit 3 Züg</hi>
+                  </cell>
+                  <cell>
+                     <hi rend="strikethrough">18 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>1 eüsener Tischpfannknecht</cell>
+                  <cell>5 x</cell>
+               </row>
+               <row>
+                  <cell>1 Schisslwag, ziecht auf der schwäreren Seiten 36<note>
+                        <p rend="footnote text"> 3 aus 4 korrigiert.</p>
+                     </note> Pf.</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 hartholzens fornirtes Kästl mit 18 Schubladen</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>2 Controve den hochwürdigsten Fürsten Kaspar Ignetz und Leopold vorstellend pr</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>1 mössingens Luferl pr</cell>
+                  <cell>7 x</cell>
+               </row>
+               <row>
+                  <cell>1 Fäschen per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>3 Par Meolica Caveschallelen pr</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>2 f 55 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="296v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>3 weis metalene Cave Lefelen</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>10 Apotecker Glaschen</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>8 Saurbrunn Glöser</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>1 Zucker Glas per</cell>
+                  <cell>4 x</cell>
+               </row>
+               <row>
+                  <cell>4 Wasserbürger, und 1 anders Trünckl Krügl mit zinnen Lücker</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>1 Wasser Krueg mit 1 zinen Luck</cell>
+                  <cell>4 x</cell>
+               </row>
+               <row>
+                  <cell>1 stainener deto mit dergleichen Luck</cell>
+                  <cell>9 x</cell>
+               </row>
+               <row>
+                  <cell>1 in Leder eingefasste 4mässige Flaschen</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>5 halb Maas Putelien a 6 x</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Halsputelin so geschliffen pr</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>3 Wasser- und 6 Wein Glosser</cell>
+                  <cell>21 x</cell>
+               </row>
+               <row>
+                  <cell>1 glösserens Schisl pr</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell>4 Rosoli Gläsl</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>2 mösenge Leichter mit Geirfües pr</cell>
+                  <cell>16 x</cell>
+               </row>
+               <row>
+                  <cell>1 grose zinnen Schissl mit Hand Heben, 8 klenere und grössere deto, 10 Thäller, ein kleins deto wiegt zusammen 30 Pf. a 26 x</cell>
+                  <cell>13 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>16 f 28 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="297r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>2 halbe Mas, und 1 Seitl zinene Kandl, und 1 Opfer Fläschl wiegen 5 Pf. a 26 x</cell>
+                  <cell>2 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>1 glösserens Essig Kärfinl pr</cell>
+                  <cell>2 x</cell>
+               </row>
+               <row>
+                  <cell>4 zinene Lücker pr</cell>
+                  <cell>4 x</cell>
+               </row>
+               <row>
+                  <cell>1 weis plechene Hunds Kelper</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell>18 Garn Spuel per</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>1 zinenes Weichbrunn Krüegl</cell>
+                  <cell>4 x</cell>
+               </row>
+               <row>
+                  <cell>1 deto Salz Bixl</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>1 Liecht Buzer</cell>
+                  <cell>1 x</cell>
+               </row>
+               <row>
+                  <cell>1 blechens Ämpele, und 1 Oelfläschl</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>2 Schuch Bürsten pr</cell>
+                  <cell>4 x</cell>
+               </row>
+               <row>
+                  <cell>1 Glut Pfandl und 1 Rohr Leichter</cell>
+                  <cell>8 x</cell>
+               </row>
+            </table>
+            <p>In dem Verschlägl.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Vermög die der Kirchen Cassa vorfindigen zu den Beneficiaten Haus gehörigen Stellungs Instrument kommen nachstehende Posten von gegenwärtiger Inventur abzusezen</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 altes Bethstädtl</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Flickschär</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>Gehört zur Stellung 5 x</cell>
+                  <cell>1 stainenes Ober- und Untergiesbecket</cell>
+                  <cell>5 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Papierschär</cell>
+                  <cell>2 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>6 kleine Arzney Gläslen</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>2 schlechte Walchen Schlösslen</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 <hi rend="bold">Schreib Zeüg</hi> pr</cell>
+                  <cell>2 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>[Latus]</cell>
+                  <cell>3 f 56 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="297v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell/>
+                  <cell>1 gewögglts Handthuech</cell>
+                  <cell>20 x</cell>
+               </row>
+            </table>
+            <p>In der Kammer hinein.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Gehört zur Stellung 42 x</cell>
+                  <cell>1 aufstehender Kasten mit Schloss und Band</cell>
+                  <cell>42 x</cell>
+               </row>
+               <row>
+                  <cell>Gehört zur Stellung 12 x</cell>
+                  <cell>1 niederes Kästl mit Schloss und Banden</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Hieraus gehört einer zur Stellung pr 12 x</cell>
+                  <cell>2 Schleifstain</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Gewanth Truchen mit Schloss und Banden</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>3 Duzent Agstainene Knopf pr</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Hieraus 1 Brodrahm zur Stellung gehörig 6 x</cell>
+                  <cell>2 Brodrahmen</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Brodgraml pr</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>2 schlechte Korb</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Feld Korb</cell>
+                  <cell>4 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Kästen Schlössl pr</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Par Stifl samt die Fäschin und Stifl Hölzer</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Spann Bethstadt pr</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>Darinn 1 Strosack pr</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Unterbeth samt dem Bolster mit innern Parchet- und aussern Leichhachlen Ziechen</cell>
+                  <cell>1 f 36 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 schlechte Englische Decken</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>1 Par rupfene Leillacher</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>[Latus]</cell>
+                  <cell>6 f 2 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="298r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 weiser schlechter Fürhang</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>1 aufstehender Gewanth Kasten mit 4 Stöhlen Schloss und Band</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>21 unterschiedliche Tisch Servieter a 5 x</cell>
+                  <cell>1 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>6 unterschiedliche Handtücher a 12 x</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>10<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>11.</p>
+                     </note> deto Tischtüecher a 20 x</cell>
+                  <cell>3 f 20<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 40.</p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>2 Brandmarch Eisen</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>5 Brodtüecher a 6 x</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>7 Schlafhaufen a 4 x</cell>
+                  <cell>28 x</cell>
+               </row>
+               <row>
+                  <cell>2 Dopn- oder Krauseisen</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>Aber 3 Handtüecher a 12 x</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>9 schlechtere und bessere härbene Hembder a 36 x</cell>
+                  <cell>5 f 25 x</cell>
+               </row>
+               <row>
+                  <cell>1 Par härbene Leillacher</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>2 Par rupfene deto pr</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>2 Par lederne schlechte Hosen</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Luthern mit tuech überzochen</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell>1 schwarzer Rock und Kamisol</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 schwarz zeügener deto samt Kamisol</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>20 f 4 x<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>23 f 9 x.</p>
+                     </note>
+                  </cell>
+               </row>
+            </table>
+            <p>
+               <pb n="298v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Aber 1 schlechter schwarzer Rock und Kamisol</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 einlezes Kamisol</cell>
+                  <cell>6 x<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>10.</p>
+                     </note>
+                  </cell>
+               </row>
+               <row>
+                  <cell>2 Bölz Leiblen</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 blauer Schlafrock pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2 schwarze rauche Hauben</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>2 schlechte Hüeth</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Preisische Bünden</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 sametenes Kron Häubl</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>6 Ellen harbens Tuech a 18 x</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>2½ Ellen rupfens Tuech a 14 x</cell>
+                  <cell>35 x</cell>
+               </row>
+               <row>
+                  <cell>3 kleine Khornsäck a 6 x</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 schlechter Rockolohr</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>24½ Pf. rupfens gesottenes Gahrn a 13 x</cell>
+                  <cell>5 f 18½ x</cell>
+               </row>
+               <row>
+                  <cell>11 Pf. ungewaschenes härbens deto a 20 Pf. [sic!]</cell>
+                  <cell>3 f 20<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus Auslassungsstrich.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>11 Pf. Leichhachlens gewaschenes Gahrn a 15 x</cell>
+                  <cell>2 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>46 Pfund raucher Haar a 10 x</cell>
+                  <cell>7 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>1 Dräen Banck samt der Zugehör, 14 unterschidliche Höbl, 31 zerschiedene Dräe <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-8</hi> 
+                           <hi rend="italic">Am linken Rand eingefügt.</hi>
+                        </p>
+                     </note>[flach]e und Pall-<hi rend="superscript">8</hi>Eisen, 14 grösser und klenere</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>27 f 6½ x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="299r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Borer, 11 Eisen, und Holzfeülen, 2 Spitzsäglen, 4 Hämerlen, 1 Schnizer, 3 Peis- und zwey Spizzänglen, 2 schlechte Zürggl, ein eissener Schraufzeüg mit 18 Borer, 1 Nahle, 1 Dräe Docke mit 2 mösinge Flaschen, 8 grösser- und klenere Spansagen, 6 Schraufzwinger, <hi rend="strikethrough">1 kupferne Leimpfann,</hi> per</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 eüssener Schraufstock, ein kleines Feilklöbl, und 3 Par Fueseisen pr</cell>
+                  <cell>2 f 27 x</cell>
+               </row>
+               <row>
+                  <cell>2 eüssene Häggen und 3 Eisen Ringen</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 Spinnrädl, und 1 gefüterter Lainstuel,</cell>
+                  <cell>25 x</cell>
+               </row>
+            </table>
+            <p>In Kuchlgadenle.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Täffele mit 1 Schublädl per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>7 grösser und klenere Pfändlen 3 Dürchling- und 3 Wasser Kellen pr</cell>
+                  <cell>3 f 18<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 48.</p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>2 Mueser, 3 Eisen Lefl, 1 kupfernes Pfändl, und 1 Dürchling Kelle</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>1 kupferne Cafe Kandl per</cell>
+                  <cell>21 x<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Daneben am rechten Rand Nebenrechnung: </hi>1 [f] 30 [x +] 22 [x =] 1 [f] 52 [x]</p>
+                     </note>
+                  </cell>
+               </row>
+               <row>
+                  <cell>1 Bratttesten, 1 Wiegmesser, 1 Brättlspiss und 1 groser Feyrhund,</cell>
+                  <cell>58 x</cell>
+               </row>
+               <row>
+                  <cell>1 Fleischpeil, <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-11</hi> 
+                           <hi rend="italic">Strichliert unterstrichen.</hi>
+                        </p>
+                     </note>1 Herdpfannknecht<hi rend="superscript">11</hi>, 1 Raifmesser 2 Turtenblecher, und 2 Turten Tribl</cell>
+                  <cell>31 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>15 f 24 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="299v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 gloggspeissener Mörser wiegt 6½ Pf. a 27 x</cell>
+                  <cell>2 f 55 x</cell>
+               </row>
+               <row>
+                  <cell>1 eüssener Stempfl darzue</cell>
+                  <cell>6 x<note>
+                        <p rend="footnote text"> 6 <hi rend="italic">versehentlich in die Gulden-Spalte geschrieben und gestrichen.</hi>
+                        </p>
+                     </note>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Ein Essig glas, und ein blechenes Oel Kändele,</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>8 erdene Häfelen per</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 zinens Thäler per</cell>
+                  <cell>21 x</cell>
+               </row>
+               <row>
+                  <cell>5 Hafen Blatten pr</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>2 eüssene Häfen pr</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 Kanape, so nicht gefüteret</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>2 drätene, und 2 hilzene Poglsteizen, </cell>
+                  <cell>18 x</cell>
+               </row>
+            </table>
+            <p>In der Kuchl.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Herdpfanknecht, ein Kuchlpeil, und ein Feyrzeüg pr</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>1 eüssenes Füeskessele, und eine Feyrkluppn per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 Dreyfüesl, 1 Ofenschaufl, und 1 deto Gabl per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>1 eüssener Brater samt der Zugehörde</cell>
+                  <cell>2 f 12 x</cell>
+               </row>
+            </table>
+            <p>Unter den Dach</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Khorn Trüchele mit 2 Klester pr</cell>
+                  <cell>28 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>9<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 8.</p>
+                     </note> f 50<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="300r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 grösser, 1 kleners Bachmittl, 1 Wellbreth, 5 Brodflecken, und 2 Schrägen,</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>1 alts Kästl mit Schloss und Band, ein Steeger Stär, und 1 Ruckkorb per</cell>
+                  <cell>27 x</cell>
+               </row>
+               <row>
+                  <cell>3 Näglschür mit Eisen Reifen, und ein Nachtstuel pr</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 Spuel, 1 Spinrad, und 1 Garnhaspl pr</cell>
+                  <cell>48 x</cell>
+               </row>
+            </table>
+            <p>In Kammerle.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Khorn Trüchele mit 3 Klester</cell>
+                  <cell>25 x</cell>
+               </row>
+               <row>
+                  <cell>Darin 1 Pf. gehächlter Haar pr</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>1 blechener Wassersprizer</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>1 Sesslstuel, und 1 <hi rend="bold">Schreib Bult</hi>,</cell>
+                  <cell>16 x</cell>
+               </row>
+               <row>
+                  <cell>1 Barüquen Stock samt 3 wullenen Barüquen pr</cell>
+                  <cell>21 x</cell>
+               </row>
+               <row>
+                  <cell>Ein Feyr Reibe per</cell>
+                  <cell>10 x</cell>
+               </row>
+            </table>
+            <p>In der Vorläben</p>
+            <table rend="rules">
+               <row>
+                  <cell>2 Wasserschäffer, 1 Schmalz Bündele, und ein Stozen</cell>
+                  <cell>19 x</cell>
+               </row>
+            </table>
+            <p>In Kapuciner Stübele.</p>
+            <table rend="rules">
+               <row>
+                  <cell>3 Lainstüel pr</cell>
+                  <cell>21 x</cell>
+               </row>
+               <row>
+                  <cell>1 Englische Deckn</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Überbeth mit innern Kitzfellen, und aussern kellischen Ziechen per</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>12 f 22 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="300v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Unterbeth mit innern Zwilch, und aussern rupfen Ziechen samt dem Bolster pr</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2 Kopfküsser mit innern Kizfellen und aussern weisen Ziechen samt 1 deto Bolster pr</cell>
+                  <cell>2 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>2 härbene Leillacher mit Spizen pr</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>2 grose gewegglte Handtücher</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>2 Strosäck pr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 zinnens Weichbrunnkriegl.</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>1 Henguhr samt dem Wecker pr</cell>
+                  <cell>4 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>1 kleins Deckl pr</cell>
+                  <cell>10 x</cell>
+               </row>
+            </table>
+            <p>In dem Keller.</p>
+            <table rend="rules">
+               <row>
+                  <cell>2 Krauth Potichen</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Darinnen 4 Schaff Rübens Kraut a 8 x</cell>
+                  <cell>32 x</cell>
+               </row>
+               <row>
+                  <cell>2 Waschzüber pr</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>3 Näglschür mit Eisen Raifen, ein Fürpanck, und 1 Erde Schaufl</cell>
+                  <cell>24 x</cell>
+               </row>
+            </table>
+            <p>In Hauskeller.</p>
+            <table rend="rules">
+               <row>
+                  <cell>6 Pf. Inschleth Kerzen a 10 x thut</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="strikethrough">1</hi>6 Pfund geselchtes Fleisch a 5 x</cell>
+                  <cell>30<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Gestrichen und über der Zeile erneut geschrieben.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>1 hilzener Wassersprizer mit 2 Eisen Reifen, und ein kupfernen Kolben</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>1 Gräeten Bänzl, und ein Zupfenschäffl pr</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>16 f 42 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="301r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Stär, alte Masserey, und darinnen ¾ Stär Hanf</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>8 Yhren Stadtgschür a 10 x, thut</cell>
+                  <cell>1 f 20 x</cell>
+               </row>
+               <row>
+                  <cell>4 kleine Bänzelen pr</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>1 Korzen Kibele, 1 Garten Potich mit 3 Eisen Raifen</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 kupferner Sechtkessl wiegt 16½ Pfundt zu 20 x macht</cell>
+                  <cell>5 f 30 x</cell>
+               </row>
+            </table>
+            <p>Silbergeschmeid.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 silberne Minuten Uhr mit 2 silbernen Gehäusen pr</cell>
+                  <cell>9 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>3 silberne Lefl a 2 f thut</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Par silberne Schuchschnalen</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Summa der bisherigen Inventur</cell>
+                  <cell>157 f 23 x</cell>
+               </row>
+            </table>
+            <p>
+               <hi rend="bold">Bücher in Folio.</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_henrici_fruchtbarer_himelsthau_bredigen">Fruchtbarer Himelsthau, Geist- Und Lehrreiche Bredigen P. Henrici Venedien</rs> 2 Theil
+                  </cell>
+                  <cell>
+                     1 f 30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#albertus_stephanni_geistreicher_possaunen_schall">Albertus Stephanni Geistreicher Possaunen Schall</rs> pr
+                  </cell>
+                  <cell>
+                    45 x
+                  </cell>
+               </row>
+            </table>
+            <p>
+               <pb n="301v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#r_p_jacobi_ilhung_theol_pract">Theol. Pract. R. P. Jacobi Ilhung</rs>
+                  </cell>
+                  <cell>
+                     45 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#biblia_sacra">Bibliae Sacrae</rs>, so teütsch
+                  </cell>
+                  <cell>
+                    1 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#missale_romanum">Missale Romanum.</rs>
+                  </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <hi rend="bold">In Quart.</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#teuetsche_theol">Teütsche Theol.</rs> 2 Theil,
+                  </cell>
+                  <cell>
+                     48 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#concionum_pastoralium_partus_secundus">Concionum Pastoralium partus secundus</rs>
+                  </cell>
+                  <cell>
+                     24 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#sacerdotale_brixinense">Sacerdotale Brixinense</rs>
+                  </cell>
+                  <cell>
+                     15 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_anacleti_reufenstul_thol">Thol. [sic!] Mor. P. Anacleti Reufenstul</rs>
+                  </cell>
+                  <cell>
+                     48 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#ius_canonicum_andreae_valensii_carmeli_leontini">Ius Canonicum Andreae Valensii Carmeli Leontini</rs>.
+                  </cell>
+                  <cell>
+                     30 x
+                  </cell>
+               </row>
+            </table>
+            <p>
+               <hi rend="bold">In Octav.</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#johann_kristoph_peer_bredigen">Sonn- und Feyrtags Bredigen v. Johann Kristoph Peer</rs> 2 thom
+                  </cell>
+                  <cell>
+                     48 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#supplementum_conferentiarum_mor_theol_p_a_kiliano_kazenberger">Supplementum Conferentiarum Mor. Theol. P. a Kiliano Kazenberger</rs>
+                  </cell>
+                  <cell>
+                    15 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#leben_jesu_kristi_auch_denen_4_heiligen_evangelisten">Leben Jesu Kristi Auch Denen 4 Heiligen Evangelisten</rs>,
+                  </cell>
+                  <cell>
+                     17 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#tractatus_theol_mor_de_casibus_reservatis">Tractatus Theol. Mor. De Casibus reservatis</rs>.
+                  </cell>
+                  <cell>
+                     10 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#p_neymayr_khern_des_christenthumb">Kern des Kristenthums P. Franciscus Neumayr</rs>
+                  </cell>
+                  <cell>
+                     15 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     Auszug des Grosen Catecissmus
+                  </cell>
+                  <cell>
+                     6 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     Richter Stuhl Kristi
+                  </cell>
+                  <cell>
+                     6 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#breviarium_romanum">Breviarium Rom.</rs> in 4 Theil,
+                  </cell>
+                  <cell>
+                     1 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>7 f 27 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="302r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen
+                  </cell>
+                  <cell>
+                     12 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     Bethbüchl des Heiligen Augustini
+                  </cell>
+                  <cell>
+                     8 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#instructio_practica_de_sacrificio_missae">Instructio Practica De Sacrificio Missae</rs>
+                  </cell>
+                  <cell>
+                     7 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>Betragen in Summa zusamen</cell>
+                  <cell>10 f 9 x</cell>
+               </row>
+            </table>
+            <p>Baarschafft.</p>
+            <table rend="rules">
+               <row>
+                  <cell>23 Stuck Achtzechner</cell>
+                  <cell>6 f 54 x</cell>
+               </row>
+               <row>
+                  <cell>5½ Stuck Einundzweinzigner</cell>
+                  <cell>1 f 55½ x</cell>
+               </row>
+               <row>
+                  <cell>Mintz pr</cell>
+                  <cell>31 x</cell>
+               </row>
+               <row>
+                  <cell>Tut zusamen</cell>
+                  <cell>9 f 20½ x</cell>
+               </row>
+            </table>
+            <p>Actum <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> den <date when="1781-05-08">8ten May 1781</date>.</p>
+            <p>Vor und zugegen ut supra.</p>
+            <p>Über bereits am gestern vorgenommener Inventur des wohlehrwürdigen geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs> gewesten Beneficiaten zu <rs type="place" ref="#saalen">Saalen</rs> ist am dato weitters vorgenommen worden die ordentliche</p>
+            <p>
+               <pb n="302v"/>
+            </p>
+            <p>Vermögens Ergänzung</p>
+            <table rend="rules">
+               <row>
+                  <cell>Die Inventur betragt, wie vor zu sehen</cell>
+                  <cell>157 f 23 x</cell>
+               </row>
+               <row>
+                  <cell>Die Bücher</cell>
+                  <cell>10 f 9 x</cell>
+               </row>
+               <row>
+                  <cell>Und die Baarschaft</cell>
+                  <cell>9 f 20½ x</cell>
+               </row>
+            </table>
+            <p>Schulden herein</p>
+            <table rend="rules">
+               <row>
+                  <cell>Das ratum von <date notBefore="1781-01-01" notAfter="1781-04-07">Neü Jahr 1781 bis 7ten Apprill</date> darauf als den Todtfall des geistlichen Herrn Erblassers betrift von der Besoldung von denen Stiftungen, sovielen bereits gehalten worden, samt der Gebühr von Opferwein und Kirch Wäsch 45 f 45 x hievon Kirchprobst bereits a conto erleget 31 f, verbleibet derselbe anhero noch</cell>
+                  <cell>14 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>Herr Provisor <rs type="person" ref="#knilling_johann">Johann Knilling</rs> ist allhero wegen genossener Kost in diese Verlassenschaft schuldig, ob 4 Wochen, so dem Vermögen beyzutragen kommet,</cell>
+                  <cell>10 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Weitters solle Herr Provisor, oder Herr Successor ersehen, jenigen Trunck, welchen die Gemeindes Leithe bey Liferung des Holzes genossen, und zwar von 24 Mas Wein drey viertel Theil a 8 x</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Auf Absterben des ehrwirdigen Herrn <rs type="bibl" ref="#stocker_antoni">Anton Stocker</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_oswald">St. Oswald</rs> in Gericht Kastlruth ist zwar besag von hochgeistlicher Commission und loblicher Pfleggerichts Obrigkeit den <date when="1779-10-19">19ten October 1779</date> vorgangener Inventur Vermögens Liquidation und Theillung dem Herrn Ableiber an solch brüderlichen Erb einsmal 195 f 22½ x</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="303r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>angefallen, weillen aber dieses Erb nur auf der Inventur und haubtsächlich auf denen Büchern haftet, diese aber nicht verwendet werden können und noch weitters nahmhafte Schulden hinnaus in Vorschein gekommen seyn sollen, als würdet dermalen allda abstrahiert, und denen dasigen Erbinen der Gesuch dahin ebenso bevor gelassen als die Richtigstellung. Pr Bcht.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Summa des ganzen und velligen Vermögens</cell>
+                  <cell>204 f 1½ x</cell>
+               </row>
+            </table>
+            <p>Abzüg</p>
+            <table rend="rules">
+               <row>
+                  <cell>Die Funeral Kosten betrefend, begehrn Ihro hochfreyherrlich Gnaden titl. etc. Herr Pfarrer allda nicht mehrers als per aversum.</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Denen anderen 4 geistlichen Herren werden verbillichet a 30 x</cell>
+                  <cell>2 f 0x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-16</hi> 
+                           <hi rend="italic">Gesamter Eintrag am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>Der loblichen Lauretto Kapellen wegen der in der Kirchen verstatten Begräbnus,<hi rend="superscript">16</hi>
+                  </cell>
+                  <cell>3 f 0x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-17</hi> 
+                           <hi rend="italic">Gesamter Eintrag am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>Dem loblichen St. Niclaus Gotteshaus für 1 alts Messgewanth, so dem geistlichen Herrn Ableiber in Grab mitgeben worden<hi rend="superscript">17</hi>
+                  </cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und dem Herrn Cooperator <rs type="person" ref="#vischnaller_joseph">Josef Vischnaller</rs> sonderbar wegen in der Kranckheit des geistlichen Herrn Erblassers und bey dem Hinscheiden geleisten Beystand</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>No 1: Dem <rs type="person" ref="#huber_franz">Franz Huber</rs> Rindler und Wirth zu <rs type="place" ref="#saalen">Saalen</rs> an geführten und abgeholten Wein auch Brod, samt bezahlten Maurer für das Grab machen</cell>
+                  <cell>12 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>[No] 2: Titl. Herrn Medicinae Dri. Defrenes für 2 Visiten samt Recepten ut No 2</cell>
+                  <cell>2 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>22 f 36 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="303v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>No 3: Herrn Appotecker zu <rs type="bibl" ref="#brunegg">Brunneck</rs> laut der No 3:</cell>
+                  <cell>2 f 31 x</cell>
+               </row>
+               <row>
+                  <cell>[No] 4: Titl. Herrn Stadtschreiber zu <rs type="bibl" ref="#brunegg">Brunneck</rs> an 2 Yhren 2 Pazzen empfangenen Wein No 4:</cell>
+                  <cell>17 f 20<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>24.</p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>Das Geschür ist verhanden, und in natura zurück zu stellen, destwegen solches nicht beschriben worden.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>[No] 5: Herrn <rs type="person" ref="#haberstroo_johann">Johann Haaberstro</rs> an Laden Waaren laut der No 5<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>4.</p>
+                     </note>:</cell>
+                  <cell>3 f 9 x</cell>
+               </row>
+               <row>
+                  <cell>[No] 6: Herrn <rs type="person" ref="#gartner_georg">Georg Gartner</rs> an ausständiger Zehrung ut No 6:</cell>
+                  <cell>44 x</cell>
+               </row>
+               <row>
+                  <cell>Dem geistlichen Herrn Provisor <rs type="person" ref="#knilling_johann">Knilling</rs> wegen für dem Herrn Erblasser an eingenommenen Stypendii gelessenen 4 Heiligen Messen,</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und weitters därften noch einige zu lesen ausständig seyn, derowegen werden pr Abzug gebracht</cell>
+                  <cell>12 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Herrn Organisten, Mesner und Schulern laut Conto No 7</cell>
+                  <cell>7 f 6 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Mesner zu <rs type="place" ref="#saalen">Saalen</rs>,</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Rader für das Auswarten in der Kranckheit, und Wachen bey der Leich</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Denen jenigen, so die Leich angekleidet</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Der Haushalterin an Lidlohn bis zum Todtfall</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Wirths tagwercker wegen hinein gezochenen Wein</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>Der vorhero gewesten Häuserin <rs type="person" ref="#prechtl_elisabeth">Elisabeth Prechtlin</rs> laut aigenhändiger Bekäntnus v. <date when="1774-12-23">23ten December 1774</date>, an verbliebenen Lidlohn</cell>
+                  <cell>23 f</cell>
+               </row>
+               <row>
+                  <cell>
+                     <note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>Herrn <rs type="person" ref="#anrather_franz">Franz Anrather</rs> Chyrurgo zu <rs type="place" ref="#brunegg">Bruneck</rs> aus 4 f 18 x moderirter massen die Helfte mit</cell>
+                  <cell>2 f 9<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 10.</p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>56 f 32 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="304r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Denen P. Kapucinern für von dem Herrn Ableiber begehrtermassen gelessenen extra Heiligen Messen</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>An Reparationen bey der Kaplanei Behausung solle alldaigen Verlassenschaft nach Aussag des Kirchprobstens zu <rs type="place" ref="#saalen">Saalen</rs> nichts zu ersezen haben, indeme geistlicher Herr Erblasser diesfals seiner Obligation nachgekommen seye.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Dem Baur Miller zu Monthan vor abgebenes Mehl von 5 Ster Waizen, und 2 Stär Roggen</cell>
+                  <cell>2 f 55 x</cell>
+               </row>
+               <row>
+                  <cell>Der geistlichen Commission Stadt betragt samt dem Sigl Geld</cell>
+                  <cell>13 f 18 x</cell>
+               </row>
+               <row>
+                  <cell>Und die oberkeitliche Gebühren betragen laut Marginal Zuschreibung inclusive der Expedition und Extracte Summario</cell>
+                  <cell>17 f 41 x</cell>
+               </row>
+               <row>
+                  <cell>[Summa]</cell>
+                  <cell>35 f 36 x</cell>
+               </row>
+            </table>
+            <p>
+               <note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                  </p>
+               </note>[Marginalzuschreibung:]</p>
+            <table rend="rules">
+               <row>
+                  <cell>Obrigkeitliche Abhandlungs Taxa</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Siglgeld</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Schreibgeld dieses Instruments samt Extrat [sic!]</cell>
+                  <cell>6 f</cell>
+               </row>
+               <row>
+                  <cell>Zur Inventur dem gesamten Gerichtspersonali</cell>
+                  <cell>3 f 39 x</cell>
+               </row>
+               <row>
+                  <cell>Obrigkeitliche Verwilligung</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Gerichtsdiener extra</cell>
+                  <cell>32 x</cell>
+               </row>
+               <row>
+                  <cell>Für die Secretur</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="strikethrough">Rest:</hi> [Summa]</p>
+                     <p>Debit 15 f 14 x von darumen weillen das Schreib Geld um 2 f 29 x minders betrofen</p>
+                  </cell>
+                  <cell>17 f 43 x</cell>
+               </row>
+            </table>
+            <table rend="rules">
+               <row>
+                  <cell>Summa der Abzüg</cell>
+                  <cell>145 f <hi rend="strikethrough">4</hi> 13<note>
+                        <p rend="footnote text"> 13 <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="304v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Hierüber verbleibt noch an Vermögen vorständig, sovielen in Auswurf gekommen 58 f 48½ x id est</cell>
+                  <cell>
+                     <hi rend="strikethrough">89</hi> 58 f <hi rend="strikethrough">57</hi> 48½ x<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Die richtigen Werte wurden nach der Streichung darüber nachgetragen.</hi>
+                        </p>
+                     </note>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Darzue seind, wie vor zu sechen, zwey Geschwistrigeth als gleiche Erbinen vurhanden, kommt also auf einem zur gleichen Portion: 29<note>
+                        <p rend="footnote text"> 9 <hi rend="italic" xml:space="preserve">Korrigiert aus begonnener </hi>6.</p>
+                     </note> f 24¼ x das ist</cell>
+                  <cell>
+                     <hi rend="strikethrough">44</hi> 29<note>
+                        <p rend="footnote text"> 9 <hi rend="italic" xml:space="preserve">Korrigiert aus begonnener </hi>6.</p>
+                     </note> f <hi rend="strikethrough">58½</hi> 24¼ x</cell>
+               </row>
+            </table>
+            <p>Und würdet das ganze und vellig, vor beschriebene und unbeschriebene, geistliche Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockerische</rs> Vermögen denen verhandenen zweyen Jungfrauen Baasen und Erbinen hiemit Erb Eigenthum weise gegen Abführung gesamter Schulden hinnaus, und was etwo weiters in Vorschein kommen möchte, hiemit eingeraumt, und denenselben bevor gestellet, wie bereits schon oben angebracht, das selbige nebst was an Herr brüderlichen <rs type="person" ref="#stocker_antoni">Anton Stockerischen</rs> Erb darzu komt, sohin unter sich selbs zuvertheillen, indessen aber sie Erbinen auch in eventum dieser Erbs Immissions halber sowohl der hochgeistlichen angeordneten</p>
+            <p>
+               <pb n="305r"/>
+            </p>
+            <p>Commission, als loblicher Landgerichts Obrigkeit etc. sub hypothecca bonorum in Gewehrschaft zu stehen geben.</p>
+            <p>Worbey es also verblieben, und haben nach dem deütlichen Vor- und Ablesen voreinkommene erbnemmende Theillern samt ihren obrigkeitlich verpflichten Gerhaben und respective Anweiser vor wohl belobt geistlicher Commission und loblicher Landgerichtsobrigkeit etc. das Handanloben in Gehorsam und Demuth erstattet.</p>
+            <p>Testes nebst vorigen Herrn und Beysizern titl. Herr <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef v. Leys</rs> Landgerichtschreiber<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
+                  </p>
+            </note>, und <rs type="person" ref="#von_elzenbaum_johann_rudolph">Johann Rudolph v. Elzenpaum</rs>.</p>
+            <p>Zu Bericht wirdet angeführt, das Herr Gerhab sammentliche Conti ab actis erhebet habe.</p>
+            <p>Die Brechtlische Schuldbekantnus hat Herr <rs type="person" ref="#schwaickhofer_anton">Antoni Schwaickhofer</rs> erhebt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

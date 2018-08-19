@@ -43,6 +43,7 @@
                 <bibl xml:id="adami_josephi_greneck_examen_iuris_canonici">Examen Iuris Canonici Adami Josephi Greneck</bibl>
                 <bibl xml:id="adurnal">Adurnal</bibl>
                 <bibl xml:id="ad_casus_conscientiae_ad_mandatum">Ad Casus Conscientiae Ad Mandatum etc.</bibl>
+                <bibl xml:id="albertus_stephanni_geistreicher_possaunen_schall">Albertus Stephanni Geistreicher Possaunen Schall</bibl>
                 <bibl xml:id="aloysius_peletius_seelig_sterbender_christ">Aloysius Peletius Seelig Sterbender Christ</bibl>
                 <bibl xml:id="alt_katholischer_hohe_genffer_schul_francisci_de_sales">Alt Katholischer Hohe Genffer Schul Francisci de Sales</bibl>
                 <bibl xml:id="anacleti_reifenstuel">Anacleti Reifenstuel Theol. Moralis</bibl>
@@ -95,14 +96,15 @@
                 <bibl xml:id="commentarius_in_ius_statutarium_tyrolense_hermanin">Commentarius in Ius Statutarium Tyrolense Hermanin</bibl>
                 <bibl xml:id="compedioses_gelehrten_lexikon_d_johann_burchard_menkes">Compedioses Gelehrten Lexikon D. Johann Burchard Menkes</bibl>
                 <bibl xml:id="compendium_geographiae_ecclesiasticae">Compendium Geographiae Ecclesiasticae Stadel</bibl>
-                <bibl xml:id="conscientia_recta_seu_miscellanei_practici_casus_weinzierl">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</bibl>
                 <bibl xml:id="concilium_romanum">Concilium Romanum</bibl>
                 <bibl xml:id="concilium_tridentinum">Concilium Tridentinum</bibl>	
                 <bibl xml:id="conciones_rurales">Conciones Rurales</bibl>
+                <bibl xml:id="concionum_pastoralium_partus_secundus">Concionum Pastoralium partus secundus</bibl>
                 <bibl xml:id="concordantia">Concandantia</bibl>	
                 <bibl xml:id="concordantiae_biblionum">Concordantiae Biblionum</bibl>
                 <bibl xml:id="confessio_bernardinae">Confessio Bernardinae</bibl>
                 <bibl xml:id="confutatio_infamis_libri_domini_augustino_michael">Confutatio Infamis Libri Domini Augustino Michael</bibl>
+                <bibl xml:id="conscientia_recta_seu_miscellanei_practici_casus_weinzierl">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</bibl>
                 <bibl xml:id="consilium_dominicum">Consilium Dominicum</bibl>
                 <bibl xml:id="conversio_st_augustini">Conversio St. Augustini</bibl>
                 <bibl xml:id="corneli_a_lapide_commentaria">Corneli a Lapide Commentaria In Novum Et Vetus Testamentum</bibl>
@@ -224,6 +226,8 @@
                 <bibl xml:id="in_p_sporer_theologiam_morales_praelectiones_morales_extemporaneae_a_p_cozenberger">In P. Sporer Theologiam Morales Praelectiones Morales extemporaneae à P. Cozenberger</bibl>
                 <bibl xml:id="institutiones_iuris_canonici_marti_antoni_cuchi">Institutiones Iuris Canonici Marti Antoni Cuchi</bibl>
                 <bibl xml:id="instructio_parochi_pro_visitatione">Instructio Parochi Pro Visitatione</bibl>
+                <bibl xml:id="instructio_practica_de_sacrificio_missae">Instructio Practica De Sacrificio Missae</bibl>
+                <bibl xml:id="ius_canonicum_andreae_valensii_carmeli_leontini">Ius Canonicum Andreae Valensii Carmeli Leontini</bibl>
                 <bibl xml:id="ius_canonicum_petern_pichler">Ius Canonicum Petern Pichler</bibl>	
                 <bibl xml:id="jacobi_gechtneri_murices_antiquitatis_catholicae">Jacobi Gechtneri Murices Antiquitatis Catholicae</bibl>
                 <bibl xml:id="jacobi_halde_lyrica_et_poemata">Jacobi Halde Lyrica Et Poemata</bibl>
@@ -240,6 +244,7 @@
                 <bibl xml:id="joannis_taberni_sinop_theol_practicae">Joannis Taberni Sinop. Theol. Practicae</bibl>
                 <bibl xml:id="johann_caspar_du_fey_predigen">Johann Caspar du Fey Predigen</bibl>
                 <bibl xml:id="johann_hibners_real_statts_und_zeitungslexikon">Johann Hibners Real Statts- Und Zeitungs etc. Lexicon</bibl>
+                <bibl xml:id="johann_kristoph_peer_bredigen">Sonn- und Feyrtags Bredigen v. Johann Kristoph Peer</bibl>
                 <bibl xml:id="jubel_in_jubl_jahr">Jubel in Jubl Jahr</bibl>
                 <bibl xml:id="judas_der_erzschelm">Judas Der Erzschelm</bibl>
                 <bibl xml:id="justus_joseph_meditationes">Justus Joseph Meditationes</bibl>
@@ -262,6 +267,7 @@
                 <bibl xml:id="leben_des_heiligen_antonii_v_padua">Leben Des Heiligen Antonii v. Padua</bibl>
                 <bibl xml:id="leben_des_heiligen_sebastian">Leben Des Heiligen Sebastian</bibl>
                 <bibl xml:id="leben_des_heiligen_valentini_bischof_zu_passau">Leben Des Heiligen Valentini Bischof Zu Passau</bibl>
+                <bibl xml:id="leben_jesu_kristi_auch_denen_4_heiligen_evangelisten">Leben Jesu Kristi Auch Denen 4 Heiligen Evangelisten</bibl>
                 <bibl xml:id="lettere_spirituali_di_st_francesco_di_sales">Lettere Spirituali di St. Francesco di Sales</bibl>
                 <bibl xml:id="lezione_moralis_sopra_proffeta_pacincella">Lezione Moralis Sopra Proffeta Pacincelli</bibl>
                 <bibl xml:id="liber_apocalipicus_signatus">Liber Apocalipicus Signatus</bibl>	
@@ -329,6 +335,7 @@
                 <bibl xml:id="p_agricola_historia_provincio_soc_jesu_germaniae_superioris">Historia Provincio Soc. Jesu Germaniae Superioris P. Agricola</bibl>
                 <bibl xml:id="p_alexii_riederer_geistliches_seelen_nez">P. Alexii Riederer Geistliches Seelen Nez</bibl>
                 <bibl xml:id="p_amort_dictionarium_casuum_conscientiae">Dictionarium Casuum Conscientiae P. Amort</bibl>
+                <bibl xml:id="p_anacleti_reufenstul_thol">Thol. [sic!] Mor. P. Anacleti Reufenstul</bibl>
                 <bibl xml:id="p_anecletus_weiler_instructio_practica_moralis">P. Anecletus Weiler Instructio Practica Moralis</bibl>
                 <bibl xml:id="p_anselmi_schnell_supplementum">P. Anselmi Schnell Supplementum Theolog. Moralis</bibl>
                 <bibl xml:id="p_antonii_de_guevara_faticinium_in_havacuc_prophetae_commentaria">P. Antonii de Guevara Faticinium In Habacuc Prophetae Commentaria</bibl>
@@ -395,6 +402,7 @@
                 <bibl xml:id="p_habisreutinger_etwas_fir_alle_ein_wohl_gegruendte_gewissens_ruhe">Etwas Fir Alle Ein Wohl Gegründte Gewissens Ruhe P. Habisreutinger</bibl>
                 <bibl xml:id="p_halden_pastor_bonus">Pastor Bonus P. Halden</bibl>
                 <bibl xml:id="p_henrici_engelgrave_caeleste_pantheon">Caeleste Pantheon P. Henrici Engelgrave</bibl>
+                <bibl xml:id="p_henrici_fruchtbarer_himelsthau_bredigen">Fruchtbarer Himelsthau, Geist- Und Lehrreiche Bredigen P. Henrici Venedien</bibl>
                 <bibl xml:id="p_heribert_von_salurn">P. Heribert von Salurn</bibl>
                 <bibl xml:id="p_herzig_manuale_parochiae">P. Herzig Manuale Parochiae</bibl>
                 <bibl xml:id="p_hetti_heiliger_ehestandt">P. Hetti Heiliger Ehestandt</bibl>
@@ -591,6 +599,7 @@
                 <bibl xml:id="r_d_gregorio_fritz_historischer_sonntag_prediger">Historischer Sonntag Prediger R. D. Gregorio Fritz</bibl>
                 <bibl xml:id="r_pontificis_caeremoniale_electionis">Caeremoniale Electionis R. Pontificis</bibl>
                 <bibl xml:id="r_p_fratris_philippi_diez_lusitani">R. P. Fratris Philippi Diez Lusitani</bibl>
+                <bibl xml:id="r_p_jacobi_ilhung_theol_pract">Theol. Pract. R. P. Jacobi Ilhung</bibl>
                 <bibl xml:id="r_p_paulo_de_barrii_heiliges_jahr">Heiliges Jahr R. P. Paulo de Barrii</bibl>
                 <bibl xml:id="r_p_joannis_stephani_grossez_diarium">R. P. Joannis Stephani Grossez Diarium Sanctorum</bibl>
                 <bibl xml:id="raimundi_de_sabunde_theologia_naturalis">Raimundi de Sabunde Theologia Naturalis</bibl>
@@ -641,9 +650,11 @@
                 <bibl xml:id="strobl_geistliches_khartten">Strobl Geistliches Khartten</bibl>	
                 <bibl xml:id="stubenpeck_in_casus_reservatis">Stubenpeck In Casus Reservatis</bibl>
                 <bibl xml:id="summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</bibl>
-                <bibl xml:id="synodus_prixinensis">Synodus Prixinensis</bibl>	
-                <bibl xml:id="teutsche_bibl">Teutsche Bibl</bibl>
+                <bibl xml:id="supplementum_conferentiarum_mor_theol_p_a_kiliano_kazenberger">Supplementum Conferentiarum Mor. Theol. P. a Kiliano Kazenberger</bibl>
+                <bibl xml:id="synodus_prixinensis">Synodus Prixinensis</bibl>
+                <bibl xml:id="teuetsche_theol">Teütsche Theol.</bibl>
                 <bibl xml:id="teuetsches_martyrologium">Teütsches Martyrologium</bibl>
+                <bibl xml:id="teutsche_bibl">Teutsche Bibl</bibl>
                 <bibl xml:id="theatrum_pacis">Theatrum Pacis, Oder Friedens Schau Blatz</bibl>
                 <bibl xml:id="theologia_rationalis_eius_juvenalis_ananiensis">Theologia Rationalis Eius Juvenalis Ananiensis</bibl>
                 <bibl xml:id="thimothei_laubenberger_augspurger_und_leibziger_relgions_conferenz">Thimothei Laubenberger Augspurger und Leibziger Religions Conferenz</bibl>
@@ -658,6 +669,7 @@
                 <bibl xml:id="todts_andacht">Todts Andacht oder Zuebereithung zu Einen Guethen Todt</bibl>
                 <bibl xml:id="tractat_de_autonomia_andert">Tractat de Autonomia andert</bibl>
                 <bibl xml:id="tractatum_opticum_colmansii">Tractatum Opticum Colmansii</bibl>
+                <bibl xml:id="tractatus_theol_mor_de_casibus_reservatis">Tractatus Theol. Mor. De Casibus reservatis</bibl>
                 <bibl xml:id="tractatus_theologico_moralis_in_decem_decalogi">Tractatus Theologico Moralis In Decem Decalogi</bibl>
                 <bibl xml:id="trattenimento_istorico_spirituale_di_calino">Trattenimento Istorico Spirituale di Calino</bibl>
                 <bibl xml:id="trauner_fragmenta_sacra">Trauner Fragmenta Sacra</bibl>	
