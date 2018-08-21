@@ -64,6 +64,9 @@
             </xi:include>
          </p>
       </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-08-07" notAfter="2018-08-20" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1 - annotation of 10200 to end postponed</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>

@@ -1,4 +1,4 @@
-xquery version "3.0";
+xquery version "3.1";
 module namespace app="http://www.digital-archiv.at/ns/rita-app/templates";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace functx = 'http://www.functx.com';
@@ -51,6 +51,19 @@ declare function functx:substring-after-last
    concat(upper-case(substring($arg,1,1)),
              substring($arg,2))
  } ;
+ 
+ (:~
+ : returns the names of the previous, current and next document  
+:)
+
+declare function app:next-doc($collection as xs:string, $current as xs:string) {
+let $all := sort(xmldb:get-child-resources($collection))
+let $currentIx := index-of($all, $current)
+let $prev := if ($currentIx > 1) then $all[$currentIx - 1] else false()
+let $next := if ($currentIx < count($all)) then $all[$currentIx + 1] else false()
+return 
+    ($prev, $current, $next)
+};
 
 declare function app:fetchEntity($ref as xs:string){
     let $entity := collection($config:app-root||'/data/indices')//*[@xml:id=$ref]
@@ -266,7 +279,11 @@ let $ref := xs:string(request:get-parameter("document", ""))
 let $refname := substring-before($ref, '.xml')
 let $xmlPath := concat(xs:string(request:get-parameter("directory", "editions")), '/')
 let $xml := doc(replace(concat($config:app-root,'/data/', $xmlPath, $ref), '/exist/', '/db/'))
-let $collection := functx:substring-after-last(util:collection-name($xml), '/')
+let $collectionName := util:collection-name($xml)
+let $collection := functx:substring-after-last($collectionName, '/')
+let $neighbors := app:next-doc($collectionName, $ref)
+let $prev := if($neighbors[1]) then 'show.html?document='||$neighbors[1]||'&amp;directory='||$collection else ()
+let $next := if($neighbors[3]) then 'show.html?document='||$neighbors[3]||'&amp;directory='||$collection else ()
 let $xslPath := xs:string(request:get-parameter("stylesheet", ""))
 let $xsl := if($xslPath eq "")
     then
@@ -290,6 +307,8 @@ let $params :=
     <param name="app-name" value="{$config:app-name}"/>
     <param name="collection-name" value="{$collection}"/>
     <param name="path2source" value="{$path2source}"/>
+    <param name="prev" value="{$prev}"/>
+    <param name="next" value="{$next}"/>
    {
         for $p in request:get-parameter-names()
             let $val := request:get-parameter($p,())

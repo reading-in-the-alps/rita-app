@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1792 XI 13/14 (Inventur) &amp; 15 (Vermögensergänzung), St. Georgen [Tratter Josef (Kaplan), fol. 477r-502v]</title>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>
+                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Reading in the Alps</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Südtiroler Landesarchiv (SLA)</institution>
+                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
+                  <idno>1792 XI 13/14</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="477r" to="502v"/>
+                     <note>
+                        <rs type="skos" ref="#inventar">Inventar</rs>
+                     </note>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1792-11-13">
+                     <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listbibl.xml" xpointer="listbibl">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-08-21" notAfter="2018-08-21" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <pb n="477r"/>
+            </p>
+            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-13">13. November 1792</date>
+                </p>
+            <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
+            <p>
+               <note>
+                  <p rend="footnote text">
+                     <hi rend="superscript">-1</hi> 
+                     <hi rend="italic">Am linken Rand geschrieben.</hi>
+                  </p>
+               </note>Deto hierfür samt Schreibgeld 1 f 2 x, so in Verfachbüchl eingeschrieben worden.<hi rend="superscript">1</hi>
+            </p>
+            <p>Erscheint <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda mit dem Anbringen, dass, weilen am dato für weilenden den hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewest daselbstigen Kapplans der dreysigst Heilige Gottesdienst abgehalten worden, und eben desselben Erben zugegen seynd, er sich schuldig befinde anzuzeigen, dass der nun abgeleibte geistliche Herr Kapplan, nachdem dieser von der vorigen Krankheit wiederum die Genessung erhalten, sich zu ihne vernemmen gelassen, <hi rend="strikethrough">das</hi> er seye entschlossen mit seiner zeitlichen Habschaft noch bey seiner Gesundheit eine würkliche Disposition aufzurichten, und seinen diesfälligen lesten Willen der Landgerichts Obrigkeit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> zu behörigen Aufzeichnung, damit seiner Zeit alles ordentlich berichtiget werden könne, dahin zu eröffnen, es solle nämlich all das jenige, was er nämlich von seinen Eltern ererbet, auf seinen Abgang seinen Ge-</p>
+            <p>
+               <pb n="477v"/>
+            </p>
+            <p>schwisterten wiederum gänzlich zu kommen, das übrige aber zu seinen Seelenheil, und allenfalls auch einen Jahrtag angewendet werden; Er <rs type="person" ref="#hueber_christian">Christian Hueber</rs> wolle demenach mit dieser Kundmachung sein Gewissen entledigen, es möge sodann dieser <hi rend="strikethrough">lest</hi> ihme anvertraute leste Willen in Erfüllung gebracht werden, je oder nicht. Zur Bekräftigung dessen hat er sich allda eigenhändig unterschrieben.</p>
+            <p>[eigenhändige Unterschrift] <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mössner</p>
+            <p>Die Landgerichts Obrigkeit hat demenach nicht ermangelt diese <rs type="person" ref="#hueber_christian">Christian Hueberische</rs> Aussage deme eben gegenwärtigen Erben, <hi rend="strikethrough">und st</hi> als<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile geschrieben.</hi>
+                  </p>
+            </note> dem Herrn Ableibers Geschwisterten, und respective deren Vertrettern, als geistlichen Herrn <rs type="person" ref="#tratter_balthasar">Balthasar</rs>, <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin</rs> dann <rs type="person" ref="#peintner_georg">Georg Peintner</rs> qua verpflichten Curatore der dato nicht beygekommenen <rs type="person" ref="#tratter_veit">Veit</rs>, <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterischen</rs> Hauptstollen vorzuhalten, welche sich hierüber</p>
+            <p>
+               <pb n="478r"/>
+            </p>
+            <p>dahin geäusseret haben, sie können sich einsmals nicht so gleich entschliessen, dieses, was <rs type="person" ref="#hueber_christian">Christian Hueber</rs> ausgesagt, für einen würklichen lesten Willen anzuerkenen; wurde also nichts anderes zu erfinden seyn, so werden sie nach beschehener Vermögens Ergänzung ihr Erklären ad protocollum geben, indessen solle alles unpraejudiziert in suo esse beruhen, deme der <rs type="person" ref="#peintner_georg">Georg Peintner</rs> in proprio beyzusetzen gebetten, er habe das nämliche, was <rs type="person" ref="#hueber_christian">Christian Hueber</rs> ausgesagt, ebenfalls von geistlichen Herrn Erblasser vernommen, wolle aber seine Pupällen andurch nicht Nachtheilliges reden.</p>
+            <p>
+               <pb n="478v"/>
+            </p>
+            <p>[Rubrum:] 1792</p>
+            <p>Anzeige</p>
+            <p>des <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesners zu <rs type="place" ref="#st_georgen">St. Georgen</rs>, was für eine letzte Willens Meynung der alldort verstorbene hochehrwürdige Herr Kapplan <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> ihme eröffnet habe.</p>
+            <p>
+               <pb n="479r"/>
+            </p>
+            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> in der Kapplaney Behausung den <date when="1792-11-13">13ten November 1792</date>
+                </p>
+            <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
+            <p>Zugegen des wohl geachten <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Mühlermeisters, und Landgerichts Ausschus allda als zugezohenen Taxatore, und Beysitzer.</p>
+            <p>[Marginalzuschreibung:]<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Gesamte Zuschreibung am linken Rand eingetragen.</hi>
+                  </p>
+               </note>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Unkosten für Secretur loblicher Obrigkeit</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Gerichtschreiberey</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Tanig</cell>
+                  <cell>1 f 18 x</cell>
+               </row>
+               <row>
+                  <cell>Pferdlöhner</cell>
+                  <cell>
+                     <p>1 f 0 x</p>
+                     <p>48 x</p>
+                     <p>30 x</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Handlung ab 3. Täg jedem Tag der Gerichtsverhandlung a 8 f 6 x</cell>
+                  <cell>24 f 18 x</cell>
+               </row>
+               <row>
+                  <cell>Pferdlöhner</cell>
+                  <cell>
+                     <p>1 f 30<note>
+                           <p rend="footnote text"> 
+                              <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
+                           </p>
+                        </note> x</p>
+                     <p>44<note>
+                           <p rend="footnote text"> 
+                              <hi rend="italic" xml:space="preserve">Zweite </hi>4 <hi rend="italic">korrigiert aus</hi> 8.</p>
+                        </note> x</p>
+                     <p>49<note>
+                           <p rend="footnote text"> 
+                              <hi rend="italic">Korrigiert aus</hi> 30.</p>
+                        </note> x</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Verpflichtung</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Siglgelder</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Für 2 Protokollirungen</cell>
+                  <cell>2 f 4 x</cell>
+               </row>
+               <row>
+                  <cell>Lobliche Obrigkeit für sonst vielfälltige Mühewaltung</cell>
+                  <cell>4 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Actuario</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>[Summa]</cell>
+                  <cell>48 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Dt. <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> als Gemeinschaftführer, und ausgetheilt.</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>Den 14ten vorigen Monats October ist der hoch ehrwürdige Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewester Kapplon allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> der Pfarr <rs type="place" ref="#gais">Gais</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> nach einer kurz ausgestandenen Krankheit gottseelig verschieden. Auf solchen Todtfall wurde nicht nur von Ihro Hochwürden Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> auf gnädige Decanal Anweisung all das jenige, was an zur Seelsorge, und auch unmittelbar anderen geistlichen Verrichtungen <hi rend="strikethrough">der</hi> gehörigen<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile korrigiert.</hi>
+                  </p>
+               </note> Schriften verhanden, obsigniret, sondern auch von gedachter Landgerichts Obrigkeit den 15ten darauf an nöthigen Orten die Secretur angeleget: Weilen nun am dato für den hochehrwürdigen Herrn</p>
+            <p>
+               <pb n="479v"/> Ableiber der dreysigst Heilige Gottesdienst abgehalten worden, so hat mehr besagte Landgerichts Obrigkeit hierauf vor allen Ihro Hochwürden Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> die von wohl demselben obsignirte Schriften extradiret, sodann die landgerichtliche Secretur in Gegenwart hienach einkommender Erbs Interessenten abgenommen, und in den Behältnissen nachgesuchet, obe nicht etwo eine schriftliche lestwillige Verordnung verhanden, worvon man aber nichts zu Gesicht gekommen, wohl hingegen hat der alldaige Mesner <rs type="person" ref="#hueber_christian">Christian Hueber</rs> angezeiget, was er von dem hochwürdigen Herrn Erblasser, wie dieser zu disponiren gesinnet seye, vernommen habe, diese Anzeige wurde dahero sonderbar zu Protokoll gebracht, und denen Partheyen am dato eröffnet. Auf diesen Erfolg haben die Erbs Interessenten, als des Herrn Erblassers Geschwistern, und respective deren Nachkömmlinge, nämlichen</p>
+            <p>
+               <pb n="480r"/>
+            </p>
+            <p>1: der wohl ehrwürdige Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> Cooperator zu <rs type="place" ref="#lazfonns">Latzfons</rs>, dann</p>
+            <p>2: <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, Tratter allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Stadtgerichts <rs type="place" ref="#brunegg">Bruneck</rs>, weiters</p>
+            <p>3: <rs type="person" ref="#tratter_maria">Maria Tratterin</rs> verwittwete Pifraderin Prantlechnerin daselbs in assistentia des wohl ehrsamen <rs type="person" ref="#felser_joseph">Joseph Felsers</rs> halben Kaltenhausers allda, nicht weniger</p>
+            <p>4: der auch wohl ehrsame <rs type="person" ref="#peintner_georg">Georg Peintner</rs> Kachler Würth daselbs als obrigkeitlicher verpflichten Curatores nicht nur der von Bruder <rs type="person" ref="#tratter_veit">Veit Tratter</rs> gewesten Weisgärbermeister zu <rs type="place" ref="#stoerzing">Störzing</rs> bey <rs type="person" ref="#tratter_anna">Anna gebohrnen Ofnerin</rs> nachgelassenen 8 Kindern, deren Nämen allda vorbehalten, wovon nur sie Wittib gegenwärtig, sondern auch</p>
+            <p>5to: der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> einer Wittwe in Borgo nächst Reveredo, und</p>
+            <p>6to: der von weilend <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> in Pasen, oder selber Gegend ruckbegebenen Descendenten</p>
+            <p>eine lobliche Landgerichts Obrigkeit weiters ersuchet unter einen mit der Verlassenschafts Abhandlung fürzugehen,</p>
+            <p>
+               <pb n="480v"/>
+            </p>
+            <p>deme man auch willfahret, und sohin der Anfang gemachet worden mit folgender</p>
+            <p>Inventur.</p>
+            <p>Nämlichen an</p>
+            <p>Baarschaft.</p>
+            <p>In dem Schlafzimmer, und zwar in dem Pult befinden sich in einer hölzenen Bichs</p>
+            <table rend="rules">
+               <row>
+                  <cell>36 Kayserliche, <rs type="place" ref="#salzburg">Salzburger</rs>, und Conventions Thaler a 2 f 6 x</cell>
+                  <cell>75 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>56 deto Guldiner a 1 f 3 x</cell>
+                  <cell>58 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>20 halbe deti a 31½ x</cell>
+                  <cell>15 f 45 x</cell>
+               </row>
+            </table>
+            <p>In Pult Tädl</p>
+            <table rend="rules">
+               <row>
+                  <cell>4 ganze Kronen Thaler a 2 f 22¾ x</cell>
+                  <cell>9 f 31 x</cell>
+               </row>
+               <row>
+                  <cell>7 Stuck a 18 x</cell>
+                  <cell>2 f 6 x</cell>
+               </row>
+               <row>
+                  <cell>Weiters seynd in einen Pappier 37 f ½ x eingewickelt erfunden worden, welche aber als ein Depositum der <rs type="person" ref="#lechner_anna">Anna Lechnerin</rs> bey Herrn Puel in <rs type="place" ref="#brunegg">Bruneck</rs> in Diensten gehörig, auch deroselben wiederum ausgehändiget worden pr Bht.</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="481r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Summa der einsmals erfundenen Baarschaft</cell>
+                  <cell>161 f 46 x</cell>
+               </row>
+            </table>
+            <p>Diese Baarschaft ist in vorangemelten Pult wiederum versperrt, und der Schlüssel hierzu einsmals dem wohlehrwürdigen Herrn <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> behändiget worden pr Bericht.</p>
+            <p>Silbergeschmeid.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Baar schlecht silberne Schuch- und Hossen Schnallen<note>
+                        <p rend="footnote text"> -n- <hi rend="italic">aus vermutlich</hi> -d- <hi rend="italic">korrigiert.</hi>
+                        </p>
+                     </note>
+                  </cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Baar schlechtern deto</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>1 silberen Sack Uhr <hi rend="strikethrough">so alt</hi> mit doppelten Gehäuss, doch schon abgenutzt</cell>
+                  <cell>7 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Macht das Silber Geschmeid</cell>
+                  <cell>9 f 42 x</cell>
+               </row>
+            </table>
+            <p>
+               <hi rend="bold">Bücher.</hi>
+            </p>
+            <p>Diese werden, weilen selbe schon alt, und dermalen nicht mehr gangbar, 4 f 30 x geschätzet, und dem Mit-</p>
+            <p>
+               <pb n="481v"/>
+            </p>
+            <p>erbnemmenden geistlichen Herrn Bruder mit den <hi rend="bold">alten Breviren</hi> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
+            <p>Haus Fahrnussen.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Spann <hi rend="strikethrough">Pöthschath</hi> Pöthstath auf Fournir-Art angestrichen pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Darin</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1 Strosack</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 Überböth samt Bolster, und Kis mit innern Zwilch, aussern blau köllischen Ziech wiegt 21 Pfundt a 20 x</cell>
+                  <cell>7 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Unterböth, so schlecht, samt einen Bolster wiegt 23 Pf. a 12 x</cell>
+                  <cell>4 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>2 schlechte rupfene Leilacher</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 weiser Fenster Fürhang</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>6 grössere, und etwas kleinere Tafel samt einen kleinen Spiegl</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 zinnens Weihbrun Krügl, und 1 Gewandt Birst</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Das Pult, worein die Baarschaft aufbewahrt</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>15 f 42 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="482r"/>
+            </p>
+            <p>In des Herrn Erblassers Wohnzimmer.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 blau angestrichene schlechte Spannböthstath</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1 Strosack</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 Überböth samt dem Bolster mit innern Zwilch, aussern köllischen Ziechen wiegt 17 Pf. a 21 x</cell>
+                  <cell>5 f 57 x</cell>
+               </row>
+               <row>
+                  <cell>1 Unterböth samt 2 Bölster wiegt 20 Pf. a 15 x</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Englische Decken</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>1 schlechtes Leilach</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>1 braunes Tischl samt Schubtädl mit blauen Gstindl</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 gründes Tischl samt Schublädl</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1 schlechtes Tischtüchl samt 1 Tisch Serviet, 2 Gabl und 1 Messer, dann 1 mettallener, und 1 bainener Löfl, auch 1 zinnens Salzbichsl</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>14 f 36 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="482v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>3 grüne Sessel pr</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>1 grün angestrichener Comode Kasten mit 4 Tatten</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>4 grössere und 3 kleinere Stro Täller, auch 2 Gämbs Hörnlen</cell>
+                  <cell>5 x</cell>
+               </row>
+               <row>
+                  <cell>1 aufstehendes grün angestrichenes Kästl mit vielen Schubtädlen</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>5 Baar Caffe Schaalen von Majolica samt 2 deto Caffe, und ein Milch Kändele, dann 1 mettallens Löfele, und ein laquirte Tätze von Blech</cell>
+                  <cell>1 f 15<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>1 messingene Schlag Uhr samt die Gewichter</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2 Tabiletlen, und 1 Perspectiv Rohr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>8 weise Fenster Fürhäng samt die Rämblen</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 kleines härt holzens Kästl mit zerschiedenen Tädlen</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>1 Weihbrun Krügl von Gürtler Arbeit</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>15 f 2 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="483r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 blechens Ämpele</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>1 Cruxifix pr</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Maria Hilf Bild von Wachs in einen Kästl samt einen Glas</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Die übrige Gemählde, und Heiligkeiten samt denen Spiegl Täfelen wird geschätzet pr</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+            </table>
+            <p>Auf dem Saal.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 aufstehendes Speis Kästl von 4 Tadten</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Fürbank, ein Lainstuhl, ein blechens Öel Kändele, und ein Wasser Krug</cell>
+                  <cell>15 x</cell>
+               </row>
+            </table>
+            <p>In der aussern Stube.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 feichtens Tischl</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>5 blaue Sessl</cell>
+                  <cell>2 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>3 grüne Lainstühl</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 silberfarb angestichener Kasten</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>10 f 33 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="483v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 ganze, 2 halbe, und 1 Stingl Putel</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 doppeltes, und 2 einfache Carvinlen</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>1 Wasser- und 10 Wein Glässer, ein Rosoli Gläsl, und ein glässerens Salzbichsl, auch 1 Opfer Wein Gläsl</cell>
+                  <cell>26 x</cell>
+               </row>
+               <row>
+                  <cell>1 Glas mit einen Schraufen, und 3 andere Gläser</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>1 zinnens Weihbrun- und ein Salz Bichsl, auch 1 deto Becherle, dann 2 Baar Messer, und Gabl, ein bainener, und 1 <hi rend="strikethrough">silber</hi> mettallener Löfl.</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 zinnens Giesbecket von 6 Pfund a 18 x</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>2 grössere, und 2 kleinere Wasserburger Krüg mit zinnen Luckern</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>2 Meolica Suppen Schüssel samt die Lücker, und 2 deto Täller</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 blechene Zugger- und Gewürz Bichs, ein braune Caffe Kandl, und 1 schlechtes Ämpele</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>4 f 12 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="484r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>3 Wein Trächterlen</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell>1 Caffe Mühl, und 1 kupferene deto Kandl</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>3 Eggerer Flaschen</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>2 grosse Glässer, wovon eines mit Schraufen</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>2 mettallene, und 1 messinger Leichter, auch 2 Rohr Leichter</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>1 Bögl Eisen samt 2 Stächl</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 rothes Täller Rämbl samt vier hölzenen Täller</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>1 fournirtes Schreib Pult samt dem Gstindl</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>1 Christl Kindl solle der Jungfrau geschenkt worden seyn pr Bht.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>3 f 28 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="484v"/>
+            </p>
+            <p>Continuatum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-14">14ten November 1792</date>
+                </p>
+            <p>Vor und zugegen ut ante.</p>
+            <p>Wurde in praesentia partium weiters fürgefahren mit der Mobilien Beschreibung und zwar in der</p>
+            <p>Stuben Kammer</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Spann Böthstath</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1 Überböth samt 3 Kisser nebst denen erforderlichen Ziechen wägt 17½ Pf. a 24 x</cell>
+                  <cell>7 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Unterböth samt 1 Bolster wägt 25 Pf. a 10 x</cell>
+                  <cell>4 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>2<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> schlechte Englische Decken</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 alte Gewandt Truch samt Schlos, und Band</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>1 gar schlechtes Tischl</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>1 aufstehender grosser Gewandt Kasten mit 2 Thürlen</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>22 zinnene Täller, 15 grössere und kleinere deto Suppen Schüssel wägt zusammen 42 Pf. a 22 x</cell>
+                  <cell>15 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>9½ Pf. Harreisen a 20 x</cell>
+                  <cell>3 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>33 f 4 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="485r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>9 Pfund unterschiedliches Garren auf 14 Spuelen a 10 x</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Baar härbene Leilacher mit gleichen Spitz,</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>1 Baar schlechtere deto mit weisen Fransen, und groben Spitzen</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>1 rupfens Leilach mit rothen, und weisen Fransen</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>3 Baar bereits neüe leichhächlene Leilacher</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>1 klug gewegtlts Tischtuch</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>1 groberes deto</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>1 schlechtes Tischtuch mit weisen Fransen</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>5 geweglte Handtücher</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>7 bessere und schlechterre Tischservieter a 4 x</cell>
+                  <cell>28 x</cell>
+               </row>
+               <row>
+                  <cell>6<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>5.</p>
+                     </note> rupfene Handtücher</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>1 rupfene Böthziech</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>4 färbene Böthziechlen</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>1 Englisches Tischdeckl</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>1 köllisches Bolster Ziechl, 2 alte rupfene Tischtüchlen, und 1 alter Sack</cell>
+                  <cell>23 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>10 f 12 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="485v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Bretter Spiel, worinn 6 Baar Messer, und Gabl, und 2 mettallene Löfl<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Erstes</hi> L- <hi rend="italic" xml:space="preserve">korrigiert aus </hi>M-.</p>
+                     </note>
+                  </cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>1 Gold Wägele samt die Gewichter</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>34 Ell kluges Halb Tuch a 24 x</cell>
+                  <cell>13 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>19 Ell härbens Tuch a 20 x</cell>
+                  <cell>6 f 20 x</cell>
+               </row>
+               <row>
+                  <cell>17 Ell rupfens Tuch a 15 x</cell>
+                  <cell>4 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>2½ Ell blauer Köllisch a 26 x</cell>
+                  <cell>1 f 5 x</cell>
+               </row>
+               <row>
+                  <cell>1 schlechte Couvert Deck</cell>
+                  <cell>18 x</cell>
+               </row>
+            </table>
+            <p>In der Kuchl.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Feyr Hund, und 1 eisener Hertpfanknecht</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 eisener Brätl Bratter samt die Sailler</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>1 Wasser Schaff, und 1 Ker Tädl, auch 1 Ofen Gabl</cell>
+                  <cell>10 x</cell>
+               </row>
+            </table>
+            <p>In Speisgewölb.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Fleisch Beil, und 1 Prägs</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>1 Häring Rost, und 1 kupferene Schnecken Pfann samt einer eisenen Platten</cell>
+                  <cell>1 x</cell>
+               </row>
+               <row>
+                  <cell>3 Brodfleggen, ein Nudl- und 1 Essen- auch 1 Kräutle Brett</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>29 f 32 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="486r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Schmalz Stötzl, ein Fürbank, ein Zist, und 8 erdene Häfelen</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>1 gloggspeisens Häfele von 6½ Pfund a 30 x</cell>
+                  <cell>3 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>2 gloggspeisene Merscherlen samt die Stempl von 8½ Pf. a 10 x</cell>
+                  <cell>1 f 25 x</cell>
+               </row>
+               <row>
+                  <cell>1 kupferene Pfefer Pfann</cell>
+                  <cell>
+                     <p>
+                        <hi rend="strikethrough">24 x</hi>
+                     </p>
+                     <p>Spricht der Bruder <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> als ein Eigenthum an pr Bht.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>2<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> Bratspiss, und 2<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> Träf Testlen, auch 1 Hainzl</cell>
+                  <cell>26<note>
+                        <p rend="footnote text"> 6 <hi rend="italic">korrigiert aus</hi> 0.</p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>5 mittere, und 2<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> Schmälz Pfändlen</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>2 messingene Pfändlen</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>1 Wasser- 1 Schöpf, 2 Dirchling Kellelen, 2 Eisen Löfl, 2 Mueserlen, ein Fleisch Gabl, ein Kiechl Spis, und 1 Tisch Pfanknecht</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>2 Henig- und 2 Milch Häfelen, auch 2 andere Häfelen</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Bey 25 stainene Schüssel, und deto Tällerlen</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>2 Seichgätzlen, ein Strauben Laur, 1 plechens Testl, ein Wursterle, 1 blechens Salz- und 1 andere deto Bichs, und 2 Wieg Messer, auch 1 Rieb Eisen</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>8 f 9 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="486v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Brodgrambl samt dem Messer, ein Feyrklupp, ein Raifmesserle, 2 Dreyfüsslen, 2<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> Streicher, und 9 Hafen Blättlen</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>1 Schnöll Wag pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 Fuskeserle von 7 Pf. a 10 x</cell>
+                  <cell>1 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>1 kupferener Sechtkessl von 16½ Pf. a 18 x</cell>
+                  <cell>4 f 57 x</cell>
+               </row>
+               <row>
+                  <cell>2 Brodram, ein alter Tisch, und ein Kellkärl</cell>
+                  <cell>20 x</cell>
+               </row>
+            </table>
+            <p>In der Holz Stube.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Truch mit Schlos, und Band gleich einen Felleisen</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Darinn</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Bey 8 Pf. Werch a 3 x</cell>
+                  <cell>24 x</cell>
+               </row>
+            </table>
+            <p>In Wein Keller.</p>
+            <table rend="rules">
+               <row>
+                  <cell>5 Pfund Speck a 14 x</cell>
+                  <cell>1 f 10 x</cell>
+               </row>
+               <row>
+                  <cell>48 Pf. gesottenes Schmalz a 12 x</cell>
+                  <cell>9 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>30 Pf. Hönig a 10 x</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>12 Yhrn Staatgschirr a 10 x</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2 Bachmitten, ein Schmalz Stötzl, und 3 Wein Pippen</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>27 f 33 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="487r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>1 Schmalz Kibl und 1 erdener Hönig Hafen</cell>
+                  <cell>18 x</cell>
+               </row>
+            </table>
+            <p>In Kraut Keller.</p>
+            <table rend="rules">
+               <row>
+                  <cell>2 Kraut Potichen, und 2 Wäschzüber</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>1 Wasser Spritzer mit 1 blechen Kolben, ein Wasserschaff, ein Stötzele, und ein anderes hölzens Gschirrl, auch 1 Eisen Schaufl</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>1 Spinrad, 1 Garren Haspl, und 2 Fuss Bänklen</cell>
+                  <cell>26 x</cell>
+               </row>
+               <row>
+                  <cell>15 Bey Fasslen, so von denen Erben ohne Tax belassen worden pr Bht.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>2 f 2 x</cell>
+               </row>
+               <row>
+                  <cell>Machen die Haus Fahrnussen</cell>
+                  <cell>174 f 5 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="487v"/>
+            </p>
+            <p>Ruck- und Leibkleider.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1 blauer Mantl, ein deto Caput- und ein anderer Rock pr</cell>
+                  <cell>15 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2 schwarze Röck, und 4 deto abgetragene Kamiseller</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>1 grünzeigener Schlaf Rock</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>2 Baar plurschene, ein Baar zeigene, und 3 Ledernen Hossen</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>5 Baar schwarze schlechte Strimpf</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2 Baar Unterstrimpf, und 2 Schlafhauben</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>1 violet seidens Tüchl, und 2 schlechte andere Schnupftüchlen</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>5 bessere und 9 schlechtere härbene Hembder</cell>
+                  <cell>2 f 30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="488r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Betragen die Ruck- und Leibkeider [sic!]</cell>
+                  <cell>31 f 30 x</cell>
+               </row>
+            </table>
+            <p>Zusamenziehung gesamter Beschreibung, als</p>
+            <table rend="rules">
+               <row>
+                  <cell>An Baarschaft</cell>
+                  <cell>161 f 46 x</cell>
+               </row>
+               <row>
+                  <cell>Silbergschmeid</cell>
+                  <cell>9 f 42 x</cell>
+               </row>
+               <row>
+                  <cell>Haus Fahrnussen</cell>
+                  <cell>174 f 5 x</cell>
+               </row>
+               <row>
+                  <cell>Ruck- und Leibkleider</cell>
+                  <cell>31 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Summarum gesammter Inventur, so vielen in Auswurf gekommen</cell>
+                  <cell>377 f 3 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="488v"/>
+            </p>
+            <p>Continuatum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-15">15ten November 1792</date>
+                </p>
+            <p>Vor und zugegen ut supra.</p>
+            <p>Ist man mit der würklichen Ergänzung in Gegenwart, wie einkommen, weiters fürgeschritten, und bestehet in folgenden das</p>
+            <p>Vermögen.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Wie vor zu sehen betragt die Baarschaft, dann Silber Geschmeid, und übrige Haus Fahrnussen, auch Ruck- und Leibkleider in Summa</cell>
+                  <cell>377 f 3 x</cell>
+               </row>
+            </table>
+            <p>Schulden herein.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Nach Inhalt dem auf Ableiben des Herrn Erblassers Mutter der tugendsammen <rs type="person" ref="#tratter_maria_2">Maria gebohrnen Kammererin verwittibten Tratterin</rs> allda vor der loblichen Stadtgerichts Obrigkeit zu <rs type="place" ref="#brunegg">Bruneck</rs> untern <date when="1791-04-28">28ten April 1791</date> vorgegangenen Erbstheillung hat es dem nun mehro Verstorbenen geistlichen Herrn Sohn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> an solch mütterlichen Erb 628 f 37 x, und sonderbar Particular</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="489r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Begehren laut der Schulden hinaus 202 f 0 x mithin zusammen 830 f 37 x betroffen, worum er selber bey seiner Schwägerin, und Hauptvermögens Schuldnerin <rs type="person" ref="#tratter_margaretha">Margaretha gebohrnen Mayrin verehelichten Tratterin</rs> in alten Rechten angewiesen worden, id est</cell>
+                  <cell>830 f 37 x</cell>
+               </row>
+               <row>
+                  <cell>Ausser diesen bekennt sie <rs type="person" ref="#tratter_margaretha">Margaretha verehelichte Tratterin</rs> in Fusstapfen ihres Ehewürths <rs type="person" ref="#tratter_mathes">Mathias Tratters</rs> die von dem <rs type="person" ref="#pifrader_andree">Andrä Pifrader</rs> Prantlechnerischen Absteheungs Begehren herrührende 200 f noch allhero schuldig zu seyn, id est</cell>
+                  <cell>200 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Der Zins von diesen 2 kapitalischen Unterschieden ist auf Georgi mit 3 p.c. bedungen, und auf verwichen Georgi dies Jahrs bezahlt pr Bht.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                            <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Häuslmayr allda bekennt mitlst an die lobliche Landgerichts Obrigkeit erstatteten Hand Anloben allher schuldig zu seyn Darlehen</cell>
+                  <cell>350 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zins davon auf verwichen Sonnebend dies Jahrs zu 3 p.c. ab 1 Jahr</cell>
+                  <cell>10 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>1391 f 7 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="489v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                            <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs> ist vermög dato mit selben beschehener Abrechnung noch entlich schuldig verblieben</cell>
+                  <cell>22 f 47 x</cell>
+               </row>
+            </table>
+            <p>Obiger <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> hat denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kindern zu <rs type="place" ref="#stoerzing">Sterzing</rs> an der noch betroffenen änderlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Erbschaft pr 228 f 34 x auf erhaltene Übergab 200 f vorgestrecket, worumen sich geistlicher Herr Erblasser übershin unter eigenen Handschrift und Petschaft als Bürg eingelassen, welches allda mit deme Berichtsweis angeführet wird, das respectu der übrigen 28 f 34 x die Schuldnerin <rs type="person" ref="#tratter_margaretha">Margaretha Mayrin Tratterin</rs> selbs 21 f denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kindern mitlst bezahlten <rs type="person" ref="#herrnegger_johann">Johann Herrneggerischen</rs> Interessen schon gut gemachet, mithin sie <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder bey der Tratterin noch 7 f 34 x zu begehren haben.</p>
+            <p>Erstgemelte <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder haben auf Credit des geistlichen Herrn Erblassers sel. von <rs type="person" ref="#kammerer_joseph">Joseph Kammerer</rs> gewesten Grienbachers zu <rs type="place" ref="#kiens">Kiens</rs> ein Mast Rindl in Werth</p>
+            <table rend="rules">
+               <row>
+                  <cell>Latus per se.</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="490r"/>
+            </p>
+            <p>pr 49 f erhalten, und ist dahero diese 49 f Herr Erblasser dem Grienbacher schuldig worden hierann auf Verlangen denen <rs type="person" ref="#kammerer_joseph">Joseph Kammererischen</rs> Erben um 10 f Heilige Messen gelesen worden, so das gegenwärtige Verlassenschaf noch 39 f schuldig verbleibet, dieses hat also seine Richtigkeit, und solle unter nachstehenden Schulden hinaus der behörigen Abzug beschehen. Es ist aber nur noch die Frag, obe die <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kinder gemelte 49 f noch allda zu ersetzen haben, dann die gegenwärtige <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Wittwe <rs type="person" ref="#tratter_anna">Anna gebohrne Ofnerin</rs> meldet, sie habe vor der Schwieger Mutter <rs type="person" ref="#tratter_maria_2">Maria gebohrnen Kammererin</rs> sel. ein Legat pr 50 f erhalten, welch diese 50 f der geistlichen Herrn Erblaser sel. anstatt ihrer eingenommen, oder wenigstens auf eine andere Art demselben vergütet worden seyen. Da aber in der verhandenen <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Erbstheillung von diesem Legat keine Meldung zu erlesen, viel weniger eine andere Auskunft zu erheben, so erwarten die übrigen Erben von der Schwägerin <rs type="person" ref="#tratter_anna">Anna Ofnerin</rs> eine bessere Prob, und wird also diese Post bis dahin suspenso belassen.</p>
+            <p>Nach diesen hat die verwittwete Tratterin Frau <rs type="person" ref="#tratter_anna">Anna gebohrne Ofnerin</rs> sich an lobliche Obrigkeit zu Bruneck gewendet, und von der dortig loblichen Stattschreiberey die in Sachen eingehollte</p>
+            <p>
+               <pb n="490v"/>
+            </p>
+            <p>Auskunft mit deme eröffnet, es seyen ihre, nämlich die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder zum mütterlichen, und respective ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Vermögen eben nur wegen der Grienbacherischen Ochsen Schuld 400 f zum Vermögen zu conferiren schuldig gewesen, weilen sie ansonst nur 350 f zu conferiren gehabt hätten, hingegen hätte in der ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Abhandlung solche 50 f wiederum pr Schuld hinaus eingetragen werden sollen; Um aber dieses zu verhüten, und keine Irrung zu machen, habe sich der geistliche Herr Bruder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> seel. in das Mittel geleget, und diese Schuld alleinig zu entgelten übernommen. Bey so angebrachter Beschafenheit wurde der Frau <rs type="person" ref="#tratter_anna">Anna verwittweten Tratterin</rs> Glauben beygemessen, mithin die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder von dieser Ansprache entlediget.</p>
+            <p>
+                    <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> ein Tratter Sohn allda hat von Herrn Ableiber zu Anfangs Monat September 40 f zu Anlechen empfangen, mit der Kreide findet man noch diese Schuld aufgeschrieben, dieser entschuldiget sich aber diese 40 f in kurzer Zeit wiederum zurück gezahlet zu haben, Bedenkhen scheinet aber doch die Sach von darumen zu seyn, weilen dieses Geld nicht zu erfinden, und die Kreiden Note noch unausgelöscht ist, es kommet also noch auf dieses an, obe der <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> noch weiters auf seinen Vorgeben beharren werde pr Bericht.</p>
+            <p>
+               <pb n="491r"/>
+            </p>
+            <p>Belangend die Kapplaney Gefälle, hat der hoch ehrwürdige Herr Ableiber nur<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                  </p>
+               </note> 
+               <hi rend="strikethrough">die</hi> einen<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile korrigiert.</hi>
+                  </p>
+               </note> hochfreyherrlichen v. Sternbachische <hi rend="strikethrough">und geistlichen Herrn Mutschlechnerische</hi> Stift Mess dieses Jahr gelesen, und doch nicht nur für diese, sonder auch für die andere Sternbachische Stiftmess, und Herrn Mutschlechnerischen Jahrtag die völlige Gebühr pr 4 f 12 x, einfolgsam um 2 f 42 x zu viel empfangen. Auf gleiche Weis hat wohl derselbe auch einschlüsslich Quartal Crucis die übrigen Einkünfte, und noch darzu auch für das Quartal Luciae vorhinein 40 f erhalten, so das alldaige Verlassenschaft, weilen Herrn Erblasser an lesten Quartal nur 2 Wochen erlebet, auch an diesem dem Herrn Successor von 11 Wochen die Gebühr pr 33 f <hi rend="strikethrough">8½</hi>
+               <note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Davor</hi> s- <hi rend="italic">oder</hi> d- <hi rend="italic">begonnen, aber getilgt.</hi>
+                  </p>
+               </note> 50 x, mithin in allen 36 f 32 x zu ersetzen habe, so hienach pr Schuld hinaus einzutragen komet pr Bht.</p>
+            <p>Hingegen, da laut sonderbaren Protokolls von gestrigen dato die alldaige Nachbaurschaft den Bstandzins von<note>
+                  <p rend="footnote text"> v- <hi rend="italic">korrigiert aus</hi> d-.</p>
+               </note> Keselanger einschlüsslich der 1791ten Benutzung dem Herrn Erblasser zugeeignet, und hieran noch einige Restanten sich befinden, als werden solche allda zum Vermögen beschrieben, und ist noch ausständig</p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                            <rs type="person" ref="#pifrader_paul">Paul Pifrader</rs> Bartlmayr von dem 1791ten Nutzen</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Latus per se.</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="491v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Und <rs type="person" ref="#unterwolfsgrueber_sebastian">Sebastian Unterwolfsgrueber</rs> Raderbaur nur<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Nachgetragen.</hi>
+                        </p>
+                     </note>
+                  </cell>
+                  <cell>4<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 8.</p>
+                     </note> f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Betragen die Schulden herein</cell>
+                  <cell>1425 f 54 x</cell>
+               </row>
+               <row>
+                  <cell>Summarum des ganzen und völligen Vermögens</cell>
+                  <cell>1802 f 57 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="492r"/>
+            </p>
+            <p>Dargegen seynd verhanden diese</p>
+            <p>Abzüg, und Schulden hinaus.</p>
+            <p>Der Funeral Conto bestehet in folgenden, als</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ihro Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> auch gewesten Kapplon allhier anno 1773 bezahlt worden</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Für den gewohnlichen Jahrtag mit Seel- und Lobamt, Vigill, und das ganze Jahr Bitten</cell>
+                  <cell>2 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>Deme Herren Herren Cooperatore zu <rs type="place" ref="#gais">Gais</rs> für Conduct, und Vigilien</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr demeselben für Jahrtag Vigill</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Cantor für Conduct, Vigilien, und Ämter</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Aber deme für den Jahrtag</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Mesner zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einschluss des Jahrtags</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr demselben für 3 Tag- und Nachtwachen</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>21 f 9 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="492v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Bey denen Exsequien seynd 10 extra Heilige Messen gelesen worden, gebiehrt von jeder dem Mesner sonderbar 3 x,</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Dann hat selber beygeschaffen ein altes Trinkl Baum Oel</cell>
+                  <cell>13 x</cell>
+               </row>
+               <row>
+                  <cell>Item für ¼tl Pfund Weihrauch</cell>
+                  <cell>9 x</cell>
+               </row>
+               <row>
+                  <cell>Und demjenigen Knaben, so das Kreützl getragen, und kein Mahl genossen, hat er erlegt</cell>
+                  <cell>10½ x</cell>
+               </row>
+               <row>
+                  <cell>Dem Sohn des Mesners, welcher eigens nacher <rs type="place" ref="#lazfonns">Latzfons</rs> geschicket worden, über Empfang 1 f 12 x, so von der nachgelassenen Baarschaft deme bestellet worden, noch</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>Bey denen Exsequien seynd, wie ob verstanden 10 Heilige Messen gelesen worden <hi rend="strikethrough">a 36 x</hi> 
+                     <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-24</hi> 
+                           <hi rend="italic">Nachgetragen.</hi>
+                        </p>
+                     </note>als drey von denen P. Cap[uzinern] a 36 x<hi rend="superscript">24</hi>
+                  </cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Und denen übrigen Freunden Priestern 4 Applicationes a 30 x</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und dem Herrn Miterb <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> für 7 Applicationes a 30 x</cell>
+                  <cell>3 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>9 f 14½ x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="493r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Wärend Herr Ableiber in Baad ware, hat der Priester Herr <rs type="person" ref="#rainer_peter_paul">Peter Paul Rainer</rs> zu <rs type="place" ref="#brunegg">Bruneck</rs> 6 Stiftmessen allda gelesen, und appliciret, und noch zu begehren</cell>
+                  <cell>3 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>Herr Doctor Defrenes für gemachte Visit, und verschriebene Recepten</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>In die Stadt Apoteck zu <rs type="place" ref="#brunegg">Bruneck</rs> an Medicamenten</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Bader alldort Johann Mutz samt ausständigen Barbierer Lohn, und einschlüsslich 1 f 12 x Trinkgeld für den Gesellen</cell>
+                  <cell>11 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Müllermeister für <hi rend="strikethrough">2</hi> etwelche mal hergelichenen Wägele</cell>
+                  <cell>2<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Der Jungfrau Heissererin <rs type="person" ref="#peintner_anna">Anna Peintnerin</rs> für alles, was indessen zum Hauswesen beygeschaffen worden</cell>
+                  <cell>2 f 26 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr dieser Lidlohn ab 4 Jahr a 10 f thut 40 f, hieran hat selbe bereits 8 f erhalten, Rest noch</cell>
+                  <cell>32 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und für Klaggewandt, oder angesprochenen Pöth werden derselben vergütet</cell>
+                  <cell>15<note>
+                        <p rend="footnote text"> 5 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>8.</p>
+                     </note> f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Geistlicher Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> hat der <rs type="person" ref="#lechner_anna">Anna Lechnerin</rs> bezahlt</cell>
+                  <cell>3 f 6½ x</cell>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>72<note>
+                        <p rend="footnote text"> 7 <hi rend="italic">korrigiert aus begonnener</hi> 6.</p>
+                     </note> f 59½ x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="493v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Für die <rs type="person" ref="#herrnegger_johann">Johann Herrneggerische</rs> Übergab hat die <rs type="person" ref="#tratter_veit">Veit</rs>
+                            <note>
+                        <p rend="footnote text"> V <hi rend="italic" xml:space="preserve">korrigiert aus </hi>J.</p>
+                  </note> <rs type="person" ref="#tratter_veit">Tratterische</rs> Wittib <rs type="person" ref="#tratter_anna">Anna gebohrne Ofnerin</rs> in <rs type="place" ref="#brunegg">Bruneck</rs> ausgeleget</cell>
+                  <cell>1 f 27 x</cell>
+               </row>
+               <row>
+                  <cell>Wie anfor bey dem Vermögen Anführen beschehen, hat die <rs type="person" ref="#kammerer_joseph">Joseph Kammerer</rs> Grienbacherische Verlassenschaft zu <rs type="place" ref="#kiens">Kiens</rs> noch zu begehren</cell>
+                  <cell>39 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dann ist man schuldig dem succedirenden Herrn Kapplon an Stiftungs Gefällen, so Herr Erblasser vorhin ein empfangen</cell>
+                  <cell>36 f 32 x</cell>
+               </row>
+               <row>
+                  <cell>Und laut sonderbaren Protokolls von gestrig dato der daselbstigen Kapploney die wegen dem Kesselanger verglichene</cell>
+                  <cell>24 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dann werden zu Bezahlung extra Heilige Messen für den Herrn Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen Herrn Pfarrer zu Gais pr Abzug gebracht</cell>
+                  <cell>80 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#peintner_georg">Georg Peintner</rs> an abgegebnen Wein, dann Zehrung bey der Bestattnus, und dreysigsten</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>180 f 59 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="494r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>auch, so vielen bey gegenwärtiger Abhandlung diesfalls ergehet, in allen</cell>
+                  <cell>84 f 12 x</cell>
+               </row>
+            </table>
+            <p>Was wegen dem Herrn Ableiber in Grab gegebnen Paramenten der Kirche zu vergüten, und allenfalls denen Armen noch zu vertheillen, wird hinach bestimmet werden,</p>
+            <p>Nur mus noch Anmerkung beschehen, das laut allegirter mütterlichen <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Erbs Theillung de dato <date when="1791-04-28">28ten April 1791</date> von der loblichen Stadtgerichts Obrigkeit zu <rs type="place" ref="#brunegg">Bruneck</rs> zur Versicherung der Vorbehalt genommen worden, womit, wann es mit der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> in der Wurge erhalten haben sollende 200 f keine Richtigkeit haben wurde, gesamte Geschwistere, und mithin auch das gegenwärtig Herrn brüderlich <rs type="person" ref="#tratter_joseph">Joseph Tratterische</rs> Erbvermög in Gewehrschaft zu stehen habe.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Für Todten Truch</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Für Todten Kreütz samt einem Kessele</cell>
+                  <cell>17 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Mesner <rs type="person" ref="#hueber_christian">Christian Hueber</rs> werden in Ansehung derselbe dem hochehrwürdigen Herrn Erblasser jederzeit getreüe Dienst geleistet, und sich turchaus</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>[Latus]</cell>
+                  <cell>102 f 24 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="494v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>dienstfertig erzeiget, als ein Regal, und Erkenntlichkeit pr Abzug gebracht</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Der Schwester <rs type="person" ref="#tratter_maria">Maria verwittibte Pfiraderin</rs> Prantlechnerin an nach dem Todtfall des Herrn Erblassers dargegebenen Victualien</cell>
+                  <cell>45 x</cell>
+               </row>
+               <row>
+                  <cell>Dero Sohn für das Aufwarten, und Wachen bis zu dem dreysigsten Heiligen Gottesdienst</cell>
+                  <cell>4 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#peintner_georg">Georg Peintner</rs> sonderbar Pferdlöhner</cell>
+                  <cell>3<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                     </note> f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Dessen 2 Söhnen aber für zerschiedene Mühewaltung</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>
+                     <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-30</hi> 
+                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>Dem <rs type="person" ref="#hofer_georg">Georg Hofer</rs> Stadtmetzer in <rs type="place" ref="#brunegg">Bruneck</rs>
+                        </cell>
+                  <cell>4 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Denen 3 Götlen, als denen 2 Tratter Söhnen <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_bartlmae">Bartlmä Tratter</rs>, dann dem Prantlechner Sohn <rs type="person" ref="#pifrader_peter">Peter Pifrader</rs> jedem 1 Species Thaler a 2 f 6 x</cell>
+                  <cell>6 f 18 x<hi rend="superscript">30</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Und zu Bezahlung gesamter über gegenwärtige Verlassenschafts Abhandlung ergehenden Gerichts- und Schreiberey Unkosten werden gegen haltender Rechnung, und zu gleich Abtilgung anderweiten in Vorschein kommenden Schüldelen hinaus ausgenommen</cell>
+                  <cell>92 f 2<note>
+                        <p rend="footnote text"> 2 <hi rend="italic">über Rasur von vermutlich</hi> 1½ <hi rend="italic">geschrieben.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="495r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Summa gesammter Abzüg, und Schulden hinaus</cell>
+                  <cell>502 f 57 x</cell>
+               </row>
+               <row>
+                  <cell>Verbleibt also einsmals noch Vermögen vorständig</cell>
+                  <cell>1300 f 0 x</cell>
+               </row>
+            </table>
+            <p>Bevor nun die Landgerichts Obrigkeit zu würklichen Erbstheillung schreitten kann, ist von nöthen zu wissen, obe die Erben das von <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda den 13ten dies ad protocollum gegebene so gemeinte Testament des hoch ehrwürdigen Herrn Erblassers als eine würkliche lestwillige Verordnung ja, oder nicht anerkennen wollen, damit sodann die Erbstheillung hiernach reguliret werden könne.</p>
+            <p>Hierauf haben sich die Erbs Interessenten erkläret, sie finden sich in allweg schuldig, sich lediglich nach dem Willen des abgeleibten Herrn Erblassers zu fügen, und sie haben ihme noch in das Grab Dank zu sagen, das er ihrer ingedenkt gewesen, und ihnen dasjenige zurucklassen wollte, was er von seinen Eltern erblich überkommen habe, und es seyn zugleich auch billich, das der Überrest des erhausten Vermögens zu frommen Ziel, und Enden an-</p>
+            <p>
+               <pb n="495v"/>
+            </p>
+            <p>gewendet werde. Um aber einer loblichen Landgerichts Obrigkeit wegen Bestimmung der Erbgelder, und der ad pias causas gemeinten Legaten das behörige anhanden zu geben, weise die schon öfters allegirt mütterliche <rs type="person" ref="#tratter_maria_2">Maria Kammererische</rs> Abhandlung, und zugleich vorige Vermögens Ergänzung, das abgeleibter Herr Bruder am mütterlichen Erb 628 f 37 x überkommen habe; Von seinen Vater <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> aber habe das Erb, über was Herr Bruder sel. in studiis verbrauchet, 400 f noch betroffen. Ohngeachtet nun der Bruder <rs type="person" ref="#tratter_mathias">Mathias Tratter</rs> solch väterlich entliches Erb, weilen nämlich kein Abhandlungsbrief verhanden, nur mit 330 f ansaget, und ohngeachtet allererst die Frag wäre, obe was Herr Bruder sel. in studiis verbrauchet, und deme von väterlichen Erb abzezchn [sic!] worden, nicht doch auch zum ganzen väterlichen Erb hinzuzusetzen, mithin dieses auf 600 f zu berechnen wäre, so haben doch die Erbs Interessenten und Vertrettern das väter- und mütterliche Erb überhaupts auf 1000 f geachtet, und zur Vertheillung fest gesetzet.</p>
+            <p>Es verbleiben demenach gemäs des geistlichen Herrn brüderlichen Willens, welchen nicht nur allein der <rs type="person" ref="#hueber_christian">Christian Hueber</rs>
+                </p>
+            <p>
+               <pb n="496r"/>
+            </p>
+            <p>Mesner bezeiget, sondern auch dem Vernemmen nach noch andere glaubwürdige Männer bezeigen wollen, und mithin auch die Erben für richtig anerkenen, ad pias causas noch 300 f.</p>
+            <p>Mit diesen wollen sie Erben eben wiederum nach dem Willen des Herrn Erblassers folgende Disposition machen.</p>
+            <table rend="rules">
+               <row>
+                  <cell>1mo: Sollen der Kirche zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einbegrif <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-32</hi> 
+                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<hi rend="superscript">32</hi> der dem Herrn Ableiber in das Grab mitgegebnen Paramenten ohne anderweiter Obligation</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>2do: Der alldaigen Kapploney gegen einen jährlich in Monat Oktober abhalten lassenden ewigen Jahrtag gleich der geistlichen Herrn <rs type="person" ref="#mutschlechner_michael">Michael Mutschlechnerischen</rs> Stiftung</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>und 3tio: denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kinderen</cell>
+                  <cell>50 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Weiters zu weiteren extra Heiligen Messen</cell>
+                  <cell>20 f 0x</cell>
+               </row>
+               <row>
+                  <cell>Sonderheitlich dem geistlichen Herrn Miterb <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> zur eigenen Disposition</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dann entlich denen Armen zu <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                        </cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="496v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>allein gemeinet in Brod, Salz, oder Geld zu vertheillen</cell>
+                  <cell>25 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zukommen, das mithin die legata pia noch weiters betreffen</cell>
+                  <cell>300 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Über deren entlichen Hindansetzung verbleibet auch noch entlich geistlichen Herrn brüderliches Erb Vermögen vorständig</cell>
+                  <cell>1000 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Darzu seynd eingangs benamste 6 baidbändige Geschwistere, und respective deren Descendenten als Erben verhanden, und betrift einen zur 6ten Gebühr</cell>
+                  <cell>166 f 40 x</cell>
+               </row>
+            </table>
+            <p>Assignation.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Geistlicher Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> hat gleiches Erb zu begehren</cell>
+                  <cell>166 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Weiters hat wohl selber laut der Abzügen zu haben für 7 Applicationes</cell>
+                  <cell>3 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Dann die der <rs type="person" ref="#lechner_anna">Anna Lechnerin</rs> bezahlte</cell>
+                  <cell>3 f 6 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="497r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Und übernimet weiters abzuführen, oder zu lesen an denen 80 f ruckständigen Heiligen Messen</cell>
+                  <cell>38 f 1<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>An Legat Messen aber</cell>
+                  <cell>20 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und zur eigenen Disposition kommen ihme die pr Abzug gebrachte</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Macht dessen Erbs- und anderweite Praetension</cell>
+                  <cell>236 f 17 x</cell>
+               </row>
+               <row>
+                  <cell>Ist hingegen zum Vermögen schuldig, und werden ihme eingeraumet gesamte beschriebene Silber Geschmeid, Haus Fahrnussen, und Leibgewäntung einschlüsslich der <hi rend="bold">ohne Tax belassenen Bücheren</hi> pr</cell>
+                  <cell>215 f 17 x</cell>
+               </row>
+               <row>
+                  <cell>Und aus der Baarschaft 10 Species Thaler pr</cell>
+                  <cell>21 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Betragt diese Einraumung dem Begehren gleich, id est</cell>
+                  <cell>236 f 17 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Bruder <rs type="person" ref="#tratter_mathias">Mathias Tratter</rs> wird angewisen aus der Baarschaft mit</cell>
+                  <cell>4 f 12 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="497v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Und bey seiner Ehewürthin <rs type="person" ref="#tratter_margaretha">Margaretha gebohrnen Mayrin</rs> als Haupt Schuldnerin mit Kapital</cell>
+                  <cell>162 f 28 x<note>
+                        <p rend="footnote text"> 62 <hi rend="italic">korrigiert aus</hi> 47, 28 <hi rend="italic">auf Rasur geschrieben.</hi>
+                        </p>
+                     </note>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Mithin abgefertiget mit dessen Erbs Portion pr</cell>
+                  <cell>166 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> 8 Kinder zu <rs type="place" ref="#stoerzing">Sterzing</rs> haben auch geistlichen Herrn vetterliches Erb zu ersuchen</cell>
+                  <cell>166 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Dann Legat</cell>
+                  <cell>50 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und dero Frau Mutter die in <rs type="place" ref="#brunegg">Bruneck</rs> bezahlte</cell>
+                  <cell>1 f 27 x</cell>
+               </row>
+               <row>
+                  <cell>Zusamen deren Begehren</cell>
+                  <cell>218<note>
+                        <p rend="footnote text"> 1 <hi rend="italic">korrigiert aus</hi> 0.</p>
+                     </note> f 7 x</cell>
+               </row>
+               <row>
+                  <cell>Werden hierum assignirt aus der Baarschaft mit 8 Thaler pr</cell>
+                  <cell>16 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Bey <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Häuslmayr auf Sonnebend 1793 erstmals zu 3 p.c. Verzinsung mit Kapital</cell>
+                  <cell>151<note>
+                        <p rend="footnote text"> 5 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>4.</p>
+                     </note> f 19 x</cell>
+               </row>
+               <row>
+                  <cell>Und bey der <rs type="person" ref="#tratter_margaretha">Margareth Tratterin</rs> auf Georgi 1793 auch zu 3 p.c. erstmals Verzinsung</cell>
+                  <cell>50 f 0 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="498r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Betrift deren Ansprach gleich, id est</cell>
+                  <cell>218 f 7 x</cell>
+               </row>
+               <row>
+                  <cell>Die Schwester <rs type="person" ref="#tratter_maria">Maria verwittibte Pifraderin</rs> Prantlechnerin allda hat Vorbehaltung ihrer Particular Praetension gleiches Erb zu erhollen</cell>
+                  <cell>166 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Nämlich aus der Baarschaft 10 Thaler pr</cell>
+                  <cell>21 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und bey ihrer Schwägerin <rs type="person" ref="#tratter_margaretha">Margareth gebohrnen Mayrin Tratterin</rs> ebenfalls auf Georgi 1793 zu 3 p.c. erstmals Verzinsung</cell>
+                  <cell>145 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Thut dem Erb gleich, id est</cell>
+                  <cell>166 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Der <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterische</rs> Hauptstollen hat, und zwar jeder aus der Baarschaft 4 f 12 x, und an Capitali bey <rs type="person" ref="#tratter_margaretha">Margareth Mayrin Tratterin</rs> in obiger Mas Verzinsung zur Befriedigung der Herr Herrn brüderlichen Erbsgebührnussen 162 f 28 x zu ersuchen.</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <pb n="498v"/>
+            </p>
+            <p>Dem dato erküsten Gemeinschaft Führer <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> Prantlechner werden eingeraumet</p>
+            <table rend="rules">
+               <row>
+                  <cell>aus der inventirten Baarschaft noch</cell>
+                  <cell>90 f 22 x</cell>
+               </row>
+               <row>
+                  <cell>Aus der <rs type="person" ref="#tratter_margaretha">Margareth Mayrin Tratterischer</rs> Kapital Schuld der Verzinsung halber ebenfalls, wie vor eingeführt,</cell>
+                  <cell>347 f 33 x</cell>
+               </row>
+               <row>
+                  <cell>Bey <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Häuslmayr auf Sonnebend 1793 zu 3 p.c. Verzinsung Haubtsach</cell>
+                  <cell>198 f 41 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr daselbs verfallenen Zins</cell>
+                  <cell>10 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Bey <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs>
+                        </cell>
+                  <cell>22 f 47 x</cell>
+               </row>
+               <row>
+                  <cell>Bey <rs type="person" ref="#pifrader_paul">Paul Pifrader</rs> Bartlmayr</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und bey dem Rader Baurn allda</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Macht diese Einraumung</cell>
+                  <cell>681 f 53 x</cell>
+               </row>
+            </table>
+            <p>Mit diesen hat selber zu bezahlen, und zu befriedigen</p>
+            <p>
+               <pb n="499r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Loblichen Pfarrwidum zu <rs type="place" ref="#gais">Gais</rs> Funeral Conto samt dem Mesner</cell>
+                  <cell>19 f 39 x</cell>
+               </row>
+               <row>
+                  <cell>Sonderbar dem Mesner, und sein Sohn in 7 Posten</cell>
+                  <cell>6 f 27<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Auf Rasur geschrieben.</hi>
+                        </p>
+                     </note> x</cell>
+               </row>
+               <row>
+                  <cell>Denen P. Capucineren</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Denen übrigen fremden Priesteren</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem geistlichen Herrn <rs type="person" ref="#rainer_peter_paul">Peter Paul Rainer</rs> zu <rs type="person" ref="#brunegg">Bruneck</rs>
+                        </cell>
+                  <cell>3 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>Herrn Medicinae Doctori Defrenes</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>In die Stadt Appoteck zu <rs type="person" ref="#brunegg">Bruneck</rs>
+                        </cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Herrn <rs type="person" ref="#mutz_johann">Johann Mutz</rs> Baader alldort</cell>
+                  <cell>11 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Mühlermeister</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Der Jungfrau Heissererin <rs type="person" ref="#peintner_anna">Anna Peintnerin</rs> in 3 Posten</cell>
+                  <cell>49 f 26 x</cell>
+               </row>
+               <row>
+                  <cell>Herrn Grienbacher zu <rs type="place" ref="#kiens">Kiens</rs>
+                        </cell>
+                  <cell>39 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dem kunftigen Herrn Kapplon</cell>
+                  <cell>36 f 32 x</cell>
+               </row>
+               <row>
+                  <cell>Der Kapploney daselbs</cell>
+                  <cell>24 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>An ausständigen Heiligen Messen noch</cell>
+                  <cell>41 f 59 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="499v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Dem <rs type="person" ref="#peintner_georg">Georg Peintner</rs> Kachler</cell>
+                  <cell>84 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Für Todten Truch</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Für Todten Kreütz samt Kessele</cell>
+                  <cell>17 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr obigen <rs type="person" ref="#peintner_georg">Georg Peintner</rs> Pferdlöhner</cell>
+                  <cell>3 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Und dessen 2 Söhnen</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Seiner Mutter <rs type="person" ref="#trattner_maria">Maria verwittweten Pifraderin</rs>
+                        </cell>
+                  <cell>45 x</cell>
+               </row>
+               <row>
+                  <cell>Dem <rs type="person" ref="#hofer_georg">Georg Hofer</rs> Stadtmetzger</cell>
+                  <cell>4 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Denen 3 Götlen jedem 2 f 6 x</cell>
+                  <cell>6 f 18 x</cell>
+               </row>
+               <row>
+                  <cell>Dem Gemeinschaftführer selbs bleiben in Handen für Auswarten</cell>
+                  <cell>4 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Der Kirche allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Legat, und was weiters dabey berührt</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Der Kapploney daselbs gegen abhalten lassenden ewigen Jahrtag</cell>
+                  <cell>100 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Denen Armen allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> in Brod, Salz, oder Geld zu vertheillen</cell>
+                  <cell>25 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Und entlich auch das ausgesteckte Geld gegen haltender Rechnung</cell>
+                  <cell>92 f 2 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="500r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Betragt diese Überbündung, so vielen Gemeinschaft Führer zu zahlen, der Einraumung gleich, id est</cell>
+                  <cell>681 f 53 x</cell>
+               </row>
+            </table>
+            <p>Ihme Gemeinschaftführer wird zugleich auch der Gewalt mitgegeben, die ihme eingeraumte Schulden gütig, und wo noth rechtlich abzutreiben, einzunemmen, hierum zu quittiren, einen anderen die alten Rechte abzutretten, oder auch ihme überbundene Passiva hierauf in alten Rechten anzuweisen, und all dasjenige zu thun, was sie Erben selbs zu handlen befugt, und zu leisten schuldig wären.</p>
+            <p>Anbey wird der schon unter vorigen Abzügen wegen der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> in Borgo eingekommene Berichts Punkt allda bestens erhollet.</p>
+            <p>Also in Erhollung der alten Rechten ergänzt, vertheilt, an- und ausgewiesen.</p>
+            <p>Nach dem Ablesen zur Bekräftigung alles vorigen Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> sich allda ad protocollum eigenhändig unterschrieben, und die übrige Erben als <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, dann</p>
+            <p>
+               <pb n="500v"/>
+            </p>
+            <p>dessen Schwester <rs type="person" ref="#tratter_maria">Maria verwittwete Pifraderin</rs> Prantlechnerin mit ihrem Anweiser <rs type="person" ref="#felser_joseph">Joseph Felser</rs>, nicht weniger <rs type="person" ref="#peintner_georg">Georg Peintner</rs> Kachler als Vertretter, wie eingekommen, weiters Frau <rs type="person" ref="#tratter_anna">Anna verwittwete Tratterin</rs>, und entlich der Gemeinschaft Führer <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> loblichem Landgerichts Obrigkeit globt haben.</p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#tratter_balthasar">Balthauser</rs> Tratter Coop. zu <rs type="place" ref="#lazfonns">Lazfans</rs>.</p>
+            <p>Testes der Beysitzer <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs>, und <rs type="person" ref="#mayr_peter">Peter Mayr</rs> Schreiber.</p>
+            <p>Zu Bericht wird allda noch weiters angeführet, dass geistlicher Herr <rs type="person" ref="#tratter_balthasar">Balthauser Tratter</rs> von der einsmals wiederum in Verwahr genommenen Baarschaft selbs 10 Species Thaler zurück behalten, dann seinen Bruder <rs type="person" ref="#tratter_mathes">Mathias</rs> 2 deto, der Schwester <rs type="person" ref="#tratter_maria">Maria verwittweten Pifraderin</rs> 10 weiters der <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Wittwe <rs type="tratter_anna">Anna gebohrnen Ofnerin</rs> für ihre Kinder 8 nicht weniger dem <rs type="person" ref="#peintner_georg">Georg Peintner</rs> als Vertrettern der 2 Schwestern <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> für jede 2 thut 4 Kayserliche Thaller, und die noch übrige Baarschaft pr 90 f 22 x dem Gemeinschaftführer <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> bestellet habe.</p>
+            <p>
+               <pb n="502v"/>
+            </p>
+            <p>[Rubrum:] 1792</p>
+            <p>Inventarium, Vermögens Ergänzung, Theilung und Ausweisung.</p>
+            <p>So auf gottseeliges Hinscheiden des hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewesten Kapplon zu <rs type="place" ref="#st_georgen">St. Georgen</rs> der Pfarr <rs type="place" ref="#gais">Gais</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> instehendermassen vorgenommen worden.</p>
+            <p>Exped. in dupplo.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

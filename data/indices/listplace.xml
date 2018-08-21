@@ -282,6 +282,63 @@
                </location>
                <idno type="GEONAMES"/>
             </place>
+            <place xml:id="innsprugg">
+               <placeName>Innsbrugg</placeName>
+               <placeName type="alt">Insbruck</placeName>
+               <location>
+                  <geo decls="#LatLng">47.26266 11.39454</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
+            </place>
+            <place xml:id="lemberg">
+               <placeName>Lemberg</placeName>
+               <location>
+                  <geo decls="#LatLng">49.83826 24.02324</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/702550</idno>
+            </place>
+            <place xml:id="schwaz">
+               <placeName>Schwaz</placeName>
+               <location>
+                  <geo decls="#LatLng">47.35169 11.71014</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2765390</idno>
+            </place>
+            <place xml:id="stainhaus">
+               <placeName>Steinhaus</placeName>
+               <location>
+                  <geo decls="#LatLng">46.99623 11.97988</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/6534793</idno>
+            </place>
+            <place xml:id="aichholz">
+               <placeName>Roverè della Luna</placeName>
+               <location>
+                  <geo decls="#LatLng">46.25008 11.17233</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
+            </place>
+            <place xml:id="aehrn">
+               <placeName>Valle Aurina</placeName>
+               <location>
+                  <geo decls="#LatLng">46.99623 11.97988</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/6536019</idno>
+            </place>
+            <place xml:id="stoerzing">
+               <placeName>Vipiteno</placeName>
+               <location>
+                  <geo decls="#LatLng">46.897321 11.431832</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164065</idno>
+            </place>
+            <place xml:id="kiens">
+               <placeName>Chienes</placeName>
+               <location>
+                  <geo decls="#LatLng">46.806667 11.836667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
+            </place>
          </listPlace>
       </body>
    </text>
