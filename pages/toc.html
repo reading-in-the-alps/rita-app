@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div data-template="templates:surround" data-template-with="templates/datatable.html" data-template-at="datatable">
-
+    
     <div class="panel panel-default">
         <div class="panel-heading" style="text-align:center;">
             <h1>Table of Content<br/>
@@ -17,12 +17,17 @@
                 <tr data-template="app:toc"/>
             </table>
         </div>
+        <div class="panel-footer">
+            <small>
+                <a href="../exgit/fetch.xql">fetch latest data</a>
+            </small>
+        </div>
     </div>
     <script>var table = $('#myTable').DataTable({
-            keepConditions: true,
-            dom: 'Bfrtip',
-            buttons: [
-                'copy', 'excel', 'pdf'
-            ]
+        keepConditions: true,
+        dom: 'Bfrtip',
+        buttons: [
+        'copy', 'excel', 'pdf'
+        ]
         });</script>
 </div>
