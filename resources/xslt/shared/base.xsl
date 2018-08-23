@@ -12,6 +12,16 @@
                     <xsl:apply-templates/>
                 </u>
             </xsl:when>
+            <xsl:when test="@rend='superscript'">
+                <sup>
+                    <xsl:apply-templates/>
+                </sup>
+            </xsl:when>
+            <xsl:when test="@rend='strikethrough'">
+                <strike>
+                    <xsl:apply-templates/>
+                </strike>
+            </xsl:when>
             <xsl:when test="@rend='italic'">
                 <i>
                     <xsl:apply-templates/>
