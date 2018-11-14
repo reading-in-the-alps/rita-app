@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Fasz_7_Pos_5_29_BUCH.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar d. tot. u. lebend. Fahrnisse von <rs type="person" ref="#sachser-ledig-urban">Urban Sachser (ledig)</rs> aus <rs type="place" ref="#mühltal-mieders">Mühltal (Mieders)</rs>, erstellt <date when-iso="1754-05-31">1754-05-31</date>
+                </title>
+                <respStmt>
+                    <resp>Transkribiert von</resp>
+                    <name>
+                        <rs type="person" ref="#span-michael">Michael Span</rs>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>XML kodiert von</resp>
+                    <name>
+                        <rs type="person" ref="#andorfer-peter">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+                <funder>
+                    <name>
+                        <rs type="organisation" ref="#twf">Tiroler Wissenschaftsfonds</rs>
+                    </name>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Michael Span</publisher>
+                <publisher>Peter Andorfer</publisher>
+                <pubPlace>www.digital-archiv.at</pubPlace>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+                <date when-iso="2015">2015</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>
+                            <rs type="place" ref="#innsbruck">Innsbruck</rs>
+                        </settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <collection>TLA, Aktenserie LG Mieders, Fasz. 7, </collection>
+                        <idno>5 (Inventare 1754), Nr. 29</idno>
+                    </msIdentifier>
+                    <msContents class="#">
+                        <p>Inventar d. tot. u. lebend. Fahrnisse</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>17x21 cm [Bogen also 34x21], 4 Bögen, 8 Seiten</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date when-iso="1754-05-31"/>
+                            <origPlace>
+                                <rs type="place" ref="#mühltal-mieders">Mühltal (Mieders)</rs>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <div type="regest">
+                    <table rend="rules">
+                        <row>
+                            <cell>Signatur</cell>
+                            <cell>TLA, Aktenserie LG Mieders, Fasz. 7, Pos. 5 (Inventare 1754), Nr. 29</cell>
+                        </row>
+                        <row>
+                            <cell>Typ</cell>
+                            <cell>Inventar d. tot. u. lebend. Fahrnisse</cell>
+                        </row>
+                        <row>
+                            <cell>Verstorbene/r [vormaliger Besitzer/in]</cell>
+                            <cell>Urban Sachser (ledig)</cell>
+                        </row>
+                        <row>
+                            <cell>Wohnort der/s Verstorbenen</cell>
+                            <cell>Mühltal (Mieders)</cell>
+                        </row>
+                        <row>
+                            <cell>Ort, wo das Dokument verfasst wurde</cell>
+                            <cell>Mühltal (Mieders</cell>
+                        </row>
+                        <row>
+                            <cell>Datum, wann das Dokument verfasst wurde</cell>
+                            <cell>1754-05-31</cell>
+                        </row>
+                        <row>
+                            <cell>Gerichtsverpflichter</cell>
+                            <cell>Anton Lener (Mieders)</cell>
+                        </row>
+                        <row>
+                            <cell>Aktuar</cell>
+                            <cell>Thaddeus Zeiller („Schreiber“)</cell>
+                        </row>
+                        <row>
+                            <cell>sonstige Amtspersonen</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>Beschreibung des Dokuments</cell>
+                            <cell>17x21 cm [Bogen also 34x21], 4 Bögen, 8 Seiten</cell>
+                        </row>
+                        <row>
+                            <cell>Beruf</cell>
+                            <cell>kein Beruf angegeben</cell>
+                        </row>
+                        <row>
+                            <cell>Summe</cell>
+                            <cell>Inventar: 35 f 17 x</cell>
+                        </row>
+                        <row>
+                            <cell>transkribiert am</cell>
+                            <cell>2015-09-03</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <pb n="1r"/>
+                    <p>1754</p>
+                    <p>Inventur</p>
+                    <p>So auf in ledigen Standt erfolgtes Verableiben des Ehrbaren Urban Sachser in Mihlthal Obley Mieds. Hofgerichts Stubay beschriben worden</p>
+                    <p>[Anm.: „Exp.“]</p>
+                    <pb n="2r"/>
+                    <p>Actum Mihlthal den letsten May Anno 1754</p>
+                    <p>Auf Verordnung Lobl. Hofgerichts Obkheit. vor und durch dem Wohlehregeachten Antoni Lenner Gerichtsverpflichten auch Würth und Gastgeben zu Mieders, und Thadeus Zeiller Schreibers</p>
+                    <p>Demnach der All Vermögende Gott abermahlen seinen unerforschlichen Allgerheiligsten Willen, vollzochen, und andurch dem Erbaren Urban Sachser ledigen Stadts von diesen kurz werenden Leben</p>
+                    <pb n="2v"/>
+                    <p>mitlst eines Christ und Natürlichen Todts, zu dem Immer wehrenden abgefordert, Gott Gnad der Selen</p>
+                    <p>Als ist anheüt Vorstehenden Dato auf Anrueffen der Erben [Einfügung: „deren Namen alda vorbehalten wirdet“] sein Vermig ordentlich beschriben Taxiret und Inventiert worden, zu welchen Ende dann folg die</p>
+                    <pb n="3r"/>
+                    <p>Inventur</p>
+                    <table rend="rules">
+                        <head type="added">Inventur</head>
+                        <row>
+                            <cell>Erstlich ain Federbeth ain Köllische Ziechen und Polster</cell>
+                            <cell>5 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Prauns Hemat</cell>
+                            <cell>1 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain schlechters Deto</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>Zway Lödene Hemater</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain yrchene Hosen</cell>
+                            <cell>1 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain rotter Camisin Prusttuech</cell>
+                            <cell>1 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>mehr ain blauber</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Leib Pinten</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Drey Gürtl</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>13 f 28 x</cell>
+                        </row>
+                    </table>
+                    <pb n="3v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>5 neü härbene Pfaiten</cell>
+                            <cell>6 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain werchene Deto</cell>
+                            <cell>27 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain grüen Huet</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Schwarzer Deto</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>drey Judas Biecher 2. 3. und 4ter Thail</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>2 f 33 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Drey Angelica Wurz Büecher</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Zway Leben und Lehr Biecher</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Zway Palben Gärtl</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Ain Seelen Nez</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>9 f 53 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>
+                                <bibl>Drey guete Evangeli Büecher</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>ain guetes Gertrauden Buech</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>zusammen obgemelte zwölf Biecher</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>4 f 48 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Vogl friss od. Stirb Puech</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>24 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Thal der Temuet [Demut?]</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>24 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>ain geistlich Hausmagd und compensisches Calend.</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>24 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>ain großes Leben Christi Buech</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>1 f</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>ain grosser Caticimus [Katechismus] v. Päter Bruger</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>1 f</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>ainundzwinzig Bett-Lehr und Frag Biechlen</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>3 f 3 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>11 f 3 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>
+                                <bibl>ain Creizweeg</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>14 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>ain Schreibzeüg</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>6 grosse Windling</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>53 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5r"/>
+                    <p>Summa der Inventur</p>
+                    <p>35 f 17 x</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TLA_Fasz_8_Pos_4_Nr_11.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar d. tot. u. lebend. Fahrnisse von <rs type="person" ref="#ranalterin-ledig-regina">Regina Ranalterin [ledig]</rs> aus <rs type="place" ref="#mieders">Mieders</rs>, erstellt <date when-iso="1777-03-20">1777-03-20</date>
+                </title>
+                <respStmt>
+                    <resp>Transkribiert von</resp>
+                    <name>
+                        <rs type="person" ref="#span-michael">Michael Span</rs>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>XML kodiert von</resp>
+                    <name>
+                        <rs type="person" ref="#andorfer-peter">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+                <funder>
+                    <name>
+                        <rs type="organisation" ref="#twf">Tiroler Wissenschaftsfonds</rs>
+                    </name>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Michael Span</publisher>
+                <publisher>Peter Andorfer</publisher>
+                <pubPlace>www.digital-archiv.at</pubPlace>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+                <date when-iso="2015">2015</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>
+                            <rs type="place" ref="#innsbruck">Innsbruck</rs>
+                        </settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <collection>TLA, Aktenserie LG Mieders, Fasz. 8, </collection>
+                        <idno>4 (Inventare 1777), Nr. 11</idno>
+                    </msIdentifier>
+                    <msContents class="#">
+                        <p>Inventar d. tot. u. lebend. Fahrnisse</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>17x21 cm [Bogen also 34x21], 4 Bögen, 12 Seiten </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date when-iso="1777-03-20"/>
+                            <origPlace>
+                                <rs type="place" ref="#mieders">Mieders</rs>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <div type="regest">
+                    <table rend="rules">
+                        <row>
+                            <cell>Signatur</cell>
+                            <cell>TLA, Aktenserie LG Mieders, Fasz. 8, Pos. 4 (Inventare 1777), Nr. 11</cell>
+                        </row>
+                        <row>
+                            <cell>Typ</cell>
+                            <cell>Inventar d. tot. u. lebend. Fahrnisse</cell>
+                        </row>
+                        <row>
+                            <cell>Verstorbener [ehemaliger Besitzer]</cell>
+                            <cell>Regina Ranalterin [ledig]</cell>
+                        </row>
+                        <row>
+                            <cell>Wohnort des Verstorbenen</cell>
+                            <cell>Mieders</cell>
+                        </row>
+                        <row>
+                            <cell>Ort, wo das Dokument verfasst wurde</cell>
+                            <cell>Mieders</cell>
+                        </row>
+                        <row>
+                            <cell>Datum, wann das Dokument verfasst wurde</cell>
+                            <cell>1777-03-20</cell>
+                        </row>
+                        <row>
+                            <cell>Gerichtsverpflichter</cell>
+                            <cell>Balthasar Triendl [Mieders]</cell>
+                        </row>
+                        <row>
+                            <cell>Aktuar</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>sonstige Amtspersonen</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>Beschreibung des Dokuments</cell>
+                            <cell>17x21 cm [Bogen also 34x21], 4 Bögen, 12 Seiten </cell>
+                        </row>
+                        <row>
+                            <cell>Beruf</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>Summe</cell>
+                            <cell>Inventar: 49 f 46 x f</cell>
+                        </row>
+                        <row>
+                            <cell>transkribiert am</cell>
+                            <cell>2015-07-01</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <pb n="1r"/>
+                    <p>1777</p>
+                    <p>Inventarium</p>
+                    <p>So auf Ableiben der tugensamen Regina Ranalterin, leedigen Standes zu Mieders Hofgericht Stubay wesentl. ist erichtet worden.</p>
+                    <pb n="2r"/>
+                    <p>Actum Mieders den 20ten März anno 1777.</p>
+                    <p>Auf Verordnung lobler. Hofghts. Obt. in Stubay, zugegen des Ehrsamen Balthasar Triendl Gerichts Verpflichten allda.</p>
+                    <p>Nachdeme die tugendsame Regina Ranalterin leedigen Standes zu Mieders Hofgericht Stubay wesentlich [anwesend]</p>
+                    <pb n="2v"/>
+                    <p>Nach ainer obgehabten Ohnbasslichkeit dies zeitliche mit dem Ewigen verwechslet, Gott Gnad dero hingeschiedenen Seele.</p>
+                    <p>Als hat mann auf so erfolgtes Kristliches Hinscheiden die verhandene Mobilien nach denen Landes Rechten taxiert, und zu Babier gebracht, wie zu ersechen aus folgender</p>
+                    <pb n="3r"/>
+                    <p>Inventur</p>
+                    <p>Erstlich</p>
+                    <table rend="rules">
+                        <head type="added">Erstlich</head>
+                        <row>
+                            <cell>
+                                <bibl>1 Puech die Statt Gottes</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>30 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>2 Histori Büecher</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>36 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>18 kleine unterschidliche Biecher</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>1 f 30 x</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 rott angestrichenes Kästl mit Schloss und Band</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Crucefix und 6 unterschidl. Täfelen</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 42 x</cell>
+                        </row>
+                    </table>
+                    <pb n="3v"/>
+                    <p>In der Kuchl</p>
+                    <table rend="rules">
+                        <head type="added">In der Kuchl</head>
+                        <row>
+                            <cell>1 Drey Fueß</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 greßere und 1 kleinere Pfanne</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Dreyfueß</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>mehr 1 greßere Pfanne</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Gazlen</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 eisenes Häfele</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Milch Kriegl</cell>
+                            <cell>2 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>1 f 25 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Wasser Krueg</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Erdene Häfen</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Pfändl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Erdene Schißl</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Küpfernes Kössele</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Mehlfäßl</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Kästl mit Schloß und Band</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>2 f 9 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4v"/>
+                    <p>In der Kamer</p>
+                    <table rend="rules">
+                        <head type="added">In der Kamer</head>
+                        <row>
+                            <cell>1 Korn Kistl</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 greßere und 1 kleinere Truchen</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 Bettstatt</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Kastl ohne Schloss</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Vorbank</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Salz Masserey</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Halb Starr und 1 Mäßl</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Schmalz Stözlen</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 47 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Eisen Keil</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Mehl Balg</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>mehr 1 kleineres Deto</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>4 Kohrn Sök</cell>
+                            <cell>44 x</cell>
+                        </row>
+                        <row>
+                            <cell>4 kleinere Deto</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>4 Pfund Schmalz</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 große Erdene Häfen</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Rib Eüßen</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Sichl 1 barr Kraut Haken und 1 Bräxen</cell>
+                            <cell>16 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 34 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Harr Hächl</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Wäxenes Krist Kindl</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Kriegl</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>6 Gläßlen</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 ganz aufgerichtes Bett samt Bolster und Leylacher</cell>
+                            <cell>10 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 alte Döken</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 härbene Leylacher</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>3 werchene Deto</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>14 f 54 x</cell>
+                        </row>
+                    </table>
+                    <pb n="6r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>2 härbene Bött Ziechen</cell>
+                            <cell>2 f 6 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Oberbettl sambt Bolster und Ziechen</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Rök</cell>
+                            <cell>4 f</cell>
+                        </row>
+                        <row>
+                            <cell>2 Prustacher [Brusttücher]</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 blaue Schepplen</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 blaue Kapen</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>5 Schälklen</cell>
+                            <cell>50 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 barr Weiber Hosen</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>9 Ellen Föderrippen</cell>
+                            <cell>3 f 36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Pfund gehächelten Harr</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>14 f 15 x</cell>
+                        </row>
+                    </table>
+                    <pb n="6v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Pfund öschwinges Garn</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Ellen härbes Tuech</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Ellen werches Deto</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Heu Gabl und 1 Trischl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Hauen</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Kreul und 1 Tunget Gabl</cell>
+                            <cell>19 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Spinrad</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Ziechgray</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>daß verhandene Stroh wird angeschlagen pr</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>6 f 1 x</cell>
+                        </row>
+                    </table>
+                    <pb n="7r"/>
+                    <p>Summa ganz und völliger Inventur benenntl.</p>
+                    <p>49 f 46 x</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

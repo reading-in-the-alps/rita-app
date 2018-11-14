@@ -183,8 +183,9 @@ let $href := concat('show.html','?document=', app:getDocName($node), '&amp;direc
  declare function app:ft_search($node as node(), $model as map (*)) {
  if (request:get-parameter("searchexpr", "") !="") then
  let $searchterm as xs:string:= request:get-parameter("searchexpr", "")
- for $hit in collection(concat($config:app-root, '/data/editions/'))//*[.//tei:p[ft:query(.,$searchterm)]]
-    let $href := concat(app:hrefToDoc($hit), "&amp;searchexpr=", $searchterm)
+ for $hit in collection(concat($config:app-root, '/data/'))//*[.//tei:p[ft:query(.,$searchterm)]]
+    let $collection := app:getColName($hit)
+    let $href := concat(app:hrefToDoc($hit, $collection), "&amp;searchexpr=", $searchterm)
     let $score as xs:float := ft:score($hit)
     order by $score descending
     return
@@ -416,3 +417,26 @@ declare function app:firstDoc($node as node(), $model as map(*)) {
 };
 
 
+declare function app:rita1($node as node(), $model as map(*)) {
+
+    let $collection := request:get-parameter("collection", "")
+    let $docs := if ($collection)
+        then
+            collection(concat($config:app-root, '/data/', $collection, '/'))//tei:TEI
+        else
+            collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+    for $title in $docs
+        let $date := $title//tei:title//text()
+        let $link2doc := if ($collection)
+            then
+                <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
+            else
+                <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
+        return
+        <tr>
+           <td>{$date}</td>
+            <td>
+                {$link2doc}
+            </td>
+        </tr>
+};

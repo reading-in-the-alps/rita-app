@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div data-template="templates:surround" data-template-with="templates/datatable.html" data-template-at="datatable">
-
+    
     <div class="card">
         <div class="card-header" style="text-align:center;">
-            <h1>Inventare aus dem Pustertal <small>RITA 2</small>
+            <h1>Inventare aus dem Stubaital<br/>
             </h1>
         </div>
         <div class="card-body">
@@ -14,15 +14,15 @@
                         <th>Doc-Name</th>
                     </tr>
                 </thead>
-                <tr data-template="app:toc"/>
+                <tr data-template="app:rita1"/>
             </table>
         </div>
     </div>
     <script>var table = $('#myTable').DataTable({
-            keepConditions: true,
-            dom: 'Bfrtip',
-            buttons: [
-                'copy', 'excel', 'pdf'
-            ]
+        keepConditions: true,
+        dom: 'Bfrtip',
+        buttons: [
+        'copy', 'excel', 'pdf'
+        ]
         });</script>
 </div>

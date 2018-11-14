@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Fasz_7_Pos_5_34_BUCH.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar d. tot. u. lebend. Fahrnisse von <rs type="person" ref="#kassian-schmid-ledig-cassian">Cassian [Kassian] Schmid (ledig)</rs> aus <rs type="place" ref="#medraz-fulpmes">Medraz (Fulpmes)</rs>, erstellt <date when-iso="1754-08-22">1754-08-22</date>
+                </title>
+                <respStmt>
+                    <resp>Transkribiert von</resp>
+                    <name>
+                        <rs type="person" ref="#span-michael">Michael Span</rs>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>XML kodiert von</resp>
+                    <name>
+                        <rs type="person" ref="#andorfer-peter">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+                <funder>
+                    <name>
+                        <rs type="organisation" ref="#twf">Tiroler Wissenschaftsfonds</rs>
+                    </name>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Michael Span</publisher>
+                <publisher>Peter Andorfer</publisher>
+                <pubPlace>www.digital-archiv.at</pubPlace>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+                <date when-iso="2015">2015</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>
+                            <rs type="place" ref="#innsbruck">Innsbruck</rs>
+                        </settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <collection>TLA, Aktenserie LG Mieders, Fasz. 7, </collection>
+                        <idno>5 (Inventare 1754), Nr. 34</idno>
+                    </msIdentifier>
+                    <msContents class="#">
+                        <p>Inventar d. tot. u. lebend. Fahrnisse</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>17x21 cm [Bogen also 34x21], 5 Bögen, 17 Seiten</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date when-iso="1754-08-22"/>
+                            <origPlace>
+                                <rs type="place" ref="#medraz-fulpmes">Medraz (Fulpmes)</rs>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <div type="regest">
+                    <table rend="rules">
+                        <row>
+                            <cell>Signatur</cell>
+                            <cell>TLA, Aktenserie LG Mieders, Fasz. 7, Pos. 5 (Inventare 1754), Nr. 34</cell>
+                        </row>
+                        <row>
+                            <cell>Typ</cell>
+                            <cell>Inventar d. tot. u. lebend. Fahrnisse</cell>
+                        </row>
+                        <row>
+                            <cell>Verstorbene/r [vormaliger Besitzer/in]</cell>
+                            <cell>Cassian [Kassian] Schmid (ledig)</cell>
+                        </row>
+                        <row>
+                            <cell>Wohnort der/s Verstorbenen</cell>
+                            <cell>Medraz (Fulpmes)</cell>
+                        </row>
+                        <row>
+                            <cell>Ort, wo das Dokument verfasst wurde</cell>
+                            <cell>Medraz (Fulpmes)</cell>
+                        </row>
+                        <row>
+                            <cell>Datum, wann das Dokument verfasst wurde</cell>
+                            <cell>1754-08-22</cell>
+                        </row>
+                        <row>
+                            <cell>Gerichtsverpflichter</cell>
+                            <cell>Georg Jenewein(Fulpmes)</cell>
+                        </row>
+                        <row>
+                            <cell>Aktuar</cell>
+                            <cell>Thadeus Zeiller („Schreiber“)</cell>
+                        </row>
+                        <row>
+                            <cell>sonstige Amtspersonen</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>Beschreibung des Dokuments</cell>
+                            <cell>17x21 cm [Bogen also 34x21], 5 Bögen, 17 Seiten</cell>
+                        </row>
+                        <row>
+                            <cell>Beruf</cell>
+                            <cell>Weber</cell>
+                        </row>
+                        <row>
+                            <cell>Summe</cell>
+                            <cell>Inventar: 113 f 16 x</cell>
+                        </row>
+                        <row>
+                            <cell>transkribiert am</cell>
+                            <cell>2015-09-17</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <pb n="1r"/>
+                    <p>1754</p>
+                    <p>Inventarium</p>
+                    <p>So auf in ledigen Standt erfolgtes Ableiben des Ehrbaren Cassian Schmid gewesten Webers, zu Medraz Obley Fulpmes Hofghts. Stubay beschriben worden.</p>
+                    <p>[Anm.: „Ex.“]</p>
+                    <pb n="2r"/>
+                    <p>Actum Medraz den 22ten Aug. ao 1754</p>
+                    <p>Auf Verordnung Lobl. Hofght. Obrigkheit im Stubay. Vor und durch den Ehrsamen Georg Jenewein Gerichts Verpflichen zu Fulpmes und Thadeo Zeiller Schreiber.</p>
+                    <p>Auf in Ledigenstandt erfolgtes Ableiben des Cassian Schmids gewesten Webers zu Medraz Obley Fulpmes Hofgerichts Stubay, Gott Gnad der Seelen.</p>
+                    <p>Als ist anheüt Dato auf Anrueffen des Ableibers</p>
+                    <pb n="2v"/>
+                    <p>Schwester Kindern als Franz und Jacob Nockher, nach besten Form Tirolischen Landtrechten vorgenommen worden folgene</p>
+                    <p>Inventur</p>
+                    <pb n="3r"/>
+                    <p>In der Stuben</p>
+                    <table rend="rules">
+                        <head type="added">In der Stuben</head>
+                        <row>
+                            <cell>ain Tisch</cell>
+                            <cell>16 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Eisene Lof</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Tisch Tüech</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Forbänckh und ain Schuester Stuel</cell>
+                            <cell>16 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Pfann Holz</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Nudl Brat</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Tribl und 1 Krapfen Radl</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Brötlwag weet [sic!] 65 Pfdt.</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>[1 f] 56 x</cell>
+                        </row>
+                    </table>
+                    <pb n="3v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Bittrich</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Schnerf Sackh</cell>
+                            <cell>12 x</cell>
+                        </row>
+                    </table>
+                    <p>In der Kuchen</p>
+                    <table rend="rules">
+                        <head type="added">In der Kuchen</head>
+                        <row>
+                            <cell>Häll und Bäll</cell>
+                            <cell>21 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Dreyfueß</cell>
+                            <cell>14x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Offen Blöch</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Kupferne Wasser Gazen</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Scherer und ain Kiech Spiz 2 dürchene und 2 andere Gäzen und ain Strauber</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>1 f 36 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Ribeisen</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>7 grosse und klienere Pfannen</cell>
+                            <cell>1 f 45 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Haffen Blaten</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Mehl Fässl</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Mues Bessen und Köll</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Wassser und Spiel Schaff</cell>
+                            <cell>16 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Hennen und drey Huener</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 10 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Stockhhäckhl</cell>
+                            <cell>9 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Gloggspeisener Hafen wög 8 Pf a 12 x</cell>
+                            <cell>1 f 36 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain ganzer Pach Zeüg</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway größer und 4 klainere Schissl</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>zwey Krüag</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Magen Stampf</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Kraut Häckhl und ain Brötl</cell>
+                            <cell>5 x</cell>
+                        </row>
+                    </table>
+                    <p>In Keller</p>
+                    <table rend="rules">
+                        <head type="added">In Keller</head>
+                        <row>
+                            <cell>ain Milch Kasten</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Schmalz Stözl</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 12 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>17 Milch Schissl</cell>
+                            <cell>38 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Milch Melter ain Räm Stözl und ain Seüch</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain um treibend. Schlög Kübl</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Meltern</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Bittrich und 2 Schmalz Stözl</cell>
+                            <cell>22 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wasch Ziber</cell>
+                            <cell>21 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Kraut Stozen und ain alte Melter</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Kraut Prenten</cell>
+                            <cell>2 f 24 x</cell>
+                        </row>
+                    </table>
+                    <p>In der Ableiber Camer</p>
+                    <table rend="rules">
+                        <head type="added">In der Ableiber Camer</head>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>5 f 34 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>
+                                <p>ain alte Bettstatt</p>
+                                <p>ain Unter und Über Bett mit werchene Ziechen 2 Pölster auch mit werchen Ziechlen und 2 werchene Leylacher sambt Strosackh zusamen</p>
+                            </cell>
+                            <cell>9 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain härnen Bett Ziechen</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain werchen Deto</cell>
+                            <cell>54 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Strosackh</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 härnens Leülach mit Borten und Fransen</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>aber eins Deto</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>2 Tischtüecher</cell>
+                            <cell>32 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain alte Truchen mit Schloss Bandt</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>15 f 6 x</cell>
+                        </row>
+                    </table>
+                    <pb n="6r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>mehr aine Deto</cell>
+                            <cell>1 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Speis Truchen mit 6 Taten [?]</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>aber ain alte Deto</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Korn Kisten mit 2 Taten</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>aber aine Deto</cell>
+                            <cell>45 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 große und ain kienrer [sic!] Mehl Balg</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Korn Schaufl</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wander truch mit Schloss und Band</cell>
+                            <cell>45 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 lodene Hemater</cell>
+                            <cell>2 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 yrchene Hose</cell>
+                            <cell>50 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>7 f 59 x</cell>
+                        </row>
+                    </table>
+                    <pb n="6v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 lodene Hose</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 härnen Pfaidten</cell>
+                            <cell>2 f 15 x</cell>
+                        </row>
+                        <row>
+                            <cell>5 alte werchen Deto</cell>
+                            <cell>3 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain par alt Sockhen</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Binten</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain par ehrlinger [?] Strimpf</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain prauner Pruthuech [sic!]</cell>
+                            <cell>17 x</cell>
+                        </row>
+                        <row>
+                            <cell>Siben Ellen werchenes Tuech</cell>
+                            <cell>1 f 45 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 ½ Elen schwarzes Tuech</cell>
+                            <cell>27 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>9 f 43 x</cell>
+                        </row>
+                    </table>
+                    <pb n="7r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>2 Bückhl</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wahl und ain andere Hau</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Mist und 1 Heü Gabl</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Vier Kreil</cell>
+                            <cell>32 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Maiß Hackhen</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Ast ain hand und ain Klieb Hackh</cell>
+                            <cell>28 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain heü Treten</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Kotten</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 par Glid Eisen und ain par Krötlen</cell>
+                            <cell>45 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>5 f 15 x</cell>
+                        </row>
+                    </table>
+                    <pb n="7v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Strickh und ain alts Heü Sail</cell>
+                            <cell>1 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Holz Strickhl</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>5 Kie und 1 Gais Kotten</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Har Hächl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 groß und 3 klainer Schellen mit Eisene Pögen [?]</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain alte Zimmer Sagen</cell>
+                            <cell>16 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Span Sagen</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 große und 2 klaine Windling</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>4 klaine Windling</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>4 f 18 x</cell>
+                        </row>
+                    </table>
+                    <pb n="8r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Handt Feülele</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>5 klaine und große Stem Eisen</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Schniz Mösser</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Praxen</cell>
+                            <cell>9 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 alte Feilen</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 ain Hamer und ain Zang</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 par Kraut Hackhen</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Pfundt alts Eisen</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>5 Bett Biechlen Bht.</bibl>
+                            </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>2 Süchl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>1 f 41 x</cell>
+                        </row>
+                    </table>
+                    <pb n="8v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain schlechter Kupferner Kössl</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain wolle Kart.</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain alte Span Pettstatt</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Über Bött mit werchene Ziechen</cell>
+                            <cell>4 f</cell>
+                        </row>
+                        <row>
+                            <cell>2 ganz und ain halb Stär</cell>
+                            <cell>18 x</cell>
+                        </row>
+                    </table>
+                    <p>Tenen</p>
+                    <table rend="rules">
+                        <head type="added">Tenen</head>
+                        <row>
+                            <cell>1 Ziechgreye mit 2 beschlagene Räder</cell>
+                            <cell>1 f 48 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Strobanckh sambt dem Messer</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>8 f 6 x</cell>
+                        </row>
+                    </table>
+                    <pb n="9r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>4 Sensen und 1 Tangl Gschir</cell>
+                            <cell>50 x</cell>
+                        </row>
+                        <row>
+                            <cell>4 Heü und zway Raub [sic!] Röchen</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Reiter und Reiter Stuel</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Kröz.</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wan [Wanne]</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Heügabl</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>4 Drischl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain alter Laiter Wagen mit vier beschlagene Röder</cell>
+                            <cell>8 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>10 f 12 x</cell>
+                        </row>
+                    </table>
+                    <pb n="9v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Kue</cell>
+                            <cell>18 f</cell>
+                        </row>
+                        <row>
+                            <cell>9 feüchtene Läden</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Handwerchszeüg</cell>
+                            <cell>18 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>36 f 36 x</cell>
+                        </row>
+                    </table>
+                    <p>Suma</p>
+                    <p>113 f 16 x</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

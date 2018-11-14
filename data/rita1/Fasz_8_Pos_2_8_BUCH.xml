@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Fasz_8_Pos_2_8_BUCH.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar d. tot. u. lebend. Fahrnisse von <rs type="person" ref="#volderauer-ledig-thoman">Thoman Volderauer (ledig)</rs> aus <rs type="place" ref="#volderau-neustift">Volderau (Neustift)</rs>, erstellt <date when-iso="1773-06-01">1773-06-01</date>
+                </title>
+                <respStmt>
+                    <resp>Transkribiert von</resp>
+                    <name>
+                        <rs type="person" ref="#span-michael">Michael Span</rs>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>XML kodiert von</resp>
+                    <name>
+                        <rs type="person" ref="#andorfer-peter">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+                <funder>
+                    <name>
+                        <rs type="organisation" ref="#twf">Tiroler Wissenschaftsfonds</rs>
+                    </name>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Michael Span</publisher>
+                <publisher>Peter Andorfer</publisher>
+                <pubPlace>www.digital-archiv.at</pubPlace>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+                <date when-iso="2015">2015</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>
+                            <rs type="place" ref="#innsbruck">Innsbruck</rs>
+                        </settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <collection>TLA, Aktenserie LG Mieders, Fasz. 8, </collection>
+                        <idno>2 (Inventare 1773), Nr. 8</idno>
+                    </msIdentifier>
+                    <msContents class="#">
+                        <p>Inventar d. tot. u. lebend. Fahrnisse</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>17x21 cm [Bogen also 34x21], 5 Bögen, 11 Seiten</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date when-iso="1773-06-01"/>
+                            <origPlace>
+                                <rs type="place" ref="#volderau-neustift">Volderau (Neustift)</rs>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <div type="regest">
+                    <table rend="rules">
+                        <row>
+                            <cell>Signatur</cell>
+                            <cell>TLA, Aktenserie LG Mieders, Fasz. 8, Pos. 2 (Inventare 1773), Nr. 8</cell>
+                        </row>
+                        <row>
+                            <cell>Typ</cell>
+                            <cell>Inventar d. tot. u. lebend. Fahrnisse</cell>
+                        </row>
+                        <row>
+                            <cell>Verstorbene/r [vormaliger Besitzer/in]</cell>
+                            <cell>Thoman Volderauer (ledig)</cell>
+                        </row>
+                        <row>
+                            <cell>Wohnort der/s Verstorbenen</cell>
+                            <cell>Volderau (Neustift)</cell>
+                        </row>
+                        <row>
+                            <cell>Ort, wo das Dokument verfasst wurde</cell>
+                            <cell>Volderau (Neustift)</cell>
+                        </row>
+                        <row>
+                            <cell>Datum, wann das Dokument verfasst wurde</cell>
+                            <cell>1773-06-01</cell>
+                        </row>
+                        <row>
+                            <cell>Gerichtsverpflichter</cell>
+                            <cell>Martin Volderauer (Unteregg, Neustift)</cell>
+                        </row>
+                        <row>
+                            <cell>Aktuar</cell>
+                            <cell>Franz Posch</cell>
+                        </row>
+                        <row>
+                            <cell>sonstige Amtspersonen</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>Beschreibung des Dokuments</cell>
+                            <cell>17x21 cm [Bogen also 34x21], 5 Bögen, 11 Seiten</cell>
+                        </row>
+                        <row>
+                            <cell>Beruf</cell>
+                            <cell>kein Beruf angegeben [Rechenmacher?]</cell>
+                        </row>
+                        <row>
+                            <cell>Summe</cell>
+                            <cell>Inventar: 79 f 58 x</cell>
+                        </row>
+                        <row>
+                            <cell>transkribiert am</cell>
+                            <cell>2015-07-17</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <pb n="1r"/>
+                    <p>1773.</p>
+                    <p>Inventärl</p>
+                    <p>So auf Absterben de Tugendsamen Thoman Volderauer ledigen Standes zu Volderau Hofgerichts Stubay seel. errichtet worden.</p>
+                    <p>[Anm. d. Gerichts: „Exped.“ und „No. 8“]</p>
+                    <pb n="1v"/>
+                    <p>Actum Volderau den 1ten Juny 1773.</p>
+                    <p>Aus Verordnung Lobl. Hofgerichts Obrigkeit.</p>
+                    <p>Vor und durch dem Wohlehrsamen Martin Volderauer Gerichts Verpflichten aufn Unternegg Actuante Franz Posch.</p>
+                    <p>Auf in ledigen Stand erfogtes [sic!] Verabsterben des Ehrbahren Thomas Volderauer zu Volderau in Thall Hofgerichts Stubay seel. Gott Gnad der Seel. hat man anermanglet der ordnung gemäß die verhandene wenige Leibklaider, und Fährnüsen zu beschreiben, und zu taxieren wie zu sehen in folgenden</p>
+                    <p>Inventärl</p>
+                    <pb n="2r"/>
+                    <p>In der Kammer</p>
+                    <table rend="rules">
+                        <head type="added">In der Kammer</head>
+                        <row>
+                            <cell>4 gresere und kleinere Pfannen</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 kupfernes Häfele</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Deto Eysenes</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Haken</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 Pikl, 1 Tunggabl, 1 Schaufl</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 Rechen, 3 Seegessen, 1 Kreil, 1 Wöz Stain</cell>
+                            <cell>54 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Tenglzeüg</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Kästl mit Schloß und Bandt</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>5 f 20 x</cell>
+                        </row>
+                    </table>
+                    <pb n="2r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Schmalz Stözl, 1 Luen Stuel, 1 Pannholz</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>Etwas Rechenmacherzeüg, und Holz</cell>
+                            <cell>6 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Schnöl Waag</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 par bergeysen</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Heüsailer</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <del>2 Mehl Belg</del>
+                            </cell>
+                            <cell>
+                                <del>40 x</del>
+                            </cell>
+                            <cell>
+                                <add place="margin">Hier auf der Seite der Vermerk: „Lorenz Volderauer“</add>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <del>1 Ränzl</del>
+                            </cell>
+                            <cell>
+                                <del>20 x</del>
+                            </cell>
+                            <cell>
+                                <add place="margin">Hier auf der Seite der Vermerk: „Lorenz Volderauer“</add>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 Kumpf, darin 2 Wözstsain, 1 Streicher</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Woll Kartäschen</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Kröttlen</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>10 f</cell>
+                        </row>
+                    </table>
+                    <pb n="3r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Kupfernes Wasser Kössele</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Krözen, 1 Haue</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Korb</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Leun Stuel, 1 Bänkl</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Trichele mit Schloss und Bandt</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Mehl Trichele</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>darin von 2 Stär Korn Mehl</cell>
+                            <cell>4 f</cell>
+                        </row>
+                        <row>
+                            <cell>Aber 1 Truchen</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Schmalz Stözl</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <del>14 Inslet Körzlen</del>
+                            </cell>
+                            <cell>
+                                <del>7 x</del>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>7 f 8 x</cell>
+                        </row>
+                    </table>
+                    <pb n="3v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>3 glöserne Flaschen</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Mueser</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 gar kleines Trüchele</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>13 Pfundt Putter und Schmalz a 11 x</cell>
+                            <cell>2 f 23 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>das Leben und Leüden Christi</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>4 f</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>Etwas andere geistl. Piechlen</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>2 f</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>etwas heilige Bildnussen</cell>
+                            <cell>3 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 guete Eüserne Hengl Uhr samt den Kasten</cell>
+                            <cell>11 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>22 f 49 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Golt Wägl</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 braune Hemeter</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Bölzhäubl</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Fehl</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 liderne Hosen</cell>
+                            <cell>1 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 deto lödene</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 schwarzer Huet</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Leib Binten</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Rother Brust Flök, 1 deto blauer und 1 blaues Leibl</cell>
+                            <cell>2 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 härbene Pfaiten</cell>
+                            <cell>2 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>3 deto werchene</cell>
+                            <cell>1 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>11 f 59 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>2 par Schuech</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 par Joken</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 ½ Ellen werches Tuech</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Leylacher</cell>
+                            <cell>1 f 36 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Ober, und Unter Böth 1 Köllische Böth Ziechen, 1 Bolster, 1 Strosak, und 1 deto kleines unter Böthl</cell>
+                            <cell>9 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 Töken</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Wötter Mantl</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>13 f 22 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5r"/>
+                    <p>Untern Tach</p>
+                    <table rend="rules">
+                        <head type="added">Untern Tach</head>
+                        <row>
+                            <cell>3 Seegessen, 4 neüe Rechen, 1 Heügabl 2 Änzen</cell>
+                            <cell>38 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <del>1 Kästl mit Schloss und Bandt</del>
+                            </cell>
+                            <cell>
+                                <del>20 x</del>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 Spann Saag</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Häkl</cell>
+                            <cell>7 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <del>1 Truchen mit Schloss und Bandt</del>
+                            </cell>
+                            <cell>
+                                <del>26 x</del>
+                            </cell>
+                            <cell>
+                                <add place="margin">Hier auf der Seite der Vermerk: „Lorenz Volderauer“</add>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 Mehl Küsten</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>darin 1 Mezen Gerstbey, samt 1 Stözl</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>2 Stär Gersten, und 1 Stär Roggen, ½ Stär deto Mehl</cell>
+                            <cell>7 f</cell>
+                        </row>
+                        <row>
+                            <cell>1 Eysen Keil</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>9 f 25 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Äschen Pfannen</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>Etwas Flik Zeüg</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>15 x</cell>
+                        </row>
+                    </table>
+                    <p>Summa dieser Inventur</p>
+                    <p>79 f 58 x</p>
+                    <pb n="6r"/>
+                    <p>An Barschaft ist verhanden</p>
+                    <p>66 f 15 x</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Fasz_7_Pos_5_14_BUCH.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar d. tot. u. lebend. Fahrnisse von <rs type="person" ref="#greyer-wolfgang">Wolfgang Greyer</rs> aus <rs type="place" ref="#neder-neustift">Neder (Neustift)</rs>, erstellt <date when-iso="1754-04-18">1754-04-18</date>
+                </title>
+                <respStmt>
+                    <resp>Transkribiert von</resp>
+                    <name>
+                        <rs type="person" ref="#span-michael">Michael Span</rs>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>XML kodiert von</resp>
+                    <name>
+                        <rs type="person" ref="#andorfer-peter">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+                <funder>
+                    <name>
+                        <rs type="organisation" ref="#twf">Tiroler Wissenschaftsfonds</rs>
+                    </name>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Michael Span</publisher>
+                <publisher>Peter Andorfer</publisher>
+                <pubPlace>www.digital-archiv.at</pubPlace>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+                <date when-iso="2015">2015</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>
+                            <rs type="place" ref="#innsbruck">Innsbruck</rs>
+                        </settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <collection>TLA, Aktenserie LG Mieders, Fasz. 7, </collection>
+                        <idno>5 (Inventare 1754), Nr. 14</idno>
+                    </msIdentifier>
+                    <msContents class="#">
+                        <p>Inventar d. tot. u. lebend. Fahrnisse</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>17x21 cm [Bogen also 34x21], 8 Bögen, 26 Seiten</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date when-iso="1754-04-18"/>
+                            <origPlace>
+                                <rs type="place" ref="#mieders">Mieders</rs>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <div type="regest">
+                    <table rend="rules">
+                        <row>
+                            <cell>Signatur</cell>
+                            <cell>TLA, Aktenserie LG Mieders, Fasz. 7, Pos. 5 (Inventare 1754), Nr. 14</cell>
+                        </row>
+                        <row>
+                            <cell>Typ</cell>
+                            <cell>Inventar d. tot. u. lebend. Fahrnisse</cell>
+                        </row>
+                        <row>
+                            <cell>Verstorbene/r [vormaliger Besitzer/in]</cell>
+                            <cell>Wolfgang Greyer</cell>
+                        </row>
+                        <row>
+                            <cell>Wohnort der/s Verstorbenen</cell>
+                            <cell>Neder (Neustift)</cell>
+                        </row>
+                        <row>
+                            <cell>Ort, wo das Dokument verfasst wurde</cell>
+                            <cell>Mieders</cell>
+                        </row>
+                        <row>
+                            <cell>Datum, wann das Dokument verfasst wurde</cell>
+                            <cell>1754-04-18</cell>
+                        </row>
+                        <row>
+                            <cell>Gerichtsverpflichter</cell>
+                            <cell>Lorenz Hofer (Neder?)</cell>
+                        </row>
+                        <row>
+                            <cell>Aktuar</cell>
+                            <cell>Jacobo [Jakob] Brixner</cell>
+                        </row>
+                        <row>
+                            <cell>sonstige Amtspersonen</cell>
+                            <cell>-</cell>
+                        </row>
+                        <row>
+                            <cell>Beschreibung des Dokuments</cell>
+                            <cell>17x21 cm [Bogen also 34x21], 8 Bögen, 26 Seiten</cell>
+                        </row>
+                        <row>
+                            <cell>Beruf</cell>
+                            <cell>Schmied</cell>
+                        </row>
+                        <row>
+                            <cell>Summe</cell>
+                            <cell>Inventar: 245 f 22 x</cell>
+                        </row>
+                        <row>
+                            <cell>transkribiert am</cell>
+                            <cell>2015-09-24</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <pb n="1r"/>
+                    <p>1754</p>
+                    <p>Inventur</p>
+                    <p>So auf Ableiben des Ehrsameb Wolfgang Greyers Schmids in der Neder Hofgerichts Stubay gehaust seel. von dessen hinterlassenen Mobilien, Vieh und Fahrnüssen, auch Schmid-Handtwerchzeig, und Schmid Wahren errichtet worden.</p>
+                    <p>[Anm. d. Ger.: „Ex.“]</p>
+                    <pb n="2r"/>
+                    <p>Actum Mieders den 18ten April ao 1754</p>
+                    <p>Aus Verordnung loblicher Hofghts Obt, Vor und durch den Gerichts Verpflichten Lorenz Hofer, und Actuario Jscobo Brixner</p>
+                    <p>Nachdem Gott der Allmachtige seinen allerheiligsten Willen volzochen, und andurch den Ehrsamen Wolfgang Greyer gewesten Schmid in der Neder Hofghts Stubay gehaust sel. nach empfachten heiligen Bueß-Sacramenten, von diesem zeitlichen</p>
+                    <pb n="2v"/>
+                    <p>Leben mitlst eines Christ und natürlichen Todts abgefordert, und ungezweiflter Hoffnung zu sich in die ewige Freud und Glückseligkeit berueffen. Gott Gnad der Seele.</p>
+                    <p>Als ist auf Anrueffen der hinterlassenen Kinder als Jacob Greyer vogtbar verheürateten Standts, Gregori Greyer 23 und Agnes Greyerin 26 Jahr alt, über dessen zeitlichen Verlassenschaft, als Mobilien, Victualien und Fahrnüsse, auch Schmid-Handtwerchzeig, vorgenommen worden folgende</p>
+                    <pb n="3r"/>
+                    <p>Inventur</p>
+                    <p>In der Stuben</p>
+                    <table rend="rules">
+                        <head type="added">In der Stuben</head>
+                        <row>
+                            <cell>Erstlich ain feichter Tisch mit einer Schubladen</cell>
+                            <cell>9 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Tisch-Tuech</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>Vier Eisen Löfl</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>Vier hölzene Deto</cell>
+                            <cell>2 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Krapfen-Rädl und 4 Nudl Tribl</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Vorbänckh und ain Stuel</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Pfannen Holz</cell>
+                            <cell>1 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Uhr</cell>
+                            <cell>1 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>43 x [sic!]</cell>
+                        </row>
+                    </table>
+                    <pb n="3v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Bretl Wag, so auf der schweren Saiten 77 Pfundt hat</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>aber ain klainere Deto, so auf der schweren Saiten 55 Pfundt haltet</cell>
+                            <cell>50 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain großer Schraufstockh</cell>
+                            <cell>2 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Feil Kloben</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Peis-Zang, 2 Hamer</cell>
+                            <cell>17 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Eisen-Feilen</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Schnal-Keil</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Schuech Löfl</cell>
+                            <cell>1 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>6 f 11 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain klainer Hand Pitrich</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Spinnrad und 1 Haspl</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <bibl>ain großes Buech</bibl>
+                            </cell>
+                            <cell>
+                                <bibl>1 f</bibl>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>ain Schär, 1 Leichter, 1 Weichbrunnen Kriegl</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>1 f 44 x</cell>
+                        </row>
+                    </table>
+                    <pb n="4v"/>
+                    <p>In Vorhaus</p>
+                    <table rend="rules">
+                        <head type="added">In Vorhaus</head>
+                        <row>
+                            <cell>zway Mais-Hackhen</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Ast-Hackhlen</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Klieb Hackhen</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Magen-Stampf</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain ganzes Pach-Zeüg</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Körb</cell>
+                            <cell>18 x</cell>
+                        </row>
+                    </table>
+                    <p>In Speisgaden</p>
+                    <table rend="rules">
+                        <head type="added">In Speisgaden</head>
+                        <row>
+                            <cell>5 Kreil</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wähl- und 1 Spizhauen</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 10 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Pickhl</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Spann-Sag</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Dunget Gablen</cell>
+                            <cell>21 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Tengl-Zeüg</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Raitl-Ketten</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Windling</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Speis-Truchen mit 5 Kästlen</cell>
+                            <cell>40 x</cell>
+                        </row>
+                    </table>
+                    <p>In der Kuchl</p>
+                    <table rend="rules">
+                        <head type="added">In der Kuchl</head>
+                        <row>
+                            <cell>Häl und Päl</cell>
+                            <cell>17 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Feuer Hundt</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Kupferner Hafen</cell>
+                            <cell>36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 21 x</cell>
+                        </row>
+                    </table>
+                    <pb n="5v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Eisen Hafen</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Erd-Häfen</cell>
+                            <cell>2 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Drey-Fues</cell>
+                            <cell>8 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey große, und 3 klainere Pfännen</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wasser Gazl, 2 Knödl Köllen, 2 Scherrer, 1 Kiechl Spiz, zway Krauthackhlen</cell>
+                            <cell>18 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Hafen Blatten</cell>
+                            <cell>9 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Koch-Köllen und ain Mueser</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Speis-Kästl mit Schloss und Bant</cell>
+                            <cell>2 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>3 f 14 x</cell>
+                        </row>
+                    </table>
+                    <pb n="6r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>1 Mehl-Fässl, und 1 Mässl</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway mittere Kössl</cell>
+                            <cell>4 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wasser und 1 Schotten Gaz, und 1 Rib-Eisen</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>1 Spuel Schaff</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway erdene und 2 holzene Mahlschissl</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>Eilff Hennen a 10 x</cell>
+                            <cell>1 f 50 x</cell>
+                        </row>
+                        <row>
+                            <cell>Ain Vorbanckh</cell>
+                            <cell>2 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>6 f 25 x</cell>
+                        </row>
+                    </table>
+                    <pb n="6v"/>
+                    <p>In Kraut Keller</p>
+                    <table rend="rules">
+                        <head type="added">In Kraut Keller</head>
+                        <row>
+                            <cell>zway Kraut Prenten</cell>
+                            <cell>1 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>darinnen Rüebes Kraut 6 Schäffer a 8 x</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Wäsch-Züber</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>zway Krözen</cell>
+                            <cell>8 x</cell>
+                        </row>
+                    </table>
+                    <p>In Keller</p>
+                    <table rend="rules">
+                        <head type="added">In Keller</head>
+                        <row>
+                            <cell>erstlich ain Kästl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Schmalz-Kibl</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>darinnen 15 Pfund Schmalz a 12 x</cell>
+                            <cell>3 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain aufstehender Schlöglkibl, 1 Milch Melter, ain</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>6 f 44 x</cell>
+                        </row>
+                    </table>
+                    <pb n="7r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain Räm-Stözl, ain Milch-Seüch</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>Zwanzig Milch-Schüsslen</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Milch Döselen</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain klain, und grosseres Melterl</cell>
+                            <cell>6 x</cell>
+                        </row>
+                        <row>
+                            <cell>Und ain Hand Kibl</cell>
+                            <cell>5 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>1 f 23 x</cell>
+                        </row>
+                    </table>
+                    <pb n="7v"/>
+                    <p>In des Ableibers Camer</p>
+                    <table rend="rules">
+                        <head type="added">In des Ableibers Camer</head>
+                        <row>
+                            <cell>ain grosse Truchen mit Schloss und Pant</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>In welcher ain lodenes Hemat</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway irchene Hosen</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain par ehrlinger Strimpf</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Huet</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway härbene Hemater</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>zway werchene</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain gearbeites Fehl</cell>
+                            <cell>17 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>5 f 49 x</cell>
+                        </row>
+                    </table>
+                    <pb n="8r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>Mehr ain Truchen mit Schloss und Pant</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>darinnen zway Leilacher mit Rost-Leisten</cell>
+                            <cell>3 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>Wider 2 par Deto schlechtere</cell>
+                            <cell>1 f 48 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Bölster mit härbene Ziechen</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>zway werchene Pett-Ziechen</cell>
+                            <cell>2 f 36 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Öllen härbenes Tuech</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>11 f 48 x</cell>
+                        </row>
+                    </table>
+                    <pb n="8v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain par neue Schuech</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Scheiben Pichs</cell>
+                            <cell>4 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain schlechtere Deto</cell>
+                            <cell>3 f</cell>
+                        </row>
+                        <row>
+                            <cell>aber ain Speis-Truchen</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Pfund Körzen</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Heu-Sail</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Kümpfl</cell>
+                            <cell>3 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain par Kraut Messer</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>8 f 40 x</cell>
+                        </row>
+                    </table>
+                    <pb n="9r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>Widerumb ain Kisten mit 3 Kästlen, auch Schloss und Bant</cell>
+                            <cell>2 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>darinnen 2 ½ Stär Gerste</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>und 1 ½ Stär Mehl</cell>
+                            <cell>1 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Kue Haut</cell>
+                            <cell>3 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>und ain Kalb Fehl</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>9 f 24 x</cell>
+                        </row>
+                    </table>
+                    <pb n="9v"/>
+                    <p>In der Bueben Camer</p>
+                    <table rend="rules">
+                        <head type="added">In der Bueben Camer</head>
+                        <row>
+                            <cell>Erstliche ain Truchen mit Schloss und Pant</cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Himl Pettstatt</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>mehr ain schlechtere Deto</cell>
+                            <cell>21 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Better mit werchene Ziechen und ain par Leilacher, auch 2 Polster mit werchene Ziechen</cell>
+                            <cell>7 f</cell>
+                        </row>
+                        <row>
+                            <cell>zway Stro-Säckh und zway Deckhen</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>9 f 39 x</cell>
+                        </row>
+                    </table>
+                    <pb n="10r"/>
+                    <p>In der Madler-Camer</p>
+                    <table rend="rules">
+                        <head type="added">In der Madler-Camer</head>
+                        <row>
+                            <cell>ain Pett Stättl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Bettl mit werchene Ziehcne, und ain Leilach und Polster</cell>
+                            <cell>3 f</cell>
+                        </row>
+                        <row>
+                            <cell>und ain Stro-Sackh</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>auch ain Truchen mit Schloss und Bant</cell>
+                            <cell>1 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain neües Ober, und 1 Unter Bett, so die Muetter der Tochter Agnes zuegericht pr Bht.</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>4 f 36 x</cell>
+                        </row>
+                    </table>
+                    <pb n="10v"/>
+                    <p>In Stadl</p>
+                    <table rend="rules">
+                        <head type="added">In Stadl</head>
+                        <row>
+                            <cell>Heü</cell>
+                            <cell>15 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain Reis Stro </cell>
+                            <cell>48 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Drischl</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Eisen-Gabl</cell>
+                            <cell>20 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway holzene Heü Gablen</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Heü-Rechen</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>und drey Raumb-Rechen</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Reiter</cell>
+                            <cell>4 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Stro-Banckh mit einem Messer</cell>
+                            <cell>24 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>17 f 37 x</cell>
+                        </row>
+                    </table>
+                    <pb n="10r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>ain halbe Wind-Mihl</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Wägele</cell>
+                            <cell>5 f</cell>
+                        </row>
+                        <row>
+                            <cell>ain Schliten</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>fünf Boden-Läden a 6 x</cell>
+                            <cell>30 x</cell>
+                        </row>
+                        <row>
+                            <cell>65 Deto schlechter a 5 x</cell>
+                            <cell>5 f 25 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Pflueg sambt aller Zuegehör</cell>
+                            <cell>2 f</cell>
+                        </row>
+                        <row>
+                            <cell>und ain Öget</cell>
+                            <cell>15 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Ziech-Grötl</cell>
+                            <cell>12 x</cell>
+                        </row>
+                        <row>
+                            <cell>ain Präxen</cell>
+                            <cell>10 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>14 f 17 x</cell>
+                        </row>
+                    </table>
+                    <pb n="10v"/>
+                    <p>In Stall</p>
+                    <table rend="rules">
+                        <head type="added">In Stall</head>
+                        <row>
+                            <cell>Zway Küe</cell>
+                            <cell>34 f</cell>
+                        </row>
+                        <row>
+                            <cell>drey Gais</cell>
+                            <cell>7 f 30 x</cell>
+                        </row>
+                        <row>
+                            <cell>vier Küe Ketten</cell>
+                            <cell>40 x</cell>
+                        </row>
+                        <row>
+                            <cell>drey Gais Ketten</cell>
+                            <cell>15 x</cell>
+                        </row>
+                    </table>
+                    <p>In der obern Schmidten an Handwerchzeig</p>
+                    <table rend="rules">
+                        <head type="added">In der obern Schmidten an Handwerchzeig</head>
+                        <row>
+                            <cell>Zangen, so in Gewicht halten 48 Pfundt a 7 x</cell>
+                            <cell>5 f 36 x</cell>
+                        </row>
+                        <row>
+                            <cell>Hämer 41 Pfundt a 7 x</cell>
+                            <cell>4 f 47 x</cell>
+                        </row>
+                        <row>
+                            <cell>und glates Eisen 21 Pfundt a 4 x</cell>
+                            <cell>1 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>54 f 12 x</cell>
+                        </row>
+                    </table>
+                    <pb n="11r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>Stachl [Stahl] 12 Pfundt a 6 x</cell>
+                            <cell>1 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>zway Ampass Horn ohne Tax</cell>
+                            <cell/>
+                        </row>
+                    </table>
+                    <p>In der untern Schmidten an Handwerchzeig</p>
+                    <table rend="rules">
+                        <head type="added">In der untern Schmidten an Handwerchzeig</head>
+                        <row>
+                            <cell>Zangen pr 72 Pfundt a 7 x</cell>
+                            <cell>8 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>Hämer pr 41 Pfundt a 7 x</cell>
+                            <cell>4 f 47 x</cell>
+                        </row>
+                        <row>
+                            <cell>62 Pfund Stachl a 6 x</cell>
+                            <cell>6 f 12 x</cell>
+                        </row>
+                        <row>
+                            <cell>64 Pfund Eisen a 4 x</cell>
+                            <cell>4 f 16 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>24 x 51 x</cell>
+                        </row>
+                    </table>
+                    <pb n="11v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>13 Pfundt ohngeschliffene Schniz Messer a 8 x</cell>
+                            <cell>1 f 44 x</cell>
+                        </row>
+                        <row>
+                            <cell>Für nit ganz ausgemachte Sachen und halb ausgemachte Stem Eisen</cell>
+                            <cell>7 f</cell>
+                        </row>
+                        <row>
+                            <cell>zway Ampass a <del>7 f</del> ohne Tax</cell>
+                            <cell>
+                                <del>14 f</del>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>und ain Ampass Horn</cell>
+                            <cell>
+                                <del>1 f 30 x</del>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <p>An ausgemachter Schmid Waar ist verhanden</p>
+                                <p>als Schniz Messer 30 Pfundt a 12 x</p>
+                            </cell>
+                            <cell>6 f</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>14 f 44 x</cell>
+                        </row>
+                    </table>
+                    <pb n="12r"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>Hobl Eisen 26 Pfundt a 11 x</cell>
+                            <cell>4 f 46 x</cell>
+                        </row>
+                        <row>
+                            <cell>Stem und Feuer Eisen 43 Pfundt a 11 x</cell>
+                            <cell>7 f 53 x</cell>
+                        </row>
+                        <row>
+                            <cell>kleinere Deto 24 Pfundt a 11 x</cell>
+                            <cell>4 f 24 x</cell>
+                        </row>
+                        <row>
+                            <cell>Scherper [?] 22 Pfund a 11 x</cell>
+                            <cell>4 f 2 x</cell>
+                        </row>
+                        <row>
+                            <cell>Schaff Schären 16 Pfundt a 11 x</cell>
+                            <cell>2 f 56 x</cell>
+                        </row>
+                        <row>
+                            <cell>an ungeschliffener Waar als Scherper 7 Pfundt a 9 x</cell>
+                            <cell>1 f 3 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>25 f 4 x</cell>
+                        </row>
+                    </table>
+                    <pb n="12v"/>
+                    <table rend="rules">
+                        <row>
+                            <cell>Ungeschliffene Hobl-Eisen 19 Pfundt a 9 x</cell>
+                            <cell>2 f 51 x</cell>
+                        </row>
+                        <row>
+                            <cell>Ungeschliffene Feuer Eisen 42 Pfundt a 9 x</cell>
+                            <cell>6 f 18 x</cell>
+                        </row>
+                        <row>
+                            <cell>und ungeschliffene Stem-Eisen 29 Pfundt a 9 x</cell>
+                            <cell>4 f 21 x</cell>
+                        </row>
+                        <row>
+                            <cell>Lat.</cell>
+                            <cell>13 f 30 x</cell>
+                        </row>
+                    </table>
+                    <pb n="13r"/>
+                    <p>Summa der Inventur</p>
+                    <p>245 f 22 x</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
