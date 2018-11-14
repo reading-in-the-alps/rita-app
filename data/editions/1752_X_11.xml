@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1752 X 11, Saalen (in der Kaplanei) [Manucredo Marcus Aurelius (Cooperator), No. 755]</title>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>
+                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Reading in the Alps</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Südtiroler Landesarchiv (SLA)</institution>
+                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
+                  <idno>1752 X 11</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="1r" to="27r"/>
+                     <note>
+                        <rs type="skos" ref="#inventar">Inventar</rs>
+                     </note>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1752-10-11">
+                     <rs type="place" ref="#saalen">Saalen</rs>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change notBefore="2018-07-26" notAfter="2018-07-27" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>[Titelseite]</p>
+            <p>[Kanzleivermerk:] Coll.</p>
+            <p>[Rubrum:]</p>
+            <p>1752</p>
+            <p>Vermigens Ergenzung und Einraumbung</p>
+            <p>So auf christseelig ervolgten Verableiben weillende des wohl erwirdig gelehrten Herren <rs type="person" ref="#manucredo_marcus_aurelii">Marcus Aurelii Manucredo</rs>, in Leben gewester Cooperator zu <rs type="place" ref="#saalen">Saallen</rs>, zeitlichen Verlassenschafft formiert, und dem Herrn Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> beschechen.</p>
+            <p>[Aktenvermerk:] Zu Gerichtshanden geherig.</p>
+            <p>[späterer Archivvermerk:] No -755-</p>
+            <p>
+               <pb n="1r"/>
+            </p>
+            <p>Actum <rs type="place" ref="#saalen">Saallen</rs> in der Caplanei Behausung den <date when="1752-10-11">aindlifften Tag Monats Octobris anno sibenzöchenhundert zwaiundtfunfzig</date>.</p>
+            <p>Vor Ihro Hochwirden und Gnaden, dem hochwirdig hoch edlgebohrnen und hochgelehrten Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngramb von Liebenrain, und Fragburg</rs> hochfirstlich Brixnerischen Consistorial Rath, auch Döchandt, und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunögg</rs>, als von einer hochgeistlichen Obrigkheit zu <rs type="place" ref="#brixen">Brixen</rs> verorneten Herrn Commissario.</p>
+            <p>Und den wohl edlgebohrn gstreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäty Englmohr, von Aufkhirchen zu Mohregg</rs>, beeder Rechten <pb n="1v"/> lit. oo. Regiments Advocäten auch Pflöger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>,</p>
+            <p>Zugegen des wohl firnemben <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler, und Wirths zu <rs type="place" ref="#saalen">Saallen</rs>, als zuegezochnen Taxätor und Schäzern,</p>
+            <p>Dan des geist- und weltlichen Actuärii, Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs>, und Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummber</rs> Landtgerichtschreiber der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Auf christseelig ervolgtes Ableiben weillende des wohl ehrwirdigen wohl edlen und gelehrten <pb n="2r"/> <rs type="person" ref="#manucredo_marcus_aurelii">Marci Aurelii Manucredo</rs> gewöster Caplan zu <rs type="place" ref="#saalen">Saallen</rs>, und yber vorleifig von Seiten der geist- und weldtlichen Vorsteheung vorgenambener Secretur, haben bey däto abgehaltnen sibendt- und dreissigisten Gottesdenst Ihro Hochwirden, und Gnaden vor hoch wohl ernenter Herr Döchandt <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb etc.</rs> referiert, wölchergestalten ein hochwirdiges und gnediges Officium deme laut producierenden und alda ad Prothocollum sub lit. A<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Auf der linken Seite</hi> lit. A.<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
+                  </p>
+            </note> registrierenden gnedigen Commissionsbefelch zu Abhandlung des numehro in Gott ruehenden Herrn Cappellani alda zurugg begöbner zeitlichen Verlassenschafft die Commissions Vollmacht ertheillet hett, und dahero von denen Herrn, und Frauen Erbs Interessenten zu vernemben ge-<pb n="2v"/> und anstatt der Töchter <rs type="person" ref="#pifrader_maria_johanes">Maria Johanesen Pifraders zu Rofereidt</rs> Ehewirthin, und der zwo noch lödigen deto Theresia, und Annä, dero bestölte Vertrötter <rs type="person" ref="#hueber_hans">Hans Hueber</rs>, verer des ebenfalls verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_leonardi_joachimi">Leonardi Joachimi Manucredo</rs> seelligen, mit und bey seiner gehabten Ehe- und hinterlassnen Wittfrauen <rs type="person" ref="#scheuckin_hellenae">Hellenä Scheuckhin</rs> in Ehepandt erzeigt ruggs begöben zwo Herrn Sehn, <rs type="person" ref="#manucredo_johann_antany">Johann Antany</rs> Priester, und mehr derselbe als bestölter Gewalthaben seines abwösigen Herrn Brueder <rs type="person" ref="#manucredo_joseph_joaechimb">Joseph Joachimb</rs> Diaconi sag alda zum Prothocoll registrierenden Gewaldt lit. B.<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Auf der linken Seite</hi> lit. B.<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
+                  </p>
+            </note> und der verstorbnen Frauen Schwöster <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursulä Manucredin</rs> bey Herrn <rs type="person" ref="#wachtler_jacob">Jacoben Wachtler</rs> gewösten Burger, auch Wirth, und Gastgöben an der Rosen alda zu ersagten St. <pb n="4r"/> <rs type="place" ref="#st_lorenzen">Lorenzen</rs> baidt seelligen, in Ehewandl erworben, ainzige Herr Sohn, und zwo Frauen Töchter als Herr <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> Capplan zu Cranburg in Ober Inthall, wölcher aber nit zugögen, sondern deme <rs type="person" ref="#hueber_hans">Hans Hueber</rs> Rindler vertrittet, dan <rs type="person" ref="#puell_maria_theresia">Maria Theresia verwittibte Puellin</rs> zu <rs type="place" ref="#brunegg">Brunögg</rs>, und Maria Ursulä Carl Khässer Weisgärbers zu <rs type="place" ref="#muehlbach">Milbach</rs> Ehewirthin, die in assistentia und mit Rath gemelten <rs type="person" ref="#hueber_hans">Hansen Huebers</rs> gehandlet, liessen hieryber in Gehorsamb, und Demueth anpringen, wölchergestalten selbe den schlechten Vermigens Standt sich leithtlich von selbs einpilden khenten, nichts destoweniger aber, und damit gleichwohlen selbe auf die aigentliche Beschaffenheit dössen kambeten, so wollen sie und die Inventur und volglich eine geist- und weldtliche Obrigkheit gebötten haben, der zuruggelassenen Heiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> die Zuespröchung zu thuen, das selbe alles und <pb n="4v"/> jedes, was zu des Herrn<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+               </note> Ableibers seelligen Verlassenschafft gehörig, und derselben wissendt ist, gethreulichen zu beschreiben antag göben, und gefehrlicher weise hievon bey Straf Landts Rechten nichts verhalten solle. Wän man<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+               </note> nun von Seiten der geistlichen Commission, und weltlichen Obrigkheit daran kheine Bedenckhen getragen, als ist auch von daraus ersagter Heiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> die geböttene Zuespröchung beschöchen, und nachdeme sie auch solchen nachzukhomben versprochen, und das Handt Anloben erstattet, hierauf die Secretur ab- und sodan vorgenamben worden, hernachvolgende</p>
+            <p>Inventur</p>
+            <p>Und zwar erstlichen in der unter <pb n="5r"/> Stuben</p>
+            <p> [Summa]	351 f 35 x</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain roth angestrichner Tisch mit ainer Schubladt pr</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Ain anders clains angestrichnes Tischl sambt ainen darauf befindlichen Töppich per</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Ittem ain clain roth angestrichnes Tischl, per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Zway roth mit Löder, und zwo mit plaben Tuech yberzochne Sösl per</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Drey roth angestrichne Lain Stiell,</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain an der Wandt angemachter Casten mit Schlos, und Pandt,</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen drey eingefaste, und finf andere Glöser nöbst dern noch mehrer pr</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain mössings Ämppele per</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>8 f 27 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="5v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain stainens Unter- und Ober Giespöckhet, auch ain plöchens Palbier Schisl per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>In ain Wandt Cästl dreizöchen Wein, ittem vier clenere, und zwo Össig, auch ain anders Glas mit einen zinen Schreifele pr</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo Thee Schällelen mit ainen Pländl, zwo Halbe- und ain Fräggen Khriegl, ain Majolica Salz Pixl, drey ströbene Plänler, und ain Mösser Khörbl, per</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Maria Hilf, ain Johannes, und ain Märcus Tafl,</cell>
+                  <cell>2 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Sibenundtreissig gresser und clener papierene Khupfer Stich Taflen, per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Crucifix mit drey clainen Täfelen per</cell>
+                  <cell>48 x</cell>
+               </row>
+            </table>
+            <p>In unterschlagnen Stibele.</p>
+            <table rend="rules">
+               <row>
+                  <cell>Latus</cell>
+                  <cell>5 f 4 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="6r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Pöttstätl per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Darzue ain gedruckhter Firhang mit drey Thaill sambt zwo Eisen Stänglen per</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferenes unters und obers Giespöckhet per</cell>
+                  <cell>1 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain mit plaben Tuech yberzochner Sössl, per</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>Yber die jenigen vier Taflen, so zu der Stöllung gehörn, werden <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-1</hi> 
+                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                        </p>
+                     </note>noch die ybrig daselbs befindliche<hi rend="superscript">1</hi> gressere und clenere Täfelen, sambt den eingefasten mössingen Wötter Creuz und andern Heilligen Sachen werth zusein aestimiert, und angeschlagen per</cell>
+                  <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain grien angestrichnes Puldt, und ain Piecher Auflög Stöllele, pr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Drey gedruckhte Fenster Firhängler mit drey Eisen Stänglen per</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>5 f 28 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="6v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Zwo Gämbs Khöpflen per</cell>
+                  <cell>14 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Khörbisch per</cell>
+                  <cell>4 x</cell>
+               </row>
+            </table>
+            <p>In Stuben Gädenle,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain roth angestrichnes Tischl per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Proth Ramb per</cell>
+                  <cell>5 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Schisl Ramb sambt einen Firhang, und Eisen Stängl, pr</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain gros hilzene Schachtl,</cell>
+                  <cell>3 x</cell>
+               </row>
+               <row>
+                  <cell>Ain clains Trichele mit Schlos und Pandt, pr</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen,</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Zway Par härbene Leillacher, das aine mit Spizen, und das andere mit Fransen, per</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par leichhächlene deto per</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>4 f 32 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="7r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Drey ney rupfene Leillacher per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par abgetragne deto per</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>Aber zway abgetragne leichhächlene Leillacher pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Drey gewögglete Tischtiecher pr</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain ainliz guets gewögglets Tischtuech, per</cell>
+                  <cell>32 x</cell>
+               </row>
+               <row>
+                  <cell>Vier rupfene Tischtiecher,</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Aber drey deto per</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>Ain leichhächlens per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr zwo härbene Leillacher mit rothen und weisen Fransen per</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Sechs gewögglete Handtiecher pr</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>8 f 19 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="7v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Sechs rupfene deto,</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Verer zwo härbene Leillacher mit Fransen pr</cell>
+                  <cell>1 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo rupfene deto pr</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr vier rupfene Handt- und ain deto Tischtuech, per</cell>
+                  <cell>28 x</cell>
+               </row>
+               <row>
+                  <cell>Widerumb drey schlechte Handtiecher per</cell>
+                  <cell>9 x</cell>
+               </row>
+               <row>
+                  <cell>Dreiundtzwainzig Tisch Salveter pr</cell>
+                  <cell>1 f 35 x</cell>
+               </row>
+               <row>
+                  <cell>Sechs Proth Stauchen, und zway Palbier Tiechlen,</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain <rs type="place" ref="#welsberg">Welsperger</rs> Töppich pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zway ainhalb Ellen schwarz geförbtes Tuech pr</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo gedruckhte Töppichler per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>7 f 30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="8r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain rupfen gewögglet unnterfieterter Tischtöppich per</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Ain rupfen Polster, und ain alt gewögglete Pöthziechen per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain plab, und ain anders Khis Ziechl, auch ain gedruckhter Flöckh,</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Gewandt Casten mit Schlos, und Pandt, auch zwo Thirlen, per</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen,</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Ain schwarz tiechen abgetragner Mantl mit ainen sameten Kragen per</cell>
+                  <cell>6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain grau tiechener Satur Rockh, per</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain schwarz tiechen abgetragner Rockh, sambt den Cämisoll, per</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain schwarz cämelotener Rockh, mit sameten Aufschlögen, sambt der</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>19 f 8 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="8v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>gleichen Cämisoll, per</cell>
+                  <cell>5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain schwarz mässelänener Rockh sambt den Camisoll, per</cell>
+                  <cell>2 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Darzue zway Par mässelänene Hosen per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Auch ein schwarz ainlizes mässelänenes Cämisoll,</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain schwarz cron rässener Rockh, per</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo schlecht abgetragne Cämisöller per</cell>
+                  <cell>32 x</cell>
+               </row>
+               <row>
+                  <cell>Zway cron rassen schwarze Khrägelen per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain schwarz tiechen mit rothen Pey unterfieterte Rais Haben, per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain rauch sametes Pölz Heibl per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>13 f 16 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="9r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain plab cartanen unterfieterter Schlafrockh, per</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par schwarz gewirckhte, und ain Par gestrickhte Sumer Strimpf,</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par neye, und drey Par abgetragne weise Strimpf, per</cell>
+                  <cell>46 x</cell>
+               </row>
+               <row>
+                  <cell>Zway sametene, und zwo cartanene Khäpplen, auch zwo weis gestrickhte Hauben, per</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain plab cartanener Prustflöckh, per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Ain leinbatens, und <hi rend="strikethrough">acht</hi> 7<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Über der Zeile ausgebessert.</hi>
+                        </p>
+                     </note> härbene Hemater per</cell>
+                  <cell>3 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par Schuech sambt die mössingen Schnallen, per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par ney härbene Leillacher, mit grosen Spizen per</cell>
+                  <cell>2 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain Par etwas gröber</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>11 f 23 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="9v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>härbene Leillacher per</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par leichhächlene deto mit Fransen per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Zway Par ney rupfene deto,</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Vier gewögglete Tischtiecher per</cell>
+                  <cell>1 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Aber zwo rupfene deto per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Zwölf ney gewögglete Tisch Salveter mit Spiz, per</cell>
+                  <cell>1 f 36 x</cell>
+               </row>
+               <row>
+                  <cell>Ittem nein andere deto mit Spizlen per</cell>
+                  <cell>54 x</cell>
+               </row>
+               <row>
+                  <cell>Ain guetes und ain schlecht abgetragnes gewögglets Handtuech per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain grobhärbener Paadt Mantl per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain roth geplaimbt cartanene Döckhen mit ain rothen Unterfueter per</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>13 f 48 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="10r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Zwo <rs type="place" ref="#welsberg">Welsperger</rs> Döckhen per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Dreizöchen Ellen plab gewirfleter Pöth Khöllisch, zu sibenundtzwainzig Khreizer thuet</cell>
+                  <cell>5 f 51 x</cell>
+               </row>
+               <row>
+                  <cell>Sibenzig ainhalb die lange Ellen härbens Tuech zu zwainzig Kreizer thuet</cell>
+                  <cell>23 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Aber dreizöchen dreiviertl Ellen prait gröbers härbens Tuech, zu zwainzig Kreizer thuet</cell>
+                  <cell>4 f 35 x</cell>
+               </row>
+               <row>
+                  <cell>Sechzöchen Ellen gewöggleter Tischzeug, zu sibenzöchen Kreizer thuet</cell>
+                  <cell>4 f 32 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par lödene Stifelet, per</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr ain plab cartanener Prustflöckh mit flanellen Unterfueter,</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain graue Paruquen,</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>40 f 44 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="10v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Drey viertl Pfundt härben gewaschnes Garn, per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain halb Pfundt Zwirn per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo alte Cänen mit ainen gagezen, und ainen Stächlen Khnopf, per</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Drey Tuzet schwarze Khnöpf, und ain Stren schwarz getränte Seiden, per</cell>
+                  <cell>16 x</cell>
+               </row>
+               <row>
+                  <cell>Ain clains Schz Cästl mit finf Tädtlen, zwo Thirlen, auch Schlos und Pandt, per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain clains Span Pöttstättl, per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen,</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Ain Strosackh sambt ainen Stro Polster, per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Unterpöth sambt den Polster mit zwilchener innern und aussern leichhächlen Ziechen, wigt drei</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>3 f 55 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="11r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>undtzwainzig Pfundt, zu acht Khreizer thuet</cell>
+                  <cell>3 f 4 x</cell>
+               </row>
+               <row>
+                  <cell>Ain grien unterfieterer Töppich, per</cell>
+                  <cell>9 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Khopfkhis mit innern Zwilch und aussern plaben Ziechen, per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain clain roths Trichele mit Panden, auch ain essen Pröth</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain Unterpöth sambt ainen Polster, und Khis, mit innern Zwilch, und aussern Ziechen, wigt achtundtreissig Pfundt zu sechs Kreizer, thuet</cell>
+                  <cell>3 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain schlechte unterfieterte <rs type="place" ref="#welsberg">Welsperger</rs> Döckhen per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Par alt rupfene Leillacher, per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Vier Pfundt Zwöspen sambt ainen Tätl völl gedörten Kherschen</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>8 f 33 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="11v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain gelb glöserens Salz Pixl, per</cell>
+                  <cell>6 x</cell>
+               </row>
+            </table>
+            <p>In Khuchlgädenle,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain roths Täfele mit ainer Schubladt, per</cell>
+                  <cell> 8 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Pach Trögl, ain deto Mitl, ain Nudl, sechs Proth, und ain Hackh Prötl, per</cell>
+                  <cell>40 x</cell>
+               </row>
+               <row>
+                  <cell>Neinzöchen gressere und clenere erdene Häfen, per</cell>
+                  <cell>38 x</cell>
+               </row>
+               <row>
+                  <cell>Ittem vier große mit Tradt eingefaste oder gepundtne Häfen, per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Zway gros eingefaste, und ein anders Essig Glas per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ainundtfunfzig gresser, und clener tiefe und fleze stainene Schisl, per</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferene Pföster, und ain andere khupferene Pfan per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>4 f 44 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="12r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Fleisch Peill und ain Parten per</cell>
+                  <cell>24 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Prath Rost, zwo plöchene Strauben Laur, ain Khrapfen Gabl, ain Fleisch Spis, ain schlechts faimb Khöllele, zwo plöchen Leichter, ain mössinger Puzer, ain Hafen Platen, ain Raif Mösser, und des Herrn Ableibers Prandt Marckh, auch ain Span Sag, </cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain gloggspeisener Merscher, sambt ain dergleichen Strempfl, wigt sechs <hi rend="strikethrough">drei</hi>ainviertl<note>
+                        <p rend="footnote text"> ain <hi rend="italic">über der Zeile nachgetragen.</hi>
+                        </p>
+                     </note> Pfundt, zu dreissig Khreizer thuet</cell>
+                  <cell>3 f 7 x</cell>
+               </row>
+               <row>
+                  <cell>Ain mössings Pölgleisen<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Zweites</hi> -l- <hi rend="italic">nachträglich eingefügt.</hi>
+                        </p>
+                     </note>, sambt zweo Stächl per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain groser Khachler, finf Tutl Khrieg, und ain stainens Bstötten Häfele, per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Drey plöchene Testlen, und zway deto Wurst Trächterlen, per</cell>
+                  <cell>5 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>5 f 16 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="12v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Zway Egerer Flaschen per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ein Salz Stibichle, zwo Multer, drey Zistlen, und zwo Handt Khörblen per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Rauch Pfändl zwo Kreitle Häckhlen, ain grose Ehl Flasch, ain deto Khändele, ain Sib Eisen, ain Pföffer Pix, ain eisens, und ain plöchens Testl per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Stockhfisch Scheit per</cell>
+                  <cell>8 x</cell>
+               </row>
+            </table>
+            <p>In der Khuchl,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Feur Häll von acht Ringen und Häggen, ain Herdtschaufl, ain Feur Klupp, und ain Feur Hundt, per</cell>
+                  <cell>26 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Pratter sambt der Zuegehör,</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Zway Rohr Leichter, zwo Khuchl Mösser, zwo Puzer, und ain Khuchl Peill, per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>3 f 41 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="13r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Aindlich erdene Häfelen finf Bstötten Testlen, und ain stainene Schisl, per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Sechs Hafen Plätlen, ain Rib Eisen, und ain clainer Prath Rost per</cell>
+                  <cell>17 x</cell>
+               </row>
+               <row>
+                  <cell>Ain khupferens Fueskhössele, wigt finf drey viertl Pfundt, zu zwölf Khreizer, thuet</cell>
+                  <cell>1 f 9 x</cell>
+               </row>
+               <row>
+                  <cell>Ain eissens Heng Khössele per</cell>
+                  <cell>20 x</cell>
+               </row>
+               <row>
+                  <cell>Zway gresser, sechs clener, und drey Schmölz Pfändlen, ain khupferene, und ain andere eisene Dirchling, ain eisene grose Wasser- ain Krapfen- und zway andere Khöllelen, zway Schmalz Löfl, ain Mueser, ain Fleisch Spis, und ain Träf Testl,</cell>
+                  <cell>2 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Herdt Pfankhnecht, ain Glueth Pfändl, und ain Ofen Gabl per</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>5 f 14 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="13v"/>
+            </p>
+            <p>In der Laaben,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Zway Wasser Schäfer, ain Stözele, und ain langlechts Schäfl, per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Zway stainene Fleisch Kächl, per</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>Ain gros khupferener Secht Khösl, wigt finfundtzwainzig ainhalb Pfundt, zu achtzöchen Kreizer thuet</cell>
+                  <cell>7 f 39 x</cell>
+               </row>
+               <row>
+                  <cell>Zin,</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Ain grose tiefe, und ain andere etwas clenere Suppen, Ittem ain gresser, drey etwas clenere <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-5</hi> 
+                           <hi rend="italic">Am linken Rand ergänzt.</hi>
+                        </p>
+                     </note>und 7 noch clenere<hi rend="superscript">5</hi> fleze Schiselen, weegen zusamben, dreiundtzwainzig drey viertl Pfundt, zu achtundtzwainzig Kreizer thuet</cell>
+                  <cell>11 f 5 x</cell>
+               </row>
+               <row>
+                  <cell>Vierundtzwainzig Thäller, und</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>19 f 9 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="14r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>ain Schisele, weegen zwaiundtzwainzig ain viertl Pfundt zu vierundtzwainzig Khreizer, thuet</cell>
+                  <cell>8 f 54 x</cell>
+               </row>
+               <row>
+                  <cell>Ain obers und ain unters Giespöckhet, zwo Weichprun Khrieglen, zwo Leichter, ain Essig Schisele, und ain Mas Khandl, wigt alles zusamben, dreizöchen ain viertl Pfundt, zu sechsundtzwainzig Kreizer thuet</cell>
+                  <cell>5 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>Dreizöchen Par Mösser, und Gabl mit weis painenen Höfftern per</cell>
+                  <cell>1 f 18 x</cell>
+               </row>
+               <row>
+                  <cell>Acht Par<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                        </p>
+                     </note> hirschhorene Mösser, und Gabl, Ittem vier andere Mösser, und drey Gabl,</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Ain plöchene ain grose, sechs clenere und zway tiefe<note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                        </p>
+                     </note> Majolica Schiselen</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>17 f 21 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="14v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Viertl- zway Mas- zway drey Fräggen- und nein Trinckhl Khrieglen, alle mit zinen Lickhern, per</cell>
+                  <cell>2 f 24 x</cell>
+               </row>
+            </table>
+            <p>Untern Dach,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Mehl Truchen mit sechs Tatten, und Panden, per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Spuell Rädl, ain Garn Haspl, und ain Spinradt, per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Proth Ramb, ain Nudl Pröth, zwo Pach Schrägen, dreissig Garn Spuellen, ain Proth Schisl, und ain Firpanckh, sambt der darauf befindlichen Harr Hächl, per</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain roth angestrichne Gewandt Truch mit Schlos, und Pandt per</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ain (rev.) Nachtstuell sambt</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>5 f 12 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="15r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>den gschyr, per zöchen Kreizer, sage</cell>
+                  <cell>10 x</cell>
+               </row>
+            </table>
+            <p>In Kheller,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Kraut Pottich per</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen bey ungefehr finf Schaff Ruebe Kraut, per</cell>
+                  <cell>45 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Fleisch Ziberle, ain Wasser Schaff, ain Milch- und drey andere Stözelen, per</cell>
+                  <cell>18 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Halb, und ain Viertl Stär aufeinander per</cell>
+                  <cell>8 x</cell>
+               </row>
+               <row>
+                  <cell>Aber zwo Wasser Schäffer, zway Lain Stiell, ain Khörzen Khibl mit vierzöchen Prötlen, ain Schmalz Stözl, und sechzöchen Thäller per</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Dreizöchen drei viertl Pfundt Ins-</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>2 f 57 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="15v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>let Khörzen, zu zöchen Kreizer thuet</cell>
+                  <cell>2 f 17 x</cell>
+               </row>
+               <row>
+                  <cell>Zöchen Pfundt Spöckh, zu zöchen Kreizer thuet</cell>
+                  <cell>1 f 40 x</cell>
+               </row>
+               <row>
+                  <cell>Siben ain halb Pfundt geselchts Fleisch per</cell>
+                  <cell>37 x</cell>
+               </row>
+               <row>
+                  <cell>Vier Pfundt Schaff Khäs per</cell>
+                  <cell>24 x</cell>
+               </row>
+            </table>
+            <p>In Kheller bei der Ainsidlerey,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain gressere und drey clenere Wäsch Ziber, ain abstöch Schragen, und ain hilzener Wasser Sprizer mit ain plöchenen Kolben, per</cell>
+                  <cell>1 f 24 x</cell>
+               </row>
+               <row>
+                  <cell>Bey zöchen Ihrn Stattgschyr zu vierzöchen Kreizer thuet</cell>
+                  <cell>2 f 20 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>8 f 42 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="16r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain Erde Schaufl, ain Hau, und ain Eisen Rechen, per</cell>
+                  <cell>15 x</cell>
+               </row>
+            </table>
+            <p>In der ober Stuben,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Ain langlechter Tisch, mit ainen darauf befindlichen Teppich, per</cell>
+                  <cell>48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain angestrichne Span Pödtstatt</cell>
+                  <cell>36 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen ain Yberpöth sambt den Polster, mit innern Zwilch, und aussern plab khöllischen, der Polster aber mit roth geplaimbten Ziechen, wigt zwainzig ainhalb Pfundt, zu sechzöchen Kreizer, thuet</cell>
+                  <cell>5 f 28 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Unterpöth, und ain Kis, mit innern Zwilch, und aussern plab gewöggleten Ziechen wigt ainundtreissig Pfundt, zu dreizöchen Kreizer thuet</cell>
+                  <cell>6 f 43 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>13 f 50 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="16v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Darzue ain Strosackh, und zway Stro Pölster per</cell>
+                  <cell>15 x</cell>
+               </row>
+               <row>
+                  <cell>Aber ain praun angestrichne Luckh Pöthstatt, per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Darinen,</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Ain Yberpöth, und ain Khis, beedes mit innern parcheten und aussern plaben Ziechen, wigt zwölf Pfundt, zu vierundtzwainzig Khreizer, thuet</cell>
+                  <cell>4 f 48 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Unterpöth, zwo Pölster, und ain Khis, alles (ausser den Khiss) mit innern Zwilch, das Khis aber mit Parchet, und volgsamb alles mit aussern plab gewirfleten Ziechen, wigt ainundtvierzig drei viertl Pfundt zu dreizöchen Kreizer, thuet</cell>
+                  <cell>9 f 2 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>15 f 17 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="17r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>Mehr ain Yberpöth mit innern parcheten und aussern plab khöllischen Ziechen, wigt sibenzöchen ain halb Pfundt, zu zwainzig Khreizer thuet</cell>
+                  <cell>5 f 50 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Englische Döckhen per</cell>
+                  <cell>1 f 12 x</cell>
+               </row>
+               <row>
+                  <cell>Zwo Stuckh gedruckhter Firhang, sambt vier deto bey vier Fensterlen per</cell>
+                  <cell>30 x</cell>
+               </row>
+               <row>
+                  <cell>Ain gros mit Löder yberzochner Lain Sössl, per</cell>
+                  <cell>2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>In sollicher Stuben befindet sich auch ain Altärl mit etlich dreissig Täfelen, und andern Sachen, und Hältumber gezieret, ittem zwo grose, und zwaiundtzwainzig clenere papierene Theses, auch ain gemahlnes Abendt Mahl, und ain Maria Hilf Bildt, so alles werth zu sein</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>9 f 32 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="17v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>angeschlagen wirdet, per</cell>
+                  <cell>4 f 0 x</cell>
+               </row>
+            </table>
+            <p>In Wein Kheller,</p>
+            <table rend="rules">
+               <row>
+                  <cell>Drey plöchene Trächterlen per</cell>
+                  <cell>12 x</cell>
+               </row>
+               <row>
+                  <cell>In zwo Geschir zwo Yhrn, und zway Pareiden rother, und in ainen clain Pänzl, ain Pareiden weisser Wein, zu sechs Gulden dreissig Khreizer, thuet</cell>
+                  <cell>14 f 37 x</cell>
+               </row>
+               <row>
+                  <cell>Darzue drey Yhrn Stattgeschyr, per</cell>
+                  <cell>42 x</cell>
+               </row>
+            </table>
+            <p>
+               <hi rend="bold">Piecher,</hi>
+            </p>
+            <p>
+               <hi rend="bold">In Folio,</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#biblia_sacra">Bibliae Sacrae</rs> in zwo thomy teutsch, und lateinisch, in franzosischen Einpundt, per
+                  </cell>
+                  <cell>
+                     6 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>25 f 31 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="18r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#pater_jordan_predigen">Pater Jordan Prediger</rs> in zway Thaill, in französischen Einpundt per
+                  </cell>
+                  <cell>
+                     4 f 0 x
+                  </cell>
+               </row>
+            </table>
+            <p>
+               <hi rend="bold">In Quart</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#historischer_schauplaz">Historischer Schauplaz</rs>, in pirmenten Einpundt, per
+                  </cell>
+                  <cell>
+                     1 f 30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#ezechiel_koch">Ezechiel Koch</rs> in pirmentenen Einpundt, in zway Thaill, per
+                  </cell>
+                  <cell>
+                     1 f 30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#sacerdotale_brixinense">Sacerdotale Brixinense</rs>, in schwarz lideren Einpundt, per
+                  </cell>
+                  <cell>
+                     1 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#praembhofer_saemsonischer_hoenig_fladen">Prämbhofer Sämsonischer Hönig Fladen</rs>, in pirmentenen Einpundt, in drey Thaill,
+                  </cell>
+                  <cell>
+                     2 f 30 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#heriberth_dominical_et_festival">Heriberth Dominical Et Festival</rs> in zwo thamy und in Schwein Löder per
+                  </cell>
+                  <cell>
+                     2 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>12 f 30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="18v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#pater_mauritius_homo_simplex_et_rectus">Pater Mauritius Homo Simplex Et Rectus</rs>, in Pirment,
+                  </cell>
+                  <cell>
+                     2 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#ignatius_ertl_proedigen">Ignatius Ertl Son- Und Feyrtag Prödigen</rs>, in Pirment per
+                  </cell>
+                  <cell>
+                     2 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#schaz_camer_des_heiligen_rosenkranz">Schaz Camer Des Heiligen Rosenkranz</rs>, in Pirment,
+                  </cell>
+                  <cell>
+                     36 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#penzingers_khinderlehr_und_proedigen">Penzingers Khinderlehr Und Prödigen</rs> in Pirment, per
+                  </cell>
+                  <cell>
+                     36 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#breviarium_romanum">Breviarium Romanum</rs>, in schwarz lideren Einpundt per
+                  </cell>
+                  <cell>
+                     1 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#rogmon_biblische_geschichten">Rogmon Biblische Geschichten</rs> in französischen Einpundt, per
+                  </cell>
+                  <cell>
+                     1 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#dictionarius_frisius">Dictionarius Frisius</rs>, in Schwein Löder per
+                  </cell>
+                  <cell>
+                     30 x
+                  </cell>
+               </row>
+            </table>
+            <p>In Octav,</p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#sargor_conferentiae_morales">Sargor Conferentiae Morales</rs>,
+                  </cell>
+                  <cell>
+                     24 x
+                  </cell>
+               </row>
+            </table>
+            <p>Latus	8 f 6 x</p>
+            <p>
+               <pb n="19r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#cathecismus_romanus">Cathecismus Romanus</rs>, per
+                  </cell>
+                  <cell>
+                     18 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#christliches_ablas_piechl">Christliches Ablas Piechl</rs> per
+                  </cell>
+                  <cell>
+                     12 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <rs type="bibl" ref="#tobias_lohner_instructio_practica">Tobias Lohner Instructio practica</rs>, per
+                  </cell>
+                  <cell>
+                     24 x
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                    Noch etwas clenere unterschidliche Piecher per
+                  </cell>
+                  <cell>
+                     1 f 30 x
+                  </cell>
+               </row>
+            </table>
+            <p>In den Puldt,</p>
+            <p>Ist befunden worden in Geldt, sibenundtzwainzig Khreizer zway Fierer, und dabey ein Zötl, warauf volgendes geschriben „Den geistlichen Herrn <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> Coplan zu Cranburg gehörig“.</p>
+            <table rend="rules">
+               <row>
+                  <cell>In ein clein rothen Schächtele, Minz,</cell>
+                  <cell>38 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr in ain dergleichen in Fiehrern</cell>
+                  <cell>10 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>3 f 12 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="19v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>In einen <note>
+                        <p rend="footnote text">
+                           <hi rend="superscript">-8</hi> 
+                           <hi rend="italic">Über der Zeile geschrieben.</hi>
+                        </p>
+                     </note>gar cleinen<hi rend="superscript">8</hi> weisen deto in Fichrern [sic!]</cell>
+                  <cell>6 x</cell>
+               </row>
+               <row>
+                  <cell>Sechs silberene Hemath Khnöpflen, per</cell>
+                  <cell>1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Ein Agnus Dei mit zwo silberen Käpflen, zwo deto Dedlen, und ain silber gefastes Creuzl, per</cell>
+                  <cell>3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>In ainen Säckhl Silber Geldt,</cell>
+                  <cell>3 f 5 x</cell>
+               </row>
+               <row>
+                  <cell>Ain praune Hauben per</cell>
+                  <cell>9 x</cell>
+               </row>
+               <row>
+                  <cell>Ain Schnupf Tiechl</cell>
+                  <cell>9 x</cell>
+               </row>
+               <row>
+                  <cell>In ein clein Trichele befinden sich in Khreizern zway Gulden sambt einen Zötl, warauf geschriben, das ihme Herrn Ableiber seelligen, in allen siben Gulden dreissig Khreizer, fir allhiesige Unser Lieben Frauen Cappellen, zu einer Khirchen Zierdt, erlögt worden, mithin also derselbe</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>7 f 29 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="20r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>noch zu ersözen, finf Gulden dreissig Khreizer, pr Bht.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Sechs gleiche silberene Löfl, weegen funfzöchen Loth à ain Gulden thuet</cell>
+                  <cell>15 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Mehr drey silberene deto, weegen acht Loth, à ain Gulden thuet</cell>
+                  <cell>8 f 0 x</cell>
+               </row>
+               <row>
+                  <cell>Drey Par Mösser, und Gabl, mit silberen Höfftern, weegen acht ainhalb Loth à ain Gulden, thuet acht Gulden dreissig Khreizer id est</cell>
+                  <cell>8 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Sechs puxpämene Löfl mit silberen Höfftern weegen zway ain viertl Loth, thuet</cell>
+                  <cell>2 f 15 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>33 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>Summa vorbeschribner [fol. 20v] Inventur, dreihundert ainundtfunfzig Gulden finfundtdreissig Khreizer, id est</cell>
+                  <cell>351 f 35 x</cell>
+               </row>
+            </table>
+            <p>Schulden herein</p>
+            <p>Als bey <rs type="person" ref="#lanz_peter">Petern Lanz</rs> Khriner zu <rs type="place" ref="#saalen">Saallen</rs>, Cäppitäl laut Ybergab- und Schuldtbrief <date when="1741-07-02">anderten Jully anno sibenzöchenhundert ainundtvierzig</date>, auf Ybergöben des Mathesen Progers,	200 f 0 x</p>
+            <p>Interesse auf verwichnen Sonebenten sibenzöchenhundert zwaiundtfunfzig bis anhero von ain viertl Jahr,	1 f 45 x</p>
+            <p>Das ratum aus denen vorder</p>
+            <p>Latus	201 f 45 x</p>
+            <p>
+               <pb n="21r"/>
+            </p>
+            <p>Khirchen habenden Einkhunfften betrifft von Jener sibenzöchenhundert zwaiundtfunfzig bis dreiundtzwainzigisten Sebtember sollichen Jahr, von drey viertl Jahr minder ain Woch (doch ausser der gestifften Mössen) ainhundert dreissig Gulden ain Khreizer, darzue khumben die gestifften Mössen, wölliche ainsmahlen völlig dieser Verlassenschafft, weillen man nit in Wissenschafft habe, ob solch alle, oder wievill hieraus gelösen worden sein, zuegesözt werden, mit die betröffenden dreizöchen Gulden dreissig Khreizer thuet also zusamben, ainhundert dreiundtvierzig Gulden ainundtdreissig Khreizer deren Herr Ableiber von den Khirchprobst <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler à conto empfangen, ainhundert Gulden, und weegen durch seinen Sehnen ver-<pb n="21v"/>richten lassenen Mösen Dienst, hat er <rs type="person" ref="#hueber_hans">Hueber</rs> aus vierzöchen Gulden jehrlicher Besoldung von der verwichen Geörgi bis hiehero von ain halb Jahr abzuziechen, siben Gulden, macht der Abzug, ainhundert siben Gulden, Rest noch er Khirchprobst <rs type="person" ref="#hueber_hans">Hans Hueber</rs> in das Vermigen,	36 f 31 x</p>
+            <p>Sollten aber von denen gestifften Heilligen Mössen noch ihre zu lösen sein, hätte diese Verlassenschafft jenige demselben, so sie lösen wirdet, noch guetzumachen, und zu bezahlen,</p>
+            <p>Latus pr see.</p>
+            <p>Summa der Schulden herein, zwaihundert achtundtdreissig Gulden sechzöchen Khreizer id est</p>
+            <p>[Summa]	238 f 16 x</p>
+            <p>
+               <pb n="22r"/>
+            </p>
+            <p>Summä Summärum des ganz und völligen Vermigens, finfhundert neinundtachtzig Gulden ainundtfunfzig Kreizer id est	589 f 51 x</p>
+            <p>Schulden hinaus</p>
+            <p>Als erstlichen Ihro Wohl Ehrwirden den Herrn Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Mänucredo</rs> vermig abgöbner zwoer Schuldt Bekhantnussen Cäppitäll	200 f 0 x</p>
+            <p>Die Interessen bis verwichen Sonebenten verfahlen, seint bereits bezaldt, und verraith worden, hingögen ist der Herr Ableiber seelligen deme noch weitters willen an seiner statt eingenombnen Interessen schuldig verbliben,	15 f 0 x</p>
+            <p>Latus	215 f 0 x</p>
+            <p>
+               <pb n="22v"/>
+            </p>
+            <p>Der Haiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> nach laut des Herrn Ableibers hinterlassner Aufschreibung, an ausstendigen Lidlohn	140 f 0 x</p>
+            <p>Aber deroselben noch weittern Lidlohn bis zu des Ableibers Todtfahl von ain ainhalb Jahr, funfzöchen Gulden, hieran aber selbe finf Gulden empfangen, Rest ihro noch	10 f 0 x</p>
+            <p>Und mehr ihro weegen eingekhaufften und bezalten Fleisch,	45 x</p>
+            <p>Thuet ihr der Heiserin begehrn zusamben, ainhundert funfzig Gulden, finfundtvierzig Kreizer, wölche deroselben hinach durch den Herrn <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Mänucredo</rs> mitlst extradierten Vernussen, und parn Geldt par<note>
+                  <p rend="footnote text"> 
+                     <hi rend="italic">Über der Zeile eingefügt.</hi>
+                  </p>
+               </note> zaldt worden, dis zu Bht,</p>
+            <p>Latus	150 f 45 x</p>
+            <p>
+               <pb n="23r"/>
+            </p>
+            <p>Den Herrn Doctor zu <rs type="place" ref="#brunegg">Brunögg</rs>, <rs type="person" ref="#perger_felix">Felix Perger</rs> ausstendige Bstallung, von finf Jahr,	5 f 0 x</p>
+            <p>Denen, so die Leich helfen anlögen, zu ainer Zöhrung,	27 x</p>
+            <p>Vor eingefierten <rs type="person" ref="#lanz_peter">Petern Lanz</rs> Khriner umb abgöbnen drey Stär Roggen,	2 f 33 x</p>
+            <p>Den <rs type="person" ref="#stieger_michael">Michael Stieger</rs> Tischler fir der Todten Truch, und Grab Creuz, sambt den Gang, und Einschlagen,	2 f 7 x</p>
+            <p>Denen sechs Khörzen Tragern sambt den Gang,	3 f 0 x</p>
+            <p>Der Frauen <rs type="person" ref="#wachtler_maria_theresa">Maria Theresa Wachtlerin</rs> weegen bey der Inventur abgespeissten Herrn, und Partheyen darzue eingekhaufften Fleisch, und andern Sachen,	3 f 57 x</p>
+            <p>Latus	17 f 4 x</p>
+            <p>
+               <pb n="23v"/>
+            </p>
+            <p>Dann Herrn <rs type="person" ref="#nagler_andree">Andree Nagler</rs> Parbierer alhier vor Bestallung, und abgöbner Medicin,	5 f 14 x</p>
+            <p>Herrn <rs type="person" ref="#wachtler_johann_antoni">Johann Antany Wachtler</rs> Wirth an der Rosen alda zu <rs type="person" ref="#st_lorenzen">Sanct Lorenzen</rs> umb abgöbnen Wein, yber ain Gulden zöchen Khreizer Absaz, noch zwaiundtzwainzig Gulden, von wölichen aber noch weitters jenige zöchen Gulden darvon zukhomben, haben, so dössen Herr Brueder <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs>, <note>
+                  <p rend="footnote text">
+                     <hi rend="superscript">-18</hi> 
+                     <hi rend="italic">Auf der linken Seite eingefügt.</hi>
+                  </p>
+            </note>Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs>
+                    <hi rend="superscript">18</hi>, den Mädl so bey den Herrn Ableiber in der Cost gewösen, hierfir beyzutragen versprochen, und die bey ihme Herrn Wachtler zu empfangen angewisen hat, Rest deme noch,	12 f 0 x</p>
+            <p>Den <rs type="person" ref="#unterstainer_antany">Antany Unterstainer</rs> Schuester zu <rs type="place" ref="#soneburg">Soneburg</rs>,	1 f 0 x</p>
+            <p>Der Funeralconto betrefft sambt</p>
+            <p>Latus	18 f 14 x</p>
+            <p>
+               <pb n="24r"/>
+            </p>
+            <p>ain Gulden der Pfarrkhirchen fir der grosen Gloggen leiten,	15 f 6 x</p>
+            <p>Denen sechs geistlichen Herrn, so die Leich getragen, zu ainer Verehrung	6 f 0 x</p>
+            <p>Dem Mösner zu <rs type="place" ref="#saalen">Saallen</rs> weegen andurch gehabter Bemieheung	36 x</p>
+            <p>Der <rs type="person" ref="#hueber_mathes">Mathes Hueber</rs> Gassteugerischen Verlassenschafft willen hergöbnen einhalb Stär Hanif,	30 x</p>
+            <p>Wie anvor bey der Inventur Anmeldung beschöchen, seint den Herrn Ableiber zu ainer Khirchen Zierdt, siben Gulden dreissig Khreizer eingehendiget worden, zumahlen aber nur hieran zway Gulden verhanden, auch dise unbeschribner gelassen, die noch restierende finf</p>
+            <p>Latus	22 f 12 x</p>
+            <p>
+               <pb n="24v"/>
+            </p>
+            <p>Gulden dreissig Khreizer hingögen von gemelten Herrn Ableiber verpraucht worden, als hat solliche die Verlassenschafft der Khirchen zu ersözen, id es mit	5 f 30 x</p>
+            <p>Den Maurer zu Mantan willen zu <rs type="place" ref="#saalen">Saallen</rs> aufgemacht auch weitterer Zuemachung des Grabs mit gehauten Stain,	3 f 0 x</p>
+            <p>Den <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler fir hergelichnen Visch Calter, sambt was dabey beriert,	1 f 15 x</p>
+            <p>Den Pixenmacher <rs type="person" ref="#daemb_jacob">Jacob Dämb</rs>,	4 x</p>
+            <p>Umb willen ausstendigen Mössen werden von Vermigen ab- und alda ausgesözt,	200 fl 0 x</p>
+            <p>Der Cappellen zu <rs type="place" ref="#saalen">Saallen</rs>, wee-</p>
+            <p>Latus	209 f 49 x</p>
+            <p>
+               <pb n="25r"/>
+            </p>
+            <p>gen hergegöbnen Mösgewandt, Almb, und beygeschaffner Beleichtung,	10 f 0 x</p>
+            <p>Der geistliche Commissions Uncosten betrifft, laut eingöbnen Statt,	15 f 0 x</p>
+            <p>Und der Uncosten von Seiten der weldtlichen Obrigkheit sambt den Schreib- und Siglgeldt,	23 f 8 x</p>
+            <p>Wegen Pau, und Bösserung der Caplan Behausung dargögen aber, ist alda von Vermigen nichts abzusözen, weillen solch alles die Cappellen zu praestiern, und disfahls einen Herrn Capplan genzlich frey zu halten hat, dis zu Bericht,</p>
+            <p>Latus	48 f 8 x</p>
+            <p>Summä der Abzüg</p>
+            <p>
+               <pb n="25v"/>
+            </p>
+            <p>Sechshundert ainundtachtzig Gulden zwölf Kreizer id est	681 f 12 x</p>
+            <p>Wan also die minder von der mehrern Summä abgezochen wirdet, erscheint Vermigens Abgang, ainundtneinzig Gulden, ainundtzwainzig Khreizer id est	91 f 21 x</p>
+            <p>Woraufhin auf von Seiten der geist- und weldtlichen Vorsteheung gethaner Vorstöllung, hat sich des Herrn Ableibers seelligen hinterlassne Herr Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> zu Beybehaltung seines Herrn Bruedern Ehr, und zu gueten der ybrigen Freintschafft anerclert, dössen ganze <pb n="26r"/> und völlige Vermigen zu ibernemben, und allen Creditore Rödt, und Antworth, auch contento zu göben, und gleichwie auch die geistliche Commission, und weldtliche Obrigkheit hieran ein sonders Wohlgefahlen, und zugleich die ybrige Erbs Interessenten hieriber kheine Bedenckhen getragen, sondern villmehr dössen Erclerung zu Danckh angenomben.</p>
+            <p>Als ist auch in Nachfolg dössen ihme Herrn <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> des abgeleibten Herrn Brueders seelligen ganzes und völlig hieobbeschribnes Vermigen hiemit, und incrafft dits zu wirckhlichen Bsiz, und Aigenthumb nach seinen Belieben darmit handlen und wandlen zu khenen eingeraumbt, und yberlassen worden, das dargögen</p>
+            <p>
+               <pb n="26v"/>
+            </p>
+            <p>Andertens derselbe schuldig und verpunden sein solle, alle hievorbeschriben Abzüg, und Schulden hinaus, sambt was noch weitters an dergleichen in Vorschein khumben möchte, und mithin auch die hierinfahls ergangene Comission- und Gerichts Uncösten an seiner Gehörde abzufiern, und zu bezahlen, auch die Heillige Mössen respective lösen, oder lesen zu lassen, und sein aigne Forderung zugeschweigen, wohl volgsamb auch</p>
+            <p>Dritens so wohl die geistliche Commission als weldtliche Obrigkheit diser ihme beschöchner Vermigens Einraumbung halber, genzlichen schadlos zu halten, aller gestalten auch</p>
+            <p>
+               <pb n="27r"/>
+            </p>
+            <p>Schließlichen dess Herrn Ybernembers ganzes und völliges Vermigen, umb was sich selber verpindlichen gemacht, firpfäntlichen eingesözt, verhafft, und verschriben sein, und zu verbleiben haben solle.</p>
+            <p>Nachdem Ablesen, es bey vorigen allen genzlichen verbleiben zu lassen, und darwider nichts anders vorzunemben, oder zu handlen, haben wohl gemelter Herr Ybernember <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs>, dan von verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_jacob_andree">Jacob Andree Manucredo</rs> der geistliche Herr Sohn <rs type="person" ref="#manucredo_antany_sebastian">Antany Sebastian Manucredo</rs>, und in Namen der ybrigen vier Geschwistrigeth der zu dem Ende bestölte Vertrötter <rs type="person" ref="#hueber_hans">Hans Hueber</rs>, verer von verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_leonhardt_johann">Leonhardt Johann Manucredo</rs> dös-<pb n="27v"/>sen Herr Sohn <rs type="person" ref="#manucredo_johann_antany">Johann Antany</rs>, auch in Vertröttung seines Herrn Brueder <rs type="person" ref="#manucredo_joseph_joaechimb">Joseph Joächimb Manucredo</rs>, und von der verstorbnen Frauen Schwöster <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursulä Manucredin</rs> dero zwo Töchter Frauen <rs type="person" ref="#manucredo_maria_theresia">Maria Theresia</rs>, und <rs type="person" ref="#wachtler_maria_ursulae">Maria Ursulä Wachtlerinen</rs> in assistentiae ihres Anweiser <rs type="person" ref="#hueber_hans">Hansen Hebers, mehr er Hueber</rs> in Vertröttung des geistlichen Herrn Bruedern <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> hoch wohl gemelten Herrn Commissario etc. und Ihro gstreng dem Herrn Pflöger etc. das Handt Anloben, und zu Ausförtigung zwoer solchen Instrumenter die Siglpith erstath.</p>
+            <p>Ohnegeverdele</p>
+            <p>Des zu wahrem Urkhundt, seint demnach zwo gleichlautende <pb n="28r"/>genzung und Einraumbung zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, in Beysein des geistlichen und weldtlichen Herrn Actuarii, den <date when="1752-10-12">zwölfften Tag Manats Octobris, in sibenzöchenhundert zwaiundtfunfzigisten Jahr</date>.</p>
+            <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
+         </div>
+      </body>
+   </text>
+</TEI>
