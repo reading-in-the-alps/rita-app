@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="2.0"><!-- <xsl:strip-space elements="*"/>-->
+<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="3.0"><!-- <xsl:strip-space elements="*"/>-->
     <xsl:import href="shared/base.xsl"/>
     <xsl:param name="document"/>
     <xsl:param name="app-name"/>
@@ -11,6 +11,7 @@
     <xsl:param name="currentIx"/>
     <xsl:param name="amount"/>
     <xsl:param name="progress"/>
+    <xsl:variable name="iiif">https://iiif.acdh.oeaw.ac.at/rita/</xsl:variable>
  <!--
 ##################################
 ### Seitenlayout und -struktur ###
@@ -215,15 +216,57 @@
                     </div>
                 </div>
             </div>
-
-                
-
-                
-            <div class="card-footer">
-                
-            </div>
-            
-            
         </div>
+    </xsl:template>
+    <xsl:template match="tei:body">
+        <xsl:choose>
+            <xsl:when test=".//@facs">
+                <xsl:for-each-group select="*[not(self::tei:div)] | tei:div/*[not(tei:pb)] | tei:div/tei:*[tei:pb]/node()" group-starting-with="tei:pb">
+                    <xsl:variable name="t" select="current-group()"/>
+                    <xsl:variable name="pb" select="current-group()[1]"/>
+                    <div class="row">
+                        <hr/>
+                        <div class="col-md-6">
+                            <xsl:for-each-group select="current-group()" group-by="generate-id(parent::*)">
+                                <xsl:choose>
+                                    <xsl:when test="current-group()[1][self::tei:p] or current-group()[1][self::tei:pb] and current-group()[2][self::tei:p]">
+                                        <xsl:apply-templates select="current-group()"/>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <p>
+                                            <xsl:apply-templates select="current-group()"/>
+                                        </p>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </xsl:for-each-group>
+                        </div>
+                        <div class="col-md-6">
+                            <xsl:variable name="pagenumber">
+                                <xsl:value-of select="$pb/@n"/>
+                            </xsl:variable>
+                            <xsl:variable name="infojson">
+                                <xsl:value-of select="$iiif||'/'||./@facs||'/info.json'"/>
+                            </xsl:variable>
+                            <xsl:variable name="dragon_id">
+                                <xsl:value-of select="'dragenon_'||$pagenumber"/>
+                            </xsl:variable>
+                            <div style="width: 100%; height: 400px" id="{$dragon_id}"/>
+                            <script type="text/javascript">
+                                var source = "<xsl:value-of select="$infojson"/>"
+                                var viewer = OpenSeadragon({
+                                id: "<xsl:value-of select="$dragon_id"/>",
+                                tileSources: source,
+                                prefixUrl:     "../resources/js/openseadragon/images/",
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </xsl:for-each-group>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
 </xsl:stylesheet>

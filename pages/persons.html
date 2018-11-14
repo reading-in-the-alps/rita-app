@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div data-template="templates:surround" data-template-with="templates/datatable.html" data-template-at="datatable">
-    <div class="card">
-        <div class="card-header" style="text-align:center;">
-            <h1>Personenregister</h1>
-        </div>
-        <div class="card-body">
-            <table id="myTable" class="table table-striped table-condensed table-hover">
-                <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>Forename</th>
-                        <th>Normdata</th>
-                    </tr>
-                </thead>
-                <tfoot style="display:none">
-                    <tr>
-                        <th>Name</th>
-                        <th>Forename</th>
-                        <th>Normdata</th>
-                    </tr>
-                </tfoot>
-                <tbody id="myTableBody" style="display:none">
-                    <tr data-template="app:listPers"/>
-                </tbody>
-            </table>
+    <div class="container-fluid">
+        <div class="card">
+            <div class="card-header" style="text-align:center;">
+                <h1>Personenregister</h1>
+            </div>
+            <div class="card-body">
+                <table id="myTable" class="table table-striped table-condensed table-hover">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Vorname</th>
+                            <th>Verwandtschaft</th>
+                            <th>Funktion</th>
+                        </tr>
+                    </thead>
+                    <tfoot style="display:none">
+                        <tr>
+                            <th>Name</th>
+                            <th>Vorname</th>
+                            <th>Verwandtschaft</th>
+                            <th>Funktion</th>
+                        </tr>
+                    </tfoot>
+                    <tbody id="myTableBody" style="display:none">
+                        <tr data-template="app:listPers"/>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
     <script>

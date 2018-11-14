@@ -160,7 +160,7 @@
             <person xml:id="ferdinand_joseph">
                <persName>
                   <forename>Ferdinand Joseph</forename>
-                  <surname/>
+                  <surname>Ferdinand Joseph</surname>
                </persName>
                <note type="function">Bisch zu Hyschopl</note>
             </person>
@@ -174,9 +174,8 @@
             <person xml:id="graf_von_saernthein">
                <persName>
                   <forename/>
-                  <surname/>
+                  <surname>Graf von Särnthein</surname>
                </persName>
-               <note type="function">Praeses m.p.</note>
             </person>
             <person xml:id="mueller_joseph_andree">
                <persName>

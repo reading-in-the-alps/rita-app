@@ -229,11 +229,8 @@ for $title in ($entities, $terms)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $person in doc($app:personIndex)//tei:listPerson/tei:person
-    let $gnd := $person/tei:note/tei:p[3]/text()
-    let $gnd_link := if ($gnd != "no gnd provided") then
-        <a href="{$gnd}">{$gnd}</a>
-        else
-        "-"
+    let $relations := $person//tei:note[@type="family"]//text()
+    let $functions := $person//tei:note[@type="function"]//text()
         return
         <tr>
             <td>
@@ -243,7 +240,10 @@ declare function app:listPers($node as node(), $model as map(*)) {
                 {$person/tei:persName/tei:forename}
             </td>
             <td>
-                {$gnd_link}
+                {$relations}
+            </td>
+            <td>
+                {$functions}
             </td>
         </tr>
 };
