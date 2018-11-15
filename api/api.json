@@ -1,9 +1,9 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "This is the API for [rita2-app-Web-App](https://rita2-app-korrespondenz.acdh.oeaw.ac.at).",
+    "description": "This is the API for [rita-Web-App](https://rita-korrespondenz.acdh.oeaw.ac.at).",
     "version": "v1.0",
-    "title": "rita2-app API",
+    "title": "rita API",
     "termsOfService": "../pages/imprint.html",
     "contact": {
       "email": "peter.andorfer@oeaw.ac.at"
@@ -14,7 +14,7 @@
     }
   },
 
-  "basePath": "/exist/restxq/rita2-app/api",
+  "basePath": "/exist/restxq/rita/api",
   "tags": [
     {
       "name": "about",

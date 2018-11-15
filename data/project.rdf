@@ -3,9 +3,9 @@
     
     <!--    see https://arche.acdh.oeaw.ac.at/browser/formats-filenames-and-metadata#metadata -->
 
-    <acdh:Project rdf:about="https://id.acdh.oeaw.ac.at/rita2-app/project">
-        <acdh:hasTitle>rita2-app</acdh:hasTitle>
-        <acdh:hasDescription>rita2-app</acdh:hasDescription>
+    <acdh:Project rdf:about="https://id.acdh.oeaw.ac.at/rita/project">
+        <acdh:hasTitle>rita</acdh:hasTitle>
+        <acdh:hasDescription>rita</acdh:hasDescription>
         <acdh:hasStartDate>2010-07-01</acdh:hasStartDate>
         <acdh:hasEndDate>2015-06-30</acdh:hasEndDate>
         <acdh:hasPrincipalInvestigator>
@@ -23,10 +23,10 @@
     </acdh:Project>
     
 <!--    top collection -->
-    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita2-app">
-        <acdh:hasTitle>rita2-app collection</acdh:hasTitle>
-        <acdh:hasDescription>The rita2-app collection ...</acdh:hasDescription>
-        <acdh:hasRelatedProject rdf:resource="https://id.acdh.oeaw.ac.at/rita2-app/project"/>
+    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita">
+        <acdh:hasTitle>rita collection</acdh:hasTitle>
+        <acdh:hasDescription>The rita collection ...</acdh:hasDescription>
+        <acdh:hasRelatedProject rdf:resource="https://id.acdh.oeaw.ac.at/rita/project"/>
         <acdh:hasContact>
             <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
         </acdh:hasContact>
@@ -38,20 +38,20 @@
         </acdh:hasMetadataCreator>
     </acdh:Collection>
     
-    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita2-app/meta">
+    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita/meta">
         <acdh:hasTitle>Meta</acdh:hasTitle>
-        <acdh:hasDescription>Contains information about rita2-app</acdh:hasDescription>
-        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita2-app"/>
+        <acdh:hasDescription>Contains information about rita</acdh:hasDescription>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
     </acdh:Collection>
-    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita2-app/editions">
+    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita/editions">
         <acdh:hasTitle>Editions</acdh:hasTitle>
-        <acdh:hasDescription>Collection of XML/TEI documents gathered in rita2-app</acdh:hasDescription>
-        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita2-app"/>
+        <acdh:hasDescription>Collection of XML/TEI documents gathered in rita</acdh:hasDescription>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
     </acdh:Collection>
-    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita2-app/indices">
+    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/rita/indices">
         <acdh:hasTitle>Indices</acdh:hasTitle>
-        <acdh:hasDescription>Collection indices/register documents describing entities mentioned in rita2-app</acdh:hasDescription>
-        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita2-app"/>
+        <acdh:hasDescription>Collection indices/register documents describing entities mentioned in rita</acdh:hasDescription>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
     </acdh:Collection>
     
 </rdf:RDF>

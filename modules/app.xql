@@ -1,9 +1,9 @@
 xquery version "3.1";
-module namespace app="http://www.digital-archiv.at/ns/rita2-app/templates";
+module namespace app="http://www.digital-archiv.at/ns/rita/templates";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace functx = 'http://www.functx.com';
 import module namespace templates="http://exist-db.org/xquery/templates" ;
-import module namespace config="http://www.digital-archiv.at/ns/rita2-app/config" at "config.xqm";
+import module namespace config="http://www.digital-archiv.at/ns/rita/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
 
 
