@@ -43,7 +43,7 @@
    </teiHeader>
    <text>
       <body>
-         <listPerson xml:id="listperson">
+         <listPerson xml:id="editors">
             <person xml:id="prokosch_michael">
                <persName>
                   <forename>Michael</forename>
@@ -71,6 +71,8 @@
                   <surname>Kirnbauer</surname>
                </persName>
             </person>
+         </listPerson>
+         <listPerson xml:id="rita2">
             <person xml:id="stainer_sebastian">
                <persName>
                   <forename>Sebastian Joseph</forename>
@@ -3098,6 +3100,301 @@
                   <forename>Innocenz</forename>
                   <surname>Kuttner</surname>
                </persName>
+            </person>
+         </listPerson>
+         <listPerson xml:id="rita1">
+            <person xml:id="blasius-trolf-bläsi">
+               <persName>
+                  <surname>Trolf</surname>
+                  <forename>Bläsi [Blasius]</forename>
+               </persName>
+            </person>
+            <person xml:id="hoferin-ehefrau-des-hr-pongratz-volderauer-maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Hoferin</surname>
+                  <note type="family">Ehefrau des „Hr.“ Pongratz Volderauer</note>
+               </persName>
+            </person>
+            <person xml:id="tänler-danler-neustift-wendelin-">
+               <persName>
+                  <forename>Wendelin</forename>
+                  <surname>Tänler [Danler]</surname>
+               </persName>
+            </person>
+            <person xml:id="hofer-georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Hofer</surname>
+               </persName>
+            </person>
+            <person xml:id="kindl-bartlme">
+               <persName>
+                  <forename>Bartlme</forename>
+                  <surname>Kindl</surname>
+               </persName>
+            </person>
+            <person xml:id="gleinser-wendelin">
+               <persName>
+                  <forename>Wendelin</forename>
+                  <surname>Gleinser</surname>
+               </persName>
+            </person>
+            <person xml:id="des-urban-haas-kinder">
+               <persName>
+                  <forename>Urban</forename>
+                  <surname>Haas</surname>
+               </persName>
+               <note type="family">Kinder des Urban Haas</note>
+            </person>
+            <person xml:id="ranalterin-ledig-regina">
+               <persName>
+                  <forename>Regina</forename>
+                  <surname>Ranalterin</surname>
+               </persName>
+               <note type="family">ledig</note>
+            </person>
+            <person xml:id="pitl-simon">
+               <persName>
+                  <forename>Simon</forename>
+                  <surname>Pitl</surname>
+               </persName>
+            </person>
+            <person xml:id="griesser-grießer-thomas">
+               <persName>
+                  <forename>Thomas</forename>
+                  <surname>Griesser [Grießer]</surname>
+               </persName>
+            </person>
+            <person xml:id="tenifl-denifl-simon">
+               <persName>
+                  <forename>Simon</forename>
+                  <surname>Tenifl [Denifl]</surname>
+               </persName>
+            </person>
+            <person xml:id="pitl-andreas">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Pitl</surname>
+               </persName>
+            </person>
+            <person xml:id="hupfauf-peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Hupfauf</surname>
+               </persName>
+            </person>
+            <person xml:id="ranalter-joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Ranalter</surname>
+               </persName>
+            </person>
+            <person xml:id="hofer-thomas-hofer-johann">
+               <persName>
+                  <forename>Johann / Thomas</forename>
+                  <surname>Hofer</surname>
+               </persName>
+            </person>
+            <person xml:id="pfurtscheller-lorenz">
+               <persName>
+                  <forename>Lorenz</forename>
+                  <surname>Pfurtscheller</surname>
+               </persName>
+            </person>
+            <person xml:id="leitgeb-jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Leitgeb</surname>
+               </persName>
+            </person>
+            <person xml:id="stern-stephan">
+               <persName>
+                  <forename>Stephan</forename>
+                  <surname>Stern (Auten)</surname>
+               </persName>
+            </person>
+            <person xml:id="teniflin-ledig-denifl-maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Teniflin [Denifl]</surname>
+               </persName>
+               <note type="family">ledig</note>
+            </person>
+            <person xml:id="werner-anna-sillerin-ehepaar-simon">
+               <persName>
+                  <forename>Simon / Anna</forename>
+                  <surname>Siller</surname>
+               </persName>
+               <note type="family">Ehepaar</note>
+            </person>
+            <person xml:id="tenifl-denifl-matheus">
+               <persName>
+                  <forename>Matheus</forename>
+                  <surname>Tenifl [Denifl]</surname>
+               </persName>
+            </person>
+            <person xml:id="tanglin-ehefrau-des-pangraz-vergörers-messerschmied-ursula">
+               <persName>
+                  <forename>Ursula</forename>
+                  <surname>Tanglin</surname>
+               </persName>
+               <note type="family">Ehefrau des Pangraz Vergörers, Messerschmied</note>
+            </person>
+            <person xml:id="volderauer-bläsi">
+               <persName>
+                  <forename>Bläsi</forename>
+                  <surname>Volderauer</surname>
+               </persName>
+            </person>
+            <person xml:id="volderauer-ledig-thoman">
+               <persName>
+                  <forename>Thoman</forename>
+                  <surname>Volderauer</surname>
+               </persName>
+               <note type="family">ledig</note>
+            </person>
+            <person xml:id="steyxner-georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Steyxner</surname>
+               </persName>
+            </person>
+            <person xml:id="wisfleker-wiesflecker-silvester">
+               <persName>
+                        <forename>Silvester</forename>
+                        <surname>Wisfleker [Wiesflecker]</surname>
+                    </persName>
+            </person>
+            <person xml:id="markt-johann">
+               <persName>
+                        <forename>Johann</forename>
+                        <surname>Markt</surname>
+                    </persName>
+            </person>
+            <person xml:id="hoferin-ehefrau-des-bartlme-jäger-katharina">
+               <persName>
+                        <forename>Katharina</forename> <surname>Hoferin</surname>
+                    </persName>
+               <note type="family">Ehefrau des Bartlme Jäger</note>
+            </person>
+            <person xml:id="sillerin-witwe-des-jenewein-siller-bei-grunz-maria">
+               <persName>
+                        <forename>Maria</forename>
+                        <surname>Sillerin</surname>
+                    </persName>
+               <note>Witwe des Jenewein Siller [„bei Grunz“]</note>
+            </person>
+            <person xml:id="stolz-martin">
+               <persName>
+                        <forename>Martin</forename>
+                        <surname>Stolz</surname>
+                    </persName>
+            </person>
+            <person xml:id="tanzer-balthasar">
+               <persName>
+                        <forename>Balthasar</forename>
+                        <surname>Tanzer</surname>
+                    </persName>
+            </person>
+            <person xml:id="katharinakartnallerin">
+               <persName>
+                        <forename>Catharina [Katharina]</forename>
+                        <surname>Kartnalerin [Kartnallerin]</surname>
+                    </persName>
+               <note>ledig</note>
+            </person>
+            <person xml:id="wieser-paul">
+               <persName>
+                        <forename>Paul</forename>
+                        <surname>Wieser</surname>
+                    </persName>
+            </person>
+            <person xml:id="hilber-christian">
+               <persName>
+                        <forename>Christian</forename>
+                        <surname>Hilber</surname>
+                    </persName>
+            </person>
+            <person xml:id="greyer-wolfgang">
+               <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>Greyer</surname>
+                    </persName>
+            </person>
+            <person xml:id="nikolaus-siller-niclaus">
+               <persName>
+                        <forename>Niclaus [Nikolaus]</forename>
+                        <surname>Siller</surname>
+                    </persName>
+            </person>
+            <person xml:id="mathias-rott-herr">
+               <persName>
+                        <forename>Mathias</forename>
+                        <surname>Rott</surname>
+                    </persName>
+            </person>
+            <person xml:id="sachser-ledig-urban">
+               <persName>
+                        <forename>Urban</forename>
+                        <surname>Sachser</surname>
+                    </persName>
+               <note type="family">ledig</note>
+            </person>
+            <person xml:id="ferchl-anton">
+               <persName>
+                        <forename>Anton</forename>
+                        <surname>Ferchl</surname>
+                    </persName>
+            </person>
+            <person xml:id="häpacher-happacher-sebastian">
+               <persName>
+                        <forename>Sebastian</forename>
+                        <surname>Häpacher [Happacher]</surname>
+                    </persName>
+            </person>
+            <person xml:id="lenerin-ehefrau-des-blasi-ferchl-elisabeth">
+               <persName>
+                        <forename>Elisabeth</forename> <surname>Lenerin</surname>
+                    </persName>
+               <note type="family">Ehefrau des Blasi Ferchl</note>
+            </person>
+            <person xml:id="tenifl-denifl-martin">
+               <persName>
+                        <forename>Martin</forename>
+                        <surname>Tenifl [Denifl]</surname>
+                    </persName>
+            </person>
+            <person xml:id="schwaiger-valentin">
+               <persName>
+                        <forename>Valentin</forename>
+                        <surname>Schwaiger</surname>
+                    </persName>
+            </person>
+            <person xml:id="siller-matheus">
+               <persName>
+                        <forename>Matheus</forename>
+                        <surname>Siller</surname>
+                    </persName>
+            </person>
+            <person xml:id="hilber-gregori">
+               <persName>
+                        <forename>Gregori</forename>
+                        <surname>Hilber</surname>
+                    </persName>
+            </person>
+            <person xml:id="mayr-veit">
+               <persName>
+                        <forename>Veit</forename>
+                        <surname>Mayr</surname>
+                    </persName>
+            </person>
+            <person xml:id="kassian-schmid-ledig-cassian">
+               <persName>
+                        <forename>Cassian [Kassian]</forename>
+                        <surname>Schmid</surname>
+                    </persName>
+               <note type="family">ledig</note>
             </person>
          </listPerson>
       </body>
