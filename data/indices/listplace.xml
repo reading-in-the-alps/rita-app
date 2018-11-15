@@ -46,7 +46,7 @@
    </teiHeader>
    <text>
       <body>
-         <listPlace>
+         <listPlace xml:id="rita1">
             <place xml:id="unterschönberg">
                <placeName>Unterschönberg</placeName>
             </place>

@@ -15,7 +15,7 @@
     </script>
     <style>
         .rangeslider__fill {
-        background: #88dbdf;
+        background: #bd0000;
         position: absolute;
         }
     </style>
@@ -39,16 +39,19 @@
         // Callback function
         onSlideEnd: function(position, value) {
         var directory = findGetParameter("directory");
+  //      console.log("directory: "+directory);
         var defaultdir = function(param){
-            if (param = "none"){
+ //           console.log("param: "+param);
+            if (param === "null"){
                 return "editions";
             } else {
                 return param;
             }
         };
+    //    console.log("defaultdir: "+defaultdir(directory));
         $.get( "../analyze/docname-by-index.xql?index="+ value+"&amp;directory="+ defaultdir(directory),  function( data ) {
         var linkToDoc = data.replace('"', '');
-        console.log(linkToDoc)
+   //     console.log(linkToDoc)
         var out = $('#output'); 
         out.text( "go to entry: "+ value );
         out.attr("href", linkToDoc.replace('"', ''));
