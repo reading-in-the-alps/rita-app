@@ -5,8 +5,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Reading in the Alps (rita1)</title>
-            <title type="sub">Private book ownership in the Catholically dominated Central Alps 1750–1800. Stubaital</title>
+            <title type="main">Reading in the Alps (rita2)</title>
+            <title type="sub">Private book ownership in the Catholically dominated Central Alps 1750–1800.</title>
             <author>Michael Span</author>
          </titleStmt>
          <publicationStmt>
@@ -20,7 +20,29 @@
    <text>
       <body>
          <div>
-            Text to come
+            <p>The project aims at investigating private book ownership in the Catholically dominated rural
+               areas of the Central Alps, or, putting it more precisely, in historic Tyrol in the 18th century. Referring
+               to comparable existing studies – for example by Hans Medick – mainly focusing on protestant-pietistic
+               regions, this study investigates inventories. Books mentioned in about 2,200 inventories from the
+               Pustertal/Val di Pusteria, today belonging to South-Tyrol (Südtirol/Alto Adige), Italy, and Stubaital will be gathered
+               in order to describe and systematically analyse private book ownership in the respective administrative
+               districts.<lb/>
+               The main research questions are:
+               <list>
+                  <item>Who owned books and which patterns can be observed regarding the book-owners? (gender,
+                     age, socioeconomic background, profession)</item>
+                  <item>Which and how many books were in circulation/popular in the region? (religious or profane
+                     content, authors, origin, value/price, effects of state/church censorship)</item>
+                  <item>Which differences and/or parallels come to light in comparison with the findings of existing
+                     studies?</item>
+               </list>
+               A study like this is pioneering work, not only for the area of historic Tyrol, but also for Austria, and even for the mainly Catholically oriented South of the German language area. The project therefore also makes a contribution to the European history of books and reading, hence, the cultural and social history of the 18th century, at the dawn of the age of modernity.<lb/>
+               In cooperation with the Austrian Center for Digital Humanities of the <ref target="http://www.oeaw.ac.at/acdh/">Austrian Academy of Sciences
+                  (ACDH-ÖAW)</ref>, the inventories that have been systematically examined in this project will
+               subsequently be published in an XML-encoded online-database. Thus, substantial value is added by
+               creating easy access to source material that can be relevant for many aspects of further scientific
+               research as well as for an interested public.
+            </p>
          </div>
       </body>
    </text>
