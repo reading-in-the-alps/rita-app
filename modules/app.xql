@@ -228,9 +228,10 @@ for $title in ($entities, $terms)
  :)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
-    for $person in doc($app:personIndex)//tei:listPerson/tei:person
+    for $person in doc($app:personIndex)//tei:body//tei:person
     let $relations := $person//tei:note[@type="family"]//text()
     let $functions := $person//tei:note[@type="function"]//text()
+    let $project := data($person/parent::tei:listPerson/@xml:id)
         return
         <tr>
             <td>
@@ -244,6 +245,9 @@ declare function app:listPers($node as node(), $model as map(*)) {
             </td>
             <td>
                 {$functions}
+            </td>
+            <td>
+                {$project}
             </td>
         </tr>
 };
@@ -282,6 +286,8 @@ declare function app:toc($node as node(), $model as map(*)) {
             collection(concat($config:app-root, '/data/editions/'))//tei:TEI
     for $title in $docs
         let $date := $title//tei:title//text()
+        let $datum := data($title//tei:origin[1]/@notBefore)
+        let $place : = $title//tei:origin/tei:rs/text()
         let $link2doc := if ($collection)
             then
                 <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
@@ -290,9 +296,9 @@ declare function app:toc($node as node(), $model as map(*)) {
         return
         <tr>
            <td>{$date}</td>
-            <td>
-                {$link2doc}
-            </td>
+           <td>{$datum}</td>
+           <td>{$place}</td>
+           <td>{$link2doc}</td>
         </tr>
 };
 
@@ -415,6 +421,8 @@ declare function app:rita1($node as node(), $model as map(*)) {
             collection(concat($config:app-root, '/data/editions/'))//tei:TEI
     for $title in $docs
         let $date := $title//tei:title//text()
+        let $datum := data($title//tei:origin/tei:date[1]/@when-iso)
+        let $place : = $title//tei:origPlace/tei:rs/text()
         let $link2doc := if ($collection)
             then
                 <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
@@ -423,8 +431,8 @@ declare function app:rita1($node as node(), $model as map(*)) {
         return
         <tr>
            <td>{$date}</td>
-            <td>
-                {$link2doc}
-            </td>
+           <td>{$datum}</td>
+           <td>{$place}</td>
+           <td>{$link2doc}</td>
         </tr>
 };
