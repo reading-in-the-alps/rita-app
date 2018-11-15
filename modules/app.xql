@@ -257,9 +257,10 @@ declare function app:listPers($node as node(), $model as map(*)) {
  :)
 declare function app:listPlace($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
-    for $place in doc($app:placeIndex)//tei:listPlace/tei:place
+    for $place in doc($app:placeIndex)//tei:body//tei:place
     let $lat := tokenize($place//tei:geo/text(), ' ')[1]
     let $lng := tokenize($place//tei:geo/text(), ' ')[2]
+    let $project := data($place/parent::tei:listPlace/@xml:id)
         return
         <tr>
             <td>
@@ -269,6 +270,7 @@ declare function app:listPlace($node as node(), $model as map(*)) {
             <td>{$place//tei:idno/text()}</td>
             <td>{$lat}</td>
             <td>{$lng}</td>
+            <td>{$project}</td>
         </tr>
 };
 

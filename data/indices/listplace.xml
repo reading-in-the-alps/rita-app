@@ -46,7 +46,84 @@
    </teiHeader>
    <text>
       <body>
-         <listPlace xml:id="listplace">
+         <listPlace>
+            <place xml:id="unterschönberg">
+               <placeName>Unterschönberg</placeName>
+            </place>
+            <place xml:id="auf-der-scheibe-neustift">
+               <placeName>auf der Scheibe (Neustift)</placeName>
+            </place>
+            <place xml:id="neustift">
+               <placeName>Neustift</placeName>
+            </place>
+            <place xml:id="rain-neustift">
+               <placeName>Rain (Neustift)</placeName>
+            </place>
+            <place xml:id="kampl-neder-neustift">
+               <placeName>Kampl (Neder, Neustift)</placeName>
+            </place>
+            <place xml:id="mieders">
+               <placeName>Mieders</placeName>
+            </place>
+            <place xml:id="milders-neustift">
+               <placeName>Milders (Neustift)</placeName>
+            </place>
+            <place xml:id="starkenhof-kreith">
+               <placeName>Starkenhof (Kreith?)</placeName>
+            </place>
+            <place xml:id="starkenhof-kreit">
+               <placeName>Starkenhof (Kreit?)</placeName>
+            </place>
+            <place xml:id="kirchbrücke-telfes">
+               <placeName>Kirchbrücke (Telfes)</placeName>
+            </place>
+            <place xml:id="fulpmes">
+               <placeName>Fulpmes</placeName>
+            </place>
+            <place xml:id="gröben-fulpmes">
+               <placeName>Gröben (Fulpmes)</placeName>
+            </place>
+            <place xml:id="schochen-neustift">
+               <placeName>Schochen (Neustift)</placeName>
+            </place>
+            <place xml:id="gagers-telfes">
+               <placeName>Gagers (Telfes)</placeName>
+            </place>
+            <place xml:id="obere-gasse-neder-neustift">
+               <placeName>Obere Gasse (Neder, Neustift)</placeName>
+            </place>
+            <place xml:id="volderau-neustift">
+               <placeName>Volderau (Neustift)</placeName>
+            </place>
+            <place xml:id="scheibe-neustift">
+               <placeName>Scheibe (Neustift)</placeName>
+            </place>
+            <place xml:id="medraz-fulpmes">
+               <placeName>Medraz (Fulpmes)</placeName>
+            </place>
+            <place xml:id="neder-neustift">
+               <placeName>Neder (Neustift)</placeName>
+            </place>
+            <place xml:id="neder-neustift-neustift">
+               <placeName>Neder (Neustift) / Neustift</placeName>
+            </place>
+            <place xml:id="schönberg">
+               <placeName>Schönberg</placeName>
+            </place>
+            <place xml:id="mühltal-mieders">
+               <placeName>Mühltal (Mieders)</placeName>
+            </place>
+            <place xml:id="nederneustift">
+               <placeName>Neder(Neustift)</placeName>
+            </place>
+            <place xml:id="erlach-neustift">
+               <placeName>Erlach (Neustift?)</placeName>
+            </place>
+            <place xml:id="kreith">
+               <placeName>Kreith</placeName>
+            </place>
+         </listPlace>
+         <listPlace xml:id="rita2">
             <place xml:id="brixen">
                <placeName>Bressanone</placeName>
                <location>
@@ -190,16 +267,8 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2763811</idno>
             </place>
-            <place xml:id="yhnsprugg">
-               <placeName>Yhnsprugg</placeName>
-               <placeName type="alt">Innsbruck</placeName>
-               <location>
-                  <geo decls="#LatLng">47.26266 11.39454</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
-            </place>
             <place xml:id="ymbst">
-               <placeName>Ymbst</placeName>
+               <placeName>Imst</placeName>
                <location>
                   <geo decls="#LatLng">47.24504 10.73974</geo>
                </location>
@@ -268,9 +337,9 @@
                </location>
                <idno type="GEONAMES"/>
             </place>
-            <place xml:id="innsprugg">
-               <placeName>Innsbrugg</placeName>
-               <placeName type="alt">Insbruck</placeName>
+            <place xml:id="innsbruck">
+               <placeName>Innsbruck</placeName>
+               <placeName type="alt">Innsbrugg</placeName>
                <location>
                   <geo decls="#LatLng">47.26266 11.39454</geo>
                </location>

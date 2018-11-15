@@ -4,6 +4,15 @@
         <div class="card">
         <div class="card-header" style="text-align:center;">
             <h1>Ortsregister</h1>
+            <h3>
+                <a>
+                        <i class="fas fa-info" title="Info zum Ortsregister" data-toggle="modal" data-target="#exampleModal"/>
+                    </a>
+                |
+                <a href="../../../restxq/rita2-app/api/collections/indices/listplace.xml">
+                        <i class="fas fa-download" title="show TEI source"/>
+                    </a>
+            </h3>
         </div>
         <div class="card-body">
             <div id="map"/>     
@@ -16,6 +25,7 @@
                             <th>Normdata</th>
                             <th>Lat</th>
                             <th>Lng</th>
+                            <th>Projekt</th>
                         </tr>
                     </thead>
                     <tfoot style="display:none">
@@ -25,6 +35,7 @@
                             <th>Normdata</th>
                             <th>Lat</th>
                             <th>Lng</th>
+                            <th>Projekt</th>
                         </tr>
                     </tfoot>
                     <tbody id="myTableBody" style="display:none">
@@ -34,6 +45,28 @@
             </div>       
         </div>
     </div>
+        <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Info zum Ortsregister</h5>
+                    </div>
+                    <div class="modal-body">
+                        <p>Das vorliegende Ortsverzeichnis umfasst Orte aus dem ersten und zweiten Projekt (rita1 und rita2). Die entsprechende Zugehörigkeit kann der Spalte 'Projekt' entnommen werden, allerdings wurden Orte die in beiden Projekten erwähnt werden, rita2 zugeschlagen. Die Namensansetzung wurden von den Editoren zum Zwecke besserer Suchmöglichkeiten normalisiert. Darüberhinaus wurden die Orte auch mit Koordinaten versehen, wodurch die Orte auf einer Karte angezeigt werden können. Sofern möglich wurden die Orte auch mit <a href="http://www.geonames.org/">geonames</a> verknüpft.</p>
+                        <p>
+                            Der Name des jeweiligen Ortes ist mit jenen Dokumenten verlinkt, in denen dieser Ort erwähnt wird.
+                        </p>
+                        <p>
+                            Die Sortierung der einzelnen Spalten kann durch einen Klick auf die Spaltenüberschrift geändert werden. Das Suchfeld rechts oberhalb der Tabelle durchsucht den gesamten Tabelleninhalt. Darüberhinaus können mit Hilfe der Suchfelder am Fußende der Spalten gezielt die Inhalte dieser Spalten durchsucht bzw. gefiltert werden.
+                        </p>
+                        <p>Die (ggf. gefilterte) Tabelle kann als PDF oder Excel heruntegalden bzw. in den Zwischenspeicher kopiert werden.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin=""/>
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.2.0/dist/MarkerCluster.Default.css"/>
