@@ -1286,7 +1286,7 @@
                   <cell>2 f 24 x</cell>
                </row>
                <row>
-                  <cell>Auf Absterben des ehrwirdigen Herrn <rs type="bibl" ref="#stocker_antoni">Anton Stocker</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_oswald">St. Oswald</rs> in Gericht Kastlruth ist zwar besag von hochgeistlicher Commission und loblicher Pfleggerichts Obrigkeit den <date when="1779-10-19">19ten October 1779</date> vorgangener Inventur Vermögens Liquidation und Theillung dem Herrn Ableiber an solch brüderlichen Erb einsmal 195 f 22½ x</cell>
+                  <cell>Auf Absterben des ehrwirdigen Herrn <rs type="person" ref="#stocker_antoni">Anton Stocker</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_oswald">St. Oswald</rs> in Gericht Kastlruth ist zwar besag von hochgeistlicher Commission und loblicher Pfleggerichts Obrigkeit den <date when="1779-10-19">19ten October 1779</date> vorgangener Inventur Vermögens Liquidation und Theillung dem Herrn Ableiber an solch brüderlichen Erb einsmal 195 f 22½ x</cell>
                   <cell/>
                </row>
             </table>
@@ -1357,11 +1357,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>No 3: Herrn Appotecker zu <rs type="bibl" ref="#brunegg">Brunneck</rs> laut der No 3:</cell>
+                  <cell>No 3: Herrn Appotecker zu <rs type="place" ref="#brunegg">Brunneck</rs> laut der No 3:</cell>
                   <cell>2 f 31 x</cell>
                </row>
                <row>
-                  <cell>[No] 4: Titl. Herrn Stadtschreiber zu <rs type="bibl" ref="#brunegg">Brunneck</rs> an 2 Yhren 2 Pazzen empfangenen Wein No 4:</cell>
+                  <cell>[No] 4: Titl. Herrn Stadtschreiber zu <rs type="place" ref="#brunegg">Brunneck</rs> an 2 Yhren 2 Pazzen empfangenen Wein No 4:</cell>
                   <cell>17 f 20<note>
                         <p rend="footnote text"> 
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>24.</p>

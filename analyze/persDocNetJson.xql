@@ -69,6 +69,32 @@ let $result :=
                         <to>{$key}</to>
                     </edges>
      }
+     
+     {
+        
+        for $doc at $pos in collection($app:editions)//tei:TEI
+            let $title := $doc//tei:titleStmt/tei:title[@type='sub']
+            let $docID := $pos
+            for $person in $doc//tei:body//tei:rs[@type="bibl"]
+                let $key := data($person/@ref)
+                group by $key
+                    return
+                        <nodes>
+                            <id>{$key}</id>
+                            <title>{$person[1]/text()}</title>
+                            <color>yellow</color>
+                        </nodes>
+    }
+    {
+        for $doc at $pos in collection($app:editions)//tei:TEI
+            for $person in $doc//tei:body//tei:rs[@type="bibl"]
+            let $key := data($person/@ref)
+                return
+                    <edges>
+                        <from>{$pos}</from>
+                        <to>{$key}</to>
+                    </edges>
+     }
 
     </result>
 return
