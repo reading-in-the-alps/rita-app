@@ -47,7 +47,7 @@
             <person xml:id="prokosch_michael">
                <persName>
                   <forename>Michael</forename>
-                  <surname>Proksch</surname>
+                  <surname>Prokosch</surname>
                </persName>
                <idno type="URL">VIAF | OCRID</idno>
             </person>
@@ -78,17 +78,17 @@
                   <forename>Sebastian Joseph</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note type="function">Erblasser, Priester, Beneficiat zu <rs type="place" ref="#saalen">Saln</rs> in Pusterthal</note>
+               <note type="function">Erblasser, Priester, Benefiziat zu <rs type="place" ref="#saalen">Saalen</rs> im Pustertal</note>
             </person>
             <person xml:id="stainer_jacob">
                <persName>
-                  <forename>Jacob</forename>
+                  <forename>Jakob</forename>
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Vater von <rs type="person" ref="#stainer_sebastian">Sebastian
                      Stainer</rs>
                </note>
-               <note type="function">Burger unnd Seckhlermaister in <rs type="place" ref="#klausen">Clausen</rs>
+               <note type="function">Bürger und Säcklermeister in <rs type="place" ref="#klausen">Klausen</rs>
                </note>
             </person>
             <person xml:id="stainer_christoph">
@@ -99,12 +99,12 @@
                <note type="family">Sohn von <rs type="person" ref="#stainer_sebastian">Sebastian
                      Stainer</rs>
                     </note>
-               <note type="function">Raths Burger, und Handlsman</note>
+               <note type="function">Ratsbürger und Handelsmann</note>
             </person>
             <person xml:id="stainer_mariae">
                <persName>
-                  <forename>Mariä</forename>
-                  <surname>Stainer</surname>
+                  <forename>Maria</forename>
+                  <surname>Stainerin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_sebastian">Sebastian
                      Stainer</rs>
@@ -116,19 +116,19 @@
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä
-                  Mesner</rs>
+                     Stainer</rs> und <rs type="person" ref="#mesner_apolaniae">Apollonia
+                  Mesnerin</rs>
                     </note>
-               <note type="function">Vicari unter den Erzbistumb Salzburg</note>
+               <note type="function">Vikar im Erzbistum Salzburg</note>
             </person>
             <person xml:id="stainer_anthoni">
                <persName>
-                  <forename>Anthoni</forename>
+                  <forename>Anton</forename>
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä
-                  Mesner</rs>
+                     Stainer</rs> und <rs type="person" ref="#mesner_apolaniae">Apollonia
+                  Mesnerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_joseph">
@@ -137,26 +137,26 @@
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä
-                  Mesner</rs>
+                     Stainer</rs> und <rs type="person" ref="#mesner_apolaniae">Apollonia
+                  Mesnerin</rs>
                     </note>
-               <note type="function">Seckhlermaister zu <rs type="place" ref="#rattenberg">Ratenberg</rs>
+               <note type="function">Säcklermeister zu <rs type="place" ref="#rattenberg">Rattenberg</rs>
                     </note>
             </person>
             <person xml:id="mesner_apolaniae">
                <persName>
-                  <forename>Apolaniä</forename>
-                  <surname>Mesner</surname>
+                  <forename>Apollonia</forename>
+                  <surname>Mesnerin</surname>
                </persName>
-               <note type="family">Erste Ehefrau von <rs type="person" ref="#stainer_christoph">Christoph Stainer</rs>
+               <note type="family">erste Ehefrau von <rs type="person" ref="#stainer_christoph">Christoph Stainer</rs>
                     </note>
             </person>
             <person xml:id="thaler_mariae">
                <persName>
-                  <forename>Mariä</forename>
-                  <surname>Thaler</surname>
+                  <forename>Maria</forename>
+                  <surname>Talerin</surname>
                </persName>
-               <note type="family">Zweite Ehefrau von <rs type="person" ref="#stainer_christoph">Christoph Stainer, fallweise als Mariä Schaller bezeichnet</rs>
+               <note type="family">zweite Ehefrau von <rs type="person" ref="#stainer_christoph">Christoph Stainer, fallweise als Maria Schaller bezeichnet</rs>
                     </note>
             </person>
             <person xml:id="ferdinand_joseph">
@@ -216,8 +216,8 @@
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_joseph_2">
@@ -226,68 +226,68 @@
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_mariae_2">
                <persName>
-                  <forename>Mariä</forename>
+                  <forename>Maria</forename>
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_catharinae">
                <persName>
-                  <forename>Catharinä</forename>
-                  <surname>Stainer</surname>
+                  <forename>Katharina</forename>
+                  <surname>Stainerin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_helenae">
                <persName>
-                  <forename>Helenä</forename>
-                  <surname>Stainer</surname>
+                  <forename>Helena</forename>
+                  <surname>Stainerin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_elisabeth">
                <persName>
                   <forename>Elisabeth</forename>
-                  <surname>Stainer</surname>
+                  <surname>Stainerin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_ursulae">
                <persName>
-                  <forename>Ursulä</forename>
-                  <surname>Stainer</surname>
+                  <forename>Ursula</forename>
+                  <surname>Stainerin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_margreth">
                <persName>
                   <forename>Margreth</forename>
-                  <surname>Stainer</surname>
+                  <surname>Stainerin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#stainer_christoph">Christoph
-                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Mariä
-                  Thaler</rs>
+                     Stainer</rs> und <rs type="person" ref="#thaler_mariae">Maria
+                  Talerin</rs>
                     </note>
             </person>
             <person xml:id="stainer_franz">
@@ -295,12 +295,12 @@
                   <forename>Franz</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note type="function">Seckhlermaister</note>
+               <note type="function">Säcklermeister</note>
             </person>
             <person xml:id="hueber_margreth">
                <persName>
                   <forename>Margreth</forename>
-                  <surname>Hueber</surname>
+                  <surname>Hueberin</surname>
                </persName>
             </person>
             <person xml:id="stainer_johann_michael">
@@ -314,35 +314,35 @@
             </person>
             <person xml:id="planer_stephan">
                <persName>
-                  <forename>Stephan</forename>
+                  <forename>Stefan</forename>
                   <surname>Planer</surname>
                </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#stainer_mariae">Mariä
+               <note type="family">Ehemann von <rs type="person" ref="#stainer_mariae">Maria
                      Stainer</rs>
                     </note>
             </person>
             <person xml:id="planer_ignaeti">
                <persName>
-                  <forename>Ignäti</forename>
+                  <forename>Ignaz</forename>
                   <surname>Planer</surname>
                </persName>
-               <note type="function">Bestants Wirth am Bern</note>
+               <note type="function">Bestandswirt am Bären</note>
             </person>
             <person xml:id="riglin_elisabeth">
                <persName>
                   <forename>Elisabeth</forename>
                   <surname>Riglin</surname>
                </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#planer_ignaeti">Ignäti
+               <note type="family">Ehefrau von <rs type="person" ref="#planer_ignaeti">Ignaz
                      Planer</rs>
                     </note>
             </person>
             <person xml:id="planer_jacob">
                <persName>
-                  <forename>Jacob</forename>
+                  <forename>Jakob</forename>
                   <surname>Planer</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#planer_ignaeti">Ignäti
+               <note type="family">Sohn von <rs type="person" ref="#planer_ignaeti">Ignaz
                      Planer</rs> und <rs type="person" ref="#riglin_elisabeth">Elisabeth
                   Riglin</rs>
                     </note>
@@ -350,9 +350,9 @@
             <person xml:id="planer_anna">
                <persName>
                   <forename>Anna</forename>
-                  <surname>Planer</surname>
+                  <surname>Planerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#planer_ignaeti">Ignäti
+               <note type="family">Tochter von <rs type="person" ref="#planer_ignaeti">Ignaz
                      Planer</rs> und <rs type="person" ref="#riglin_elisabeth">Elisabeth
                   Riglin</rs>
                     </note>
@@ -368,35 +368,29 @@
                   <forename>Joseph</forename>
                   <surname>Glanganer</surname>
                </persName>
-               <note type="function">Rath</note>
+               <note type="function">Ratsmitglied</note>
             </person>
             <person xml:id="schaler_christoph">
                <persName>
                   <forename>Christoph</forename>
                   <surname>Schaler</surname>
                </persName>
-               <note type="function">Burger und Pintermaister</note>
+               <note type="function">Bürger und Bindermeister</note>
             </person>
             <person xml:id="zopolt_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Zopolt</surname>
                </persName>
-               <note type="function">Statschreiber</note>
+               <note type="function">Stadtschreiber</note>
             </person>
             <person xml:id="rabenstainer_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Rabenstainer</surname>
                </persName>
-               <note type="function">Zeuge</note>
-            </person>
-            <person xml:id="wirth_puschen">
-               <persName>
-                  <forename>Puschen</forename>
-                  <surname>Wirth</surname>
-               </persName>
-               <note type="function">Zeuge</note>
+               <persName type="alt">Rabensteiner</persName>
+               <note type="function">Zeuge und Buschenwirt</note>
             </person>
             <person xml:id="schwarzrockh_marx">
                <persName>
@@ -473,7 +467,7 @@
                <note type="family">Ehemann von <rs type="person" ref="#gasser_toratheae">Toratheä
                      Gasser</rs> und später von <rs type="person" ref="#laehnthaller_elisaebeth">Elisabeth Lähnthaller</rs>
                     </note>
-               <note type="family">Vater von <rs type="person" ref="#hinterseer_johann_chrisostomus">Johann Chrisostomus Hinterseer</rs>, <rs type="person" ref="#hinterseer_maeriae">Mariä Hinterseer</rs> und <rs type="person" ref="#hinterseer_aennae_elisaebeth">Annä Elisäbeth Hinterseer</rs>
+               <note type="family">Vater von <rs type="person" ref="#hinterseer_johann_chrisostomus">Johann Chrisostomus Hinterseer</rs>, <rs type="person" ref="#hinterseer_maeriae">Maria Hinterseer</rs> und <rs type="person" ref="#hinterseer_aennae_elisaebeth">Annä Elisäbeth Hinterseer</rs>
                     </note>
                <note type="function">Puchpinter zu <rs type="place" ref="#brixen">Brixen</rs>
                     </note>
@@ -585,7 +579,7 @@
                   <surname>Renzler</surname>
                </persName>
                <note type="function">Pinter zu <rs type="place" ref="#soneburg">Soneburg</rs>
-                    </note>   
+                    </note>
             </person>
             <person xml:id="luzin_hellenae_theresiae">
                <persName>
@@ -635,7 +629,7 @@
                <note type="family">Erste Ehefrau von <rs type="person" ref="#hinterseer_johanes">Johanes Hinterseer</rs>
                     </note>
                <note type="family">Mutter von <rs type="person" ref="#hinterseer_johann_chrisostomus">Johann Chrisostomus Hinterseer</rs> und
-                     <rs type="person" ref="#hinterseer_maeriae">Mariä Hinterseer</rs>
+                     <rs type="person" ref="#hinterseer_maeriae">Maria Hinterseer</rs>
                     </note>
             </person>
             <person xml:id="hinterseer_johann_chrisostomus">
@@ -2494,7 +2488,7 @@
             <person xml:id="thaler_michael">
                <persName>
                   <forename>Michael</forename>
-                  <surname>Thaler</surname>
+                  <surname>Taler</surname>
                </persName>
             </person>
             <person xml:id="hausstetter_anton">
@@ -2691,7 +2685,7 @@
             </person>
             <person xml:id="stainer_mariae_3">
                <persName>
-                  <forename>Mariä</forename>
+                  <forename>Maria</forename>
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Ehewirthin von <rs type="person" ref="#lercher_georg">Georg Lercher</rs>

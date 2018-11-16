@@ -15,7 +15,7 @@ let $result :=
                 <nodes>
                     <id>{$pos}</id>
                     <title>{$title}</title>
-                    <color>red</color>
+                    <color>#d11141</color>
                 </nodes>
     }
     {
@@ -30,7 +30,7 @@ let $result :=
                         <nodes>
                             <id>{$key}</id>
                             <title>{$person[1]/text()}</title>
-                            <color>blue</color>
+                            <color>#00b159</color>
                         </nodes>
     }
     {
@@ -56,7 +56,7 @@ let $result :=
                         <nodes>
                             <id>{$key}</id>
                             <title>{$person[1]/text()}</title>
-                            <color>green</color>
+                            <color>#00aedb</color>
                         </nodes>
     }
     {
@@ -82,7 +82,7 @@ let $result :=
                         <nodes>
                             <id>{$key}</id>
                             <title>{$person[1]/text()}</title>
-                            <color>yellow</color>
+                            <color>#f37735</color>
                         </nodes>
     }
     {
