@@ -1698,7 +1698,7 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem geistlichen Herrn <rs type="person" ref="#rainer_peter_paul">Peter Paul Rainer</rs> zu <rs type="person" ref="#brunegg">Bruneck</rs>
+                  <cell>Dem geistlichen Herrn <rs type="person" ref="#rainer_peter_paul">Peter Paul Rainer</rs> zu <rs type="place" ref="#brunegg">Bruneck</rs>
                         </cell>
                   <cell>3 f 36 x</cell>
                </row>
@@ -1707,7 +1707,7 @@
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>In die Stadt Appoteck zu <rs type="person" ref="#brunegg">Bruneck</rs>
+                  <cell>In die Stadt Appoteck zu <rs type="place" ref="#brunegg">Bruneck</rs>
                         </cell>
                   <cell>2 f 0 x</cell>
                </row>
