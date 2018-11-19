@@ -1151,7 +1151,8 @@
                   <forename>Gregor</forename>
                   <surname>Pfeiffhofer</surname>
                </persName>
-               <note type="function">Müller zu <rs type="place" ref="#steegen">Steegen</rs></note>
+               <note type="function">Müller zu <rs type="place" ref="#steegen">Steegen</rs>
+                    </note>
             </person>
             <person xml:id="eppacher_martin">
                <persName>
@@ -1189,7 +1190,8 @@
                   <forename>Andre</forename>
                   <surname>Sigmayr</surname>
                </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs></note>
+               <note type="function">Kooperator in <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs>
+                    </note>
             </person>
             <person xml:id="sigmayr_bartlmee">
                <persName>

@@ -5,7 +5,7 @@ declare namespace repo="http://exist-db.org/xquery/repo";
 
 import module namespace config="http://www.digital-archiv.at/ns/rita/config" at "modules/config.xqm";
 
-let $target-base-default := "C:\Users\pandorfer\Documents\Redmine\konde"
+let $target-base-default := "C:\Users\pandorfer\Documents\Redmine\rita_project"
 let $app-name := doc(concat($config:app-root, "/repo.xml"))//repo:target/text()
 return 
 
