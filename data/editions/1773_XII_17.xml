@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1773 XII 17</idno>
+                  <repository>Verfachbuch St. Michaelsburg 1773; Verfachbuch St. Michaelsburg 1778</repository>
+                  <idno>Bl. 117r–131v; Bl. 178r-183v</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -113,7 +113,7 @@
                <row>
                   <cell>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Gesamter Eintrag auf der linken Seite eingefügt.</hi>
                         </p>
                      </note>Ain klains Täfele warauf das Christkindl gemahlen, ohne Rahm, per<hi rend="superscript">1</hi>
@@ -857,7 +857,7 @@
                </row>
                <row>
                   <cell>Ain aufstehends angstrichnes Kästl mit 4 Stöhl, 2 Thürn, <hi rend="strikethrough">und</hi> auch<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Über der Zeile statt </hi>und<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
                         </p>
                      </note> Schlos und Band, per</cell>
@@ -1096,7 +1096,7 @@
                   <cell>
                      <rs type="bibl" ref="#p_balthasar_knellinger_predigen">P. Balthasar Keilinger</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Irrig für</hi> Knellinger.</p>
                      </note>
                      <rs type="bibl" ref="#p_balthasar_knellinger_predigen">Predigen auf alle Festtäg</rs>, in Schwein Leder, per
@@ -1267,10 +1267,10 @@
                   <cell>
                      <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Georgius Historicus</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Irrig für</hi> Pistorius.</p>
                      </note>
-                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Himlische Wunder Werck,</rs> 
+                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Himlische Wunder Werck,</rs>
                      <hi rend="bold strikethrough">per</hi>
                      <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Mariae</rs>, per
                   </cell>
@@ -1290,7 +1290,7 @@
                   <cell>
                      <rs type="bibl" ref="#p_ignatius_ertl_promontorium">P. Ignatius Ertl Manitocium</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Irrig für </hi>Promontorium.</p>
                      </note>
                      <rs type="bibl" ref="#p_ignatius_ertl_promontorium">Bonaespei</rs> per
@@ -2028,7 +2028,7 @@
                <p>Zugegen Herr <rs type="person" ref="#wachtler_johann_antoni">Johann Anton Wachtler</rs>.</p>
                <p>
                   <note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Am linken Rand nachgetragen.</hi>
                      </p>
                   </note>[Marginalzuschreibung:]</p>
@@ -2084,15 +2084,15 @@
                   </row>
                </table>
                <p>Auf Absterben des hochehrwürdigen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> wurde untern <date when="1773-12-17">17.</date> Et <date when="1773-12-18">18ten December 1773</date> das hinterlassene Vermögen in eine Ergänzung gebracht, woselbs sich zeiget, das der fürnehme <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, Tratter zu <rs type="place" ref="#st_georgen">St. Georgen</rs> in Namen seines geistlichen Herrn Bruders des auch hochehrwürdigen geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> als successoris in beneficio deductis deducendis denen Herrn Gasserischen Eventual Erben 240 f 48 x schuldig verblieben, worvon aber zufolg der allerhöchsten Verordnung nur die Helfte würklich denen Erben mit 120 f 24 x <hi rend="strikethrough">de</hi> von der übrigen Helfte aber ein Dritl der Kirche mit 40 f 8 x und die übrigen ⅔tl mit 80 f 16 x dem sich als Erben angemeldeten einbändigen Bruder auch<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Links neben der Zeile nachgetragen.</hi>
                      </p>
                </note> <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> titulo paupertatis zugemitlt worden. Wie nun aber dieser nämliche <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> sowohl um<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Über der Zeile nachgetragen.</hi>
                      </p>
                   </note> diese letztere Ansprach, als auch um<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Über der Zeile nachgetragen.</hi>
                      </p>
                   </note> das Erb per 120 f 24 x verbscheidet worden, dass weilen von beidbändigen Bruder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs>, ob selber noch bey Leben, oder Todt seye,</p>
@@ -2100,7 +2100,7 @@
                   <pb n="178v"/>
                </p>
                <p>keine eigentliche Nachricht sich veroffenbahret habe, das Erb in so lang stilligen verbleiben solle, bis er einbändige Bruder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> hierumen eine annehmliche Caution einstellen werde. Also solle sich auch gleich nach solchen Vermögens Abhandlung geäusseret haben, dass <hi rend="strikethrough">die Urs zu</hi> zu<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Über der Zeile korrigiert.</hi>
                      </p>
                </note> des Herrn Ableibers Mutter <rs type="person" ref="#plank_ursula">Ursula gebohrene <hi rend="strikethrough">Mut</hi> Plankin</rs> Befreunde in dem Landgericht <rs type="place" ref="#sterzing">Sterzing</rs> verhanden seyen, welche das mütterlich <rs type="person" ref="#plank_ursula">Ursula Plankische</rs> Stammengut anzusprechen gedenken, und eben darum seye auch dem geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> die Bezahlung solcher Erbgelder von der loblichen geistlichen und weltlichen Obrigkeit einsmals mündlich inhibieret worden.</p>
@@ -2172,7 +2172,7 @@
                   <row>
                      <cell>Wiederumen zahlt wohl derselbe für mehrfälltige Bemühungen, und Verhöre</cell>
                      <cell>4<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
                         </note> f 0 x</cell>
                   </row>
@@ -2265,7 +2265,7 @@
                </p>
                <p>
                         <rs type="person" ref="#salcher_jakob_vallentin">Salcher</rs> bestättiget. Allein <hi rend="strikethrough">das</hi> die Haubtfrag nur ist von <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, und zur gegenwärtigen Erbschaft als angeblich nur gewunenes Vermögen ein ainbändiger Bruder als nächster in<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Zusammengeschriebenes</hi> nächster in <hi rend="italic">durch Strich getrennt.</hi>
                      </p>
                </note> Grad verhanden, können die Plankische Befreünde mit ihrem Gesuch noch nicht auslangen, wohl vielmehr lieget der Landgerichts Obrigkeit ob, die Sach zum Ausgang zu beförderen, und zu Vermeidung der weiteren unnützen Unkosten so wohl den geistlichen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> von der Wag und Gefahr der Gelder zu befreyen, als auch den <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> entlich klaglos zu stellen.</p>

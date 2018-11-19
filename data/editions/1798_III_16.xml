@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1762 I 28</idno>
+                  <repository>Verfachbuch St. Michaelsburg 1797; Verfachbuch St. Michaelsburg 1798</repository>
+                  <idno>Bl. 667r–670v; Bl. 349r–362v</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -74,7 +74,7 @@
                <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> titl. Herr <rs type="person" ref="#latzi_peter_paul">Peter Paul Latzi</rs>.</p>
                <p>Actuante <rs type="person" ref="#schenach_franz">Franz Schennach</rs> bey der Landgerichtschreiberey allda.</p>
                <p>[Marginalzuschreibung:]<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Gesamte Zuschreibung am linken Rand geschrieben.</hi>
                      </p>
                   </note>
@@ -203,7 +203,7 @@
                   </row>
                   <row>
                      <cell>9<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 8.</p>
                         </note> deto schlechtere</cell>
                      <cell>45 x</cell>
@@ -248,7 +248,7 @@
                   <row>
                      <cell>2 baar deto schlechtere <hi rend="strikethrough">a 45 x</hi> a 36 x</cell>
                      <cell>2 f 24 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 1 f 30 x. <hi rend="italic">2 f 24 x wäre der Wert für 4 Stück.</hi>
                            </p>
                         </note>
@@ -299,7 +299,7 @@
                   <row>
                      <cell>Ein zinnenes Obergiessbeket wägt 3¼ Pfund a 26 x</cell>
                      <cell>1 f 37½ x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag wäre der Wert für 30 x pro Pfund oder 3¾ Pfund zu 26 x, richtig wäre 1 f 24½ x.</hi>
                            </p>
                         </note>
@@ -335,7 +335,7 @@
                   </row>
                   <row>
                      <cell>2 Maas- und 3<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 2.</p>
                         </note> Seitl Majolica Krieglen mit zinnen Luckern, und ein blauer deto</cell>
                      <cell>1 f 30 x</cell>
@@ -761,7 +761,7 @@
                <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
                <p>Zugegen Herrn <rs type="person" ref="#christinell_michael">Michael Christinell</rs> Burgermeister allda.</p>
                <p>[Marginalzuschreibung:]<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Gesamte Zuschreibung am linken Rand eingetragen.</hi>
                      </p>
                   </note>
@@ -816,14 +816,14 @@
                      </p>
                </note> Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> laut eines Missivs de dato <rs type="place" ref="#sterzing">Sterzing</rs> den 13ten dies den Herrn <rs type="person" ref="#plaickner_anton">Anton Pleikner</rs> burgerlichen Weissgarbermeister <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-9</hi> 
+                        <hi rend="superscript">-9</hi>
                         <hi rend="italic">Am linken Rand nachgetragen.</hi>
                      </p>
                </note>allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                         <hi rend="superscript">9</hi> begwältiget.</p>
                <p>Und die Frau <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> verehelichte Mitscha hat zu selchen Ende die Vertrettung ihrer hier befindlichen Jungfrau Tochter <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> aufgetragen, diese hendlt mit gebetener Assistenz des Herrn <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-10</hi> 
+                        <hi rend="superscript">-10</hi>
                         <hi rend="italic">Am linken Rand nachgetragen.</hi>
                      </p>
                </note>
@@ -852,7 +852,7 @@
                <p>Zur Bestettigung dieser ihrer Aussagen haben Deponenten nach dem Ablesen loblicher Landgerichts Obrigkeit das Handanloben erstattet.</p>
                <p>Es meldet auch die Jungfrau <hi rend="strikethrough">Anna</hi> <rs type="person" ref="#mitscha_maria">Maria</rs>
                         <note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Über der Zeile korrigiert.</hi>
                      </p>
                </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs>, dass Herr Ableiber seel. ihro das Kuchlzeug geschenket habe.</p>
@@ -861,10 +861,10 @@
                   <pb n="357r"/>
                </p>
                <p>
-                  <hi rend="strikethrough">diese Schenkung</hi> 
+                  <hi rend="strikethrough">diese Schenkung</hi>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-13</hi> 
+                        <hi rend="superscript">-13</hi>
                         <hi rend="italic">Über der Zeile korrigiert.</hi>
                      </p>
                   </note>und selbe<hi rend="superscript">13</hi> abzuweisen, wurde es auch nicht wohl der Mühe lohnen, denn nachdem amgestern das Kupferzeig ad Inventarium beschrieben worden, so darfte das übrige Kuchlzeug nur gar von geringen Werth seyn.</p>
@@ -989,7 +989,7 @@
                   <row>
                      <cell>Macht demnach was die Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs>
                                 <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> Anna.</p>
                      </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs> an Abzugen zu bezahlen übernommen, und selbst zu fodern hat</cell>
                      <cell>114 f 38 x</cell>
@@ -1005,7 +1005,7 @@
                <table rend="rules">
                   <row>
                      <cell>Zu kommen auf das Testament: Wenn man obigen Vermögensüberlieg entgegen haltet, so ist durch solches Testament das Landesgesetz überschritten. Zudem ist auch zu betrachten, dass die Erben selbst von ihren rechtmessigen Erbtheilen nichts nachsehen können, als hat man sich einverstanden, zu Abzahlung einiger allenfalls ausständigen Heiligen Messen, <hi rend="strikethrough">oder allenfalls</hi> und<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile korrigiert.</hi>
                            </p>
                         </note> zu des Herrn Ableibers eigenen Seelenheil <hi rend="strikethrough">zu Heiligen Messen</hi> auszusteken</cell>
@@ -1104,7 +1104,7 @@
                   <row>
                      <cell>Und Legat</cell>
                      <cell>25 f 0 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Auslassungsstrich für 0 korrigiert aus</hi> 25.</p>
                         </note>
                      </cell>

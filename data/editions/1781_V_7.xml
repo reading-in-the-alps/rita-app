@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1781 V 7</idno>
+                  <repository>Verfachbuch St. Michaelsburg 1781</repository>
+                  <idno>Bl. 294r–307v</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -108,7 +108,7 @@
                <pb n="295r"/>
             </p>
             <p>gelassenen zweyen Töchtern <rs type="person" ref="#stocker_maria">Maria</rs> und <rs type="person" ref="#stocker_anna">Anna</rs>, wovon die <rs type="person" ref="#stocker_anna">Anna</rs> anwessig, und beede in Vertrettung des schon vorhero verpflichten Gerhabens Herrn <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>, und haben bey der gnädigen angeordenten Commission und loblicher Landgerichts Obrigkeit etc. um Vornemmung der ieblichen und Lands gebräuchigen Inventur demüthig und gehorsam angelanget, welchem petito wohlbehabt gnädige Commission etc. und loblichen Obrigkeit etc. nicht abseyn können, von dahero wurde auf am dato Nach Mittig zu Vornemmung solcher Inventur <hi rend="strikethrough">g</hi> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
             </note> bey Befund der recognoscirten und unbedencklich erfundenen Secretur, nachdem vorhero an die Miterbin <rs type="person" ref="#stocker_anna">Anna Stockerin</rs> als geweste Hauswirthschafterin bey dem Herrn Ableiber seel. under ihren Herrn Gerhaben gehörten <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> ratione der getreülichen Anzeügung halber der Zuspruch und darauf <hi rend="strikethrough">von</hi> an beeden erfolget ist, geschritten zu folgender</p>
@@ -529,11 +529,11 @@
                </row>
                <row>
                   <cell>10<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>11.</p>
                      </note> deto Tischtüecher a 20 x</cell>
                   <cell>3 f 20<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 40.</p>
                      </note> x</cell>
                </row>
@@ -588,7 +588,7 @@
                <row>
                   <cell>[Latus]</cell>
                   <cell>20 f 4 x<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>23 f 9 x.</p>
                      </note>
                   </cell>
@@ -605,7 +605,7 @@
                <row>
                   <cell>1 einlezes Kamisol</cell>
                   <cell>6 x<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>10.</p>
                      </note>
                   </cell>
@@ -657,7 +657,7 @@
                <row>
                   <cell>11 Pf. ungewaschenes härbens deto a 20 Pf. [sic!]</cell>
                   <cell>3 f 20<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus Auslassungsstrich.</hi>
                         </p>
                      </note> x</cell>
@@ -673,7 +673,7 @@
                <row>
                   <cell>1 Dräen Banck samt der Zugehör, 14 unterschidliche Höbl, 31 zerschiedene Dräe <note>
                         <p rend="footnote text">
-                           <hi rend="superscript">-8</hi> 
+                           <hi rend="superscript">-8</hi>
                            <hi rend="italic">Am linken Rand eingefügt.</hi>
                         </p>
                      </note>[flach]e und Pall-<hi rend="superscript">8</hi>Eisen, 14 grösser und klenere</cell>
@@ -714,7 +714,7 @@
                <row>
                   <cell>7 grösser und klenere Pfändlen 3 Dürchling- und 3 Wasser Kellen pr</cell>
                   <cell>3 f 18<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 48.</p>
                      </note> x</cell>
                </row>
@@ -725,7 +725,7 @@
                <row>
                   <cell>1 kupferne Cafe Kandl per</cell>
                   <cell>21 x<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Daneben am rechten Rand Nebenrechnung: </hi>1 [f] 30 [x +] 22 [x =] 1 [f] 52 [x]</p>
                      </note>
                   </cell>
@@ -737,7 +737,7 @@
                <row>
                   <cell>1 Fleischpeil, <note>
                         <p rend="footnote text">
-                           <hi rend="superscript">-11</hi> 
+                           <hi rend="superscript">-11</hi>
                            <hi rend="italic">Strichliert unterstrichen.</hi>
                         </p>
                      </note>1 Herdpfannknecht<hi rend="superscript">11</hi>, 1 Raifmesser 2 Turtenblecher, und 2 Turten Tribl</cell>
@@ -821,10 +821,10 @@
                <row>
                   <cell>Latus</cell>
                   <cell>9<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 8.</p>
                      </note> f 50<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
                         </p>
                      </note> x</cell>
@@ -970,7 +970,7 @@
                   <cell>
                      <hi rend="strikethrough">1</hi>6 Pfund geselchtes Fleisch a 5 x</cell>
                   <cell>30<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Gestrichen und über der Zeile erneut geschrieben.</hi>
                         </p>
                      </note> x</cell>
@@ -1317,7 +1317,7 @@
                   <cell>
                      <note>
                         <p rend="footnote text">
-                           <hi rend="superscript">-16</hi> 
+                           <hi rend="superscript">-16</hi>
                            <hi rend="italic">Gesamter Eintrag am linken Rand nachgetragen.</hi>
                         </p>
                      </note>Der loblichen Lauretto Kapellen wegen der in der Kirchen verstatten Begräbnus,<hi rend="superscript">16</hi>
@@ -1328,7 +1328,7 @@
                   <cell>
                      <note>
                         <p rend="footnote text">
-                           <hi rend="superscript">-17</hi> 
+                           <hi rend="superscript">-17</hi>
                            <hi rend="italic">Gesamter Eintrag am linken Rand nachgetragen.</hi>
                         </p>
                      </note>Dem loblichen St. Niclaus Gotteshaus für 1 alts Messgewanth, so dem geistlichen Herrn Ableiber in Grab mitgeben worden<hi rend="superscript">17</hi>
@@ -1363,7 +1363,7 @@
                <row>
                   <cell>[No] 4: Titl. Herrn Stadtschreiber zu <rs type="place" ref="#brunegg">Brunneck</rs> an 2 Yhren 2 Pazzen empfangenen Wein No 4:</cell>
                   <cell>17 f 20<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>24.</p>
                      </note> x</cell>
                </row>
@@ -1373,7 +1373,7 @@
                </row>
                <row>
                   <cell>[No] 5: Herrn <rs type="person" ref="#haberstroo_johann">Johann Haaberstro</rs> an Laden Waaren laut der No 5<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>4.</p>
                      </note>:</cell>
                   <cell>3 f 9 x</cell>
@@ -1417,7 +1417,7 @@
                <row>
                   <cell>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Am linken Rand nachgetragen.</hi>
                         </p>
                      </note>Der vorhero gewesten Häuserin <rs type="person" ref="#prechtl_elisabeth">Elisabeth Prechtlin</rs> laut aigenhändiger Bekäntnus v. <date when="1774-12-23">23ten December 1774</date>, an verbliebenen Lidlohn</cell>
@@ -1426,12 +1426,12 @@
                <row>
                   <cell>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Am linken Rand nachgetragen.</hi>
                         </p>
                      </note>Herrn <rs type="person" ref="#anrather_franz">Franz Anrather</rs> Chyrurgo zu <rs type="place" ref="#brunegg">Bruneck</rs> aus 4 f 18 x moderirter massen die Helfte mit</cell>
                   <cell>2 f 9<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 10.</p>
                      </note> x</cell>
                </row>
@@ -1471,7 +1471,7 @@
             </table>
             <p>
                <note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Am linken Rand nachgetragen.</hi>
                   </p>
                </note>[Marginalzuschreibung:]</p>
@@ -1530,7 +1530,7 @@
                   <cell>Hierüber verbleibt noch an Vermögen vorständig, sovielen in Auswurf gekommen 58 f 48½ x id est</cell>
                   <cell>
                      <hi rend="strikethrough">89</hi> 58 f <hi rend="strikethrough">57</hi> 48½ x<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Die richtigen Werte wurden nach der Streichung darüber nachgetragen.</hi>
                         </p>
                      </note>
@@ -1553,7 +1553,7 @@
             <p>Commission, als loblicher Landgerichts Obrigkeit etc. sub hypothecca bonorum in Gewehrschaft zu stehen geben.</p>
             <p>Worbey es also verblieben, und haben nach dem deütlichen Vor- und Ablesen voreinkommene erbnemmende Theillern samt ihren obrigkeitlich verpflichten Gerhaben und respective Anweiser vor wohl belobt geistlicher Commission und loblicher Landgerichtsobrigkeit etc. das Handanloben in Gehorsam und Demuth erstattet.</p>
             <p>Testes nebst vorigen Herrn und Beysizern titl. Herr <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef v. Leys</rs> Landgerichtschreiber<note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
                   </p>
             </note>, und <rs type="person" ref="#von_elzenbaum_johann_rudolph">Johann Rudolph v. Elzenpaum</rs>.</p>

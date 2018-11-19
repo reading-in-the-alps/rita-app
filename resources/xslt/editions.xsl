@@ -12,6 +12,9 @@
     <xsl:param name="amount"/>
     <xsl:param name="progress"/>
     <xsl:variable name="iiif">https://iiif.acdh.oeaw.ac.at/rita/</xsl:variable>
+    <xsl:variable name="signatur">
+        <xsl:value-of select=".//tei:institution/text()"/>, <xsl:value-of select=".//tei:repository[1]/text()"/>, <xsl:value-of select=".//tei:msIdentifier/tei:idno[1]/text()"/>
+    </xsl:variable>
  <!--
 ##################################
 ### Seitenlayout und -struktur ###
@@ -94,13 +97,13 @@
                         </div>
                     </xsl:for-each>
                 </p>
-                <p style="text-align:center;">
-                    <a>
-                        <xsl:attribute name="href">
-                            <xsl:value-of select="$path2source"/>
-                        </xsl:attribute>
-                        see the TEI source of this document
-                    </a>
+                <p>
+                    <hr/>
+                    <h3>Zitierhinweis</h3>
+                    <blockquote class="blockquote">
+                        <cite title="Source Title">
+                                <xsl:value-of select="$signatur"/>, hg. v. Michael Span und Michael Prokosch, In: Reading in the Alps, https://rita.acdh.oeaw.ac.at</cite>
+                    </blockquote>                    
                 </p>
             </div>
         </div>

@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1781 III 6</idno>
+                  <repository>Inventare des Mittleren Pustertals</repository>
+                  <idno>Pos. Nr. 1204–1207</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -60,7 +60,7 @@
                </p>
                <p>Des wohlehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Tscheggeler</rs> in Leben gewest Stifft Sonnenburgischen Caplan und Beneficiaten bey <rs type="place" ref="#st_martin">St. Martin</rs> untern <date when="1781-03-06">6ten Marz 1781</date> beschriebene</p>
                <p>Inventur<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">In der Regel wurden die Verkaufseinträge in der linken Spalte mit Bleistift geschrieben.</hi>
                      </p>
                   </note>
@@ -218,7 +218,7 @@
                   <row>
                      <cell/>
                      <cell>Latus f x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Seitensummen fehlen trotz geschriebenem </hi>Latus <hi rend="italic">in diesem Inventar.</hi>
                            </p>
                         </note>
@@ -379,7 +379,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-3</hi> 
+                        <hi rend="superscript">-3</hi>
                         <hi rend="italic">Mit Verweiszeichen auf der linken Seite geschrieben.</hi>
                      </p>
                   </note>Die weiteren allher gehörigen Posten seind in fine erfindlich<hi rend="superscript">3</hi>
@@ -504,7 +504,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-4</hi> 
+                        <hi rend="superscript">-4</hi>
                         <hi rend="italic">Auf der linken Seite eingefügt.</hi>
                      </p>
                   </note>In Kraut Keller</p>
@@ -567,7 +567,7 @@
                   <row>
                      <cell>V <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-5</hi> 
+                              <hi rend="superscript">-5</hi>
                               <hi rend="italic">Mit Tinte nachgezogen.</hi>
                            </p>
                         </note>Grasbeinter kaufft pr 15 x<hi rend="superscript">5</hi>
@@ -587,7 +587,7 @@
                   </row>
                   <row>
                      <cell>Ego<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Schreiber gibt sich dadurch und Inventar Nr. 1207, fol. 6</hi>
                               <hi rend="italic superscript">r</hi>
                               <hi rend="italic" xml:space="preserve"> als Jakob Salcher zu erkennen</hi>.</p>
@@ -595,7 +595,7 @@
                      </cell>
                      <cell>Zwölf drey viertl Pfund gehächleter Haar à 22 x</cell>
                      <cell>4 f 30½ x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Falscher Betrag, macht tatsächlich 4 f 40½ x aus.</hi>
                            </p>
                         </note>
@@ -847,7 +847,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-8</hi> 
+                              <hi rend="superscript">-8</hi>
                               <hi rend="italic" xml:space="preserve">Alles außer </hi>f <hi rend="italic">und</hi> x<hi rend="italic" xml:space="preserve"> mit Tinte nachgezogen.</hi>
                            </p>
                         </note>Spilpichler 1 f 6 x<hi rend="superscript">8</hi>
@@ -1180,7 +1180,7 @@
                   </row>
                   <row>
                      <cell>Verkaufft<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Zuvor darunter nochmals </hi>Verkauft <hi rend="italic">geschrieben und gestrichen.</hi>
                            </p>
                         </note>
@@ -1226,7 +1226,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Tinte nachgezogen.</hi>
                            </p>
                         </note>Graspeinter 3 f 3 x<hi rend="superscript">475</hi>
@@ -1379,7 +1379,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-13</hi> 
+                              <hi rend="superscript">-13</hi>
                               <hi rend="italic">Eintrag am linken Rand nachgetragen.</hi>
                            </p>
                         </note>1 Samen Trüchele</cell>
@@ -1396,7 +1396,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-14</hi> 
+                              <hi rend="superscript">-14</hi>
                               <hi rend="italic">Eintrag am linken Rand nachgetragen.</hi>
                            </p>
                         </note>1 zerbrochnes Spill Bröt</cell>
@@ -1415,7 +1415,7 @@
                   </row>
                   <row>
                      <cell>Verkaufft<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über (oder unter?) Auslassungsstrich geschrieben.</hi>
                            </p>
                         </note>
@@ -1655,7 +1655,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-16</hi> 
+                              <hi rend="superscript">-16</hi>
                               <hi rend="italic">Eintrag am linken Rand nachgetragen.</hi>
                            </p>
                         </note>2 gresser und 2 klenere Essich und Wasser Corfieler</cell>
@@ -1936,7 +1936,7 @@
                      <cell>V</cell>
                      <cell>Ain schwarz tiechens mit blauen <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-17</hi> 
+                              <hi rend="superscript">-17</hi>
                               <hi rend="italic">Nachgetragen.</hi>
                            </p>
                         </note>Flanel gefütertes Kamisoll</cell>
@@ -3431,7 +3431,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-18</hi> 
+                              <hi rend="superscript">-18</hi>
                               <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -3468,11 +3468,11 @@
                <p>Woriber der Stifft Sonnenburgisch angeordnete Herr Commissarius gleichfahls relationando ad prothocollum gegeben, das die Abhandlung der Stifft Sonnenburgischen Cappellanen bis <date when="1647-09-24">24. September 1647</date> jederzeit von Stifft Sonnenburg per deputationem alleinig vorgenommen,</p>
                <p>[2r]</p>
                <p>und erst von solcher Zeit an die hochgeistlich Brixnerische Commission sich derley Handlung zugesellet habe; Nun habe ersagtes Stifft durch desselben angeordneten Deputation und Hofrichter<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Davor Rasur von</hi> Herrn<hi rend="italic">-Kürzung.</hi>
                      </p>
                </note> Amt nicht nur an gedachten <date when="1647-09-24">24. September 1647</date> bey Hinscheiden geistlichen Herrn Schenfelders gewesten Cappellani ad St. Gothardum, sondern auch bey Verhandlung der hinach abgelebten Herrn Cappellanen<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Danach Rasur von </hi>u.</p>
                   </note> hierwider protestiert, und die uhr alte Rechte und Privilegien und mit solcher Anverwahrung, Protestation, und ausdrücklich Contestation, das solches blos zu Bezeügung gehorsamsten Respects gegen das hochwürdigiste Ordinariat, im übrigen ganz unvergrifen, und ohne mindesten Nachtheil bescheche, die Abhandlungen vor beedseitigen Commissionen simultanee vorgehen lassen, und gleichwie mit solchen Vorbehalt und gehorsamsten <hi rend="strikethrough">Respet</hi> Respects Contestirung salvis caeteroquie iuribus das Stifft Sonnenburg pro hic et nunc nicht entgegen stehet, das die Erwitterung des von dem abgelebten Herrn Ka-</p>
                <p>[2v]</p>
@@ -3480,12 +3480,12 @@
                <p>Über solch hofrichterliches Anbringen des Stiffts Sonnenburg haben Ihro Hochwürden und Gnaden hocht geistlich angeordneter Herr Commissarius erwidert, vi iuris et consuetudinis, wie auch vermog Max<hi rend="strikethrough">x</hi>milianischen Vertrags der hochgeistlichen Obrigkeit etc. die Verhandlung der geistlichen Verlassenschafften ohne weiters gebihrig zu sein, westhalben wohl selber etc. seiner gnädigisten Principälschaffts Rechten zu wider die von Seiten Sonnenburg privative ansünnende Abhandlungs Rechte nicht nachgeben, auch hierwider zu protestieren vor der gnädigisten Principalschafft angewisen seye.</p>
                <p>[3r]</p>
                <p>Nach welch pro et contra gemachten Äuserung und Rechts Vorbehalt wurde auf Anlangen der <rs type="person" ref="#niderwanger_ursula">Ursula Niderwangerin</rs> geweste Häuserin des abgelebt geistlichen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggeles</rs> und daselben dato verpflichten Anweiser und Bruders <rs type="person" ref="#niderwanger_joseph">Joseph Niderwanger</rs> und<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Über der Zeile eingefügt.</hi>
                      </p>
                </note> Schuelhalters zu <rs type="place" ref="#gais">Gais</rs> in Gegenwarth <rs type="person" ref="#pranter_barbara">Barbara Pranterin</rs>, <rs type="person" ref="#kamerer_hanns">Hannsen Kamerer</rs> Schuestermeisters in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> Ehewirthin (welche in Namen ihrer Muettern <rs type="person" ref="#egger_elisabeth">Elisabeth Eggerin</rs> <rs type="person" ref="#prantner_michael">Michael Prantnerischen</rs> Ehewirthin beikomen, und eine allenfahlige Erbin materno naturale eine Erbin zu sein glaubet) ferers in Beysein des <rs type="person" ref="#lercher_joseph">Josepf Lercher</rs> Lerchers in Ohnnach (dessen Ähnl <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="#lercher_andre">Andreen Lercher</rs> Lerchers in Ohnnach Ehegathin ware, und weilen des abgelebt geistlichen <rs type="person" ref="#zoeggeler_anton">Herrn Zöggelers</rs> eheleibliche Muetter <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="person" ref="#zoeggeler_anton">Antony Zöggelers</rs> gewesten Schmidmaisters in der Mähr geweste Ehewirtin einen gleichen Namen füehrte, eine Erb hierzue zu sein praesumierlichen vermeinte) wie nit weniger in Gegenwarth fir übrig unbewusten Erben angeordneten Vertretter Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Turneretschers</rs> das verhandene am <date when="1778-05-14">14. May 1778</date> particulariter errichte Testamentum <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-488</hi> 
+                        <hi rend="superscript">-488</hi>
                         <hi rend="italic">Auf der linken Seite eingefügt.</hi>
                      </p>
                   </note>nebst dem von hoch ehrwürdigen geistlichen Cassionalanus Cappellan ad St. Joannem muter heüntig däto abgebenen Attestato<hi rend="superscript">488</hi> abgelesen, und <hi rend="strikethrough">erwitteret</hi>, unvergrifen allerseits Rechten erwitteret, nach welchen Erfolg angebracht worden.</p>
@@ -3496,13 +3496,13 @@
                <p>Nach welchen unvergrifen allerseits Rechten, weilen doch nach allschon von Kloster Stifft</p>
                <p>[4r]</p>
                <p>ernenten <hi rend="strikethrough">Herrn</hi> neyen Herrn Capellano die Beneficial Behausung zu evaluieren in<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Nachträglich eingefügt.</hi>
                      </p>
                   </note>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-25</hi> 
+                        <hi rend="superscript">-25</hi>
                         <hi rend="italic">Auf der linken Seite eingefügt.</hi>
                      </p>
                   </note>Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
@@ -3523,7 +3523,7 @@
                   <row>
                      <cell>In untern Gewölben</cell>
                      <cell>1 schlechts Tischtüechl 1 Schnizer 2<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>1.</p>
                         </note> Rebmeser 1 Krapfen Rädl 1 Streicher und 2 Gäbelen</cell>
                      <cell>12 x</cell>
@@ -3559,7 +3559,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Ohne Beschreibung, nur Klammer. Vermutlich auch in den unteren Gewölben.</hi>
                            </p>
                         </note>
@@ -3583,7 +3583,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Ohne Beschreibung, nur Klammer. Vermutlich auch in den unteren Gewölben.</hi>
                            </p>
                         </note>
@@ -3624,11 +3624,11 @@
                   <row>
                      <cell/>
                      <cell>2<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>1.</p>
                         </note> Stroosack, <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-30</hi> 
+                              <hi rend="superscript">-30</hi>
                               <hi rend="italic">Auf der linken Seite geschrieben.</hi>
                            </p>
                         </note>den ainen die Ursula empfangen 24 x<hi rend="superscript">30</hi>
@@ -3703,7 +3703,7 @@
                      <cell>1 Körbisch und 1 Kandl Bürsten</cell>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Steht</hi> - x.</p>
                         </note>
                      </cell>
@@ -3789,7 +3789,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Ohne Beschreibung, nur Klammer. Vermutlich auch im Kasten.</hi>
                            </p>
                         </note>
@@ -3815,7 +3815,7 @@
                   <row>
                      <cell/>
                      <cell>1 bar <hi rend="strikethrough">bereits neye</hi> schlechtere<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile korrigiert.</hi>
                            </p>
                         </note> Leillacher mit Spizen</cell>
@@ -3829,7 +3829,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Ohne Beschreibung, nur Klammer. Vermutlich auch im Kasten.</hi>
                            </p>
                         </note>
@@ -3922,7 +3922,7 @@
                   <row>
                      <cell/>
                      <cell>40 ¼ Ellen schen<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile nachgetragen.</hi>
                            </p>
                         </note> rupfens Tuech à 18 x</cell>
@@ -3938,14 +3938,14 @@
                      <cell>Ain Baar abgetragene Stifl samt Fäsching</cell>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Davor Auslassungsstrich aus </hi>1<hi rend="italic" xml:space="preserve"> korrigiert.</hi>
                            </p>
                         </note>48 x</cell>
                   </row>
                   <row>
                      <cell>Die Erben –– <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -3956,7 +3956,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gehört wieder zu</hi> Bliben versperten in Kasten.</p>
                         </note>
                      </cell>
@@ -4001,7 +4001,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Bliben versperten in Kasten <hi rend="italic">von letzter Seite.</hi>
                            </p>
                         </note>
@@ -4013,7 +4013,7 @@
                      <cell/>
                      <cell>1 auf Damosc Arth gewürktes <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-42</hi> 
+                              <hi rend="superscript">-42</hi>
                               <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note>neü gewegglts<hi rend="superscript">42</hi> Tischtuch pr</cell>
@@ -4085,7 +4085,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Bliben versperten in Kasten <hi rend="italic">von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -4101,7 +4101,7 @@
                   <row>
                      <cell>–– [verkauft]</cell>
                      <cell>1 schaffehlene Poster<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Irrig für</hi> Polster.</p>
                         </note> Ziechen</cell>
                      <cell>26 x</cell>
@@ -4109,7 +4109,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Bliben versperten in Kasten <hi rend="italic">von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -4124,7 +4124,7 @@
                      <cell/>
                      <cell>1 Tischtöppich</cell>
                      <cell>1 f 0 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Auslassungsstrich für</hi> 0 <hi rend="italic">korrigiert aus</hi> 40.</p>
                         </note>
                      </cell>
@@ -4170,7 +4170,7 @@
                   <row>
                      <cell/>
                      <cell>2<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 1.</p>
                         </note> eisene<hi rend="strikethrough">r</hi> Tisch Pfannknecht</cell>
                      <cell>30 x</cell>
@@ -4211,7 +4211,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>alles in unteren Gewölben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -4232,7 +4232,7 @@
                   <row>
                      <cell/>
                      <cell>1 Ober und 1 Unter Cafee Schällele 2<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 1.</p>
                         </note> Majolica Schisseler</cell>
                      <cell>24 x</cell>
@@ -4245,7 +4245,7 @@
                   <row>
                      <cell/>
                      <cell>1 blechens deto und 2 deti<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile nachgetragen.</hi>
                            </p>
                         </note> alte Schisselen</cell>
@@ -4264,11 +4264,11 @@
                   <row>
                      <cell/>
                      <cell>1 kupferens Heng Kösele wigt <hi rend="strikethrough">wigt</hi> 5¼<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note> Pfundt à 12<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>15.</p>
                         </note> x</cell>
                      <cell>1 f 3 x</cell>
@@ -4281,7 +4281,7 @@
                   <row>
                      <cell/>
                      <cell>1 Brath Testen <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Nach der Einschreibung des Betrages nachgetragen.</hi>
                            </p>
                         </note>und 1 deto Spiss</cell>
@@ -4340,7 +4340,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>alles in unteren Gewölben<hi rend="italic" xml:space="preserve"> von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -4399,7 +4399,7 @@
                   <row>
                      <cell/>
                      <cell>5<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 2.</p>
                         </note> holzene Thäller</cell>
                      <cell>8 x</cell>
@@ -4536,7 +4536,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>in den unteren Gewelben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -4555,7 +4555,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>in den unteren Gewelben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -4620,7 +4620,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>bliben in unteren Gewelben<hi rend="italic" xml:space="preserve"> von nächster Seite.</hi>
                            </p>
                         </note>
@@ -4639,7 +4639,7 @@
                   <row>
                      <cell>Bliben in untern Gewelben.</cell>
                      <cell>1 kupferener Häng Kössl wigt 20 Pfundt <hi rend="strikethrough">à 30 x</hi> a 24<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>25.</p>
                         </note> x</cell>
                      <cell>8 f</cell>
@@ -4669,7 +4669,7 @@
                   <row>
                      <cell/>
                      <cell>12¾ Pfundt gehächleter<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gemeint ist</hi> gehächleter Haar.</p>
                         </note> à 22 x</cell>
                      <cell>4 f 30½ x</cell>
@@ -4735,7 +4735,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>bliben in unteren Gewelben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -4793,7 +4793,7 @@
                   </row>
                </table>
                <p>In Garten<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Nachträglich eingefügt.</hi>
                      </p>
                   </note>
@@ -4802,7 +4802,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Versehentlich geschwungene Klammer für</hi> bliben aufn Stadl <hi rend="italic">auch über diesen Eintrag gezogen.</hi>
                            </p>
                         </note>
@@ -4825,7 +4825,7 @@
                   </row>
                   <row>
                      <cell>In untern Gewölben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -4848,7 +4848,7 @@
                   </row>
                   <row>
                      <cell>In unter Gewölben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -4918,7 +4918,7 @@
                   </row>
                   <row>
                      <cell>Bliben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -4936,7 +4936,7 @@
                <table rend="rules">
                   <row>
                      <cell>Bliben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -4956,7 +4956,7 @@
                   </row>
                   <row>
                      <cell>Bliben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -4971,7 +4971,7 @@
                   </row>
                   <row>
                      <cell>In unter Gewölben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -4986,7 +4986,7 @@
                   </row>
                   <row>
                      <cell>Bliben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5026,7 +5026,7 @@
                   </row>
                   <row>
                      <cell>In unter Gewölben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5037,7 +5037,7 @@
                   <row>
                      <cell/>
                      <cell>1 neüer<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile eingefügt.</hi>
                            </p>
                         </note> Schlifstain wigt 21¾ Pfundt</cell>
@@ -5064,7 +5064,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>in unter Gewölben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5139,7 +5139,7 @@
                   </row>
                   <row>
                      <cell>Bliben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5162,7 +5162,7 @@
                <table rend="rules">
                   <row>
                      <cell>Gewölben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5172,7 +5172,7 @@
                   </row>
                   <row>
                      <cell>Verbraucht<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -5182,7 +5182,7 @@
                   </row>
                   <row>
                      <cell>Ursula<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note> anspricht</cell>
@@ -5196,7 +5196,7 @@
                   </row>
                   <row>
                      <cell>In unteren Gewölben<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5224,7 +5224,7 @@
                   </row>
                   <row>
                      <cell>Bibliothec<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5236,7 +5236,7 @@
                      <cell/>
                      <cell>1 Unterpeth mit innern Zwilch und aussern köllischen Überziechen wigt 19¼ Pfund à 15 x</cell>
                      <cell>4 f 48 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Daneben</hi> 3 <hi rend="italic">geschrieben.</hi>
                            </p>
                         </note>
@@ -5259,7 +5259,7 @@
                   </row>
                   <row>
                      <cell>Unter den Dach<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -5293,7 +5293,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>unter den Dach<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5384,7 +5384,7 @@
                   <row>
                      <cell>Alles in Kasten bliben</cell>
                      <cell>30 grösser, mittere, und gar kleine zinnene<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> tiefe fleze und mitere Schisseler weegen 44 Pfundt à 26 x</cell>
@@ -5411,7 +5411,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5442,7 +5442,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5463,7 +5463,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5474,12 +5474,12 @@
                   <row>
                      <cell>–– [verkauft]</cell>
                      <cell>1 s. v. <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note>Majolica <hi rend="strikethrough">Nacht</hi>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> Nachtgeschir</cell>
@@ -5493,7 +5493,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5527,7 +5527,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -5548,7 +5548,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -5609,7 +5609,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Alles in Kasten bliben<hi rend="italic" xml:space="preserve"> von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -5638,7 +5638,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Unter dem Dach<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5651,7 +5651,7 @@
                                 <rs type="person" ref="#niderbacher_hans">Hans Niderbacher</rs> 1 f 30 x</cell>
                      <cell>1 schwarzer Gewant Kasten mit Schloss und Banden <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-98</hi> 
+                              <hi rend="superscript">-98</hi>
                               <hi rend="italic">Nachgetragen.</hi>
                            </p>
                         </note>auch etwas Stöllelen<hi rend="superscript">98</hi>
@@ -5743,7 +5743,7 @@
                      <cell>bliben</cell>
                      <cell>8 Landschäfftlen <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-100</hi> 
+                              <hi rend="superscript">-100</hi>
                               <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note>ohne Ramen<hi rend="superscript">100</hi> à 8 x</cell>
@@ -5763,7 +5763,7 @@
                   <row>
                      <cell/>
                      <cell>Darinen 1 Krippen von zerschidenen Figuren und Abwexlungen, dise<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Nachgetragen.</hi>
                            </p>
                         </note> wurde aestimiert</cell>
@@ -5780,7 +5780,7 @@
                   <row>
                      <cell>In der Bibliotheca</cell>
                      <cell>1 gemahlenes Spihl<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand geschrieben.</hi>
                            </p>
                         </note> Tischl samt Schublad</cell>
@@ -5808,7 +5808,7 @@
                            </p>
                         </note> mit innern Kiz Fehl und aussern hauszeügen köllischen Ziechen <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-104</hi> 
+                              <hi rend="superscript">-104</hi>
                               <hi rend="italic">Am linken Rand geschrieben.</hi>
                            </p>
                         </note>so alles neu mit Pflaumfödern<hi rend="superscript">104</hi> wigt 7 Pfundt à <hi rend="strikethrough">1 f 12 x</hi> 1 f 22 x</cell>
@@ -5840,7 +5840,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gehört zu</hi> In der Bibliotheca<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -5861,7 +5861,7 @@
                   <row>
                      <cell>Dem Stifft Sonnen-burg vertestrirt</cell>
                      <cell>2 <hi rend="strikethrough">1 Kamod Kasten</hi> neu<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile geschrieben.</hi>
                            </p>
                         </note> weis blau und grien melierter Kamod Kasten mit Schloss und 4 Handhöben und Bschlächt</cell>
@@ -5923,12 +5923,12 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Bliben [in der Bibliothek].</p>
                         </note>
                      </cell>
                      <cell>1 schwarze blöchene<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand geschrieben.</hi>
                            </p>
                         </note> Cafee Täzen</cell>
@@ -5944,7 +5944,7 @@
                   <row>
                      <cell>Bliben [in der Bibliothek]</cell>
                      <cell>1 fein Majolica Cafee und ain Milch<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> Kändl samt den Luck und 1 deto Zugger Schallen</cell>
@@ -5953,7 +5953,7 @@
                   <row>
                      <cell/>
                      <cell>8<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 1.</p>
                         </note> Tafl Leichter von Englischen Zinen wegen 4 Pfundt à 44 x</cell>
                      <cell>5 f 32 x</cell>
@@ -5966,7 +5966,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>Bliben [in der Bibliothek].</p>
                         </note>
                      </cell>
@@ -5976,7 +5976,7 @@
                   <row>
                      <cell/>
                      <cell>1 hauszeügener Rockh <hi rend="strikethrough">ohne</hi> und<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile geschrieben.</hi>
                            </p>
                         </note> Kämisoll Kämisoll ohne Hosen so starkh abgetragen</cell>
@@ -5985,7 +5985,7 @@
                   <row>
                      <cell/>
                      <cell>Aber 1 schwarz gerippetener Rockh und Kämisoll so zimlichen<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Fehlt danach</hi> abgetragen<hi rend="italic" xml:space="preserve"> (laut Inv. 1204).</hi>
                            </p>
                         </note> ohne Hosen</cell>
@@ -6038,7 +6038,7 @@
                      <cell/>
                      <cell>1 Kästor Hueth <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-114</hi> 
+                              <hi rend="superscript">-114</hi>
                               <hi rend="italic">Nachgetragen.</hi>
                            </p>
                         </note>samt 1 schwarzen Häubl<hi rend="superscript">114</hi>
@@ -6055,7 +6055,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-115</hi> 
+                              <hi rend="superscript">-115</hi>
                               <hi rend="italic">Gesamter Eintrag auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note>1 abgetragener Rockelor schwarz ausgemacht</cell>
@@ -6071,7 +6071,7 @@
                      <cell/>
                      <cell>Aber 1 abgetragen tüechens Kleid <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-116</hi> 
+                              <hi rend="superscript">-116</hi>
                               <hi rend="italic">Nachgetragen.</hi>
                            </p>
                         </note>mitsamt den Kämisohl<hi rend="superscript">116</hi>
@@ -6125,7 +6125,7 @@
                      <cell/>
                      <cell>Latus</cell>
                      <cell>66 f 0<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Auslassungsstrich korrigiert aus </hi>30.</p>
                         </note> x</cell>
                   </row>
@@ -6135,7 +6135,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>bliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -6161,7 +6161,7 @@
                   <row>
                      <cell/>
                      <cell>1 Baar seidene<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Fehlt danach</hi> Strümpf<hi rend="italic" xml:space="preserve"> (laut Inv. 1204, fol. 18v).</hi>
                            </p>
                         </note> 1 Baar weis baumwollene 1 Baar liderne und 1 Baar gar schlechte gestrückte Handschuech auch ain Baar alte Stifeleth</cell>
@@ -6233,7 +6233,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>bliben<hi rend="italic" xml:space="preserve"> von vorletzter Seite.</hi>
                            </p>
                         </note>
@@ -6244,7 +6244,7 @@
                   <row>
                      <cell/>
                      <cell>Darinen 8<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Nachgetragen.</hi>
                            </p>
                         </note> schene mit guldenen Börtlen gemachte Rösler gehöret zum Altar.</cell>
@@ -6269,10 +6269,10 @@
                      <cell/>
                      <cell>22 weise 21 sonen <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-123</hi> 
+                              <hi rend="superscript">-123</hi>
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
-                        </note>14 zerschidene<hi rend="superscript">123</hi> 
+                        </note>14 zerschidene<hi rend="superscript">123</hi>
                         <hi rend="strikethrough">Feil</hi> Feyeler, und 47 zerschidene Rosen, auch 25 zerschidene Nägeler</cell>
                      <cell/>
                   </row>
@@ -6297,7 +6297,7 @@
                      <cell/>
                      <cell>1 baar gemachte Rosenmärin <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-125</hi> 
+                              <hi rend="superscript">-125</hi>
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note>Büschl samt den<hi rend="superscript">125</hi> Stöckl</cell>
@@ -6318,7 +6318,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-126</hi> 
+                              <hi rend="superscript">-126</hi>
                               <hi rend="italic">Gesamter Eintrag auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note>Alles in unvergreiflichen Anschlag pr</cell>
@@ -6340,7 +6340,7 @@
                <table rend="rules">
                   <row>
                      <cell>Auf den Saal<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Tinte nachgezogen.</hi>
                            </p>
                         </note>
@@ -6357,7 +6357,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-128</hi> 
+                              <hi rend="superscript">-128</hi>
                               <hi rend="italic">Mit Tinte nachgezogen, Rest der Bemerkung komplett mit Tinte geschrieben.</hi>
                            </p>
                         </note>Herr Cooperator<hi rend="superscript">128</hi> in Widum <rs type="person" ref="#vischnaller_joseph">Joseph Vischnaller</rs> gegen <hi rend="strikethrough">42 x Ver</hi> f x Vergütung massen der Knopf und Silber vorhero allhin angehörig.</cell>
@@ -6378,7 +6378,7 @@
                      <cell/>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Wechsel der Hand.</hi>
                            </p>
                         </note>2 weise bessere, und 2 graue schlechtere härene, und 3 wollene abgetragene Peruquen</cell>
@@ -6412,7 +6412,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>verbliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -6458,7 +6458,7 @@
                   <row>
                      <cell/>
                      <cell>1 Heiliger Antoni Tafl <hi rend="strikethrough">mit ei</hi> v. Wax mit roth angestrichen<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile nachgetragen.</hi>
                            </p>
                         </note> und vergoldeter Ram</cell>
@@ -6485,10 +6485,10 @@
                   <row>
                      <cell/>
                      <cell>15<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 9.</p>
                         </note> unterschidliche<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
                         </note> sillberne Löfl wigen <hi rend="strikethrough">¾ Pfundt minder 1 Quintl</hi> 38 Loth à 56 x</cell>
@@ -6613,7 +6613,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-137</hi> 
+                              <hi rend="superscript">-137</hi>
                               <hi rend="italic">Gesamter Eintrag auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note>1 groses Crucifix auf der Stiegen</cell>
@@ -6626,7 +6626,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-138</hi> 
+                              <hi rend="superscript">-138</hi>
                               <hi rend="italic">Gesamter Eintrag auf der linken Seite nachgetragen.</hi>
                            </p>
                         </note>1 mössinges Ämppele</cell>
@@ -6656,7 +6656,7 @@
                      <cell/>
                      <cell>Latus</cell>
                      <cell>9 f 48 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>8 f 33 x. Summe stimmt dennoch nicht: 15 f 3 x</p>
                         </note>
                      </cell>
@@ -6667,7 +6667,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>verbliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -6749,7 +6749,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>verbliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -6845,7 +6845,7 @@
                   </row>
                   <row>
                      <cell>Übertragen<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note> in der Bibliothec</cell>
@@ -6896,7 +6896,7 @@
                      <cell/>
                      <cell>Latus</cell>
                      <cell>70<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über Rasur von</hi> 69 <hi rend="italic">geschrieben.</hi>
                            </p>
                         </note> f 45 x</cell>
@@ -6921,7 +6921,7 @@
                   </row>
                   <row>
                      <cell>Übertrag<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note> in der Bibliothec</cell>
@@ -6989,7 +6989,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>verbliben<hi rend="italic" xml:space="preserve"> von letzter Seite.</hi>
                            </p>
                         </note>
@@ -7017,7 +7017,7 @@
                         <p>
                            <hi rend="strikethrough">In Kloster</hi>
                            <note>
-                              <p rend="footnote text"> 
+                              <p rend="footnote text">
                                  <hi rend="italic">Mit Bleistift geschrieben, mit Tinte durchgestrichen.</hi>
                               </p>
                            </note>
@@ -7039,7 +7039,7 @@
                   </row>
                   <row>
                      <cell>Übertragen<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                            </p>
                         </note> in der Bibliothec</cell>
@@ -7072,7 +7072,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ohne Beschreibung, nur Klammer. Gehört zu </hi>verbliben<hi rend="italic" xml:space="preserve"> von nächster Seite.</hi>
                            </p>
                         </note>
@@ -7175,7 +7175,7 @@
                   <row>
                      <cell/>
                      <cell>1 formirtes Kästl mit Schloss und Banden und<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>mit.</p>
                         </note> 19 Tätlen</cell>
                      <cell>2 f 30 x</cell>
@@ -7183,7 +7183,7 @@
                   <row>
                      <cell/>
                      <cell>4<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
                         </note> Noten Rastra, 1 mösinger Stock Knopf mit einen Kopf</cell>
                      <cell>12 x</cell>
@@ -7217,7 +7217,7 @@
                      <cell/>
                      <cell>3 Bücher Stöllen mit 82 Unterschläglen</cell>
                      <cell>2<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 1.</p>
                         </note> f 0 x</cell>
                   </row>
@@ -7317,7 +7317,7 @@
                      <cell>9 f 20 x</cell>
                      <cell>7 Stär Waizen à 1 f 20 x</cell>
                      <cell>9 f 20<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über Rasur geschrieben.</hi>
                            </p>
                         </note> x</cell>
@@ -7329,7 +7329,7 @@
                            </p>
                         </note> Stär Roggen à 52 x</cell>
                      <cell>61 f 58 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 53 f 18 x.</p>
                         </note>
                      </cell>
@@ -7353,7 +7353,7 @@
                      <cell/>
                      <cell>Latus</cell>
                      <cell>84 f 19 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 75 f <hi rend="italic">und Bindestrich als Auslassungszeichen.</hi>
                            </p>
                         </note>
@@ -7363,7 +7363,7 @@
                      <cell/>
                      <cell>Summa vorstehender Inventur</cell>
                      <cell>1036 f 23 x<note>
-                           <p> 
+                           <p>
                               <hi rend="italic">Nebenrechnung auf der linken Seite:</hi> 1024 [f] 38 [x] 3 [Fierer +] 11 [f] 45 [x] = 1036 [f] 23 [x]</p>
                         </note>
                      </cell>
@@ -7491,7 +7491,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#sermones_de_festis">Sermones de</rs> 
+                        <rs type="bibl" ref="#sermones_de_festis">Sermones de</rs>
                         <hi rend="bold strikethrough">Sanctis et de</hi>
                         <hi xml:space="preserve"><rs type="bibl" ref="#sermones_de_festis"> Festis</rs> uralt schlechtes Buch, und alter Druck in gschribnen pirmenten Bund</hi>
                      </cell>
@@ -7582,7 +7582,7 @@
                      <cell>
                         <rs type="bibl" ref="#august_calmet_commentarius_in_sacram_scripturam">August</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note>
@@ -7600,7 +7600,7 @@
                      <cell>
                         <rs type="bibl" ref="#van_espen_opera_canonica">Vanespen</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gemeint ist Zeger Bernhard van Espen.</hi>
                            </p>
                         </note>
@@ -7616,7 +7616,7 @@
                         </note>
                         in
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Nachträglich eingefügt.</hi>
                            </p>
                         </note>
@@ -8146,7 +8146,7 @@
                      <cell>
                         <hi xml:space="preserve"><rs type="bibl" ref="#johann_hibners_real_statts_und_zeitungslexikon">Johann Hibners </rs></hi>
                         <hi rend="strikethrough">Lexicon</hi>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#johann_hibners_real_statts_und_zeitungslexikon"> Real Statts- Und Zeitungs etc. Lexicon</rs> in französischen Bund.</hi>                  
+                        <hi xml:space="preserve"><rs type="bibl" ref="#johann_hibners_real_statts_und_zeitungslexikon"> Real Statts- Und Zeitungs etc. Lexicon</rs> in französischen Bund.</hi>
                      </cell>
                   </row>
                   <row>
@@ -8236,7 +8236,7 @@
                      <cell>
                         <rs type="bibl" ref="#jacobi_gechtneri_murices_antiquitatis_catholicae">Jacobi Gechtneri</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Irrig für </hi>Gretser.</p>
                         </note>
                         <hi xml:space="preserve"><rs type="bibl" ref="#jacobi_gechtneri_murices_antiquitatis_catholicae"> Murices Antiquitatis Catholicae</rs> in schlechten pirmenten Bund.</hi>
@@ -8245,7 +8245,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#tractat_de_autonomia_andert"> Tractat de Autonomia andert</rs>, und 3ter Theil in schlechten</hi> 
+                        <hi xml:space="preserve"><rs type="bibl" ref="#tractat_de_autonomia_andert"> Tractat de Autonomia andert</rs>, und 3ter Theil in schlechten</hi>
                         <hi rend="strikethrough">Bund</hi>
                         gsch[o]bnen pirmeten Bund.
                      </cell>
@@ -8276,7 +8276,7 @@
                      <cell>
                         <rs type="bibl" ref="#antonii_a_borgundia_lapis_lydius_munbi">Antonii a Borgundia Lapis Lydius Munbi</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Irrig für</hi> Mundi.</p>
                         </note>
                         in Schwein Leder
@@ -8287,7 +8287,7 @@
                      <cell>
                         <rs type="bibl" ref="#joannis_belethi_rationale_divinorum_beneficiorum">Joannis Belethi Rationale Divinorum Beneficiorum</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Wohl irrig für </hi>Officiorum.</p>
                         </note>
                         in Schwein Leder
@@ -8524,7 +8524,7 @@
                         <hi xml:space="preserve"><rs type="bibl" ref="#judas_der_erzschelm">Judas Der Erzschelm</rs>, erster in französischen, 2ter 3ter und 4ter Bund in pirmenten schlechen Bund </hi>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-165</hi> 
+                              <hi rend="superscript">-165</hi>
                               <hi rend="italic">Irrig in die selbe Zeile geschrieben und nicht gestrichen.</hi>
                            </p>
                         </note>
@@ -8584,7 +8584,7 @@
                      <cell>
                         <rs type="bibl" ref="#dissertationes_historico_polemicae">Disserationes</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Irrig für</hi> Dissertationes.</p>
                         </note>
                         <hi xml:space="preserve"><rs type="bibl" ref="#dissertationes_historico_polemicae"> Historico Polemicae</rs> in weisen Pirment</hi>
@@ -8635,7 +8635,7 @@
                      <cell>
                         <rs type="bibl" ref="#in_jubel_jahr_maria_hilf_bild">In Jubel Jahr Maria Hilf Bild zu Innsbrck</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Irrig für</hi> Innsbruck.</p>
                         </note>
                         <hi xml:space="preserve"> in Papir,</hi>
@@ -8851,7 +8851,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Buchstabe angefangen, aber gestrichen.</hi>
                            </p>
                         </note>
@@ -9007,7 +9007,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</rs> in </hi> 
+                        <hi xml:space="preserve"><rs type="bibl" ref="#discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</rs> in </hi>
                         <hi rend="strikethrough">f</hi>
                         <hi xml:space="preserve"> papiren Bund.</hi>
                      </cell>
@@ -9181,7 +9181,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-172</hi> 
+                              <hi rend="superscript">-172</hi>
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note>
@@ -9241,7 +9241,7 @@
                <p>
                   <hi rend="bold">Octavisten</hi>
                   <note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Am linken Rand nachgetragen.</hi>
                      </p>
                   </note>
@@ -9400,7 +9400,7 @@
                      <cell>
                         <rs type="bibl" ref="#p_elbel_theologia_morales">Theologia Morales P. Elbel</rs> 8
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
                         </note>
                         <hi xml:space="preserve"> thom. in französischen Bund,</hi>
@@ -9409,11 +9409,11 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve">P. Neumayr </hi> 
+                        <hi xml:space="preserve">P. Neumayr </hi>
                         <hi rend="strikethrough">22</hi>
                         <hi xml:space="preserve"> 25</hi>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile geschrieben,</hi> 5 <hi rend="italic">korrigiert aus</hi> 4.</p>
                         </note>
                         <hi xml:space="preserve"> thom. in französischen Bund.</hi>
@@ -9743,7 +9743,7 @@
                      <cell>
                         Lebens Geschichte Aller Cardinäle etc. in französischen Bund 4
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
                         </note>
                         <hi xml:space="preserve"> thom.</hi>
@@ -9811,7 +9811,7 @@
                      <cell>
                         <rs type="bibl" ref="#renatus_rapin_glaube_der_heutigen_christen">Renatus Rapin</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Unterlänge bei</hi> -i- <hi rend="italic">gestrichen.</hi>
                            </p>
                         </note>
@@ -9857,7 +9857,7 @@
                      <cell>
                         <rs type="bibl" ref="#gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco">Gli Inganni Del Peccatore Nella Confessione expositi</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Im Buchtitel steht </hi>Espositi.</p>
                         </note>
                         <hi xml:space="preserve"> <rs type="bibl" ref="#gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco"> da Giuseppe Musoco</rs> in fränzösischen Bund,</hi>
@@ -9895,7 +9895,7 @@
                      <cell>
                         <rs type="bibl" ref="#ignatii_weitenauer_auxilii_st_tribunalis">Ignatii Weitenauer Auxilii St. Tribunalis</rs> in deto Bund
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Schlaufe in der Unterlänge bei</hi> B- <hi rend="italic">gestrichen.</hi>
                            </p>
                         </note>
@@ -9988,7 +9988,7 @@
                      <cell>
                         <rs type="bibl" ref="#tractatum_opticum_colmansii">Tractatum Opticum Colmansii</rs>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Johann Christoph Kolhans.</hi>
                            </p>
                         </note>
@@ -10115,7 +10115,7 @@
                         <hi rend="strikethrough">Th</hi>
                         <hi xml:space="preserve"> <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Beihilf</rs></hi>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Erstes </hi>-i- <hi rend="italic">korrigiert aus</hi> -y-.</p>
                         </note>
                         <hi xml:space="preserve"> <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Und Unterricht V. Der Geographie</rs> in französischen Bund,</hi>
@@ -10132,7 +10132,7 @@
                      <cell>
                         Weislinger 4
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
                         </note>
                         <hi xml:space="preserve"> thom. in französischen Bund,</hi>
@@ -10191,10 +10191,10 @@
                <table rend="rules">
                   <row>
                      <cell>Von vorstehenden Bücheren seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt <hi rend="strikethrough">80</hi> 145 f <hi rend="strikethrough">45</hi> 0 x die 323<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Erste</hi> 3 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>2.</p>
                         </note> Stuck Octavisten<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
                         </note> à 15 x [summa] 80 f 45 x und 600 Stuck à 6 x [summa] 60 f 0 x. Zusamen</cell>
@@ -10219,7 +10219,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gesamter Eintrag am linken Rand eingefügt.</hi>
                            </p>
                         </note>2 Gigliati à 4 f 31 x</cell>
@@ -10294,7 +10294,7 @@
                <table rend="rules">
                   <row>
                      <cell>1 andere alte<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile eingefügt.</hi>
                            </p>
                         </note> unbekante auch pr</cell>
@@ -10326,15 +10326,15 @@
                <p>Schulden herein</p>
                <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des Kaplaney Beneficii von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith, <hi rend="strikethrough">und bestehen in folgenden</hi> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich, und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey einen so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet, samentliche Jahrs Gefäll <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-192</hi> 
+                        <hi rend="superscript">-192</hi>
                         <hi rend="italic">Am linken Rand eingefügt.</hi>
                      </p>
                   </note>sovillen annoch in Ausstand<hi rend="superscript">192</hi> alda als ein Vermägen firzutragen, hingegen was dem geistlichen Herrn Successori oder andern <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-193</hi> 
+                        <hi rend="superscript">-193</hi>
                         <hi rend="italic">Am linken Rand eingefügt.</hi>
                      </p>
-                  </note>v. denen Beneficial Einkünften gebihrig,<hi rend="superscript">193</hi> 
+                  </note>v. denen Beneficial Einkünften gebihrig,<hi rend="superscript">193</hi>
                   <hi rend="strikethrough">hievor gebihrig</hi> pro rato temporis hinach denen Abzügen per Schuld hinaus einzuverleiben.</p>
                <table rend="rules">
                   <row>
@@ -10405,7 +10405,7 @@
                <table rend="rules">
                   <row>
                      <cell>aber 7 Stär à 50 x thutt <hi rend="strikethrough">19 f 50 x</hi> 5 f 30 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag am linken Rand nachgetragen. In Wirklichkeit wäre der Betrag 5 f 50 x.</hi>
                            </p>
                         </note> beede Unterschiede zusammen</cell>
@@ -10427,7 +10427,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-195</hi> 
+                              <hi rend="superscript">-195</hi>
                               <hi rend="italic">Gesamter Eintrag zwischen den Zeilen eingefügt.</hi>
                            </p>
                         </note>2 Kizer</cell>
@@ -10449,7 +10449,7 @@
                   <row>
                      <cell>Latus</cell>
                      <cell>32 f 8 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Die </hi>2 Kizer <hi rend="italic">zu</hi> 48 x<hi rend="italic" xml:space="preserve"> sind nicht eingerechnet.</hi>
                            </p>
                         </note>
@@ -10460,15 +10460,15 @@
                <table rend="rules">
                   <row>
                      <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige Stifft<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> anhero zu vergüeten 87 f 34 x hat aber wegen etwas Jahren hero mehrfältig verrichten Fuehren laut eingestelten Conto zu begehren 44 f 34<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">In der nächsten Zeile </hi>34 x<hi rend="italic" xml:space="preserve"> geschrieben, </hi>34 <hi rend="italic">wieder gestrichen.</hi>
                            </p>
                         </note> x und willen all jährlich zu entgelten habender Reparation 5 f 0 x macht der Abzug 49<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über Rasur geschrieben.</hi>
                            </p>
                         </note> f 34 x restriert also noch <hi rend="strikethrough">das</hi> wohl ersagtes Stifft</cell>
@@ -10553,7 +10553,7 @@
                         <p>und von Hanns Mutschlechner dortselbs von Ängerle bey der Beneficial Behausung <hi rend="strikethrough">1</hi>6 f 0 x</p>
                         <p>
                            <note>
-                              <p rend="footnote text"> 
+                              <p rend="footnote text">
                                  <hi rend="italic">Gesamter Eintrag am linken Rand eingefügt.</hi>
                               </p>
                            </note>von Simon Nidermayr Pichler zu Stöphansdorf 33 f<hi rend="superscript">200</hi>
@@ -10566,7 +10566,7 @@
                      <cell>
                         <p>Von solchen wurden bezalt <note>
                               <p rend="footnote text">
-                                 <hi rend="superscript">-201</hi> 
+                                 <hi rend="superscript">-201</hi>
                                  <hi rend="italic">Am linken Rand eingefügt.</hi>
                               </p>
                            </note>aus Hand titl. Herrn Johann Joseph Turneretscher Hofamtmanns als dern Erben bestelten Vertrettern<hi rend="superscript">201</hi> dem geistlichen Herrn Supernumerario <hi rend="strikethrough">aus</hi> Johannes <hi rend="strikethrough">fir vahende</hi> Zäch 6 f</p>
@@ -10595,7 +10595,7 @@
                      <cell>1850<note>
                            <p rend="footnote text"> 5 <hi rend="italic">korrigiert aus</hi> 1.</p>
                         </note> f 16 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Daneben Nebenrechnung auf der linken Seite: </hi>1838 [f] 31 [x +] 11 [f] 45 [x] =1850 [f] 16 [x]</p>
                         </note>
                      </cell>
@@ -10607,7 +10607,7 @@
                   <row>
                      <cell>No 1: v</cell>
                      <cell>Der Funerol Conto einschlüesslich der Geistlichkeit<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> fir Tragung der Leich verordneten 12 f 36 x Sagschein</cell>
@@ -10651,7 +10651,7 @@
                   <row>
                      <cell>No 6: v</cell>
                      <cell>Gülten Steür pro anno 1780 in das Pusterthallische Steür Einnemmer<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Kürzungsstrich versehentlich auf zweitem</hi> -n- <hi rend="italic">statt</hi> -m- <hi rend="italic">gesetzt.</hi>
                            </p>
                         </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu Brunegg <note>
@@ -10691,10 +10691,10 @@
                <table rend="rules">
                   <row>
                      <cell>v</cell>
-                     <cell>Quidecimal Steür <hi rend="strikethrough">Ihro Hochwürden</hi> 
+                     <cell>Quidecimal Steür <hi rend="strikethrough">Ihro Hochwürden</hi>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-208</hi> 
+                              <hi rend="superscript">-208</hi>
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note>zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<hi rend="superscript">208</hi>
@@ -10727,7 +10727,7 @@
                   <row>
                      <cell>v</cell>
                      <cell>Dann<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Nachträglich links vom Text nachgetragen.</hi>
                            </p>
                         </note> zu Lesung 140 Heiliger Mesen seind verschafen worden</cell>
@@ -10736,7 +10736,7 @@
                   <row>
                      <cell>v</cell>
                      <cell>Weiters<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Nachträglich links vom Text nachgetragen.</hi>
                            </p>
                         </note> bey denen P. P. Capucinern zu Brunegg andergleichen</cell>
@@ -10775,7 +10775,7 @@
                   <row>
                      <cell>v</cell>
                      <cell>Der Heiligen Kreiz Kirchen auf der Franewisen 4 zinnen Tafl<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> Leichter in Tax per</cell>
@@ -10784,7 +10784,7 @@
                   <row>
                      <cell>v</cell>
                      <cell>Des geistlichen Herrn Ableibers Gotl Anna Millsteigerin der inventiert topplete<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Zweites</hi> –e- <hi rend="italic">korrigiert aus</hi> -er-<hi rend="italic">.</hi>
                            </p>
                         </note> Species Thaller per</cell>
@@ -10797,14 +10797,14 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Weiters diser <hi rend="strikethrough">V</hi> all die jenige Victualien an Fleisch, Mehl, Schmalz, Salz, <hi rend="strikethrough">und</hi> Holz und dergleichen, so auf des geistlichen Herrn Erblassers Hinscheiden verhandene sich zeigen, und extrahiertermassen <hi rend="strikethrough">betra</hi> 
+                     <cell>Weiters diser <hi rend="strikethrough">V</hi> all die jenige Victualien an Fleisch, Mehl, Schmalz, Salz, <hi rend="strikethrough">und</hi> Holz und dergleichen, so auf des geistlichen Herrn Erblassers Hinscheiden verhandene sich zeigen, und extrahiertermassen <hi rend="strikethrough">betra</hi>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-214</hi> 
+                              <hi rend="superscript">-214</hi>
                               <hi rend="italic">Nachträglich eingeschrieben, alles ab</hi> Abzug <hi rend="italic">in nächster Zeile am linken Rand.</hi>
                            </p>
                         </note>über Abzug 18 Maas Essich noch<hi rend="superscript">214</hi> 59 f 31 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Zahlen des Betrags auf Rasur geschrieben.</hi>
                            </p>
                         </note> betrofen, und sonderbar</cell>
@@ -10824,17 +10824,17 @@
                      <cell/>
                      <cell>Ihro noch extra 3 Stär Waizen <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-217</hi> 
+                              <hi rend="superscript">-217</hi>
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
-                        </note>à 1 f 20 x thutt 4 f 0 x und 10 Stär Roggen à 52 x thutt 8 f 40 x zusamen dise Unterschid <hi rend="strikethrough">54 f 38 x</hi> 72 f 11 x<hi rend="superscript">217</hi> 
+                        </note>à 1 f 20 x thutt 4 f 0 x und 10 Stär Roggen à 52 x thutt 8 f 40 x zusamen dise Unterschid <hi rend="strikethrough">54 f 38 x</hi> 72 f 11 x<hi rend="superscript">217</hi>
                         <hi rend="strikethrough">und 10 Stär Roggen</hi>, welche<hi rend="strikethrough">s</hi> alles in natura auszuhändigen <hi rend="strikethrough">seind</hi>, und <hi rend="strikethrough">zu</hi> weilen dises anvor ad Inventarium kommen, als seind alda solche<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
                         </note> per Abzug einzutragen <hi rend="strikethrough">bedeüte</hi> id est</cell>
                      <cell>72<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Steht über Rasur von</hi> 54.</p>
                         </note> f 11 x</cell>
                   </row>
@@ -10864,19 +10864,19 @@
                   <row>
                      <cell/>
                      <cell>Wievor bey der Rubric <hi rend="strikethrough">Schuld</hi> Schulden herein zusechen, wurden die samentliche <hi rend="strikethrough">Eünkünften</hi> Beneficialeünkünfften dissortigen geitlichen Herrn Erblasser, sie sind eingangen, oder hafften noch<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile nachgetragen.</hi>
                            </p>
                         </note> in Ausstandt, von darumen<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> ganz per Vermägen getragen <hi rend="strikethrough">worden</hi>, damit das jänige, was annoch einbringlich zu machen in einer Post unzerstuckter eingehabet werden känne, und da lauth unter heuntigen däto vorgenomenen Liquidation sich gezeiget, das dem geistlichen Herrn Successori oder wem es weiters<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> berichren mächte, pro rato temporis ab 4 Monath und 3 Wochen die Gebihr mitbetrefend<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note> auszumäsen und zu vergüeten seye, als werden solche alda per Abzug gebracht, id est mit</cell>
@@ -10885,7 +10885,7 @@
                   <row>
                      <cell/>
                      <cell>Zu Abführung der über gegenwärtiger Vermägens Ergänzung, Theilung und Ausweisung erlaufenden Commissions Kösten Schreib- und Siglgelder, ittem den Partheyen Wirts Zehrung, unbewusten Schuld und dergleichen, werde gegen haltender Raittung ausgenommen.<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Daneben am linken Rand Nebenrechnung: </hi>210 [f] 26 [x] + 11 [f] 45 [x =] 222 [f] 11 [x].</p>
                         </note>
                      </cell>
@@ -10903,7 +10903,7 @@
                      <cell/>
                      <cell>Summä vorstehender Abzüg und Schulden hinaus einschlüsslich der Legaten</cell>
                      <cell>850 f 16 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Daneben am linken Rand Nebenrechnung:</hi> 838 [f] 31 [x +] 11 [f] 45 [x =] 850 [f] 16 [x]</p>
                         </note>
                      </cell>
@@ -10924,7 +10924,7 @@
                <p>[späterer Archivvermerk:] No -1207-</p>
                <p>[Titelblatt verso]</p>
                <p>Angefangen den 1. May 1781<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">War ein Dienstag.</hi>
                      </p>
                   </note> enschlüsslich 5. däto all täglich 9 Stundt ab 4. Tag, 6. Tag und der Samstag nur ab 1 Tag von 6 Stundt <hi rend="strikethrough">o</hi> mithin zusamen ab 7 Täg pr Bht. die vorherigen dicdierten als <hi rend="strikethrough">seind</hi> bei der Inventur, Extrahierung der Schulden, ittem, Secretur Vermögens Ergänzung, Ziechung des Rati, auch Übertragung der Fahrnussen etc. in andere Zimmer seind erlasen 5½ Täg etc.</p>
@@ -11284,7 +11284,7 @@
                   </row>
                   <row>
                      <cell>NB<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note> 1 Aloisi Tafl</cell>
@@ -11298,7 +11298,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-235</hi> 
+                        <hi rend="superscript">-235</hi>
                         <hi rend="italic">Mit Bleistift geschrieben.</hi>
                      </p>
                   </note>NB Herr Lechner<hi rend="superscript">235</hi>
@@ -11446,7 +11446,7 @@
                   </row>
                   <row>
                      <cell>Rest<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -11508,7 +11508,7 @@
                   <row>
                      <cell>Johann Hernegger fir die Klaidung</cell>
                      <cell>59 f 48 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Daneben</hi> dt. 59 f <hi rend="italic">mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -11530,7 +11530,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-238</hi> 
+                              <hi rend="superscript">-238</hi>
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>Rest</cell>
@@ -11578,7 +11578,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-239</hi> 
+                              <hi rend="superscript">-239</hi>
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -11604,7 +11604,7 @@
                   </row>
                   <row>
                      <cell>Rest<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -11700,7 +11700,7 @@
                   </row>
                   <row>
                      <cell>Rest<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -11846,7 +11846,7 @@
                   </row>
                   <row>
                      <cell>Rest<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -12040,7 +12040,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-245</hi> 
+                              <hi rend="superscript">-245</hi>
                               <hi rend="italic">Eintrag steht über</hi> Bixenmacher.</p>
                         </note>1 Stuel dt.</cell>
                      <cell>5 x<hi rend="superscript">245</hi>
@@ -12121,7 +12121,7 @@
                   </row>
                   <row>
                      <cell>1 Körbl<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Darüber steht mit Verweiszeichen</hi> 1 Putzer dt. 3½ x, <hi rend="italic">gehört zu Franz Hueber.</hi>
                            </p>
                         </note>
@@ -12174,7 +12174,7 @@
                   <row>
                      <cell>[Summa]</cell>
                      <cell>16 f 35 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -12230,7 +12230,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-249</hi> 
+                              <hi rend="superscript">-249</hi>
                               <hi rend="italic">Eintrag steht bei Peter Hochgrueber.</hi>
                            </p>
                         </note>1 Putzer dt.</cell>
@@ -12352,7 +12352,7 @@
                   </row>
                   <row>
                      <cell>1 Aloysi et Stanislaus<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Aloisius von Gonzaga, Stanislaus Kostka.</hi>
                            </p>
                         </note> Täfeler</cell>
@@ -12369,7 +12369,7 @@
                   <row>
                      <cell>2 Stuel</cell>
                      <cell>30<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 5.</p>
                         </note> x</cell>
                   </row>
@@ -12388,13 +12388,13 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>Rest</cell>
                      <cell>6 f 41 x<hi rend="superscript">253,</hi>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrekte Summe wäre 6 f 36½ x.</hi>
                            </p>
                         </note>
@@ -12465,7 +12465,7 @@
                   <row>
                      <cell>1 Buldt mit Schloss et Band auch 2 Schublädler und 1 Döckl</cell>
                      <cell>1 f 24 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Darunter Verweiszeichen und</hi> vide in nächsten folio à tergo<hi rend="italic" xml:space="preserve"> geschrieben</hi>.</p>
                         </note>
                      </cell>
@@ -12473,7 +12473,7 @@
                   <row>
                      <cell>[Summa obere Stube und Bibliothek]</cell>
                      <cell>9 f 12 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -12519,7 +12519,7 @@
                   <row>
                      <cell>[Summa Küche, Diele, Stube]</cell>
                      <cell>2 f 10 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -12530,7 +12530,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-258</hi> 
+                        <hi rend="superscript">-258</hi>
                         <hi rend="italic">Alle Einträge am linken Rand unter den Käufen des Gerbers von Pflaurenz geschrieben.</hi>
                      </p>
                   </note>In schen Zimmer</p>
@@ -12559,7 +12559,7 @@
                      <cell>[Summa ohne Bottiche und Dung]</cell>
                      <cell>3 f 19 x<hi rend="superscript">258,</hi>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -12647,7 +12647,7 @@
                   <row>
                      <cell>1 Schrettbeitl</cell>
                      <cell>5 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Darunter nochmals</hi> 5 x <hi rend="italic">geschrieben, aber gestrichen.</hi>
                            </p>
                         </note>
@@ -12660,7 +12660,7 @@
                   <row>
                      <cell>6 Baar Strimpf</cell>
                      <cell>2 f 48 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Tinte von Streichung zwei Zeilen darüber wahrscheinlich mit der Hand versehentlich dupliziert.</hi>
                            </p>
                         </note>
@@ -12753,7 +12753,7 @@
                   <row>
                      <cell>1 melirter Hauszeug dt.</cell>
                      <cell>3 f 34<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 16.</p>
                         </note> x</cell>
                   </row>
@@ -12761,7 +12761,7 @@
                      <cell>Unterschidliches Zin Zeig à 34 x wigt 63¼ Pfundt</cell>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Kein Betrag angegeben. Würde 35 f 50½ x ausmachen.</hi>
                            </p>
                         </note>
@@ -12802,7 +12802,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-266</hi> 
+                              <hi rend="superscript">-266</hi>
                               <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>Rest [Summe der letzten zwei Posten]</cell>
@@ -12820,7 +12820,7 @@
                      <cell>Aber Herr Salcher fol. 5 Haar 12¾ Pfundt à 22 x</cell>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Kein Betrag angegeben. Würde 4 f 40½ x ausmachen.</hi>
                            </p>
                         </note>
@@ -12876,7 +12876,7 @@
                   </row>
                </table>
                <p>Herr<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Darunter Platz für weiteren Eintrag freigelassen.</hi>
                      </p>
                   </note>
@@ -12894,7 +12894,7 @@
                   <row>
                      <cell>2 Hemat Knöpfler, dt.</cell>
                      <cell>22<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 11.</p>
                         </note> x</cell>
                   </row>
@@ -12902,7 +12902,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-270</hi> 
+                              <hi rend="superscript">-270</hi>
                               <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>dt.</cell>
@@ -12933,10 +12933,10 @@
                </table>
                <p>[8r]</p>
                <p>
-                  <hi rend="strikethrough">Jungfer</hi> 
+                  <hi rend="strikethrough">Jungfer</hi>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-271</hi> 
+                        <hi rend="superscript">-271</hi>
                         <hi rend="italic">Über der Zeile nachgetragen.</hi>
                      </p>
                   </note>Frau Kompatscherin<hi rend="superscript">271</hi> Steurerin</p>
@@ -12957,7 +12957,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-272</hi> 
+                        <hi rend="superscript">-272</hi>
                         <hi rend="italic">Mit Bleistift geschrieben.</hi>
                      </p>
                   </note>Herr Prugger</p>
@@ -13016,7 +13016,7 @@
                   <row>
                      <cell>[Summa]</cell>
                      <cell>1 f 22 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -13058,13 +13058,13 @@
                   </row>
                   <row>
                      <cell>11¾ Pfundt<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Über der Zeile nachgetragen.</hi>
                            </p>
                         </note> Haar à 20 x</cell>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Kein Betrag angegeben. Würde 3 f 55 x ausmachen.</hi>
                            </p>
                         </note>
@@ -13121,7 +13121,7 @@
                   <row>
                      <cell>[Summa]</cell>
                      <cell>12 f 1 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Betrag mit Bleistift über </hi>Wellbrett<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
                            </p>
                         </note>
@@ -13224,7 +13224,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-277</hi> 
+                              <hi rend="superscript">-277</hi>
                               <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>1 Milch Kandeler dt.</cell>
@@ -13235,7 +13235,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-278</hi> 
+                              <hi rend="superscript">-278</hi>
                               <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>5 Baar Cave Schalen dt.</cell>
@@ -13246,7 +13246,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-279</hi> 
+                        <hi rend="superscript">-279</hi>
                         <hi rend="italic" xml:space="preserve">Name und alle Einträge mit mit Bleistift gezogener gschwungener Klammer zusammengefasst und darunter, ebenfalls mit Bleistift </hi>NB <hi rend="italic">geschrieben.</hi>
                      </p>
                   </note>Frau Magnusin</p>
@@ -13357,7 +13357,7 @@
                   </row>
                   <row>
                      <cell>Gemahler<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Links daneben zwischen dieser und nächster Zeile</hi> NB <hi rend="italic">geschrieben.</hi>
                            </p>
                         </note> dt.</cell>
@@ -13428,7 +13428,7 @@
                   <row>
                      <cell>2 Laylacher dt.</cell>
                      <cell>1 f 21<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 15.</p>
                         </note> x</cell>
                   </row>
@@ -13447,7 +13447,7 @@
                   <row>
                      <cell>
                         <hi rend="strikethrough">1</hi>1<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 0.</p>
                         </note> Wein Glas dt.</cell>
                      <cell>4 x</cell>
@@ -13511,7 +13511,7 @@
                   </row>
                   <row>
                      <cell>1 Hals Glas dt.<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -13524,7 +13524,7 @@
                   </row>
                   <row>
                      <cell>1 Krueg dt.<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -13551,7 +13551,7 @@
                            <p rend="footnote text"> 6 <hi rend="italic">korrigiert aus</hi> 5.</p>
                         </note> Ellen härbens Tuch à 20½ [x] dt.</cell>
                      <cell>7 f 13 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrekt wäre 8 f 53 x.</hi>
                            </p>
                         </note>
@@ -13560,7 +13560,7 @@
                   <row>
                      <cell>8 Ellen Bänter à 2¼ x dt.</cell>
                      <cell>10 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrekt wäre 18 x.</hi>
                            </p>
                         </note>
@@ -13587,7 +13587,7 @@
                   </row>
                   <row>
                      <cell>2<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 1.</p>
                         </note> Hafelen dt.</cell>
                      <cell>2 x</cell>
@@ -13604,7 +13604,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-289</hi> 
+                        <hi rend="superscript">-289</hi>
                         <hi rend="italic">Name und Eintrag mit Bleistift und darunter, ebenfalls mit Bleistift,</hi> NB <hi rend="italic">geschrieben.</hi>
                      </p>
                   </note>Mayrin zu Gassteig</p>
@@ -13656,7 +13656,7 @@
                   <row>
                      <cell>1 Schreib Tafele</cell>
                      <cell>2 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift gestrichen.</hi>
                            </p>
                         </note>
@@ -13665,7 +13665,7 @@
                   <row>
                      <cell>1 Spill Brett</cell>
                      <cell>15 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift gestrichen.</hi>
                            </p>
                         </note>
@@ -13686,7 +13686,7 @@
                   <row>
                      <cell>1 Federmeserle</cell>
                      <cell>4 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift gestrichen.</hi>
                            </p>
                         </note>
@@ -13791,7 +13791,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-868</hi> 
+                        <hi rend="superscript">-868</hi>
                         <hi rend="italic" xml:space="preserve">Name und alle Einträge mit mit Bleistift gezogener gschwungener Klammer zusammengefasst und darunter, ebenfalls mit Bleistift </hi>NB <hi rend="italic">geschrieben.</hi>
                      </p>
                   </note>Satler zu Bruneck</p>
@@ -13895,7 +13895,7 @@
                   <row>
                      <cell>Harbens Garn 2¾ Pfundt à 28 x dt.</cell>
                      <cell>1 f 4½ x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Korrekt wäre 1 f 17 x.</hi>
                            </p>
                         </note>
@@ -13954,7 +13954,7 @@
                   </row>
                </table>
                <p>Unterwenger zu Mauren<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Unterweger zu Mauern.</hi>
                      </p>
                   </note>
@@ -14000,7 +14000,7 @@
                   </row>
                   <row>
                      <cell>Rest NB<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -14087,7 +14087,7 @@
                   <row>
                      <cell>5 Baar Strimpf</cell>
                      <cell>2 f 0 x NB<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -14096,7 +14096,7 @@
                   <row>
                      <cell>1 Handtuch</cell>
                      <cell>43 x<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift gestrichen.</hi>
                            </p>
                         </note>
@@ -14106,7 +14106,7 @@
                      <cell>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="superscript">-299</hi> 
+                              <hi rend="superscript">-299</hi>
                               <hi rend="italic">Beide Einträge mit Bleistift mit geschwungener rechter Klammer zusammengefasst und daneben</hi> Stichtäg<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
                            </p>
                         </note>1 auf 1 Fues stehendes Bultl</cell>
@@ -14121,7 +14121,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-300</hi> 
+                        <hi rend="superscript">-300</hi>
                         <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
                      </p>
                   </note>Salcher Maidl</p>
@@ -14141,7 +14141,7 @@
                   </row>
                   <row>
                      <cell>NB<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -14231,7 +14231,7 @@
                   </row>
                </table>
                <p>Titl. Herr Gerichtschreiber zu Kiens<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Durch die Verweise als Herr Suitner identifizierbar.</hi>
                      </p>
                   </note>
@@ -14283,7 +14283,7 @@
                   </row>
                   <row>
                      <cell>2 zinene Leichter dt.<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Ab hier alle</hi> dt. <hi rend="italic">mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
@@ -14328,7 +14328,7 @@
                   </row>
                </table>
                <p>Herr Suitner<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Muss wegen der Verweise der titl. Herr Gerichtschreiber zu Kiens sein.</hi>
                      </p>
                   </note>
@@ -14351,7 +14351,7 @@
                <table rend="rules">
                   <row>
                      <cell>7 Gläser dt.<note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic" xml:space="preserve">Ab hier </hi>dt.<hi rend="italic" xml:space="preserve"> wieder mit Tinte geschrieben.</hi>
                            </p>
                         </note>
@@ -14395,7 +14395,7 @@
                   </row>
                </table>
                <p>[15r]<note>
-                     <p rend="footnote text"> 
+                     <p rend="footnote text">
                         <hi rend="italic">Auf dieser Seite bis auf die befußnoteten Ausnahmen alles mit Bleistift geschrieben.</hi>
                      </p>
                   </note>
@@ -14405,7 +14405,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Links davon mit Tinte</hi> v <hi rend="italic">geschrieben.</hi>
                            </p>
                         </note>Stifeleten dt.</cell>
@@ -14435,7 +14435,7 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-309</hi> 
+                        <hi rend="superscript">-309</hi>
                         <hi rend="italic">Mit Klammer auf linker Seite zusammengefasst.</hi>
                      </p>
                   </note>Luck Beck</p>
@@ -14472,7 +14472,7 @@
                   <row>
                      <cell>
                         <note>
-                           <p rend="footnote text"> 
+                           <p rend="footnote text">
                               <hi rend="italic">Gesamter Eintrag mit Tinte geschrieben.</hi>
                            </p>
                         </note>Kirchen beym Heilligen Kreiz fir der Puschen verstandermassen</cell>

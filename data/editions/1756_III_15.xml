@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1756 III 15</idno>
+                  <repository>Inventare des Mittleren Pustertals</repository>
+                  <idno>Pos. Nr. 760</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -367,7 +367,7 @@
                <row>
                   <cell>C:</cell>
                   <cell>Ain grosses und 9<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Nachträglich eingefügt.</hi>
                         </p>
                      </note> clennere Trinckhen Glösser pr</cell>
@@ -785,7 +785,7 @@
                <row>
                   <cell>C: No 5:</cell>
                   <cell>Widerumben in<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Über der Zeile eingefügt.</hi>
                         </p>
                      </note> ain Stuckh funffzig ainhalb Ellen härbens Tuech à sibenzöchen Khreizer thuet</cell>
@@ -1307,7 +1307,7 @@
                <row>
                   <cell>C:</cell>
                   <cell>Item ain deto Yberpöth mit inneren zwilchen und aussern plau khöllischen Ziechen, wigt zwölf Pfundt à<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Nachträglich eingefügt.</hi>
                         </p>
                      </note> vierundtzwainzig Khreizer thuet</cell>
@@ -1326,7 +1326,7 @@
                <row>
                   <cell>C:</cell>
                   <cell>Mer ain deto Polster mit innern zwilchen und aussern khöllischen Ziechen wigt 8<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Nachträglich eingefügt.</hi>
                         </p>
                      </note> Pfundt zu siben Khreizer thuet</cell>
@@ -1421,10 +1421,10 @@
                <row>
                   <cell>A: No 1:</cell>
                   <cell>Vier miettere<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Gemeint ist</hi> mittlere.</p>
                      </note> fleze, und drey gleiche etwas clennere zinene Schissl, wegen 8<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Nachträglich eingefügt.</hi>
                         </p>
                      </note> Pfundt zu vierundtzwainzig Khreizer thuet</cell>
@@ -1438,7 +1438,7 @@
                <row>
                   <cell>C: No 3:</cell>
                   <cell>Und 4<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Nachträglich eingefügt.</hi>
                         </p>
                      </note> mittere fleze, und zway claine zinene Schissl wögen siben ainhalb Pfundt, zu vierundtzwainzig Khreizer thuet</cell>
@@ -1875,7 +1875,7 @@
                <row>
                   <cell>C:</cell>
                   <cell>Und in den Heillig Creuz Haus auf der Franewisen, befindet sich noch ein den Herrn Erblasser geheriger<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Über der Zeile eingefügt.</hi>
                         </p>
                      </note> Tischgwandt Casten, mit guetten Schloss et Pandt, pr</cell>
@@ -1898,7 +1898,7 @@
                </row>
             </table>
             <p>Wölliche Inventur durch formierten Loszötlen verthailt, und hat<note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
                </note> in Ziechung dero yberkhumben</p>
@@ -2034,11 +2034,11 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#reverentis_patris_heches_proedigen">Reverentis Patris Heches Prödigen</rs> in francösischen Einpundt
-                     <hi rend="strikethrough">zwai thomi</hi> 
+                     <hi rend="strikethrough">zwai thomi</hi>
                      pr
                   </cell>
                   <cell>
-                     2 f 
+                     2 f
                      <hi rend="strikethrough">36</hi>
                      x
                   </cell>
@@ -2046,7 +2046,7 @@
                <row>
                   <cell>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Gesamter Eintrag mit Verweiszeichen auf der linken Seite nachgetragen.</hi>
                         </p>
                      </note>
@@ -2209,7 +2209,7 @@
                   <cell>
                      <rs type="bibl" ref="#concordantia">Concandantia</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Heißt</hi> <rs type="bibl" ref="#concordantia">Concordantia</rs>.</p>
                      </note>
                      <rs type="bibl" ref="#bibliorum"> Bibliorum</rs> in Schwein Löder, pr
@@ -2238,7 +2238,7 @@
                   <cell>
                      <rs type="bibl" ref="#thrauner">Thraumer</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Verschrieben für</hi> <rs type="bibl" ref="#thrauner">Thrauner</rs>.</p>
                      </note>
                      <rs type="bibl" ref="#callans_contans">Callans Contans, item Geistliche Seellen Jagt</rs>, pr
@@ -2275,7 +2275,7 @@
                   <cell>
                      <rs type="bibl" ref="#pater_stoz_tribunal">Pater Stoz Jenural</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Verschrieben für</hi> Tribunal.</p>
                      </note>
                      <rs type="bibl" ref="#poenitentiae"> Poenitentiae</rs> in francösischen Bundt pr
@@ -2489,7 +2489,7 @@
                   <cell>
                      <rs type="bibl" ref="#pater_prinzing_candelabrum_apocalipticum">Pater Prinzing Candelabrum Apocalipicum</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Heißt</hi> Apocalipticum.</p>
                      </note>
                      , pr
@@ -2547,7 +2547,7 @@
                   <cell>
                      <rs type="bibl" ref="#pater_knellingers_proedigen">Pater Khnelingers</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Heißt</hi> Knellinger.</p>
                      </note>
                      Prödigen pr
@@ -2688,7 +2688,7 @@
                   <cell>
                      <rs type="bibl" ref="#weinzierl_conscientiae_rectae">Weinzerl</rs>
                      <note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Heißt </hi>Weinzierl.</p>
                      </note>
                       Conscientiae Rectae pr
@@ -2824,7 +2824,7 @@
                </row>
                <row>
                   <cell>Ainhundert dreiundtdreissig ganze<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Über der Zeile eingefügt.</hi>
                         </p>
                      </note> Feder Thaller, à zwai Gulden sechzöchen Khreizer, thuet</cell>
@@ -3128,7 +3128,7 @@
                </row>
                <row>
                   <cell>Obersagten <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindlers, sehnen<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Links neben der Zeile eingetragen.</hi>
                         </p>
                      </note> willen in der Khranckheit mit den Herrn Ableiber gehabter Miehe, auch nach dem Todtfahl der Verlassenschafft zu guetten, hin- unnd wider ver-</cell>
@@ -3231,7 +3231,7 @@
                <pb n="34r"/>
             </p>
             <p>seiner erstgehabten Ehewirthin erzeugte zwo Khinder <rs type="person" ref="#hinterseer_johann_chrisostomus">Johann Chrisostomus Hinterseer</rs> jeztiger Puechpinter zu ersagten <rs type="place" ref="#brixen">Brixen</rs>, unnd <rs type="person" ref="#hinterseer_maeriae">Märiä Hinterseerin</rs> noch lödigen Stants auch zu <rs type="place" ref="#brixen">Brixen</rs>, und v.<note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Nachträglich eingefügt.</hi>
                   </p>
             </note> der lötsten <rs type="person" ref="#laehnthaller_elisaebeth">Elisäbeth Lähnthallerischen</rs> Ehe, die nunmehr allain verhandene Jungfrau Tochter <rs type="person" ref="#hinterseer_aennae_elisaebeth">Ännä Elisäbeth Hinterseerin</rs> ebenfahls zu widerholten <rs type="place" ref="#brixen">Brixen</rs> wohnendt, waraus der Sohn anwösigermassen fir sich selbs, die zwo Töchter aber, mit Rath des Herrn <rs type="person" ref="#steeger_johan_antonien">Johan Antonien Steegers</rs> allda zu <rs type="place" ref="#st_lorenzen">Sänct Lorenzen</rs>, als zu den Ende verpflichten Anweisers gehandlet, als mueterpendigenseiths negste Erben verhanden, und dise als driter und lester Haubtstollen.</p>
@@ -3240,11 +3240,11 @@
                <pb n="34v"/>
             </p>
             <p>und sothane Verlassenschafft, unter selbe jedoch mit Zuesaz, des ohnehin denenselben in Voraus zuruggfahlenden Stamben Gueths gleichlichen zu verthaillen, auch an- und auszuweisen, umb so mehrers, als sie Erbsinteressenten, und Vertröttern denen sich noch allenfahls hervorthuen sollenden weittern Erben, oder Praetendenten vor dissortigen Gerichts Foro, zu Röth, und Antworth zu stehen, auch allenfahlige Satisfation [sic!] zu göben, und sovort auch loblich geistliche Comission, und weltliche Obrigkheit schadlos zu halten sub hipotheca bonorum sich hienit<note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Irrig für</hi> hiemit.</p>
                </note> anercleren,</p>
             <p>Wan man nun von Seithen der gnedig angeordneten Comission, und weltlichen Obrigkheit, denen sich hervorgethanen Erbsinteressenten bei so abgöbnen Erclern, dero Bith zu deferiern, und selbe in gegenwertige Verlassenschafft <note>
-                  <p rend="footnote text"> 
+                  <p rend="footnote text">
                      <hi rend="italic">Auf Rasur geschrieben.</hi>
                   </p>
                </note>zu inmittieren<hi rend="superscript">22</hi>, wie hiemit beschicht, kheine Bedenckhen getragen, als wurde auch daraufhin vorgenomben nachvolgende</p>
@@ -3255,7 +3255,7 @@
             <table rend="rules">
                <row>
                   <cell>Vor allen aber, wirdet zu Bericht angemelt, das weillen sowohl die vätter- als die mueterpändigen Erbs Interessenten ihre in Voraus anforderende<note>
-                        <p rend="footnote text"> 
+                        <p rend="footnote text">
                            <hi rend="italic">Zweites</hi> -d- <hi rend="italic" xml:space="preserve">aus </hi>-t- <hi rend="italic">korrigiert.</hi>
                         </p>
                      </note> Stamben Güetter nicht allerdings Recht darthuen, und erweisen khenen, auf Interposition loblich geistlicher Comission, und weltlicher Obrigkheit, die Sach entzwischen denenselben, dahin vergleichen worden, das die vätterlichen Erbsinteressenten ihro angeforderte Stamben Güetter genzlichen geschweigen, dargegen aber auch die mietterlichen Erbsinteressenten, an ihren ainsmahls anpraetendierten Stamben Gueth nur allein ainhundert funfzig Gulden in Voraus ziechen sollen, id est mit</cell>
@@ -3580,7 +3580,7 @@
             </p>
             <p>vergiettet worden, dargegen aber Herr <rs type="person" ref="#wachtler_johann_antoni">Johan Antani Wachtler</rs> noch ohnausgewisner seine dreihundert Gulden <note>
                   <p rend="footnote text">
-                     <hi rend="superscript">-27</hi> 
+                     <hi rend="superscript">-27</hi>
                      <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
                   </p>
             </note>Cäpitäll zum Vermigen schuldig, als haben die drei Gottshauser solliche 300 f<hi rend="superscript">27</hi> von däto fir par an, bei ihme Herrn <rs type="person" ref="#wachtler_johann_antoni">Wachtler</rs> par einzulangen, und zu empfangen, hingegen selbe aber auch, und zwar jedes in Sonderheit den jehrlichen und ebigen Jahrtag halten zu lassen, und zu bezahlen.</p>

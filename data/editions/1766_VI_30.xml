@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1766 VI 30</idno>
+                  <repository>Verfachbuch St. Michaelsburg 1766</repository>
+                  <idno>Bl. 217r–226r</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -63,7 +63,7 @@
             <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> Amtgericht- und Commission Schreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaumer</rs> Landtgerichtschreiber der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Nachdeme Gott dem Allmechtigen abermahlen gefahlen, seinen Allerheiligisten Willen zu vollziechen, und andurch weylande dem wohl ehrwürdig edlen und wohlgelehrten Herrn <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs> gewesten Cooperatore alhier zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> nach aufgestandener langwirigen Leibs <hi rend="strikethrough">k</hi> Indisposition, und all vorhero empfangenen Hochheiligen Sacramenten von diser zergenglichen Welt<hi rend="Fußnotenanker">
                   <note>
-                     <p rend="Fußnote">	
+                     <p rend="Fußnote">
                         <hi rend="italic">Über der Zeile eingefügt.</hi>
                      </p>
                   </note>
