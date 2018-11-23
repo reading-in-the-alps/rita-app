@@ -52,11 +52,12 @@
    <text>
       <body>
          <div>
-            <p>[Titelseite]</p>
+           <p>
+              <pb n="Titel"/>
+           </p>
             <p>[Kanzleivermerk:] Coll.</p>
-            <p>[Rubrum:]</p>
-            <p>Inventarium</p>
-            <p>So auf Ableiben Weilendder woledlen und tugentreichen Jungfrauen <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stockherin</rs> seeligen, in den adelichen Ansiz <rs type="place" ref="#getreuenstain">Getreuenstain</rs> zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> vorgangen.</p>
+            <p>[Rubrum:]</p> <p>Inventarium</p>
+            <p>So auf Ableiben weilend der woledlen und tugentreichen Jungfrauen <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stockherin</rs> seeligen, in den adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> vorgangen.</p>
             <p>1750</p>
             <p>[Aktenvermerk:] Zu Gerichtshanden geherig.</p>
             <p>[späterer Archivvermerk:] No -751-</p>
@@ -66,7 +67,7 @@
             <p>Actum Ansitz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs>, zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> den <date when="1750-07-08">achten Tag Monats July änno sibenzechenhundert und funffzig</date>.</p>
             <p>Vor dem woledlgebohrnen Herrn <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl, von Khirchegg, zu Ragen, und Gethreuenstain etc.</rs>
                 </p>
-            <p>Actuarius Herr <rs type="person" ref="#hebenstreit_christoph_andree">Christoph Andree Hebenstreit,   von Glurnhör</rs>.</p>
+            <p>Actuarius Herr <rs type="person" ref="#hebenstreit_christoph_andree">Christoph Andree Hebenstreit, von Glurnhör</rs>.</p>
             <p>Zugegen des wolfürnemmen <rs type="person" ref="#hueber_joseph">Josephen Hueber</rs> Nidermayr zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs>, als hierzue vermögten Taxatore.</p>
             <p>Relation</p>
             <p>
@@ -75,20 +76,21 @@
             <p>Alldieweillen Gott dem Allerhögsten nach seinen ohnerforschlich-göttlichen Willen gnedigclich gefahlen, den <date when="1749-11-16">sechzechenden Novembers verflossenen sibenzechenhundert neünundvierzigisten Jahrs</date> weylend die woledle und tugentreiche Jungfrau <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stockherin</rs> seeligen nach gedultig schwerer ausgestandener Kranckhheit, christlicher Ergebung in den göttlichen Willen, unnd Empfachung der Heiligen Heiligen Sacrament in ainunddreissigisten Jahr ihres Alters aus disen Jammerthal zweiflsfrey zu sich in das himblische Vatterlandt zu berueffen, Gott gnad der Seelen! Als haben Ihro gestreng vor- unnd anfangs wolbemelter Herr <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl</rs> etc.</p>
             <p>
                <pb n="2r"/> Inhaber des befreyten adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> (als worinnen Jungfrau Ableiberin seeligen dises Zeitliche geseegnet) der Ordnung und Observanz gemess die Secretur und Obsignierung vorgenommen.</p>
-            <p>Es hat aber nachhin wider Verhoffen titl. Herr Pergrichter in <rs type="place" ref="#aehrn">Ährn</rs> <rs type="person" ref="#danauer_johann_joseph_ciriaen">Johann Joseph Ciriän Danauer</rs> etc. (weillen selbiger weylend der Jungfrauen Ableiberin Herrn Vattern <rs type="person" ref="#stockher_andre">Andreen Stockher</rs> des loblichen <rs type="place" ref="#aehrn">Ährner</rs> Handlsverweesern etc. seeligen in eben gedachten befreyten adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> abgehandlet) durch seinen aigens destwillen nacher <rs type="place" ref="#dietenheim">Dietenhaimb</rs> geschickhten Schreiber eben die Secretur anlegen, und sohin die verrere Abhandlung an sich ziechen</p>
+            <p>Es hat aber nachhin wider Verhoffen titl. Herr Pergrichter in <rs type="place" ref="#aehrn">Ährn</rs> <rs type="person" ref="#danauer_johann_joseph_ciriaen">Johann Joseph Ciriän Danauer</rs> etc. (weillen selbiger weylend der Jungfrauen Ableiberin Herrn Vattern <rs type="person" ref="#stockher_andre">Andreen Stockher</rs> des loblichen <rs type="place" ref="#aehrn">Ährner</rs> Handlsverweesern etc. seeligen in eben gedachten befreyten adelichen
+            Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> abgehandlet) durch seinen aigens destwillen nacher <rs type="place" ref="#dietenheim">Dietenhaimb</rs> geschickhten Schreiber eben die Secretur anlegen, und sohin die verrere Abhandlung an sich ziechen</p>
             <p>
-               <pb n="2v"/> wollen. Das man also von seithen der Ansiz Inhabung allerdings gezwungen wurde, zu Verhiettung mehrerer Gewalts oder Unordnung die Sach an hochlöblich ober-östtereichische Weesen etc. etc. pr <rs type="place" ref="#innsbruck">Ihnsprugg</rs> gelangen zu lassen. Von waraus soforth untern <date when="1749-12-01">ersten Tag des Monats Decembris, anno sibenzechenhundert neünundvierzig</date> hochgnödig decidieret worden, dass dem Ansiz Inhaber wider allens Vermuthen nur alleinig die Obsignation und Beschreibung, loblicher Pfleggerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> aber, als ordinari Obrigkheit etc., die weittere und entliche Abhandlung zuestehen solle. So zwar Herrn Ansiz Inhaber etc. schwer fahlet, jedoch</p>
+               <pb n="2v"/> wollen. Das man also von seithen der Ansiz Inhabung allerdings gezwungen wurde, zu Verhiettung mehrerer Gewalts oder Unordnung die Sach an hochlöblich ober-oesttereichische Weesen etc. etc. per <rs type="place" ref="#innsbruck">Ihnsprugg</rs> gelangen zu lassen. Von waraus soforth untern <date when="1749-12-01">ersten Tag des Monats Decembris, anno sibenzechenhundert neünundvierzig</date> hochgnödig decidieret worden, dass dem Ansiz Inhaber wider alles Vermuethen nur alleinig die Obsignation und Beschreibung, loblicher Pfleggerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> aber, als ordinari Obrigkheit etc., die weittere und entliche Abhandlung zuestehen solle. So zwar Herrn Ansiz Inhaber etc. schwer fahlet, jedoch</p>
             <p>
                <pb n="3r"/> solchem hochgnädigen Decisso gehorsammen Volzug zu leisten sich verpunden erkhennen mues.</p>
-            <p>Wan nun seithero thails von Herrn und Frauen Erbs Intressenten zu mehrmalen sowohl mündtlichen als schrifftlichen lobliche Pfleg Gerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> behelliget, einstens die Jungfrau <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stokherische</rs> Verlassenschaffts Abhandlung von hannden zu nemmen, und von den Herrn Ansiz Inhaber das Inventarium abzuforderen. So hat demenach der woledl gebohrne und hochgelehrte Herr <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignati Englmor von Moregg und Aufkhirchen</rs> i. u. Licentiat, ooe.er</p>
+            <p>Wan nun seithero thails von Herrn und Frauen Erbs Intressenten zu mehrmalen sowohl mündtlichen als schrifftlichen lobliche Pfleggerichtsobrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> behelliget, einstens die Jungfrau <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stokherische</rs> Verlassenschafftsabhandlung von hannden zu nemmen, und von den Herrn Ansiz Inhaber das Inventarium abzuforderen. So hat demenach der woledl gebohrne und hochgelehrte Herr <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignati Englmor von Moregg und Aufkhirchen</rs> i. u. Licentiat, ooe.er</p>
             <p>
                <pb n="3v"/> Regiments Advocat, auch Pfleger und Landtrichter der Herrschafft <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> etc. untern <date when="1750-07-03">dritten Tag des Monats July</date> jüngsthin bei offt wolbelobten Herrn Possessore des Ansizes <rs type="place" ref="#getreuenstain">Gethreuenstein</rs> etc. von Ambts wegen umb das Inventarium und Testament requirieret, welches Requisitionsschreiben volgenden Inhalts.</p>
             <p>Woledlgebohrner hochgeehrter Herr etc.</p>
-            <p>Hochloblich ooe. Regierung etc. lasset mir laut copialiter angeschlossenen Befelch zum nachrichtlichen Wissen in Gnaden anfiegen, welcher Gestalten Euer Woledlgebohrn etc. bereits schon zu mehrmahlen in der Jungfrau</p>
+            <p>Hochloblich oo.e Regierung etc. lasset mir laut copialiter angeschlossenen Befelch zum nachrichtlichen Wissen in Gnaden anfiegen, welcher Gestalten Euer Woledlgebohrn etc. bereits schon zu mehrmahlen in der Jungfrau</p>
             <p>
-               <pb n="4r"/> <rs type="person" ref="#stockher_maria_ursula">Ursula Stockherischen</rs> Verlassenschafft Sach errichte Inventarium nebst dem Testament, und all andern mir zu extradieren angewissen worden were. Und da ich eben auch schon zum öfftern sowohl mündtlich, als auch schrifftlich von dem Herrn <rs type="person" ref="#stockher_franz_antoni">Franz Stockher</rs>, und Satzingerischen Erbs Interessenten, laut copialiter beiligenden Anrueffen, umb einstiger Vornemung der Thailung angegangen, und belanget werde, dieselbe zumahlen auch nit zu verdanckhen, das sye schon bei solangen Anstandt einst zu dem Ihrigen zu gelangen, und volgclich die Sach ausgemachter verlangen, und zum Thail auch selbs an entlichen Austrag derselben daran gelegen, als beschicht hiemit mein widerholt</p>
+               <pb n="4r"/> <rs type="person" ref="#stockher_maria_ursula">Ursula Stockherischen</rs> Verlassenschafft Sach errichte Inventarium nebst dem Testament, und all andern mir zu extradieren angewissen worden were. Und da ich eben auch schon zum öfftern sowohl mündtlich, als auch schrifftlich von dem Herrn <rs type="person" ref="#stockher_franz_antoni">Franz Stockher</rs>, und Satzingerischen Erbs Interessenten, laut copialiter beiligenden Anrueffen, umb einstiger Vornemung der Thailung angegangen, und belanget werde, dieselbe zumahlen auch nit zu verdenckhen, das sye schon bei solangen Anstandt einst zu dem Ihrigen zu gelangen, und volgclich die Sach ausgemachter verlangen, und zum Thail auch selbs an entlichen Austrag derselben daran gelegen; Als beschicht hiemit mein widerholt</p>
             <p>
-               <pb n="4v"/> ambtschuldige Requisition denen ergangenen hochgnedigen Regiminalverordnungen den gehorsammen Volzug zu leisten, und in Erfolg dessen mir ehenegstens das Inventarium, nebst dem etwo in Hannden hanbenden Testament, und allenfahlig noch andern zur Verlassenschafft gehörigen Sachen, gegen Abstattung der Gebihr ohnbeschwert verabfolgen zu lassen. Wo ybrigens nit mein Befelch ware, das der Gerichtsdiener mein ersteres Requisitionschreiben selbs dahin ybertragen, unnd zuestellen solle, auch dessen Ansiz in mindisten Mas zu derogieren oder Praejudicierliches zuezufiegen verlange, erholle mithin mein voriges, in dessen Getröstung mich anbei diensthöflichist empfelchend.</p>
+               <pb n="4v"/> ambtschuldige Requisition denen ergangenen hochgnedigen Regiminalverordnungen den gehorsammen Volzug zu leisten, und in Erfolg dessen mir ehenegstens das Inventarium, nebst dem etwo in Hannden habenden Testament, und allenfahlig noch andern zur Verlassenschafft gehörigen Sachen, gegen Abstattung der Gebihr ohnbeschwert verabfolgen zu lassen. Wo ybrigens nit mein Befelch ware, das der Gerichtsdiener mein ersteres Requisitionschreiben selbs dahin ybertragen, unnd zuestellen solle, auch dessen Ansiz in mindisten Mas zu derogieren oder Praejudicierliches zuezufiegen verlange, erholle mithin mein voriges, in dessen Getröstung mich anbei diensthöflichist empfelchend.</p>
             <p>Euer woledlgebohrn etc.</p>
             <p>Schuldigster Diener</p>
             <p>
@@ -103,7 +105,9 @@
             <p>Dem woledlgebohrnen Herrn <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl von Kirchegg, und Ragen, zu Gethreuenstain etc.</rs> zu hochgeehrten Hannden. <rs type="place" ref="#dietenheim">Dietenhaimb</rs>.</p>
             <p>Woraufhin man von seiten der Ansiz Inhabung etc. zu Vornemmung sothaner Inventur auf däto, als <date when="1750-07-08">achten dis Monats July</date> Anstalt ernennet, auch hierzue samentliche Jungfrau <rs type="person" ref="#stockher_maria_ursula">Maria Ursulä Stockherische</rs> Herrn und Frauen Erbs Nemmern in Giette beyzukhommen invitiert. Unnd zumahlen zu volge dessen auf däto sie Herrn und Frauen Erbs Partheyen</p>
             <p>
-               <pb n="5v"/> als nammentlich die baidpendige Frau Schwester <rs type="person" ref="#stockher_maria_magdalena">Maria Magdalena gebohrne Stockherin</rs>, in Beysein ihres Eheherrn, als eheschuldtshalben billichisten Anweisers des woledlen Herrn <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spänglers</rs> des loblichen <rs type="place" ref="#aehrn">&gt;Ährner</rs> Handls Verweeser und Cassiers erster, dan Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharinä gebohrne Stockherin</rs>, in gleichen Beysein und Nebenstandt Ihres Eheherrns, des woledlen Herrn <rs type="person" ref="#marchner_johann_lorenz">Johann Lorenz Marchner</rs> Commission- und Ambgerichtsschreiber in <rs type="place" ref="#brunegg">Brunegg</rs>, anderter, weitters Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs> dritter und endtlichen Frau <rs type="person" ref="#stockher_elisabeth">Elisabethä Stockherin</rs> in anweisschäfftlicher Praesenz ihres eheverglibten des edlen und kunstreichen Herrn</p>
+               <pb n="5v"/> als nammentlich die baidpendige Frau Schwester <rs type="person" ref="#stockher_maria_magdalena">Maria Magdalena gebohrne Stockherin</rs>, in Beysein ihres Eheherrn, als eheschuldtshalben billichisten Anweisers des woledlen Herrn <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spänglers</rs> des
+               loblichen <rs type="place" ref="#aehrn">Ährner</rs> Handls Verweeser und Cassiers erster, dan Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharinä gebohrne Stockherin</rs>, in gleichen Beysein und Nebenstandt Ihres Eheherrns, des woledlen Herrn <rs type="person" ref="#marchner_johann_lorenz">Johann Lorenz Marchner</rs> Commission- und Ambgerichtsschreiber in <rs type="place" ref="#brunegg">Brunegg</rs>, andertweitters
+               Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs> dritter und endtlichen Frau <rs type="person" ref="#stockher_elisabeth">Elisabethä Stockherin</rs> in anweisschäfftlicher Praesenz ihres eheverglibten des edlen und kunstreichen Herrn</p>
             <p>
                <pb n="6r"/> <rs type="person" ref="#satzinger_johann_ludwig">Johann Ludwig Satzinger</rs> Goldtschmidts in <rs type="place" ref="#brunegg">Brunneggen</rs>, vierter und letster Erbstoll. Alle offtberedter Jungfrauen Ableiberin ain- und baidpendig respective Herr Brueder und Frauen Schwestern auf der Stöll beykhommen. Als will man von seiten der Ansiz Inhabung mit der Inventur vorbeygehen, zugleich aber gewertigen: Obe etwan vor Vornemmung derselben ainer oder anderer aus denen Herrn und Frauen Erbs Intressenten jechtewas vor- und anzubringen haben möchte?</p>
             <p>Auf welcheshin Beykhommen Herr <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spängler</rs>, gezimmend vorbringende, wasgestalten ihme die Jungfrau</p>
@@ -114,11 +118,11 @@
                   </p>
                </note> schrifftlich dahin erclert, das solche aus angebrachten Ursachen</p>
             <p>
-               <pb n="7r"/> gemieste Unterbleibung dem Testament, und lestwilligen Sprüchen ohnpraejudicierlichen sein sollte. Will demenach, weillen anheut die Anstalt zur Inventur anersezt, volgsamb der Ordnung gemess die Publicierung und Erwitterung des Testaments solcher Inventur nothwendig vorgehen mues, gedacht Verordnung<note>
+               <pb n="7r"/> gemieste Unterbleibung dem Testament, und lestwilligen Sprüchen ohnpraejudicierlichen sein solte. Will demenach, weillen anheut die Anstalt zur Inventur anersezt, volgsamb der Ordnung gemess die Publicierung und Erwitterung des Testaments solcher Inventur nothwendig vorgehen mues, gedachte Verordnung<note>
                   <p rend="footnote text">
                      <hi rend="italic">Auf der linken Seite mit anderer Tinte</hi> No. 2 <hi rend="italic">geschrieben.</hi>
                   </p>
-               </note> sub No. 2 zu dem Ennde alda in Gehorsamme vorlegen, umb damit es gebührend publiciert, und erwittert werden könte.</p>
+               </note> sub No. 2 zu dem Ennde alda in Gehorsamme vorlegen, umb damit es gebührend publiciert, unnd erwittert werden könte.</p>
             <p>Die zur Inventur, und keinem anderen Ennde invitierte ainpendige Schwester Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharina Stockherin</rs> will nebst Ihren Eheconsorten der anersezten Beschreibung der</p>
             <p>
                <pb n="7v"/> in den adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> befindlichen Effetten gebihrend beizuwohnen nit ermanglen, mit angeheffter Bith, eine lobliche Ansizherrschafft wolle grosgonstig geruehen, vor Anfang derselben sowohl der baidpendigen Frau Schwester, als auch dero Eheherrn gewohnlichermassen zuezusprechen, das sie all das jenige, so zu der Jungfrau Ableiberin Verlassenschafft gehörig, und ihnen wissend sein möchte, gethreulichen zu beschreiben anzaigen, und hieran nichts verhalten sollen.</p>
@@ -144,19 +148,19 @@
             <p>
                <pb n="9v"/> jeden Gottesdienst zwölff Gulden, eintweders in Brott, oder Gelt unter die Arme ausgetheilt werden, weiters und zum</p>
             <p>Vierten verordne ich, das nach meinen Tott umb funffzig Gulden Heillige Messen, vor mein abgeleibte Seel sollen gelessen werden, sobaldt es immer wird sein kennen bey den P.P. Capuciner.</p>
-            <p>Das ybrige Vermigen aber, so ich habe, und von mir wird hinterlassen sein worden, sollen von meinen Geschwistrigeten, die ich als rechtmessige Erben hiemit einseze, unter ihnen getheilt werden, jedoch also, das wan mich mein liebe Muetter yberleben sollte, sye ebenfalls ein Theil, wie ein jedes aus</p>
+            <p>Das ybrige Vermigen aber, so ich habe, und von mir wird hinterlassen sein worden, sollen von meinen Geschwistrigeten, die ich als rechtmessige Erben hiemit einseze, unter ihnen getheilt werden, jedoch also, das wan mich mein liebe Muetter yberleben sollte, sye ebenfahls ein Theil, wie ein jedes aus</p>
             <p>
-               <pb n="10r"/> mein Geschwistriget lebenlangclich solle zu geniessen haben, dieser aber nach ihren seeligen Ableiben denen Geschwistrigeten zuefahlen solle, wan aber ich meine liebe Muetter sollte yberleben, so solle als den das jenige, was ich von ihr wird ererbt haben, und noch ybrig sein wird, nach meinen Tott, meiner lieben Schwesster der Spänglerin und ihren Kindern verbleiben, als rechtmessigen Erben meiner lieben Muetter. Ingleichen solle ihr auch zuegehören meine hinterlassene Kleider und das wenige Schaz Gelt.</p>
-            <p>Dises ist nun mein wolbedachter, ernstlicher und kröfftiger Willen, welcher nach meinen seeligen Hinscheiden solle ohnverenderlich volzochen werden, wan ich aber etwan selbigen noch was beisezen, oder darinen enndern solte,</p>
+               <pb n="10r"/> mein Geschwistriget lebenlängclich solle zu geniessen haben, diser aber nach ihren seeligen Ableiben denen Geschwistrigeten zuefahlen solle, wan aber ich meine liebe Muetter solte yberleben, so solle alsdan das jenige, was ich von ihr wird ererbt haben, und noch ybrig sein wird, nach meinen Tott, meiner lieben Schwesster der Spänglerin und ihren Kindern verbleiben, als rechtmessigen Erben meiner lieben Muetter. Ingleichen solle ihr auch zuegehören meine hinterlassene Kleider und das wenige Schaz Gelt.</p>
+            <p>Dises ist nun mein wolbedachter, ernstlicher und cröfftiger Willen, welcher nach meinen seeligen Hinscheiden solle ohnverenderlich volzochen werden, wan ich aber etwan selbigen noch was beisezen, oder darinen enndern solte,</p>
             <p>
-               <pb n="10v"/> so will ich dis solches ebenfahls von meinen Geschwisterigeten als Erben solte fleisig volzochen werden, widrigenfahls ich ihnen die Rach Gottes betrooe, solte aber etwan dise Erclerung meines Letstzen Willens aus was immer von einer Ursach nicht fir ein rechtmessiges Testament wollen angenommen werden, so soll es gelten, als ein Codicil, oder auf was immer vor einer Weis es sein kan, welches ich mit beigetruckhten Sigil, nebst zwayen Zeugen, wans nit aus Ybereillung eines gechen Tott unterlassen wird, aber dannoch bei disen meinen Willen zu verbleiben alles hat, mit meiner aignen Hanndschrifft hiemit hab bestättigen wollen.</p>
-            <p>Ich <rs type="person" ref="#stockher_maria_ursula">Maria Ursulä Stockherin</rs> in Namen Gott des Vatters, und des Sohns, und des Heiligen Geistes Amen.</p>
+               <pb n="10v"/> so will ich dis solches ebenfahls von meinen Geschwistrigeten als Erben solte fleisig volzochen werden, da widrigenfahls ich ihnen die Rach Gottes betrooe, solte aber etwan dise Erclerung meines Letsten Willens aus was immer von einer Ursach nicht fir ein rechtmessiges Testament wollen angenommen werden, so soll es gelten, als ein Codicil, oder auf was immer vor einer Weis es sein kan, welches ich mit beigetruckhten Sigil, nebst zwayen Zeugen, wans nit aus Ybereillung eines gechen Tott unterlassen wird, aber dannoch bei disen meinen Willen zu verbleiben alles hat, mit meiner aignen Hanndschrifft hiemit hab bestättigen wollen.</p>
+            <p>Ich <rs type="person" ref="#stockher_maria_ursula">Maria Ursulä Stockherin</rs> in Namen Gott des Vatters, und des Sohns, und des Heiligen Geists Amen.</p>
             <p>
                <pb n="11r"/>
             </p>
             <p>Facta Publicatione</p>
             <p>Hat sich Herr <rs type="person" ref="#spaengler_joseph_paul">Spängler</rs> nomine seiner Schwigerfrau Muetter, und eheliebsten gegen lobliche Ansizherrschafft etc. willen gehabter Bemieheung in beschechener Publicierung und Erwitterung des Testament gehorsamb bedanckhet, und hofet bei weiterer Gehörde etc. dabei manuteniert zu werden.</p>
-            <p>Die ainpandige Frau Schwester verehelichte Marchnerin lasset das Testament in seinen Esse bewenden, bittet widerholt mit der Zuesprechung und Beschreibung großgünstig firzuschreitten.</p>
+            <p>Die ainpändige Frau Schwester verehelichte Marchnerin lasset das Testament in seinen Esse bewenden, bittet widerholt mit der Zuesprechung und Beschreibung großgünstig firzuschreitten.</p>
             <p>Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs>, dan Frau Satzingerin sambt ihren Ehevogt reservieren ihnen wider das publicierte Testament zu seiner Zeit ihr nöthiges</p>
             <p>
                <pb n="11v"/> firzuwenden. Bitten ybrigens ingleichen mit der Inventur und Zuesprechung firzugehen.</p>
@@ -200,7 +204,7 @@
                      <p>Ain schlecht grauer zeugener Kittl.</p>
                      <p>Ain alter Linzer zeugener Kittl</p>
                      <p>Zwai alte Unterröckh.</p>
-                     <p>Fünff theils bessere unnd theils schlechtere Carschetlen als zwo schwarz tiechene, ain cärtones und zwoo zeugens.</p>
+                     <p>Fünff theils bessere unnd theils schlechtere Carschetlen als zwo schwarz tiechene, ain cärtones und zwoo zeugene.</p>
                      <p>Zwoo plau tamascene noch guete Mieder, sambt derlei Prüstler.</p>
                      <p>Ain altes plaues dergleichen</p>
                      <p>Zwai geplaimbte schleirene und leinwathene Firtüecher.</p>
@@ -214,14 +218,17 @@
                <row>
                   <cell>Verlangt eben Frau Spänglerin vi Testamenti</cell>
                   <cell>
-                     <p>Zwey cartonene Fürtücher.</p>
+                     <p>Zwey<note>
+                                    <p rend="footnote text">-wey <hi rend="italic">auf Rasur geschrieben.</hi>
+                                    </p>
+                                </note> cartonene Fürtücher.</p>
                      <p>Vier schlecht seidene, und zwei leinwatene Halstüecher</p>
                      <p>Siben Par Manschet.</p>
                      <p>Ainliff Par bessere unnd schlechtere Handtschuech.</p>
                      <p>Ain Par neue weise deto</p>
                      <p>Ain Par alte unnd schlechte rauche Stizlen.</p>
                      <p>Zwo Ellen gelbe Firtuech Pendter.</p>
-                     <p>Ain Krienl mit silbernen Tres-Porten</p>
+                     <p>Ain Krienl mit silbernen Tres-Porten.</p>
                   </cell>
                </row>
             </table>
@@ -230,11 +237,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Ebenfalls</cell>
+                  <cell>Ebenfahls</cell>
                   <cell>
                      <p>Ain anderes Krienl mit guldenen Tres-Borten.</p>
                      <p>Drey schwarze Krienlen, warunter aines mit Stöfftlen.</p>
-                     <p>Ain weises Karsetl</p>
+                     <p>Ain weises Kärsetl</p>
                      <p>Ain par fast neue plurschene rauche Stizler.</p>
                      <p>Ain schlechtes silbernes Krienl</p>
                      <p>Drey gekhrauste Heüblen</p>
@@ -275,7 +282,7 @@
                   </cell>
                </row>
             </table>
-            <p>Welche Leibclaider und Schazgelt (wie vil eingefangen) Frau Spänglerin anspricht willen habenden Testament, so man derentweg ainsmahlen nit taxiert, pr Bericht.</p>
+            <p>Welche Leibclaider und Schazgelt (wie vil eingefangen) Frau Spänglerin anspricht willen habenden Testament, so man derentwegen ainsmahlen nit taxiert, pr Bericht.</p>
             <p>
                <pb n="15r"/>
             </p>
@@ -323,7 +330,7 @@
                   <cell>40 x</cell>
                </row>
                <row>
-                  <cell>Dreyzechen Elen Härben auf Tamaschen Arth ge-</cell>
+                  <cell>Dreyzechen Elen Härben auf tamaschg Arth ge-</cell>
                   <cell/>
                </row>
                <row>
@@ -349,7 +356,9 @@
                </row>
                <row>
                   <cell>Vier Elen geblaichten geweggleten Tischzeug à achtzechen Creuzer</cell>
-                  <cell>1 f 12 x</cell>
+                  <cell>1 f 12<note>
+                                <p rend="footnote text">2 <hi rend="italic">korrigiert aus</hi> 8.</p>
+                            </note> x</cell>
                </row>
                <row>
                   <cell>Ain Elen deto Tuech, so schmal</cell>
@@ -357,7 +366,10 @@
                </row>
                <row>
                   <cell>[Latus]</cell>
-                  <cell>16 f 1 x</cell>
+                  <cell>16 f 1<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic">Korrigiert aus</hi> 4.</p>
+                            </note> x</cell>
                </row>
             </table>
             <p>
@@ -386,7 +398,10 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Sechsundzwainzig Ellen geblaichts gleich hächles geweggltes Hanndt Tuech Zeug à dreyzechen Creuzer</cell>
+                  <cell>Sechsundzwainzig<note>
+                                <p rend="footnote text">Sechs- <hi rend="italic">auf Rasur geschrieben.</hi>
+                                </p>
+                            </note> Ellen geblaichts gleich hächles geweggltes Hanndt Tuech Zeug à dreyzechen Creuzer</cell>
                   <cell>5 f 38 x<note>
                         <p rend="footnote text"> 3 <hi rend="italic">korrigiert aus</hi> 5.</p>
                      </note>
@@ -445,13 +460,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Bezieht sich auf Zustellung von fol. 18r.</hi>
-                        </p>
-                     </note>
-                  </cell>
+                  <cell/>
                   <cell>Ain Phillip pr</cell>
                   <cell>2 f 12 x</cell>
                </row>
@@ -466,7 +475,8 @@
                   <cell>3 f 20 x</cell>
                </row>
                <row>
-                  <cell cols="2">Summä der Paarschafft, ainundvierzig Gulden, dreyundvierzig Creuzer, dico</cell>
+                  <cell/>
+                  <cell>Summä der Paarschafft, ainundvierzig Gulden, dreyundvierzig Creuzer, dico</cell>
                   <cell>41 f 43 x</cell>
                </row>
             </table>
@@ -475,7 +485,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Summarum ganz und völliger Inventur, sovil in Auswurff kommen, ainhundert neünzeichen Gulden, zwainzig Creuzer, sage</cell>
+                  <cell>Summarum ganz und völliger Inventur, sovil in Auswurff kommen, ainhundert neünzechen Gulden, zwainzig Creuzer, sage</cell>
                   <cell>119 f 20 x</cell>
                </row>
             </table>
@@ -484,8 +494,9 @@
             </p>
             <p>Ohnegeverde</p>
             <p>Des zu wahrem Urkhunt seint zwoo gleich lautende Inventarien ausgeschriben, auch jedes unter, und mit offt wolbelobts Herrn Ansiz Inhaber <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl von Kirchegg zu Ragen, und Gethreuenstain etc.</rs> von Ansiz Herrschafft wegen<note>
-                  <p rend="footnote text"> w- <hi rend="italic">korrigiert aus getilgtem</hi> he-.</p>
-            </note> firgestelten adelich angebohren Insigl (doch in anderweeg ohn Schaden) verfertiget, und hier aus das aine loblicher Pfleggerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> etc. zuegestelt, das andere aber bei den Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> behalten worden. Actum ut supra.</p>
+                  <p rend="footnote text"> w- <hi rend="italic">korrigiert aus getilgtem</hi> In-.</p>
+            </note> firgestelten adelich angebohren Insigl (doch in anderweeg ohn Schaden) verfertiget, und hieraus das aine loblicher Pfleggerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> etc. zuegestelt, das andere aber bei den Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> behalten worden. Actum ut supra.</p>
+            <p>[Oblatensiegel des Johann Joseph Martin von Wenzl zu Kirchegg, Ragen und Getreuenstein]</p>
          </div>
       </body>
    </text>

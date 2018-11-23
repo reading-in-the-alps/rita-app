@@ -81,16 +81,16 @@
                             <xsl:element name="a">
                                 <xsl:attribute name="name">
                                     <xsl:text>fn</xsl:text>
-                                    <xsl:number level="any" format="1" count="tei:note"/>
+                                    <xsl:number level="any" format="1" count="tei:note[./tei:p]"/>
                                 </xsl:attribute>
                                 <a>
                                     <xsl:attribute name="href">
                                         <xsl:text>#fna_</xsl:text>
                                         <xsl:number level="any" format="1" count="tei:note"/>
                                     </xsl:attribute>
-                                    <span style="font-size:7pt;vertical-align:super;">
-                                        <xsl:number level="any" format="1" count="tei:note"/>
-                                    </span>
+                                    <sup>
+                                        <xsl:number level="any" format="1" count="tei:note[./tei:p]"/>
+                                    </sup>
                                 </a>
                             </xsl:element>
                             <xsl:apply-templates/>
@@ -220,6 +220,10 @@
                 </div>
             </div>
         </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:p[@rend='footnote text']">
+        <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="tei:body">
         <xsl:choose>

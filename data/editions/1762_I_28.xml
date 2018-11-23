@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator), fol. 53r-65r]</title>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>
+                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Reading in the Alps</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Südtiroler Landesarchiv (SLA)</institution>
+                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
+                  <idno>1762 I 28</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="53r" to="65r"/>
+                     <note>
+                        <rs type="skos" ref="#inventar">Inventar</rs>
+                     </note>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1762-01-28">
+                     <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <pb n="53r"/>
+            </p>
+            <p>Unseren freundlichen Gruß, und Dienst zuvor. Ehrwürdig, edl, hochgelehrter besonders lieber Freund und Herr!</p>
+            <p>Demnach des Herrn Berichts genugs untern 28ten lezten verflossenen Monats, und Jahrs Priester Jacob Christoph Mitterdorfer gewesener Cooperator zu St. Lorenzen zeitlichen Tods verblichen, und hierauf in Namen diesortigen Ordinariats von dem Herrn an das Ableibers hintergebenen Zeitlichkeiten die Secretur angelegt worden; Als wollen es nit nur dabey bewenden lassen, sondern auch dem Herrn anmit den behörigen Commissions Gwalt dahin auftragen, daß selber gedachten Ableibers hinterlassene Vermögenheit servatis servandis, et vocatis vocandis vollständig beschreiben, ergänzen, vertheilen, und behöriger Orten aushändigen. Da aber die allenfalls verhanden leztwillige Verordnung von denen Erbs-, oder anderen Interessenten angefochten wurde, das zu Hinlegung derley Differenz verfachende Projecten zu diesortiger Entscheidung, wie auch seiner Zeiten die Handlungs acta in originali, oder copia authentica mit seinen Berichten anhero einsenden</p>
+            <p>
+               <pb n="53v"/>
+            </p>
+            <p>solle. Hieran vollziecht der Herr unseren Willen, und Maynung, und wür verbleiben demselben anbey wohl zugethan. Geben in Consistorio zu Brixen den 4. Jenner 1762.</p>
+            <p>Ferdinand Joseph Bisch zu Hyschopl</p>
+            <p>Praesident m.p.</p>
+            <p>Georg Tangl</p>
+            <p>Secret. Eulicus m.p.</p>
+            <p>
+               <pb n="54v"/>
+            </p>
+            <p>4 Jener 1762</p>
+            <p>[Rubrum:] Commissionsgwalt zur Abhandlung des verstorben Cooperator zu St. Lorenzen Prs. Jacob Christoph Mitterdorferische Verlassenschafft seel. Den 14ten detto.</p>
+            <p>[Briefadresse:] Dem ehrwürdig, edlen, hochgelehrten Joseph Mathias Ingram von Liebenrain, und Fragburg SS. Theol. Dri. fürstlich Brixnerisch wirklichen Consistorial Rath, auch Dechand, und Pfarrern zu Brunegg, unseren besonders lieben Freund, und Herrn.</p>
+            <p>Brunegg</p>
+            <p>
+               <pb n="55r"/>
+            </p>
+            <p>[Rubrum:] Abhandlung</p>
+            <p>Herr Jacob Christoph Mitterdorfer Cooperator seel.</p>
+            <p>[Aktenvermerk:] Exped.</p>
+            <p>Actum in Pfarr Widums zu Sanct Lorenzen, den 28isten Jenner anno 1762.</p>
+            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn Joseph Mathias Igramb von Liebenrain und Fragburg, S.S. Theol. Dri., Tyrollischen Herrn und Landtman hochfirstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dechandt und Pfarrherrn zu Brunegg, als vermig vorgewisen und alda ad acto registrierten gnedigen Commissions Befelch, gnedig verordneten Commissorio</p>
+            <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn Joseph Ignati Englmohr, von Aufkhirchen zu Mohregg, beeder Rechten lit. ooe. Regimentsadvocaten, auch Pfleger und Landtrichter, der Herrschafft Sanct Michaelspurg.</p>
+            <p>Zugegen des wohledlen Herrn Franz Michael Marchner geistlichen Commission und Ambt Gerichtschreibern zu Brunegg.</p>
+            <p>Demnach aus Göttlicher zuelass so der Verordnung, an dem kurz verwichenen</p>
+            <p>
+               <pb n="55v"/>
+            </p>
+            <p>Herbst alhie eingerissenen Hizigen Tisl unter andern auch der hoch erwirdig edl und hochgelehrte Herr Jacob Christoph Mitterdorffer damahlig eltiste Cooperator alhie zu Sanct Lorenzen, in Ausyebung der Seelsorg, ergriffen wurde, und nach ausgestandener 9tegiger Ohnbessligkheit, das Zeitliche mit dem ebigen und sonders Zweifl besseren Leben verwexlet, und ebenfalls daran zu allmeniglichen Betauren verstorben, welch diser und all ybrig in Gott verschidenen Seelen der Allerhegste mit Gnaden pflögen und am Tag des Jüngst und Letsten Gerichts ein frelichn Urstent und erwintschten Eingang in die immerwerende Freidt und Seeligkheit aller mildist vorleifig von Seiten der gnedig geistlichen Comission und weltlichen Obrigkeit angelegter Secretur und zu Hilf und Trost der abgeleibten Seel abgehaltenen gewohnlichen Heiligen Gottsdienst, vor hochgemelt gnedigen Herrn Herrn Comissorio und loblich weltlicher Obrigkeit in Gehorsamb beikhumben, des Herrn Ableibers seel. eheleibliche Vater der wohlfirnemb Mathes Mitterdorffer Gerichtsausschuss auch Würth und Gastgeb zu Tilliach, dan dessen</p>
+            <p>
+               <pb n="56r"/>
+            </p>
+            <p>eheleiblicher Brueder Lucäs und Jungfrau Schwester Hellena Mitterdorfferin, woraus der Brueder fir sich selbs, die Schwester <hi rend="strikethrough">Maria M</hi> aber mit Rath des Vatern ernents Mathesen Mit<hi rend="strikethrough">terhof</hi>terdorffers gehandlet, und er Vater auch die noch ibrigen vier abwesigen Geschwistriget, Mathes, Agnes, Teresia, und Maria vertretten, mit demiettig gehorsamber Bitt, des herrn briederlich ihnen nattirlichen Rechtens erblichen zue und angefahlene Vermigen in gebreichige Beschreibung Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu verthaillen auch an und auszuweisen, wan man nur von Seiten der gnedig geistlichen Commission und weltlichen Obrigkeit disen ihren billichmessigen Begehrn zu deferieren keine bedenckhen getragen, als wurde demnach zu solchem Ende auf anheut dato Anstalt ernent, und bei nit erfundenen Testament yber vorleifige Eröffnung der Secretur ainsmahl vorgenomben, nachvolgende</p>
+            <p>Inventur</p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Und zwar erstlichen ain Komoth Casten mit drei Tatten und sovil Schlesser pr</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="56v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Darinen</cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">Ain schwarz hollendisch Claidt Rockh und Camisol per</cell>
+                  <cell rend="left">18 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain purpur plauer gewenter Rockh, mit schwarzen Crepinlen und dergleichen Päntlen eingefast per</cell>
+                  <cell rend="left">7 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain schwarz sambetens Camisol die hintere Thail aber mit Tuech</cell>
+                  <cell rend="left">5 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain neu kumber zeigener schwarzer Rockh und Camisol mit plauen Unterfuetter per</cell>
+                  <cell rend="left">16 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Mehr ain alt schwarzer Rockh und Camisol</cell>
+                  <cell rend="left">6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ittem 2 schwarz abgetragene schlechte Reckh per</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain grau tirchener deto mit schwarzen Crepinlen pr</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain plauer Pudl Rockh mit schwarzen Crepinen per</cell>
+                  <cell rend="left">4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain praun hauszeigener Cossegeng per</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Auch zwo deto vordere Thail pr</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain grau tirchener Rockholohr</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">65 f 30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="57r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Ain cämelotener schlechter Mantl per</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain callemoggener Schloff Rockh mit flanellen Unterfueter per</cell>
+                  <cell rend="left">4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain schwarz cämelottenes Camisol ohne Erbl per</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Drei Par yrchene Hosen pr</cell>
+                  <cell rend="left">4 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai schwarze Hieth per</cell>
+                  <cell rend="left">1 f 20 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai sambetene Heiblen per</cell>
+                  <cell rend="left">40 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Mehr ain neu schwarz sambetens Käppl und ain anders deto pr</cell>
+                  <cell rend="left">25 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai schwarze Krägen pr</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Drei Par schlecht gewegglete seidene Strimpf per</cell>
+                  <cell rend="left">20 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">5 Par andere schwarze deto pr</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">5 Par weise Unter Strimpf pr</cell>
+                  <cell rend="left">45 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain schlechter sambetener Schliefer und ain Par deto Stuzen pr</cell>
+                  <cell rend="left">20 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai Par ledene Handt Schuech pr</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai Par weise deto</cell>
+                  <cell rend="left">12 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">17 f 2 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="57v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">21 schwarz und weise Krägelen per</cell>
+                  <cell rend="left">24 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">12 härbene besser und schlechtere Hemater zu 30 x thuet</cell>
+                  <cell rend="left">6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Aber zwo deto pr</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">4 Schnupftiechlen pr</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Par neu und ain Par alte Schuech pr</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Par Tschischmä</cell>
+                  <cell rend="left">36 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Par Puntoffl</cell>
+                  <cell rend="left">20 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain weise Hauben mit Spiz und Tofetpenter per</cell>
+                  <cell rend="left">20 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai andere deto</cell>
+                  <cell rend="left">6 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zechen Ellen härbens Tuech zu 18 x thuet</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain gresser und ain cleners neues auf Tagmaschg gewirckhtes Tischtuech per</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Aber zwei schlechtere deto per</cell>
+                  <cell rend="left">40 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Tisch Manipele zwai Parbier Tischer und 2 weise Firheng</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Mehr ain grien und ain cartaner Firhang sambt den Eisen Stängl</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain neu schener Preslaurer Tepich</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">20 f 26 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="58r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Ittem ain neu schener Welsperger Tischtepich pr</cell>
+                  <cell rend="left">48 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain schlechterer deto</cell>
+                  <cell rend="left">24 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain kupferener Wasser Sprizer per</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai kupferene Teslen per</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain kupferens Ober und Unter Giespeckhet per</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai kupferene Cove Kandl pr</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain schenne Stockh Uhr sambt den Cästl</cell>
+                  <cell rend="left">20 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain zinene Parbier Schissl per</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwei zinene Leichter pr</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwei zinene Täller per</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain gewandt Pirsten per</cell>
+                  <cell rend="left">15 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Drei Par zinggene Mösser und Gabl per</cell>
+                  <cell rend="left">36 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Schrett Pix mit ain Zellin Schloss pr</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Scheiben Pix pr</cell>
+                  <cell rend="left">6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Pustollen pr</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">39 f 3 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="58v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Ain Spänisch Rohr mit ain silberen Refl per</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Vier gresser und clenner Glesser per</cell>
+                  <cell rend="left">12 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Drei Lain Sössl pr</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Fiolin Geigen pr</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain silberfarb angestrichnes Buldt mit Schloss und Pandt per</cell>
+                  <cell rend="left">45 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Sanct Aloisi Tafl, sambt der Ramb pr</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Tafl Die Genembaus [Emmausgang] vorstellendt</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain spiegl glesserene Hieronimus und Antoni Tafl per</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Vier clenere dergleichen deto per</cell>
+                  <cell rend="left">48 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Vier Landtschöfftlen per</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">6 klaine Täfelen mit Glesser per</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Und die Vahrnüssen so Herr Ableiber seel. in Jempach zum Aufbehalt hat, betröffen laut der von Herren Curat daselbs Sebastian Waiz abgebener und denen Erben behendigter Specification</cell>
+                  <cell rend="left">15 f 11 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">28 f 36 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="59r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Piecher in Folio</hi>
+                  </cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Hunoldt 6 thomi in franzesischen Pundt pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">8 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Marianische Exempl per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 20 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Hëger 4 thom seint aber dem Herrn Cooperatore Steeger fir seine gehabte extra Miehe gelassen pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">2 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Hobat 2 thomi per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">2 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Boetius 3 thomi so aber dem andern Herrn Cooperatore Feichter auch fir seiner Miehe gelassen worden,</hi>
+                  </cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Bibliae Sacrae germana et latina pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">2 f 30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Aber Biblia Sacra per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Missalle Romanum pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">40 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Kheller Hans: 3 thomi per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">2 f 20 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Lojmon</hi>
+                     <note>
+                        <p rend="footnote text"> 
+                           <hi rend="italic" xml:space="preserve">Irrig für </hi>Laymann.</p>
+                     </note>
+                     <hi rend="bold" xml:space="preserve"> pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Brev. Rom. in folio</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">20 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Ius Canonicus P. Pichler 1 thomi pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">3 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">24 f 34 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="59v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Roberti 3 thom per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">2 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Reifenstuel Theol. Moralis per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">51 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Lacroix 2 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Hechel Predigen per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Reichardt Lob und Leich Predigen</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Hermonie Comentorius per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Quartisten</hi>
+                  </cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Vieria 3 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Prigl centi folium 2 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Schmidt Cathecismus 2 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Strobl Ovum Paschale per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">40 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Hofer Promptuarium Philosophicum pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Schaz Camer des H. Rossen Cranz per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. De Tejune Predigen pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Buceleni Festivale</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">11 f 55 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="60r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Leselvo Agnus Apostolicus per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Ches Comentarius ad Institut per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">36 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Felsenegger Cotachismus Predigen per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">48 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Geminianus Geist(licher) Weegweiser pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">36 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Speculum Exemplorum per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Venedien Predigen 2 thom per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">48 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Cornu copia Kirschen</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">45 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Perkhmayr Unterrichtung per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">17 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Sacerdot. Prix. pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Drexely 2 thom</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">2 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Auriema Märiänische Schaupinen</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Hueber Märianischer Lustgartten</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">36 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Penziger Coreiores per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Amandi Dominicale 2 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">9 f 44 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="60v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Engl Ius Canonicum pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Viva Theologia 2 thom</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">1 f 30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Karchel 2 thom</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">45 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Marianisches Jubl Jahr per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">20 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Thraur Predigen</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">21 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">8tavisten</hi>
+                  </cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Colini 7 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">3 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Geistliches Kranckhen Puech per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Pichler Polemico per</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Vernunfft Truz 2 thom</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">40 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Manuale Parrihiale Engl 2 thom</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">24 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Crasset 3 thom</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">40 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">P. Elbls 9 thom pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">4 f 30 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Modicum et hoc bonum pr</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">16 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">2 alte Praevier</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">36 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Die ybrigen klaine Piechln seint in keiner Beschriebung gebracht worden.</hi>
+                  </cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">Latus</cell>
+                  <cell rend="left">14 f 20 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="61r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">
+                     <hi rend="bold">Und nach Sag vor allegierter Specification von Herrn Curat in Jempach betröffen die daselbs habende Piecher</hi>
+                  </cell>
+                  <cell rend="left">
+                     <hi rend="bold">15 f 0 x</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">Thuet vorige Inventurs Beschreibung sambt denen Piechern zusamben</cell>
+                  <cell rend="left">249 f 0 x</cell>
+               </row>
+            </table>
+            <p>Silber Gschmeidt</p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Ain Jerusalem Creuz mit Perl Mueter eingelegt, nebst einen daran hangenden silberen Unser Lieben Herrn, welches die Erben aber den jenigen widerumben anrugg zu verehrn willens sein, woher es gekhumben ist, und mithin ohne Tax gelassen worden,</cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">Ain silberene Sackh Uhr per</cell>
+                  <cell rend="left">16 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain silberene Tubaggier per</cell>
+                  <cell rend="left">4 f 10 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain deto ganz schlechte so aber den Vatern gelassen worden,</cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">Ain Mösser bsteckhet mit silberen Hefftern und ain dergleichen Lefl pr</cell>
+                  <cell rend="left">6 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Par silberene Schuech Schnallen mit dergleichen Dorn pr</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="61v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Auch ain Par deto sambt der gleichen Hosen Schnällelen per</cell>
+                  <cell rend="left">2 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zwai Par silberene Hemath Knöpflen mit Schreckhstain besezt per</cell>
+                  <cell rend="left">1 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain silberens Cavee Lefele per</cell>
+                  <cell rend="left">20 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">und etwas weniges Pruchsilber pr</cell>
+                  <cell rend="left">30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Macht das Silber Geschmeidt</cell>
+                  <cell rend="left">32 f 0 x</cell>
+               </row>
+            </table>
+            <p>Paarschafft</p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Ain Topleter Dugaten pr</cell>
+                  <cell rend="left">8 f 15 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">5 Cramizer ain Khayserlicher und ain Hollender Dugaten pr</cell>
+                  <cell rend="left">29 f 17 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Cechini pr</cell>
+                  <cell rend="left">4 f 12 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ain Lidenburgische Silberner Lidalia pr</cell>
+                  <cell rend="left">4 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">5 Species Thaller</cell>
+                  <cell rend="left">10 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Und in anderer unterschidlicher Silber Minz sambt was von der Cooperatur darzue kumben</cell>
+                  <cell rend="left">100 f 50 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="62r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Betrifft die Paarschafft</cell>
+                  <cell rend="left">162 f 34 x</cell>
+               </row>
+            </table>
+            <p>Schulden herein</p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Johanes Planer Satler alhier solle an empfangenen Sambl Roggen von vier Stär</cell>
+                  <cell rend="left">3 f 12 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ittem Andree Stieger Schuechmacher auch willen empfangenen Roggen, iber seiner arbeith noch</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Und an noch weitteren Sambl Roggen seint verhanden 11 Stär zu 44 x thuet</cell>
+                  <cell rend="left">8 f 4 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Betragen die Schildelen herein</cell>
+                  <cell rend="left">13 f 16 x</cell>
+               </row>
+            </table>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Summa des ganz und velligen Vermigens</cell>
+                  <cell rend="left">456 f 50 x</cell>
+               </row>
+            </table>
+            <p>Dargegen seint verhanden volgende</p>
+            <p>Schulden hinaus</p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">No 1: Der Funeral Conto betragt laut Schein</cell>
+                  <cell rend="left">12 f 27 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 2: Den geistlichen Herrn Manucredo wegen</cell>
+                  <cell rend="left"/>
+               </row>
+            </table>
+            <p>
+               <pb n="62v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">vor Herrn Ableiber seel. alhier und zu Reischach gelesene Heilige Mässen</cell>
+                  <cell rend="left">1 f 6 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 3: Zugleichen den Herrn Supernumerarius Blasy Schiferle sambt 4 stipendiae fir Herrn Caplan zu Sonnburg</cell>
+                  <cell rend="left">5 f 36 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Sodan den P. Capucinern zu Brunegg vor gelesene Heilige Mässen</cell>
+                  <cell rend="left">2 f 48 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ittem bei der Begrebnus denen geistlichen Herrn willen gelesenen Heilige Mässen</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 4: Den Joseph Pergmaister Schneider vor gethaner Auswarttung sambt, was dabei beriert laut Schein</cell>
+                  <cell rend="left">7 f 38 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 5: Zugleichen den anderen Wartter Andree Walder</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 6: Den Herrn Doctor Perger Sag Schein vor gemachte Visiten und hergebene Medicin</cell>
+                  <cell rend="left">8 f 45 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den Andree Nagler Parbierer</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 7: Herrn Johan Harberstro Handlsman alhier vor ausgenombenen Laden Wahrn</cell>
+                  <cell rend="left">7 f 20 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="63r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">Der Magdalena Prunerin Cramerin</cell>
+                  <cell rend="left">47 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Jacoben Helweger</cell>
+                  <cell rend="left">1 f 50 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">No 8: Den Antoni Salcher Schuelmaister zu Brunegg</cell>
+                  <cell rend="left">1 f 54 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Der loblichen Pfarr Kirchen alhier willen in Grab gegebenen Paramentae und in Sarch gethaner Begrebnus</cell>
+                  <cell rend="left">22 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Der Jungfrau Heiserin in Pfarr Widums auch Diern und Paschi noch ausstendiges Neu Jahr Regal</cell>
+                  <cell rend="left">2 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den Päntl Maurer fir Eröffnung und Zuemachung des Sarchs</cell>
+                  <cell rend="left">1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den gewesten Schuellern willen vor ihnen eingenambenen Verdenstnisen</cell>
+                  <cell rend="left">5 f 4 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den Michael Stieger Tischler fir gemachten Todten Truch und Grab Kreuz</cell>
+                  <cell rend="left">2 f 12 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Ihro gstreng dem Herrn Pfleger alhier fir ain halb Stär Rendl Gersten 3 Mas Wein und ain Mas Essich</cell>
+                  <cell rend="left">1 f 39 x</cell>
+               </row>
+            </table>
+            <p>
+               <pb n="63v"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">In Bedenckhung Herr Ableiber seel. noch ain und andere Messen zu lesen ausstendig sein derfften, werden in solcher Absicht ausgesteckht</cell>
+                  <cell rend="left">12 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den Herrn Cooperatore zu Brunegg willen gelesenen Heilige Mässen</cell>
+                  <cell rend="left">3 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den Pfarr Kirch Probst alhier Hansen Oberhamber wegen an seiner statt von der Jungfrauen Verpindtnus eingenambenen</cell>
+                  <cell rend="left">48 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Den Andree Leitner Wirth an der Sonen alhier</cell>
+                  <cell rend="left">1 f 45 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Der Christina Eypergerin in Jempach Capitäl</cell>
+                  <cell rend="left">25 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Einiche Interesse hievon selbe nit verlangt,</cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">Der Appollonia Nottburg Toschin sogenante Schuester Purgl zugleichen Capitäl</cell>
+                  <cell rend="left">50 f 0 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Wieviel aber Interesse hievon ausstendig, ist nit bewust, und mithin in bianco und von ausgesteckhten Geldt die Ab<hi rend="strikethrough">fiehren</hi>fiehrung zu thuen gelassen worden,</cell>
+                  <cell rend="left"/>
+               </row>
+               <row>
+                  <cell rend="left">Und yber gegenwertiger Vermigens Abhandlung</cell>
+                  <cell rend="left"/>
+               </row>
+            </table>
+            <p>
+               <pb n="64r"/>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell rend="left">wirdt auf Commission- Gerichts- Würths- Schreiberei und Siglgelts Uncösten, auch ohnbewusten Schildelen hinaus gegen Raittung halten ausgesteckht</cell>
+                  <cell rend="left">80f 53 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Summä der Schulden hinaus</cell>
+                  <cell rend="left">266 f 2 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Hieryber verbleibt noch briederlich Herr Jacob Christoph Mitterdorfferisches Vermigen vorstendig,</cell>
+                  <cell rend="left">190 f 48 x</cell>
+               </row>
+               <row>
+                  <cell rend="left">Darzue seint sechs Geschwistriget verhanden, gebihrt also ainen zur sechster Portion</cell>
+                  <cell rend="left">31 f 48 x</cell>
+               </row>
+            </table>
+            <p>Welich dies 31 f 48 x ain jedes Geschwistrigeth Lucas, Mathes, Hellena, Agnes, Theresia und Maria aus voriger Inventur und ybriger Verlassenschafft hinmit assigniertermassen zu empfangen, dieselbe dargegen schuldig und verpunden sein sollen, all hievorbeschribene Abzüg und Schulden hinaus, sambt denen allenthalbigen uncösten zu ibernemben, und solche an seiner</p>
+            <p>
+               <pb n="64v"/>
+            </p>
+            <p>Geherde abzufiehren und zu bezahlen; Umb damit aber die gnedig geistliche Commission und weltliche Obrigkeit umb sothaner Ybernembung sowohl- als umb Willen der zugleich anverlangter Extrodierung des Vermigens nit etwa angefochten, sondern in Sicherheit gesezt werde, und verbleiben mege, sollen sie Geschwistriget nebst dero eheleiblichen Vater, und zwar all insgesambt- und indes zu Sonderheit unter Verpfendung ihres Vermigens, da und zum Fall wider Verhofen, was wüdrigens iber kurz oder lang heraus khumben solt, vor dissortigen foro ohne mindist machende Exception, Redt und Antworth und allenfahlige Satisfaction zu geben schuldig, denenselben dargegen ebenfahls die noch in Jempach ausligen sollende 100 f und respective annoch weitteres Vermigen unter sich selbst verthaillen zu khenen yberlassen sein.</p>
+            <p>Allermassen nach beschechner Ablesung, auch <hi rend="strikethrough">hiemit wegen spruchermassen</hi> ein solches</p>
+            <p>
+               <pb n="65r"/>
+            </p>
+            <p>zu thuen und respective nachzukhumben, der gnedig geistlichen Commission und loblich weltlichen Obrigkeit, mehr widerholter Vater Mathes Mitterdorffer, dan der Sohn und Brueder Lucäs, und die Tochter Hellena Mitterdorfferin und zwar dies mit rath und neben dern Vatern, und mehr er Vater in Namen und anstatt der ybrigen 4 Khinder und <hi rend="strikethrough">gestri</hi> geschwistrigeth <hi rend="strikethrough">unter Verpfendung dero Vermigenheiten</hi> in Gehorsamb und Demueth das Handt Anloben und zu Ausfertigung aines solchen Instruments, die Sigl Pith erstatt haben.</p>
+            <p>Testes Johan Kherschpaumber Landtgerichtschreiber, und Joseph Steeger Schreiber etc. beedt alhier zu Sanct Lorenzen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
