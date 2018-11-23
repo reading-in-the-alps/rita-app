@@ -65,9 +65,9 @@
             <xsl:attribute name="title">
                 <xsl:value-of select="normalize-space(.)"/>
             </xsl:attribute>
-            <span style="font-size:7pt;vertical-align:super;">
-                <xsl:number level="any" format="1" count="tei:note"/>
-            </span>
+            <sup>
+                <xsl:number level="any" format="1" count="tei:note[./tei:p]"/>
+            </sup>
         </xsl:element>
     </xsl:template>
 
