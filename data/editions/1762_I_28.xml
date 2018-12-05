@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator), fol. 53r-65r]</title>
+            <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -26,8 +26,8 @@
             <msDesc type="invetory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
-                  <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1762 I 28</idno>
+                  <repository>Verfachbuch St. Michaelsburg 1762</repository>
+                  <idno>Bl. 53r-65r</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -72,45 +72,56 @@
                <pb n="53v"/>
             </p>
             <p>solle. Hieran vollziecht der Herr unseren Willen, und Maynung, und wür verbleiben demselben anbey wohl zugethan. Geben in Consistorio zu Brixen den 4. Jenner 1762.</p>
-            <p>Ferdinand Joseph Bisch zu Hyschopl</p>
-            <p>Praesident m.p.</p>
-            <p>Georg Tangl</p>
-            <p>Secret. Eulicus m.p.</p>
+            <p>
+                    <rs type="person" ref="#ferdinand_joseph">Ferdinand Joseph</rs> Bischof zu Hypsopolitanus, Praesident m.p.</p>
+            <p>
+                    <rs type="person" ref="#tangl_georg">Georg Tangl</rs> Secret(arius) Eulicus m.p.<note>
+                        <p rend="footnote text"> Gesamte Unterschrift am unteren Blattrand.</p>
+                    </note>
+                </p>
             <p>
                <pb n="54v"/>
             </p>
-            <p>4 Jener 1762</p>
-            <p>[Rubrum:] Commissionsgwalt zur Abhandlung des verstorben Cooperator zu St. Lorenzen Prs. Jacob Christoph Mitterdorferische Verlassenschafft seel. Den 14ten detto.</p>
+            <p>[Rubrum:] 4 Jener 1762</p>
+            <p>Commissionsgwalt zur Abhandlung des verstorben Cooperator zu St. Lorenzen P(ate)rs Jacob Christoph Mitterdorferische Verlassenschafft seel. den 14ten detto.</p>
             <p>[Briefadresse:] Dem ehrwürdig, edlen, hochgelehrten Joseph Mathias Ingram von Liebenrain, und Fragburg SS. Theol. Dri. fürstlich Brixnerisch wirklichen Consistorial Rath, auch Dechand, und Pfarrern zu Brunegg, unseren besonders lieben Freund, und Herrn.</p>
             <p>Brunegg</p>
+            <p>[Oblatensiegel des Ferdinand Joseph Gabriel zu Sarnthein]</p>
             <p>
                <pb n="55r"/>
             </p>
-            <p>[Rubrum:] Abhandlung</p>
-            <p>Herr Jacob Christoph Mitterdorfer Cooperator seel.</p>
+            <p>[Rubrum:] Abhandlung Herr Jacob Christoph Mitterdorfer Cooperator seel.</p>
             <p>[Aktenvermerk:] Exped.</p>
-            <p>Actum in Pfarr Widums zu Sanct Lorenzen, den 28isten Jenner anno 1762.</p>
-            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn Joseph Mathias Igramb von Liebenrain und Fragburg, S.S. Theol. Dri., Tyrollischen Herrn und Landtman hochfirstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dechandt und Pfarrherrn zu Brunegg, als vermig vorgewisen und alda ad acto registrierten gnedigen Commissions Befelch, gnedig verordneten Commissorio</p>
-            <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn Joseph Ignati Englmohr, von Aufkhirchen zu Mohregg, beeder Rechten lit. ooe. Regimentsadvocaten, auch Pfleger und Landtrichter, der Herrschafft Sanct Michaelspurg.</p>
+            <p>Actum in Pfarr Widumb zu Sanct Lorenzen, den 28isten Jenner anno 1762.</p>
+            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn Joseph Mathias Igramb von Liebenrain und Fragburg, S.S. Theol. Dri., Tyrollischen Herrn und Landtman hochfirstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dechandt und Pfarrherrn zu Brunegg, als vermig vorgewisen und alda ad acto registrierten gnedigen Commissions Befelch, gnedig verordneten Commissario</p>
+            <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn Joseph Ignati Englmohr, von Aufkhirchen zu Mohregg, beeder Rechten Lit. ooe. Regimentsadvocaten, auch Pfleger und Landtrichtern, der Herrschafft Sanct Michaelspurg.</p>
             <p>Zugegen des wohledlen Herrn Franz Michael Marchner geistlichen Commission und Ambt Gerichtschreibern zu Brunegg.</p>
             <p>Demnach aus Göttlicher zuelass so der Verordnung, an dem kurz verwichenen</p>
             <p>
                <pb n="55v"/>
             </p>
-            <p>Herbst alhie eingerissenen Hizigen Tisl unter andern auch der hoch erwirdig edl und hochgelehrte Herr Jacob Christoph Mitterdorffer damahlig eltiste Cooperator alhie zu Sanct Lorenzen, in Ausyebung der Seelsorg, ergriffen wurde, und nach ausgestandener 9tegiger Ohnbessligkheit, das Zeitliche mit dem ebigen und sonders Zweifl besseren Leben verwexlet, und ebenfalls daran zu allmeniglichen Betauren verstorben, welch diser und all ybrig in Gott verschidenen Seelen der Allerhegste mit Gnaden pflögen und am Tag des Jüngst und Letsten Gerichts ein frelichn Urstent und erwintschten Eingang in die immerwerende Freidt und Seeligkheit aller mildist vorleifig von Seiten der gnedig geistlichen Comission und weltlichen Obrigkeit angelegter Secretur und zu Hilf und Trost der abgeleibten Seel abgehaltenen gewohnlichen Heiligen Gottsdienst, vor hochgemelt gnedigen Herrn Herrn Comissorio und loblich weltlicher Obrigkeit in Gehorsamb beikhumben, des Herrn Ableibers seel. eheleibliche Vater der wohlfirnemb Mathes Mitterdorffer Gerichtsausschuss auch Würth und Gastgeb zu Tilliach, dan dessen</p>
+            <p>Herbst alhie eingerissenen Hizigen Tisl unter andern auch der hoch erwirdig edl und hochgelehrte Herr Jacob Christoph Mitterdorffer damahlig eltiste Cooperator alhie zu Sanct Lorenzen, in Ausyebung der Seelsorg, ergriffen wurde, und nach ausgestandener 9tegiger Ohnbessligkheit, das Zeitliche mit dem ebigen und sonders Zweifl besseren Leben verwexlet, und ebenfahls daran zu allmeniglichen Betauren verstorben, welch diser und all ybrig in Gott verschidenen Seelen der Allerhegste mit Gnaden pflögen und am Tag des Jüngst und Letsten Gerichts ein frelichn Urstent und erwintschten Eingang in die immerwerende Freidt und Seeligkheit aller mildist verlichen wolle, seint iber vorleifig von Seiten der gnedig geistlichen Comission und weltlichen Obr(igkei)t angelegter Secretur und zu Hilf und Trost der abgeleibten Seel abgehaltenen gewohnlichen Heiligen Gottsdienst, vor hochgemelt gnedigen Herrn Herrn Comissario und loblich weltlicher Obr(igkei)t in Gehorsamb beikhumben, des Herrn Ableibers seel. eheleibliche Vater der wohlfirnemb Mathes Mitterdorffer Gerichtsausschuss auch Würth und Gastgeb zu Tilliach, dan dessen</p>
             <p>
                <pb n="56r"/>
             </p>
-            <p>eheleiblicher Brueder Lucäs und Jungfrau Schwester Hellena Mitterdorfferin, woraus der Brueder fir sich selbs, die Schwester <hi rend="strikethrough">Maria M</hi> aber mit Rath des Vatern ernents Mathesen Mit<hi rend="strikethrough">terhof</hi>terdorffers gehandlet, und er Vater auch die noch ibrigen vier abwesigen Geschwistriget, Mathes, Agnes, Teresia, und Maria vertretten, mit demiettig gehorsamber Bitt, des herrn briederlich ihnen nattirlichen Rechtens erblichen zue und angefahlene Vermigen in gebreichige Beschreibung Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu verthaillen auch an und auszuweisen, wan man nur von Seiten der gnedig geistlichen Commission und weltlichen Obrigkeit disen ihren billichmessigen Begehrn zu deferieren keine bedenckhen getragen, als wurde demnach zu solchem Ende auf anheut dato Anstalt ernent, und bei nit erfundenen Testament yber vorleifige Eröffnung der Secretur ainsmahl vorgenomben, nachvolgende</p>
+            <p>eheleiblicher Brueder Lucäs und Jungfrau Schwester Hellena Mitterdorfferin, woraus der Brueder fir sich selbs, die Schwester<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Maria m-.</p>
+                    </note> aber mit Rath des Vatern
+            ernents Mathesen Mitterdorffers<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Zwischen </hi>Mit- <hi rend="italic" xml:space="preserve">und</hi> terdorffers <hi rend="italic" xml:space="preserve">gestrichen</hi> -terhof-.</p>
+                    </note> gehandlet, und er Vater auch die noch ibrigen vier abwesigen Geschwistriget, Mathes, Agnes, Teresia, und Maria vertretten, mit demiettig gehorsamber Bitt, des herrn briederlich ihnen nattirlichen Rechtens erblichen zue und angefahlene Vermigen in gebreichige Beschreibung Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu verthaillen auch an und auszuweisen, wan man nur von Seiten der gnedig geistlichen Commission und weltlichen Obrigkeit disen ihren billichmessigen Begehrn zu deferieren keine bedenckhen getragen, als wurde demnach zu solchem Ende auf anheut dato Anstalt ernent, und bei nit erfundenen Testament yber vorleifige Eröffnung der Secretur ainsmahl vorgenomben, nachvolgende</p>
             <p>Inventur</p>
             <table rend="rules">
                <row>
-                  <cell rend="left">Und zwar erstlichen ain Komoth Casten mit drei Tatten und sovil Schlesser pr</cell>
+                  <cell rend="left">Und zwar erstlichen ain Comoth Casten mit drei Tatten und sovil Schlesser pr</cell>
                   <cell rend="left">3 f 0 x</cell>
                </row>
             </table>
             <p>
                <pb n="56v"/>
+<!-- stopped here -->
             </p>
             <table rend="rules">
                <row>
@@ -203,7 +214,7 @@
                   <cell rend="left">30 x</cell>
                </row>
                <row>
-                  <cell rend="left">Drei Par schlecht gewegglete seidene Strimpf per</cell>
+                  <cell rend="left">Ain Par schlecht gewegglete seidene Strimpf per</cell>
                   <cell rend="left">20 x</cell>
                </row>
                <row>
@@ -264,7 +275,7 @@
                   <cell rend="left">20 x</cell>
                </row>
                <row>
-                  <cell rend="left">Ain weise Hauben mit Spiz und Tofetpenter per</cell>
+                  <cell rend="left">Ain weise Hauben mit Spiz und Tafetpenter per</cell>
                   <cell rend="left">20 x</cell>
                </row>
                <row>
@@ -317,7 +328,7 @@
                   <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Zwai kupferene Teslen per</cell>
+                  <cell rend="left">Zwai kupferene Testlen per</cell>
                   <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
@@ -394,11 +405,15 @@
                   <cell rend="left">45 x</cell>
                </row>
                <row>
-                  <cell rend="left">Ain Sanct Aloisi Tafl, sambt der Ramb pr</cell>
+                  <cell rend="left">Ain Sonct Aloisi Tafl, sambt der Ramb pr</cell>
                   <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Ain Tafl Die Genembaus [Emmausgang] vorstellendt</cell>
+                  <cell rend="left">Ain Tafl Die Genembaus<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Emmaus-Gang</hi>
+                                </p>
+                            </note> vorstellendt</cell>
                   <cell rend="left">30 x</cell>
                </row>
                <row>
@@ -423,7 +438,7 @@
                </row>
                <row>
                   <cell rend="left">Latus</cell>
-                  <cell rend="left">28 f 36 x</cell>
+                  <cell rend="left">28 f 26 x</cell>
                </row>
             </table>
             <p>
@@ -432,108 +447,93 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Piecher in Folio</hi>
+                     <bibl>Piecher in Folio</bibl>
                   </cell>
                   <cell rend="left"/>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Hunoldt 6 thomi in franzesischen Pundt pr</hi>
+                     <bibl>P. Hunoldt 6 thomi in franzesischen Pundt pr</bibl>
                   </cell>
                   <cell rend="left">
-                     <hi rend="bold">8 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell rend="left">
-                     <hi rend="bold">Marianische Exempl per</hi>
-                  </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 20 x</hi>
+                     8 f 0 x
                   </cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Hëger 4 thom seint aber dem Herrn Cooperatore Steeger fir seine gehabte extra Miehe gelassen pr</hi>
+                     <bibl>Marianischn Exempl per</bibl>
                   </cell>
                   <cell rend="left">
-                     <hi rend="bold">2 f 0 x</hi>
-                  </cell>
-               </row>
-               <row>
-                  <cell rend="left">
-                     <hi rend="bold">P. Hobat 2 thomi per</hi>
-                  </cell>
-                  <cell rend="left">
-                     <hi rend="bold">2 f 0 x</hi>
+                     1 f 20 x
                   </cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Boetius 3 thomi so aber dem andern Herrn Cooperatore Feichter auch fir seiner Miehe gelassen worden,</hi>
+                     <bibl>P. Hëger 4 thom seint aber dem Herrn Cooperatorn Steeger fir seine gehabte extra Miehe gelassen pr</bibl>
+                  </cell>
+                  <cell rend="left">
+                     2 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <bibl>P. Hobat 2 thomi per</bibl>
+                  </cell>
+                  <cell rend="left">
+                     2 f 0 x
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left">
+                     <bibl>Boetius 3 thomi so aber dem andern Herrn Cooperatore Feichter auch fir seiner Miehe gelassen worden,</bibl>
                   </cell>
                   <cell rend="left"/>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Bibliae Sacrae germana et latina pr</hi>
+                     <bibl>Bibliae Sacrae germana et latina pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">2 f 30 x</hi>
-                  </cell>
+                  <cell rend="left">2 f 30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Aber Biblia Sacra per</hi>
+                     <bibl>Aber Bibliae Sacro per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 24 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Missalle Romanum pr</hi>
+                     <bibl>Missalle Romanum pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">40 x</hi>
-                  </cell>
+                  <cell rend="left">40 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Kheller Hans: 3 thomi per</hi>
+                     <bibl>Kheller Hans: 3 thomi per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">2 f 20 x</hi>
-                  </cell>
+                  <cell rend="left">2 f 20 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Lojmon</hi>
+                     <bibl>P. Lojmon</bibl>
                      <note>
-                        <p rend="footnote text"> 
-                           <hi rend="italic" xml:space="preserve">Irrig für </hi>Laymann.</p>
-                     </note>
-                     <hi rend="bold" xml:space="preserve"> pr</hi>
+                        <p rend="footnote text">
+                           <hi rend="italic" xml:space="preserve"> Irrig für </hi>Laymann.</p>
+                     </note> pr
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Brev. Rom. in folio</hi>
+                     <bibl>Brev. Rom. in fol(io)</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">20 x</hi>
-                  </cell>
+                  <cell rend="left">20 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Ius Canonicus P. Pichler 1 thomi pr</hi>
+                     <bibl>Ius Can(onicus) P. Pichler 1 thomi pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">3 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">3 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">Latus</cell>
@@ -546,121 +546,93 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Roberti 3 thom per</hi>
+                     <bibl>P. Roberti 3 thom per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">2 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Reifenstuel Theol. Moralis per</hi>
+                     <bibl>P. Reifenstuel Theol. Moralis per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">51 x</hi>
-                  </cell>
+                  <cell rend="left">51 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Lacroix 2 thom pr</hi>
+                     <bibl>Lacroix 2 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 24 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Hechel Predigen per</hi>
+                     <bibl>P. Hechel Predigen per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Reichardt Lob und Leich Predigen</hi>
+                     <bibl>P. Reichardt Lob und Leich Predigen</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Hermonie Comentorius per</hi>
+                     <bibl>Hermonie Comentorius per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Quartisten</hi>
+                     <bibl>Quartisten</bibl>
                   </cell>
                   <cell rend="left"/>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Vieria 3 thom pr</hi>
+                     <bibl>Vieria 3 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 30 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Prigl centi folium 2 thom pr</hi>
+                     <bibl>P. Prigl centi folium 2 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Schmidt Cathecismus 2 thom pr</hi>
+                     <bibl>P. Schmidt Cathecismus 2 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Strobl Ovum Paschale per</hi>
+                     <bibl>Strobl Ovum Paschale per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">40 x</hi>
-                  </cell>
+                  <cell rend="left">40 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Hofer Promptuarium Philosophicum pr</hi>
+                     <bibl>P. Hofer Promptuarium Philosophicum pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Schaz Camer des H. Rossen Cranz per</hi>
+                     <bibl>Schaz Camer des Heiligen Rossen Cranz per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. De Tejune Predigen pr</hi>
+                     <bibl>P. De Tejune Predigen pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">30 x</hi>
-                  </cell>
+                  <cell rend="left">30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Buceleni Festivale</hi>
+                     <bibl>P. Buceleni Festivale</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">Latus</cell>
@@ -673,115 +645,87 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Leselvo Agnus Apostolicus per</hi>
+                     <bibl>P. Leselvo Agnus Apostolicus per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Ches Comentarius ad Institut per</hi>
+                     <bibl>Ches Comentarius ad Institut per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">36 x</hi>
-                  </cell>
+                  <cell rend="left">36 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Felsenegger Cotachismus Predigen per</hi>
+                     <bibl>P. Felsenegger Cotachismus Predigen per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">48 x</hi>
-                  </cell>
+                  <cell rend="left">48 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Geminianus Geist(licher) Weegweiser pr</hi>
+                     <bibl>P. Geminianus Geist(licher) Weegweiser pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">36 x</hi>
-                  </cell>
+                  <cell rend="left">36 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Speculum Exemplorum per</hi>
+                     <bibl>Speculum Exemplorum per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Venedien Predigen 2 thom per</hi>
+                     <bibl>P. Venedien Predigen 2 thom per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">48 x</hi>
-                  </cell>
+                  <cell rend="left">48 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Cornu copia Kirschen</hi>
+                     <bibl>Cornu copia Kirschen</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">45 x</hi>
-                  </cell>
+                  <cell rend="left">45 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Perkhmayr Unterrichtung per</hi>
+                     <bibl>P. Perkhmayr Unterrichtung per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">17 x</hi>
-                  </cell>
+                  <cell rend="left">17 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Sacerdot. Prix. pr</hi>
+                     <bibl>Sacerdot. Prix. pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">30 x</hi>
-                  </cell>
+                  <cell rend="left">30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Drexely 2 thom</hi>
+                     <bibl>P. Drexely 2 thom</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">2 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Auriema Märiänische Schaupinen</hi>
+                     <bibl>P. Auriema Märiänische Schaupinen</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">30 x</hi>
-                  </cell>
+                  <cell rend="left">30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Hueber Märianischer Lustgartten</hi>
+                     <bibl>P. Hueber Märianischer Lustgartten</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">36 x</hi>
-                  </cell>
+                  <cell rend="left">36 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Penziger Coreiores per</hi>
+                     <bibl>Penziger Coreiores per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">30 x</hi>
-                  </cell>
+                  <cell rend="left">30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Amandi Dominicale 2 thom pr</hi>
+                     <bibl>P. Amandi Dominicale 2 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">Latus</cell>
@@ -794,125 +738,97 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Engl Ius Canonicum pr</hi>
+                     <bibl>P. Engl Ius Canonicum pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">30 x</hi>
-                  </cell>
+                  <cell rend="left">30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Viva Theologia 2 thom</hi>
+                     <bibl>P. Viva Theologia 2 thom</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">1 f 30 x</hi>
-                  </cell>
+                  <cell rend="left">1 f 30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Karchel 2 thom</hi>
+                     <bibl>Karchel 2 thom</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">45 x</hi>
-                  </cell>
+                  <cell rend="left">45 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Marianisches Jubl Jahr per</hi>
+                     <bibl>Marianisches Jubl Jahr per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">20 x</hi>
-                  </cell>
+                  <cell rend="left">20 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Thraur Predigen</hi>
+                     <bibl>Thraur Predigen</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">21 x</hi>
-                  </cell>
+                  <cell rend="left">21 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">8tavisten</hi>
+                     <bibl>Octavisten</bibl>
                   </cell>
                   <cell rend="left"/>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Colini 7 thom pr</hi>
+                     <bibl>P. Colini 7 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">3 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">3 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Geistliches Kranckhen Puech per</hi>
+                     <bibl>Geistliches Kranckhen Puech per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Pichler Polemico per</hi>
+                     <bibl>P. Pichler Polemico per</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Vernunfft Truz 2 thom</hi>
+                     <bibl>Vernunfft Truz 2 thom</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">40 x</hi>
-                  </cell>
+                  <cell rend="left">40 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Manuale Parrihiale Engl 2 thom</hi>
+                     <bibl>Manuale Parrihiale Engl 2 thom</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">24 x</hi>
-                  </cell>
+                  <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Crasset 3 thom</hi>
+                     <bibl>P. Crasset 3 thom</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">40 x</hi>
-                  </cell>
+                  <cell rend="left">40 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">P. Elbls 9 thom pr</hi>
+                     <bibl>P. Elbls 9 thom pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">4 f 30 x</hi>
-                  </cell>
+                  <cell rend="left">4 f 30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Modicum et hoc bonum pr</hi>
+                     <bibl>Modicum et hoc bonum pr</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">16 x</hi>
-                  </cell>
+                  <cell rend="left">16 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">2 alte Praevier</hi>
+                     <bibl>2 alte Praevier</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">36 x</hi>
-                  </cell>
+                  <cell rend="left">36 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Die ybrigen klaine Piechln seint in keiner Beschriebung gebracht worden.</hi>
+                     <bibl>Die ybrigen klaine Piechln</bibl> seint in keiner Beschriebung gebracht worden.
                   </cell>
                   <cell rend="left"/>
                </row>
@@ -927,11 +843,9 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     <hi rend="bold">Und nach Sag vor allegierter Specification von Herrn Curat in Jempach betröffen die daselbs habende Piecher</hi>
+                     Und nach Sag vor allegierter Specification von Herrn Curat in Jempach betröffen die daselbs habende <bibl>Piecher</bibl>
                   </cell>
-                  <cell rend="left">
-                     <hi rend="bold">15 f 0 x</hi>
-                  </cell>
+                  <cell rend="left">15 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">Thuet vorige Inventurs Beschreibung sambt denen Piechern zusamben</cell>
@@ -1068,11 +982,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell rend="left">vor Herrn Ableiber seel. alhier und zu Reischach gelesene Heilige Mässen</cell>
+                  <cell rend="left">vor Herrn Ableiber seel. alhier und zu Reischach gelesene Heilige Mössen</cell>
                   <cell rend="left">1 f 6 x</cell>
                </row>
                <row>
-                  <cell rend="left">No 3: Zugleichen den Herrn Supernumerarius Blasy Schiferle sambt 4 stipendiae fir Herrn Caplan zu Sonnburg</cell>
+                  <cell rend="left">No 3: Ingleichen den Herrn Supernumerarius Blasy Schiferle sambt 4 stipendiae fir Herrn Caplan zu Sonnburg</cell>
                   <cell rend="left">5 f 36 x</cell>
                </row>
                <row>
@@ -1080,7 +994,7 @@
                   <cell rend="left">2 f 48 x</cell>
                </row>
                <row>
-                  <cell rend="left">Ittem bei der Begrebnus denen geistlichen Herrn willen gelesenen Heilige Mässen</cell>
+                  <cell rend="left">Ittem bei der Begrebnus denen geistlichen Herrn willen gelesenen Heilige Mössen</cell>
                   <cell rend="left">3 f 0 x</cell>
                </row>
                <row>
@@ -1100,7 +1014,7 @@
                   <cell rend="left">3 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">No 7: Herrn Johan Harberstro Handlsman alhier vor ausgenombenen Laden Wahrn</cell>
+                  <cell rend="left">No 7: Herrn Johan Haaberstro Handlsman alhier vor ausgenombenen Laden Wahrn</cell>
                   <cell rend="left">7 f 20 x</cell>
                </row>
             </table>
@@ -1125,7 +1039,7 @@
                   <cell rend="left">22 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Der Jungfrau Heiserin in Pfarr Widums auch Diern und Paschi noch ausstendiges Neu Jahr Regal</cell>
+                  <cell rend="left">Der Jungfrau Heiserin in Pfarr Widumb auch Diern und Paschi noch ausstendiges Neu Jahr Regal</cell>
                   <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
@@ -1154,7 +1068,7 @@
                   <cell rend="left">12 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Den Herrn Cooperatore zu Brunegg willen gelesenen Heilige Mässen</cell>
+                  <cell rend="left">Den Herrn Cooperatore zu Brunegg willen gelesenen Heilige Mössen</cell>
                   <cell rend="left">3 f 0 x</cell>
                </row>
                <row>
@@ -1178,7 +1092,10 @@
                   <cell rend="left">50 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Wieviel aber Interesse hievon ausstendig, ist nit bewust, und mithin in bianco und von ausgesteckhten Geldt die Ab<hi rend="strikethrough">fiehren</hi>fiehrung zu thuen gelassen worden,</cell>
+                  <cell rend="left">Wieviel aber Interesse hievon ausstendig, ist nit bewust, und mithin in bianco und von ausgesteckhten Geldt die Abfiehrung<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Zwischen </hi>Ab- <hi rend="italic" xml:space="preserve">und </hi>fiehrung <hi rend="italic" xml:space="preserve">gestrichen </hi>-fiehren-.</p>
+                            </note> zu thuen gelassen worden,</cell>
                   <cell rend="left"/>
                </row>
                <row>
@@ -1207,17 +1124,27 @@
                   <cell rend="left">31 f 48 x</cell>
                </row>
             </table>
-            <p>Welich dies 31 f 48 x ain jedes Geschwistrigeth Lucas, Mathes, Hellena, Agnes, Theresia und Maria aus voriger Inventur und ybriger Verlassenschafft hinmit assigniertermassen zu empfangen, dieselbe dargegen schuldig und verpunden sein sollen, all hievorbeschribene Abzüg und Schulden hinaus, sambt denen allenthalbigen uncösten zu ibernemben, und solche an seiner</p>
+            <p>Welich dise 31 f 48 x ain jedes Geschwistrigeth Lucas, Mathes, Hellena, Agnes, Theresia und Maria aus voriger Inventur und ybriger Verlassenschafft hiemit assigniertermassen zu empfangen, dieselbe dargegen schuldig und verpunden sein sollen, all hievorbeschribnen Abzüg und Schulden hinaus, sambt denen allenthalbigen uncösten zu ibernemben, und solche an seiner</p>
             <p>
                <pb n="64v"/>
             </p>
-            <p>Geherde abzufiehren und zu bezahlen; Umb damit aber die gnedig geistliche Commission und weltliche Obrigkeit umb sothaner Ybernembung sowohl- als umb Willen der zugleich anverlangter Extrodierung des Vermigens nit etwa angefochten, sondern in Sicherheit gesezt werde, und verbleiben mege, sollen sie Geschwistriget nebst dero eheleiblichen Vater, und zwar all insgesambt- und indes zu Sonderheit unter Verpfendung ihres Vermigens, da und zum Fall wider Verhofen, was wüdrigens iber kurz oder lang heraus khumben solt, vor dissortigen foro ohne mindist machende Exception, Redt und Antworth und allenfahlige Satisfaction zu geben schuldig, denenselben dargegen ebenfahls die noch in Jempach ausligen sollende 100 f und respective annoch weitteres Vermigen unter sich selbst verthaillen zu khenen yberlassen sein.</p>
-            <p>Allermassen nach beschechner Ablesung, auch <hi rend="strikethrough">hiemit wegen spruchermassen</hi> ein solches</p>
+            <p>Geherde abzufiehren und zu bezahlen; Umb damit aber die gnedig geistliche Commission und weltliche Obr(igkei)t umb sothaner Ybernembung sowohl- als umb willen der zugleich anverlangter Extradierung des Vermigens nit etwa angefochten, sondern in Sicherheit gesezt werde, und verbleiben mege, sollen sie Geschwistriget nebst dero eheleiblichen Vater, und zwar all insgesambt- und iedes zu Sonderheit unter Verpfendung ihres Vermigens, da und zum Fall wider verhofen, was wüdrigens iber kurz oder lang heraus khumben solt, vor dissortigen foro ohne mindist machende Exception, Redt und Antworth und allenfahlige Satisfaction zu geben schuldig, denenselben dargegen ebenfahls die noch in Jempach ausligen sollende 100 f und respective annoch weitteres Vermigen unter sich selbst verthaillen zu khenen yberlassen sein.</p>
+            <p>Allermassen nach beschechner Ablesung, auch<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>hiemit wegen spruchermassen</p>
+                    </note> ein solches</p>
             <p>
                <pb n="65r"/>
             </p>
-            <p>zu thuen und respective nachzukhumben, der gnedig geistlichen Commission und loblich weltlichen Obrigkeit, mehr widerholter Vater Mathes Mitterdorffer, dan der Sohn und Brueder Lucäs, und die Tochter Hellena Mitterdorfferin und zwar dies mit rath und neben dern Vatern, und mehr er Vater in Namen und anstatt der ybrigen 4 Khinder und <hi rend="strikethrough">gestri</hi> geschwistrigeth <hi rend="strikethrough">unter Verpfendung dero Vermigenheiten</hi> in Gehorsamb und Demueth das Handt Anloben und zu Ausfertigung aines solchen Instruments, die Sigl Pith erstatt haben.</p>
-            <p>Testes Johan Kherschpaumber Landtgerichtschreiber, und Joseph Steeger Schreiber etc. beedt alhier zu Sanct Lorenzen.</p>
+            <p>zu thuen und respective nachzukhumben, der gnedig geistlichen Commission und loblichen weltlichen Obr(igkei)t, mehr widerholter Vater Mathes Mitterdorffer, dan der Sohn und Brueder Lucäs, und die Tochter Hellena Mitterdorfferin und zwar dise mit rath und neben dern Vatern, und mehr er Vater in Namen und anstatt der ybrigen 4 Khinder und <note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>gestri-.</p>
+                    </note> geschwistrigeth
+            <note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> unter Verpfendung dero Vermigenheiten</p>
+                    </note> in Gehorsamb und Demueth das Handt Anloben und zu Ausfertigung aines solchen Instruments, die Sigl Pith erstatt haben.</p>
+            <p>Testes Johan Kherschpaumber Landtg(eric)htschr(ei)ber, und Joseph Steeger Schreiber etc. beedt alhier zu Sanct Lorenzen.</p>
          </div>
       </body>
    </text>
