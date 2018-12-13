@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1771 IV 17, St. Lorenzen [Jais Coelestin Johann (Kooperator), fol. 72r-85v]</title>
+            <title>1771 IV 17, St. Lorenzen [Jais Coelestin Johann (Kooperator)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -55,22 +55,30 @@
             <p>
                <pb n="72r"/>
             </p>
-            <p>[Rubrum:] Vermigens Ergenzung Erbsthailung und Einraumbung</p>
-            <p>Weillende Herrn <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jais</rs> gewester Cooperatore alhier seel.</p>
+            <p>[Rubrum:] Vermigens Ergenzung Erbsthailung und Einraumbung weillende Herrn <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jais</rs> gewester Cooperatore alhier seel.</p>
             <p>[Aktenvermerk:] Exped. 2 [mal]</p>
             <p>Actum in Pfarr Widumb zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1771-04-17">17ten April anno 1771</date>.</p>
             <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain und Fragburg</rs>, S.S. Theol. Dri. Tyrollischen Herrn und Landtman, hochfirstlich Brixnerrischen wirckhlichen Consistorial Rath, auch Dechant und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als gnedig verordneten Commissario</p>
-            <p>Und dem wohledel gebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkhirchen zu Mohregg</rs>, Pfeger und Landtrichtern, der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>,</p>
-            <p>Zugegen des wohledlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> geistlicher Commission und Ambtgerichtschreibern zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des <rs type="person" ref="#kerschpaember_johan">Johann Kerschpämber</rs> Landtgerichtschreibers zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkhirchen zu Mohregg</rs>, Pfeger und Landtrichtern, der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>,</p>
+            <p>Zugegen des wohledlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> geistlicher Commission und Ambtgerichtschreibern zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des <rs type="person" ref="#kerschpaember_johan">Johan Kerschpämber</rs> Landtgerichtschreibers zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Demnach Gott dem Allmechtigen abermahlen beliebt, seinen allerheilligisten Willen zu volziechen, und andurch weillende dem wohlehrwirdig</p>
             <p>
                <pb n="72v"/>
             </p>
-            <p>wohledl und wohlgelehrten Herrn <rs type="person" ref="#jais_celestin_johan">Celestin <hi rend="strikethrough">Jais</hi> Johan Jais</rs> gewest eltisten Cooperotore alhier zue <rs type="#st_lorenzen" ref="#st_lorenzen">Sanct Lorenzen</rs> nach langwirig schmerzlich ausgestandener Leibs Kranckhheit entlich wohl resignierter, von dism Zeitlichen zu dem Ebigen zu meniglichen Bethauren, abzufordern und zweiflsohne zu sich in die ebige Freidt und Glickhseeligkheit aufzunemben, Gott gnadt der Seelen, wurde von der gnedig geistlichen Commission sowohl als auch weltlichen Obrigkheit die gebreichige Secretur angelegt, und nach der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gottesdenst, auch an der loblichen Pfleggerichtsobrigkeit zu Ymbst die Requisition erlassen, sein des Herrn Ableibers seel. hinterlassene Geschwistrigeth und Erbs Interessenten zu Verabhandlung desselben hinterbegebenen Vermigens alhero zu verschaffen, alldieweillen aber sie Erbs Interessenten nach formierten Inventäri die Thaillung zu Ymbst vornemben zu migen von darumben angesprochen, als Herr Ableiber dortselbs gebohrn auch mit Liegenden</p>
+            <p>wohledl und wohlgelehrten<note>
+                        <p rend="footnote text"> wohl- <hi rend="italic" xml:space="preserve">auf Rasur von vermutlich </hi>hoch- <hi rend="italic" xml:space="preserve">geschrieben.</hi>
+                        </p>
+                    </note> Herrn <rs type="person" ref="#jais_celestin_johan">Celestin<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Jais.</p>
+                        </note> Johan Jais</rs> gewest eltisten Cooperotore alhier zue <rs type="#st_lorenzen" ref="#st_lorenzen">Sanct Lorenzen</rs> nach langwirig schmerzlich ausgestandener Leibs Kranckhheit entlich wohl resignierter, von dism Zeitlichen zu dem Ebigen zu meniglichen Bethauren, abzufordern und zweiflsohne zu sich in die ebige Freidt und Glickhseeligkheit aufzunemben, Gott gnadt der Seelen, wurde von der gnedig geistlichen Commission sowohl als auch weltlichen Obrigkheit die gebreichige Secretur angelegt, und nach der abgeleibten Seelen zu Hilf und Trost abgehaltnen Heiligen Gottsdenst, auch an der loblichen Pfleggerichtsobrigkeit zu <rs type="place" ref="#ymbst">Ymbst</rs> die Requisition erlassen, sein des Herrn Ableibers seel. hinterlassene Geschwistrigeth und Erbs Interessenten zu Verabhandlung desselben hinterbegebenen Vermigens alhero zu verschaffen, alldieweillen aber sie Erbs Interessenten nach formierten Inventäri die Thaillung zu <rs type="place" ref="#ymbst">Ymbst</rs> vornemben zu migen von darumben angesprochen, als Herr Ableiber dortselbs gebohrn auch mit Liegenden</p>
             <p>
                <pb n="73r"/>
             </p>
-            <p>Güetter und Vermigen angesessen were, so ist man von Seiten der weltlichen Obrigkheit gezwungen gewesen, die Sach hochloblicher ooe. Regierung umbstentlich einzuberichten und hoch die selbe in Unterthenigkheit zu belangen, das die Vermigens Abhandlung disen foro albo Herr Ableiber seel. verstorben, zueerkhent werden mechte, und gleichwie auch ein solches von dorthen aus vermig den untern 15ten Märti anno diß eingangenen hochgnedigen Befelch beschechen, mit den weitter befelchlichen Auftrag, das alle derley Verabhandlung vorgenomben werden sollen, wo der Todtfahl ervolgt, und <hi rend="strikethrough">welches</hi> sohin in Namen und anstatt der drei verhandenen Erbs Interessenten als des Herrn Ableibers seel. eheleiblich baidtpendigen Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> seiner Profession ain Pilthauer, dan des auch verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> bei <rs type="person" ref="#holzer_anna_maria">Anna Maria Holzerin</rs> in Ehepandt ainzig erzeigten Sohn <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> <rs type="person" ref="#posch_johan">Johan Posch</rs>
+            <p>Güetter und Vermigen angesessen were, so ist man von Seiten der weltlichen Obrigkheit gezwungen gewesen, die Sach hochloblicher ooe. Regierung umbstentlich einzuberichten und hoch die selbe in Unterthenigkheit zu belangen, das die Vermigens Abhandlung disen foro albo Herr Ableiber seel. verstorben, zueerkhent werden mechte, und gleichwie auch ein solches von dorthen aus vermig den untern 15ten Märti anno diß eingangenen hochgnedigen Befelch beschechen, mit den weitter befelchlichen Auftrag, das alle derley Verabhandlung vorgenomben werden sollen, wo der Todtfahl ervolgt, und<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>welches.</p>
+                    </note> sohin in Namen und anstatt der drei verhandenen Erbs Interessenten als des Herrn Ableibers seel. eheleiblich baidtpendigen Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> seiner Profession ain Pilthauer, dan des auch verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> bei <rs type="person" ref="#holzer_anna_maria">Anna Maria Holzerin</rs> in Ehepandt ainzig erzeigten Sohn <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> <rs type="person" ref="#posch_johan">Johan Posch</rs>
                     <note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
@@ -79,8 +87,7 @@
             <p>
                <pb n="73v"/>
             </p>
-            <p>khumben und gehorsamblichen gebethen, sein des Herrn Ableibers seeligen Hinterlassen und ihren Principällen und Ehewürthin nattirlichen Rechtens erblichen zue und angefahlnen Vermigen in gebreichige Beschreibung, Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu vertheillen, warzue auf anheut dato Anstalt ernenet worden, als wurde auch zuvolg dern billichmessigen Begehern, erdeutes Vermigen in Ergenzung und Verthaillung gebracht, wie meherers hernach zu vernemben, und volgt vor allen die</p>
-            <p>Inventurs-</p>
+            <p>khumben und gehorsamblichen gebethen, sein des Herrn Ableibers seeligen Hinterlassen und ihren Principällen und Ehewürthin nattirlichen Rechtens erblichen zue und angefahlnen Vermigen in gebreichige Beschreibung, Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu vertheillen, warzue auf anheut dato Anstalt ernenet worden, als wurde auch zuvolg dern billichmessigen Begehern, erdeutes Vermigen in Ergenzung und Verthaillung gebracht, wie meherers hernach zu vernemben, und volgt vor allen die Inventurs-</p>
             <p>Beschreibung</p>
             <p>In verlassenen Leibclaidern und ybrigen Mobillien</p>
             <table rend="rules">
@@ -126,7 +133,10 @@
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell>Ain Par ge<hi rend="strikethrough">stric</hi>wirkhte Stifelet pr</cell>
+                  <cell>Ain Par gewirkhte<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Zwischen </hi>ge- <hi rend="italic" xml:space="preserve">und</hi> -wirkte <hi rend="italic" xml:space="preserve">gestrichen</hi> -stric-.</p>
+                            </note> Stifelet pr</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -248,7 +258,7 @@
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell>Ain dines deto Rohr mit ain silberen kuepflred Pigl pr</cell>
+                  <cell>Ain cleins deto Rohr mit ain silberen knepflred Pigl pr</cell>
                   <cell>2 f 6 x</cell>
                </row>
                <row>
@@ -277,7 +287,7 @@
                </row>
                <row>
                   <cell>Ain Rockh Pandt mit Golt eingestrickht</cell>
-                  <cell>0 f 30 x</cell>
+                  <cell>30 x</cell>
                </row>
                <row>
                   <cell>Ain silberens Palsam Pixl</cell>
@@ -305,7 +315,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Vier Ellen Hemath Biesden per</cell>
+                  <cell>Vier Ellen Hemath Bieselen per</cell>
                   <cell>8 x</cell>
                </row>
                <row>
@@ -345,7 +355,7 @@
                   <cell>24 x</cell>
                </row>
                <row>
-                  <cell>Ain messings Ämpele mit den Gläsl ittem ain plechens Cuterl und ain Majolico Krueg</cell>
+                  <cell>Ain messings Ämpele mit den Gläsl ittem ain plechens Luterl und ain Majolicae Krueg</cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -366,7 +376,7 @@
                   <cell>34 f 28 x</cell>
                </row>
                <row>
-                  <cell>Ain claine messinge Cavee Mill pr</cell>
+                  <cell>Ain claine messinge Covee Mill pr</cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -378,15 +388,15 @@
                   <cell>24 x</cell>
                </row>
                <row>
-                  <cell>Ain Heiliges Fronciscus Xaveri Bildtens auf Kupfer gemahlen mit obiger Ramb per</cell>
+                  <cell>Ain Heiliges Fronciscus Xoveri Bildtnus auf Kupfer gemahlen mit obiger Ramb per</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell>17 unterschidlich claine Täfelen 2 clain und 2 grosse Cruxifix und 2 Rämblen von gredner Arbeith</cell>
+                  <cell>17 unterschidlich claine Täfelen 2 clain und 2 grosse Cruzifix und 2 Rämblen von gredner Arbeith</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Einich Kinder Leher Munusculer pr</cell>
+                  <cell>Einich Kinder Leher Munesculen pr</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
@@ -395,10 +405,10 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">Piecher</hi>
+               <bibl>Piecher</bibl>
             </p>
             <p>
-               <hi rend="bold">In Folio</hi>
+               <bibl>In Folio</bibl>
             </p>
             <table rend="rules">
                <row>
@@ -416,7 +426,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_bovii_predigen">P. Bovii Marianische Cremsl Predigen</rs> 1 thom in obigen Punt pr
+                     <rs type="bibl" ref="#p_bovii_predigen">P. Bovii Marianische Exempl Predigen</rs> 1 thom in obigen Punt pr
                   </cell>
                   <cell>
                      1 f 0 x
@@ -440,7 +450,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#manuscriptoten_tractus_de_sacram">Manuscriptoten Tractatus de Sacram. Poenitentiae ohne Tax</rs>
+                     <rs type="bibl" ref="#manuscriptoten_tractus_de_sacram">Manuscriptae seu Tractatus de Sacram. Poenitentiae ohne Tax</rs>
                   </cell>
                   <cell/>
                </row>
@@ -459,7 +469,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_franz_antoni_reichele_cathecismus">P. Franz Antoni Reichele Cathecismus</rs> in franzesischer Pundt pr
+                     <rs type="bibl" ref="#p_franz_antoni_reichele_cathecismus">P. Franz Antoni Reichele Cathecismus</rs> in franzesischen Pundt pr
                   </cell>
                   <cell>
                      45 x
@@ -564,7 +574,7 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">In 8.tav.</hi>
+               <hi rend="bold">In Oktav</hi>
             </p>
             <table rend="rules">
                <row>
@@ -601,7 +611,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#vir_apostolicus_supradicti_autoris">Vir Apostolicus supradicti autoris</rs>
+                     <rs type="bibl" ref="#vir_apostolicus_supradicti_autoris">Vir Apostolicus supraedicti autoris</rs>
                   </cell>
                   <cell>
                      18 x
@@ -609,7 +619,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#casus_conscientia_benedicti">Casus Conscientia Benedicti decim-4ti</rs>
+                     <rs type="bibl" ref="#casus_conscientia_benedicti">Casus Conscientiae Benedicti decim-4ti</rs>
                   </cell>
                   <cell>
                      24 x
@@ -642,7 +652,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_joannis_taberna_synopsus">P. Joannis Taberna Synopsus Theolog. Pract.</rs>
+                     <rs type="bibl" ref="#p_joannis_taberna_synopsus">P. Joannis Taberna Synopssus Theolog. Pract.</rs>
                   </cell>
                   <cell>
                      12 x
@@ -787,7 +797,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_benedicti_rogazzi_tractatis_von_der_erkhantnus_und_liebe_gottes">P. Benedicti Rogazzi Tractatis von der Erkhantnus und Liebe Gottes</rs> per
+                     <rs type="bibl" ref="#p_benedicti_rogazzi_tractatis_von_der_erkhantnus_und_liebe_gottes">P. Benedicti Rogazzi Tractatus von der Erkhantnus und Liebe Gottes</rs> per
                   </cell>
                   <cell>
                      8 x
@@ -795,7 +805,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_adalberti_tylkoski_jugum_grave">P. Adalberti Tylkoski Jugum Grave</rs>
+                     <rs type="bibl" ref="#p_adalberti_tylkoski_jugum_grave">P. Adalberti Tylkoski Iugum Grave</rs>
                   </cell>
                   <cell>
                      6 x
@@ -817,7 +827,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#manuscriptium_de_cahn">Manuscriptum de Cahn reserv.</rs> pr Bht
+                     <rs type="bibl" ref="#manuscriptium_de_cahn">Manuscriptum de Casu reserv.</rs> pr Bht
                   </cell>
                   <cell/>
                </row>
@@ -899,7 +909,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Betreffen zwar die Piecher in den ausgeworffenen Tax 21 f 22 x weillen aber solche die zwo Gewalthabern den Herrn Cooperatore alda Jacob Moswalder Däto umb vier Kremizer Dugaten keiflichen verwendet, also ist nur villmeher ernente Summa alda per Vermigen zu tragen mit</cell>
+                  <cell>Betreffen zwar die Piecher in den ausgeworffenen Tax 21 f 22 x weillen aber solche die zwo Gewalthabern den Herrn Cooperatore alda Jacob Moswalder däto umb vier Kremizer Dugaten keiflichen verwendet, also ist nur villmeher ernente Summa alda per Vermigen zu tragen mit</cell>
                   <cell>17 f 36 x</cell>
                </row>
             </table>
@@ -946,11 +956,14 @@
             <p>Ligendts Gueth</p>
             <table rend="rules">
                <row>
-                  <cell>Nemblichen zwo manemadt fruehemadt enhalb des Pigers zu <rs type="place" ref="#ymbst">Ymbst</rs> ligent, so der grundtrechthalber frey Aigen, und Herr Ableiber seeligen <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Am linken Blattrand eingefügt.</hi>
-                        </p>
-                  </note>von seiner Mueter Frauen<hi rend="superscript">2</hi> <rs type="person" ref="#maezekopf_catharina">Catharina Mäzekopfin</rs>, weillende Herrn <rs type="person" ref="#jais_balthasar">Balthasarn Jais</rs> gewesten Raths Burger und der freyen Kunst Bildthauern in Ober Marckht <rs type="place" ref="#ymbst">Ymbst</rs> gehaust <hi rend="strikethrough">seel.</hi> gewesten Eheconsorthin seel. laut Inventäri Vermigens Ergenzung und Verthaillung, so vor</cell>
+                  <cell>Nemblichen zwo manemadt fruehemadt enhalb des Pigers zu <rs type="place" ref="#ymbst">Ymbst</rs> ligent, so der grundtrechthalber frey Aigen, und Herr Ableiber seeligen von seiner Mueter Frauen<note>
+                        <p rend="footnote text"> von seiner Mueter Frauen <hi rend="italic">am linken Rand eingefügt.</hi>
+                                </p>
+                  </note>
+                            <rs type="person" ref="#maezekopf_catharina"> Catharina Mäzekopfin</rs>, weillende Herrn <rs type="person" ref="#jais_balthasar">Balthasarn Jais</rs> gewesten Raths Burger und der freyen Kunst Bildthauern in Ober Marckht <rs type="place" ref="#ymbst">Ymbst</rs> gehaust<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>seel.</p>
+                            </note> gewesten Eheconsorthin seel. laut Inventäri Vermigens Ergenzung und Verthaillung, so vor</cell>
                   <cell/>
                </row>
             </table>
@@ -974,7 +987,7 @@
                   <cell>300 f 0 x</cell>
                </row>
                <row>
-                  <cell>Die Interesse hievon auf <date when="1770-07-10">10ten Juli anno 1770</date> verfahlen, gibet Schulnerin vor, den Herrn Ableiber seeligen bezalt zu haben, mithin pro rato seit gemelter Zeith bis negst Geörgi von 9½ Manath</cell>
+                  <cell>Die Interesse hievon auf <date when="1770-07-10">10ten Juli anno 1770</date> verfahlen, gibet Schulnerin vor, den Herrn Ableiber seel(ig)en bezalt zu haben, mithin pro rato seit gemelter Zeith bis negst Geörgi von 9½ Manath</cell>
                   <cell>8 f 18 x</cell>
                </row>
                <row>
@@ -988,7 +1001,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>ist auch Frau <rs type="person" ref="#pruner_maria">Maria Prunerin</rs> Herrn <rs type="person" ref="#paldauf_gottlieb">Gottlieb Paldauf</rs> Burger, Parbierer und Cramers alhier Ehewirthin, den Herrn Ableiber seel. 200 f yedoch mit denen schuldig worden, das 100 f hieraus solang dero Frau Schwester <rs type="person" ref="#pruner_maria">Maria Josepha Prunerin</rs> Closterfrau in Lienz, bei Leben sein wirdet, ohne Zins stilligen verbleiben, und sie <rs type="person" ref="#pruner_maria">Frau Prunerin</rs> zu geniessen haben, die andern 100 f aber, sollen jehrlichen in Zeit der Stilligung, mit drei pro cento verinteressiert und gegen ainer viertl jehrigen Ab oder Aufkhindung bezalt werden, id est</cell>
+                  <cell>ist auch Frau <rs type="person" ref="#pruner_maria">Maria Prunerin</rs> Herrn <rs type="person" ref="#paldauf_gottlieb">Gottlieb Paldauf</rs> Burger, Parbierer und Cramers alhier Ehewirthin, den Herrn Ableiber seel. 200 f yedoch mit deme schuldig worden, das 100 f hieraus solang dero Frau Schwester <rs type="person" ref="#pruner_maria">Maria Josepha Prunerin</rs> Closterfrau in Lienz, bei Leben sein wirdet, ohne Zins stilligen verbleiben, und sie <rs type="person" ref="#pruner_maria">Frau Prunerin</rs> zu geniessen haben, die andern 100 f aber, sollen jehrlichen in Zeit der Stilligung, mit drei pro cento verinteressiert und gegen ainer viertl jehrigen Ab- oder Aufkhindung bezalt werden, id est</cell>
                   <cell>200 f 0 x</cell>
                </row>
                <row>
@@ -1000,7 +1013,7 @@
                   <cell>45 x</cell>
                </row>
                <row>
-                  <cell>Ihro Hochwirden und hochfreyherrlich Gnaden Herr Herr Hartmanns Freyherr von Enzenperg in <rs type="place" ref="#brixen">Brixen</rs> titl. etc. sollen auch vermig abgebener Schuldt Bekhantnus von <date when="1770-08-08">8ten Augusti anno 1770</date> umb empfangenes Anlechen</cell>
+                  <cell>Ihro Hochwirden und hochfreyherrlich Gnaden Herr Herr Hartmanus Freyherr von Enzenperg in <rs type="place" ref="#brixen">Brixen</rs> titl. etc. sollen auch vermig abgebener Schuldtbekhantnus von <date when="1770-08-08">8ten Augusti anno 1770</date> umb empfangenes Anlechen</cell>
                   <cell>60 f 0 x</cell>
                </row>
             </table>
@@ -1013,7 +1026,7 @@
                   <cell>1 f 36 x</cell>
                </row>
                <row>
-                  <cell>Wie in vor allegierter Frauen mueterlich <rs type="person" ref="#maezekopf_catharina">Catharina Mäzekopfischen</rs> Vermigens Abhandlung zu ersechen, seint unter andern dem Herrn Ableiber seeligen aus deren mueterlich verlassenen Mobillien zu dessen Portion 10 f 28 x und auf Ableiben des ohne Leibs Erben verstorbenen Brueder <rs type="person" ref="#jais_felix">Felix Jais</rs> besag desselben Vermigens Liquidation Abhandlung und Verthaillung von <date when="1768-07-21">21ten Juli anno 1768</date> auch aus denen anererbt mueterlichen Mobillien 2 f 37 x und zusamben 13 f 5 x zu empfangen assigniert und angewisen worden, und alldieweillen solche des Herrn Ableibers seel. bestelte Vertretter Herr <rs type="person" ref="#holler_geoerg_simon">Geörg Simon Holer</rs> Gasthalter und jeztiger Ambts Burgermaister zu Ymbst unzweiflpar noch inhanden haben wirdet, als werden auch dise bei demselben alda per Vermigen getragen, id est mit</cell>
+                  <cell>Wie in vor allegierter Frauen mueterlich <rs type="person" ref="#maezekopf_catharina">Catharina Mäzekopfischen</rs> Vermigens Abhandlung zu ersechen, seint unter andern dem Herrn Ableiber seel(ig)en aus deren mieterlich verlassenen Mobillien zu dessen Portion 10 f 28 x und auf Ableiben des ohne Leibs Erben verstorbenen Brueder <rs type="person" ref="#jais_felix">Felix Jais</rs> besag desselben Vermigens Liquidation Abhandlung und Verthaillung von <date when="1768-07-21">21ten Juli anno 1768</date> auch aus denen anererbt mieterlichen Mobillien 2 f 37 x und zusamben 13 f 5 x zu empfangen assigniert und angewisen worden, und alldieweillen solche des Herrn Ableibers seel. bestelte Vertretter Herr <rs type="person" ref="#holler_geoerg_simon">Geörg Simon Holer</rs> Gasthalter und jeztiger Ambts Burgermaister zu <rs type="place" ref="#ymbst">Ymbst</rs> unzweiflpar noch inhanden haben wirdet, als werden auch dise bei demselben alda per Vermigen getragen, id est mit</cell>
                   <cell>13 f 5 x</cell>
                </row>
                <row>
@@ -1026,7 +1039,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Herrn Ableibers seel. eheleiblicher Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> Ehevogt und mit Gewalthaber <rs type="person" ref="#posch_johan">Johan Posch</rs> Burger und Vogltrager zu Ymbst vorgetragen, das Herr Ableiber seeligen, ihme Schwager die Helffte hieraus bis zu seinen Ableiben zum Genus ohne Zins gelassen habe, bei welcher es auch der mit Vertretter und Gewalthaber <rs type="person" ref="#kappeller_joseph">Joseph Kappeller</rs> darbei verbleiben gelassen, den Ertrag von der ybrigen Helffte hingegen aber, widerholter Herr <rs type="person" ref="#holler_geoerg_simon">Geörg Simon Holler</rs> empfangen, weillen aber derselbe auch fir und anstatt den Herrn Ableiber seeligen ain und anderes bezalt, aber hievon keine Wissenschafft verhanden war, als werde mit denselben allererst zu liquidieren und disfahles alda nichts auszuwerfen sein.</cell>
+                  <cell>Herrn Ableibers seel. eheleiblicher Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> Ehevogt und mit Gewalthaber <rs type="person" ref="#posch_johan">Johan Posch</rs> Burger und Vogltrager zu <rs type="place" ref="#ymbst">Ymbst</rs> vorgetragen, das Herr Ableiber seel(ig)en, ihme Schwager die Helffte hieraus bis zu seinen Ableiben zum Genus ohne Zins gelassen habe, bei welcher es auch der mit Vertretter und Gewalthaber <rs type="person" ref="#kappeller_joseph">Joseph Kappeller</rs> darbei verbleiben gelassen, den Ertrag von der ybrigen Helffte hingegen aber, widerholter Herr <rs type="person" ref="#holler_geoerg_simon">Geörg Simon Holler</rs> empfangen, weillen aber derselbe auch fir und anstatt den Herrn Ableiber seel(ig)en ain und anderes bezalt, aber hievon keine Wissenschafft verhanden war, als werde mit denselben allererst zu liquidieren und disfahls alda nichts auszuwerfen sein.</cell>
                   <cell/>
                </row>
                <row>
@@ -1039,11 +1052,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>seeligen den Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> vigore mieterlicher Abhandlung wegen mehrerers beschechner Einraumbung schuldig worden, bezalt haben solle, so aber ebenfahles auf Liquidation beruehet, als wurde mithin auch wegen disen alda nichts per Vermigen, noch von denen ainsmahlen schuldig gewesten 98 f 28 x hienach was per Abzug zu bringen sein, dis zum Bht.</cell>
+                  <cell>seel(ig)en den Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> vigore mieterlicher Abhandlung wegen mehrerers beschechner Einraumbung schuldig worden, bezalt haben solle, so aber ebenfahls auf Liquidation beruehet, als wurde mithin auch wegen disen alda nichts per Vermigen, noch von denen ainsmahlen schuldig gewesten 98 f 28 x hienach was per Abzug zu bringen sein, dis zum Bht.</cell>
                   <cell/>
                </row>
                <row>
-                  <cell>Dargegen ist auf Ableiben des Brueder <rs type="person" ref="#jais_felix">Felix Jais</rs> seel. auch die Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> den Herrn Ableiber seeligen nach Sag vor allegierter briederleichen Abhandlung, 89 f 56 x schuldig worden, und da dise noch bei deroselben an und ausligent seint, als werden auch solche bei ihro alda per Vermigen getragen, id est mit</cell>
+                  <cell>Dargegen ist auf Ableiben des Brueder <rs type="person" ref="#jais_felix">Felix Jais</rs> seel. auch die Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> den Herrn Ableiber seel(ig)en nach Sag vor allegierter briederlichen Abhandlung, 89 f 56 x schuldig worden, und da dise noch bei deroselben an und ausligent seint, als werden auch solche bei ihro alda per Vermigen getragen, id est mit</cell>
                   <cell>89 f 56 x</cell>
                </row>
                <row>
@@ -1060,7 +1073,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Und von denen Kirchen Gefehlen, gebihrt dem Herrn Ableiber seeligen seit verwichen Neu Jahr bis 17ten Jenner darauf als ervolgten Todtfahl von zwo Wochen noch das ratum, mit</cell>
+                  <cell>Und von denen Kirchen Gefehlen, gebihrt dem Herrn Ableiber seel(ig)en seit verwichen Neu Jahr bis 17ten Jenner darauf als ervolgten Todtfahl von zwo Wochen noch das ratum, mit</cell>
                   <cell>1 f 40 x</cell>
                </row>
                <row>
@@ -1114,7 +1127,7 @@
                   <cell>1 f 3 x</cell>
                </row>
                <row>
-                  <cell>No 7: Der Jungfrau <rs type="person" ref="#lucretia_von_egerwin_johanna">Johanna Lucretia von Egerwin</rs> albo Herr Ableiber verstorben, Sag Conto umb ain und anderer eingekhaufften Sachen</cell>
+                  <cell>No 7: Der Jungfrau <rs type="person" ref="#lucretia_von_egerwin_johanna">Johanna Lucretia von Egerwin</rs> albo Herr Ableiber verstorben, sag Conto umb ain und anderer eingekhaufften Sachen</cell>
                   <cell>11 f 40 x</cell>
                </row>
                <row>
@@ -1122,7 +1135,7 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>No 9: Den <rs type="person" ref="#unterpertinger_joseph">Joseph Unterpertinger</rs> Maurer in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> wegen Zuemachung des Grabes</cell>
+                  <cell>No 9: Den <rs type="person" ref="#unterpertinger_joseph">Joseph Unterpertinger</rs> Maurer in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> wegen Zuemachung des Grabs</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -1155,11 +1168,11 @@
                   <cell>25 f 27 x</cell>
                </row>
                <row>
-                  <cell>No 15: Der Jungfrau <rs type="person" ref="#mitterhofer_caethaerinae">Catharina Mitterhoferin</rs> Würthin alhier durch die Grabmacher und Leichtrager auch andern erlofnen Würths Zehrung</cell>
+                  <cell>No 15: Der Jungfrau <rs type="person" ref="#mitterhofer_caethaerinae">Catharina Mitterhoferin</rs> Würthin alhier durch die Grabmacher und Leichtrager auch andern erlofner Würths Zehrung</cell>
                   <cell>8 f 49 x</cell>
                </row>
                <row>
-                  <cell>Der Pfarr Kirchen alhier willen den Herrn Ableiber in Grab gegebenen Pocamenter und bei denen Gotts denst geprenten weisen Wax Kerzen</cell>
+                  <cell>Der Pfarr Kirchen alhier willen den Herrn Ableiber in Grab gegebenen Paramenter und bei denen Gotts denst geprenten weisen Wax Kerzen</cell>
                   <cell>15 f 0 x</cell>
                </row>
             </table>
@@ -1192,7 +1205,7 @@
                   <cell>7 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Freyle Heisigerin in Pfarr Widumb von Aichstetter zu ainen Drinckhgelt</cell>
+                  <cell>Der Freyle Heisingerin in Pfarr Widumb von Aichstetter zu ainen Drinckhgelt</cell>
                   <cell>1 f 30 x</cell>
                </row>
             </table>
@@ -1221,7 +1234,7 @@
                   <cell>14 f 48 x</cell>
                </row>
                <row>
-                  <cell>Ittem der obrigkheitlichn Gerichts Statt samt den Schreib und Siglgeltern</cell>
+                  <cell>Ittem der obrigkheitlichn Gerichts Statt samt den Schreib und Siglgelter</cell>
                   <cell>25 f 0 x</cell>
                </row>
                <row>
@@ -1242,25 +1255,34 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Darzue seint drei Haubtstollen verhanden, gebihrt also ainen zue driten Portion</cell>
+                  <cell>Darzue seint drei Haubtstollen verhanden, gebihrt also ainen zur driten Portion</cell>
                   <cell>410 f 17 x</cell>
                </row>
             </table>
-            <p>Allermassen man auch daraufhin von Seiten der gnedigen Commission und weltlichen Obrigkheit nicht ermanglet hette, jeden Stollen die zue gekhumbene Herr brüeder- und respective veterliche Erbs Portion ordenlich ab und auszuthaillen und zu assignieren, alldieweillen aber die zwo bestelte Gewalthabern <rs type="person" ref="#kappeller_joseph">Joseph Kappeller</rs> und <rs type="person" ref="#posch_johan">Johan Posch</rs> vorgetragen, das wie vorgemelt, mit des Herrn Ableibers seel. zu <rs type="place" ref="#ymbst">Ymbst</rs> gehabten Gewalthaber Herrn <rs type="person" ref="#holler_geoerg_simon">Geörg Simon Holler</rs> seines Einnemben und Ausgeben halber annoch zu liquidieren und mithin das Vermigen noch nicht allerdings liquidt war, und ohne dessen zur Assignation nicht wohl geschritten werden khan, sie Gewalthabern hingegen auch willens sein, das <hi rend="strikethrough">vellige</hi> Vermigen auf negst Liechtmessen abzutreiben, und unter ihre Principällen</p>
+            <p>Allermassen man auch daraufhin von Seiten der gnedigen Commission und weltlichen Obrigkheit nicht ermanglet hette, jeden Stollen die zue gekhumbene Herr brüeder- und respective veterliche Erbs Portion ordenlich ab und auszuthaillen und zu assignieren, alldieweillen aber die zwo bestelte Gewalthabern <rs type="person" ref="#kappeller_joseph">Joseph Kappeller</rs> und <rs type="person" ref="#posch_johan">Johan Posch</rs> vorgetragen, das wie vorgemelt, mit des Herrn Ableibers seel. zu <rs type="place" ref="#ymbst">Ymbst</rs> gehabten Gewalthaber Herrn <rs type="person" ref="#holler_geoerg_simon">Geörg Simon Holler</rs> seines Einnemben und Ausgeben halber annoch zu liquidieren und mithin das Vermigen noch nicht allerdings liquidt war, und ohne dessen zur Assignation nicht wohl geschritten werden khene, sie Gewalthabern hingegen auch willens sein, das <note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>vellige.</p>
+                    </note> Vermigen auf negst Liechtmessen abzutreiben, und unter ihre Principällen</p>
             <p>
                <pb n="85r"/>
             </p>
             <p>selbsten zu verthaillen, und mithin gehorsamblich gebethen, ein solches zuezulassen und zu verwilligen, warwider man von Seiten der gnedig geistlichen Commission sowohl, als weltlichen Obrigkheit keine Bedenckhen getragen, als wurde auch<note>
-                  <p rend="footnote text">
-                     <hi rend="italic">Über der Zeile eingefügt.</hi>
-                  </p>
-            </note> sollichemach <hi rend="strikethrough">auch</hi> das ganz und vellig hievorbeschribene Herr <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jaisische</rs> zurugg gelassene Vermigen, an ligendt und vahrenden hievon nichts ausgenemben, dem Brueder <rs type="person" ref="#jais_joseph">Joseph</rs>, ittem des verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> seel. hinterlassenen Sohn auch <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> alsogleich unter ihnen selbsten miteinander verthaillen zu migen, zu wirckhlichen Aigenthumb yedoch gegen deme eingeraumbt und yberlassen.</p>
-            <p>Das dieselbn dargegen oder villmeher an dern statt, die Gewalthabern schuldig, und verpunden sein sollen, alle hievor beschribene Abzüg und Schulden hinaus, nebst deren erlofenen Commission und Gerichts Uncosten, auch Würths Zehrung an Geferde abzu-</p>
+                        <p rend="footnote text">
+                            <hi rend="italic"> Über der Zeile eingefügt.</hi>
+                        </p>
+                    </note> sollichem nach<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>auch.</p>
+                    </note> das ganz und vellig hievorbeschribene Herr <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jaisische</rs> zurugg gelassene Vermigen, an ligendt und vahrenden hievon nichts ausgenamben, dem Brueder <rs type="person" ref="#jais_joseph">Joseph</rs>, ittem des verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> seel. hinterlassenen Sohn auch <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs>
+                    <note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>alsogleich</p>
+                    </note> unter ihnen selbsten miteinander verthaillen zu migen, zu wirckhlichen Aigenthumb yedoch gegen deme eingeraumbt und yberlassen, das dieselbn dargegen oder villmeher an dern statt, die Gewalthabern schuldig, und verpunden sein sollen, alle hievor beschribene Abzüg und Schulden hinaus, nebst deren erlofenen Commission und Gerichts Uncosten, auch Würths Zehrung an Geherde abzu-</p>
             <p>
                <pb n="85v"/>
             </p>
             <p>fiehren und zu bezahlen, und zugleich auch die gnedig geistliche Commission und weltliche Obrigkheit wegen diser beschechner Vermigens Einraumbung jezt als dan und dan fir jezt ohne Nachtheill und Schaden zu halten, welch auch allen nach beschechner Ablesung nachzukhumben, sie zwo Gewalthabern <rs type="person" ref="#kappeller_joseph">Joseph Kappeller</rs>, und <rs type="person" ref="#posch_johan">Johann Posch</rs>, nebst gehorsambister Danckhs Abstattung der Immission halber, unter Verpfendung ihrer Principallen Vermigen, zuegesagt, und zu Confirmation dessen, der gnedig geistlichen Commission und weltlichen Obrigkheit das Handt Anloben erstatt haben.</p>
-            <p>Testes nebst denen Commission und Gerichts Beisizern, Ihro Wohlerwirden Herr <rs type="person" ref="#starckh_andree">Andreeas Starckh</rs> Cooperator und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber beedt alhier zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>.</p>
+            <p>Testes nebst denen Commission und Gerichts Beisizern, Ihro Wohlerwirden Herr <rs type="person" ref="#starckh_andree">Andreeas Starckh</rs> Cooperator und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber beedt alhier zu <rs type="place" ref="#st_lorenzen">S. Lorenzen</rs>.</p>
          </div>
       </body>
    </text>

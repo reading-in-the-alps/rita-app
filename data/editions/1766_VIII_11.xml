@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1766 VIII 11, Dietenheim [Pichler Joseph (Kaplan), fol. 245r-250r]</title>
+            <title>1766 VIII 11, Dietenheim [Pichler Joseph (Kaplan)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -55,17 +55,22 @@
             <p>
                <pb n="245r"/>
             </p>
-            <p>[Rubrum:] Vermigens-Ergenzung und Einräummung</p>
-            <p>Wylande Ihro Hochehrwirden Herr <rs type="person" ref="#pichler_joseph">Josephen Pichlers</rs> seel.</p>
+            <p>[Rubrum:] Vermigens-Ergenzung und Einräummung wylande Ihro Hochehrwirden Herr <rs type="person" ref="#pichler_joseph">Josephen Pichlers</rs> seel.</p>
             <p>[Aktenvermerk:] Exped. 1 [mal]</p>
             <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> den <date when="1766-08-11">11ten Augusti, änno 1766</date>.</p>
-            <p>Vor Ihro Hochwürden und Gnaden, dem hochedlgebohrn und hochgelehrten Herrn Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram zu Liebenrain und Fragburg</rs>, Tyrolischen Herrn und Landtmann, S.S. Theol. Dri. hochfürstlich Brixnerisch<hi rend="strikethrough">en</hi> würckhlichen Consistorial Rath, auch Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als von hochgeistlicher Obrigkheit verordneten Commissario, dann dem wohl edlgebohrnen gestrengen und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohregg</rs>, beeden rechten Lit. ooe. Regimendts Advocaten, auch Pfleger und Landtrichtern der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
-            <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michaelen Marchner</rs> Amtgericht- und Commission Schreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des Herrn <hi rend="strikethrough">La</hi> <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> Landtgerichtschreiber zu <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Vor Ihro Hochwürden und Gnaden, dem hochedlgebohrn und hochgelehrten Herrn Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram zu Liebenrain und Fragburg</rs>, Tyrolischen Herrn und Landtmann, S.S. Theol. Dri. hochfürstlich Brixnerisch<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-en.</p>
+                    </note> würckhlichen Consistorial Rath, auch Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als von hochgeistlicher Obrigkheit verordneten Commissario, dann dem wohl edlgebohrnen gestrengen und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohregg</rs>, beeder rechten Lit. ooe. Regimendts Advocaten, auch Pfleger und Landtrichtern der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michaelen Marchner</rs> Amtgericht- und Commission Schreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des Herrn<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>La-.</p>
+                    </note> <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> Landtgerichtschreiber zu <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Demnach es dem Allerhöchsten abermahlen gefahlen, seinen Göttlichen Willen zu vollziechen, und weylande dem hochehrwürdigen edlen und hochgelehrten Herrn <rs type="person" ref="#pichler_joseph">Joseph Pichler</rs> hochfreyherrlich von Sternpachischen Caplanum alhie in <rs type="place" ref="#dietenheim">Dietenhaim</rs> nach ausgestandener langwirigen Leibs Indisposition und all vorhero empfangenen Heiligen Sacramenten, von diser zergenglichen Weldt ab- und der angezweifleten Hofnung, zu sich in die himelische Freydt aufzunemmen, welch diser und all ybrig in Gott verschidenen christglaubigen Seelen, der Allerhöchste mit Gnaden Pfleger und am Tag</p>
             <p>
                <pb n="245v"/>
             </p>
-            <p>des Jüngst und Lezten Gerichts, ain freliche Arständtang und beglickhten Eingang in das ewige Leben, nebst all ybrig Auserwölten allergnedigist verleichen wolle, so wurde all vorderist ainsmahl von Seithen der gnedig geistlichen Commission und weltlichen Obrigkheit die gwohnliche Secretur angelegt, von der loblichen Geistlichkheit aber, den anderen Tag darauf die Bestättnus gehalten. Und da zu gleich anheut däto die weitere Heilige Gottes Denst, als sibend- und 30ist zu Hilf und Trost der abgeleibten Seel, dem christ-cätholischen Gebrauch nach celebriert wurden, und hiernegst auch des Herrn Ableibers seel. zurugg gelassene einzige Schwester und Erbin, die edle Jungfrau <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>, so sich dermahlen zu <rs type="place" ref="#innsbruck">Yhnsprugg</rs> in Diensten einfindet, und in assistentia ihres Vetter <rs type="person" ref="#haberstroo_johann">Josephen Haaberstroo</rs> burgerlichen Saillermaisters zu <rs type="place" ref="#brunegg">Brunegg</rs>, als hierzue verpflichten Anweisers gehandlet, beykhommen, mit demüethiger Bitt, das deroselben angefahlen Herr brüederliche Vermigen in gebreichige Beschreibung, Taxierung und Ergenzung zu bringen, und sofort dasselbe ihro einzuräummen, als wurde, auch zu dem Ende auf anheut däto Anstalt ernennt, die Secretur eröffnet, und sohin ainsmahlen vorgenohmen hernachbeschribene</p>
+            <p>des Jüngst und Lezten Gerichts, ain freliche Arständtang und beglickhten Eingang in das ewige Leben, nebst all ybrig Ausserwölten allergnedigist verleichen wolle, so wurde all vorderist ainsmahl von Seithen der gnedig geistlichen Commission und weltlichen Obrigkheit die gwohnliche Secretur angelegt, von der loblichen Geistlichkheit aber, den anderen Tag darauf die Bestättnus gehalten. Und da zu gleich anheut däto die weitere Heilige Gotts Denst, als sibend- und 30ist zu Hilf und Trost der abgeleibten Seel, dem christ-cätholischen Gebrauch nach celebriert wurden, und hiernegst auch des Herrn Ableibers seel. zurugg gelassene einzige Schwester und Erbin, die edle Jungfrau <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>, so sich dermahlen zu <rs type="place" ref="#innsbruck">Yhnsprugg</rs> in Diensten einfindet, und in assistentia ihres Vetter <rs type="person" ref="#haberstroo_johann">Josephen Haaberstroo</rs> burgerlichen Saillermaisters zu <rs type="place" ref="#brunegg">Brunegg</rs>, als hierzue verpflichten Anweisers gehandlet, beykhommen, mit demüethiger Bitt, das deroselben angefahlen Herr brüederliche Vermigen in gebreichige Beschreibung, Taxierung und Ergenzung zu bringen, und sofort dasselbe ihro einzuraummen, als wurde, auch zu dem Ende auf anheut däto Anstalt ernenet, die Secretur eröffnet, und sohin ainsmahlen vorgenohmen hernachbeschribene</p>
             <p>Inventur.</p>
             <p>
                <pb n="246r"/>
@@ -73,7 +78,7 @@
             <p>Und zwahr in Zimmer, alwo Herr Ableiber verschiden:</p>
             <table rend="rules">
                <row>
-                  <cell>Ain gmahlen Tafl die Gebuhrt Christi vorställend mit ainer schwarzen Ram per</cell>
+                  <cell>Ain gmahlen Tafl die Gebuhrt Christi vorstöllend mit ainer schwarzen Ram per</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -89,7 +94,7 @@
                   <cell>3 f 0 x</cell>
                </row>
                <row>
-                  <cell>Ain <hi rend="bold">Schreibpult</hi>, mit Schlos und Pant, per</cell>
+                  <cell>Ain <bibl>Schreibpult</bibl>, mit Schlos und Pant, per</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
@@ -158,7 +163,11 @@
                   <cell>1 f 30 x</cell>
                </row>
                <row>
-                  <cell>Ain Par schwarz tiechene und 2 Par liderene Hosen, per</cell>
+                  <cell>Ain Par schwarz tiechene und 2<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Nachträglich eingefügt.</hi>
+                                </p>
+                            </note> Par liderene Hosen, per</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
@@ -207,7 +216,10 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>So sind auch einiche Yber- und Unterpöther, nebst Pölster, Kisser et Teckhen <hi rend="strikethrough">und</hi> verhanden, weillen aber die Helffte hieraus der Jungfrau Schwester gehörig, als wirdet die ybrig alhero gehörige Helffte yberhaubts angeschlagen, per</cell>
+                  <cell>So sind auch einiche Yber- und Unterpöther, nebst Pölster, Kisser et Teckhen<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und.</p>
+                            </note> verhanden, weillen aber die Helffte hieraus der Jungfrau Schwester gehörig, als wirdet die ybrig alhero gehörige Helffte yberhaubts angeschlagen, per</cell>
                   <cell>20 f 0 x</cell>
                </row>
                <row>
@@ -236,11 +248,14 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>eisener Kuchlzeig, worvon ebenfahls die Helffte des Herrn Ableibers Jungfrau Schwester gebührig, die ybrige Helffte aber auch alda yberhaubts <hi rend="strikethrough">alda</hi> angeschlagen wirdt, pr</cell>
+                  <cell>eisener Kuchlzeig, worvon ebenfahls die Helffte des Herrn Ableibers Jungfrau Schwester gebührig, die ybrige Helffte aber auch alda yberhaubts <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>alda.</p>
+                            </note> angeschlagen wirdt, pr</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
-                  <cell>Die <hi rend="bold">samentlich verhandene Piecher</hi> per</cell>
+                  <cell>Die <bibl>samentlich verhandene Piecher</bibl> per</cell>
                   <cell>20 f 0 x</cell>
                </row>
                <row>
@@ -290,7 +305,11 @@
             <p>Ligendts Gueth.</p>
             <table rend="rules">
                <row>
-                  <cell>Nemlichen ain Äckherle hinter den Cäpuciner Closter beyleüfig von ainen Samstag Jauch gros, so in des Herrn Ableibers</cell>
+                  <cell>Nemlichen ain Äckherle hinter den Cäpuciner Closter beyleüfig von ainen Samstag<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Tag, den man zum Aussäen benötigt. </hi>
+                                </p>
+                            </note> Jauch gros, so in des Herrn Ableibers</cell>
                   <cell/>
                </row>
             </table>
@@ -335,7 +354,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Und titl. etc. Herr <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Martin Wenzl</rs> alda zu <rs type="place" ref="#dietenheim">Dietenheim</rs> solle auch wegen von einichen Jahren her gelesenen 106 Stüfft- und Quatember Mössen sovill Gulden, worinen er auch ein Schuldner zu seyn einbekhendt hat, id est</cell>
+                  <cell>Und titl. etc. Herr <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Martin Wenzl</rs> alda zu <rs type="place" ref="#dietenheim">Dietenhaim</rs> solle auch wegen von einichen Jahren her gelesenen 106 Stüfft- und Quatember Mossen sovill Gulden, worinen er auch ein Schuldner zu seyn einbekhendt hat, id est</cell>
                   <cell>106 f 0 x</cell>
                </row>
                <row>
@@ -355,12 +374,15 @@
                   <cell>19 f 0 x</cell>
                </row>
                <row>
-                  <cell>Ingleichen dem Mösner zu <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                  <cell>Ingleichen dem Mösner zu <rs type="place" ref="#dietenheim">Dietenhaim</rs>
                         </cell>
                   <cell>9 f 0 x</cell>
                </row>
                <row>
-                  <cell>No 2: Dem <hi rend="strikethrough">Mösner</hi> Pfarrmösner zu <rs type="place" ref="#brunegg">Brunegg</rs> laut Conto</cell>
+                  <cell>No 2: Dem<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Mösner.</p>
+                            </note> Pfarrmösner zu <rs type="place" ref="#brunegg">Brunegg</rs> laut Conto</cell>
                   <cell>36 x</cell>
                </row>
                <row>
@@ -401,11 +423,11 @@
                   <cell>54 x</cell>
                </row>
                <row>
-                  <cell>No 7: Dem <rs type="person" ref="#oberthaller_thomas">Thomas Oberthaller</rs> Stattgerichts dener zu <rs type="place" ref="#brunegg">Brunegg</rs> auch willen solchen Äckherle ausstendigen Vorspans Beytrag</cell>
+                  <cell>No 7: Dem <rs type="person" ref="#oberthaller_thomas">Thomas Oberthaller</rs> Stattgerichts Dener zu <rs type="place" ref="#brunegg">Brunegg</rs> auch willen solchen Äckherle ausstendigen Vorspans Beytrag</cell>
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>Es hette zwahr auch die <rs type="person" ref="#obermayr_maria">Maria Obermayrin</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> bey 70 f an dem Herren Ableiber willen in Behalt gebenen Geldt ainsmahlen zu begehrn, weillen aber wohl derselbe etc. Ihro zu deren Unterhaltung von einichen Jahren her yber die Helffte hieran bezalt haben dörffte, als hat sie Jungfrau Schwester, und Erbin dises mit derselben allein auszumachen ybernohmmen, und</cell>
+                  <cell>Es hette zwahr auch die <rs type="person" ref="#obermayr_maria">Maria Obermayrin</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> bey 70 f an dem Herrn Ableiber willen in Behalt gebenen Geldt ainsmahlen zu begehrn, weillen aber wohl derselbe etc. Ihro zu deren Unterhaltung von einichen Jahren her yber die Helffte hieran bezalt haben dörffte, als hat sie Jungfrau Schwester, und Erbin dises mit derselben allein auszumachen ybernohmmen, und</cell>
                   <cell/>
                </row>
                <row>
@@ -426,7 +448,7 @@
                   <cell>11 f 42 x</cell>
                </row>
                <row>
-                  <cell>Item der Landtgerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">Michaelspurg</rs> etc. destwegen samt den Schreib- und Siglgelt, auch Pferdt- und Wegele Lohn</cell>
+                  <cell>Item der Landtgerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">Michaelspurg</rs> etc. destwegen samt den Schreib- und Siglgelt, auch Pferdt- und Wägele Lohn</cell>
                   <cell>17 f 52 x</cell>
                </row>
                <row>
@@ -446,13 +468,13 @@
                   <cell>1111 f 9 x</cell>
                </row>
             </table>
-            <p>Und gleichwie zu solche restierenden Vermigen, wie eingangs gemelt, ain ainzige Jungfrau Schwester <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs> verhanden, welcher dises Vermigen vatterlichen Rechtens erblichen zue- und angefahlen, und mithin auch selbe hierinen investiert zu werden demüethig gebethen.</p>
+            <p>Und gleichwie zu solch restierenden Vermigen, wie eingangs gemelt, ain ainzige Jungfrau Schwester <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs> verhanden, welcher dises Vermigen vatterlichen Rechtens erblichen zue- und angefahlen, und mithin auch selbe hierinen investiert zu werden demüethig gebethen.</p>
             <p>Als wurde auch sohin vor gnedig geistlicher Commission, und weldtlicher Obrigkheit etc. Ihro widerholter Jungfrau <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>, und zum Fahl dero Erben,</p>
             <p>
                <pb n="250r"/>
             </p>
-            <p>das ganz und völlig brüederlich Herr <rs type="person" ref="#pichler_joseph">Joseph Pichlerische</rs> Vermigen an ligenden und fahrenden, es seye hievorn einkhommen, beschriben oder nit, bewusst und ohnbewusst, hievon nichts ausgenohmen, hiemit und in khrafft dis, zum würckhlichen Besiz und Aigenthum, umb anmit willkhurlichen disponieren zu khennen, eingeraumt und yberlassen.</p>
-            <p>Das dieselbe dargegen schuldig und verpunden seyn solle, alle hievor beschribene Abzüg und Schulden hinaus, samt was allenfahls an dergleichen noch weiters in Vorschein khommen möchte, davon ebenfahls kheine ausgenommen, angehörde, nebst denen erloffenen Commission- und Gerichts Unkosten, auch Würthszöhrung abzufiehren, und zu bezahlen. Und sofort die gnedig geistliche Commission sowohl, als auch die weldtliche Obrigkheit dieser ihrer beschechener Immission halber jetzt alsdan, und dan für jetzt ohne Nachtheill und Schaden zu halten, welch auch allen nachbeschechener Ablesung nachzukhommen, sie Jungfrau <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>, nebst demüethigster Danckhs Abstattung der Immission halber, unter Verpfendung ihres Vermigens zuegesagt und mit Rath und neben deren Anweiser <rs type="person" ref="#haberstroo_johann">Joseph Haaberstroo</rs> der gnedig geistlichen Commission und weltlichen Obrigkheit etc. das Handt Anloben erstatt hat.</p>
+            <p>das ganz, und völlig brüederlich Herr <rs type="person" ref="#pichler_joseph">Joseph Pichlerische</rs> Vermigen an ligenden und fahrenden, es seye hievorn einkhommen, beschriben oder nit, bewusst und ohnbewusst, hievon nichts ausgenohmen, hiemit und in khrafft dis, zum würckhlichen Besiz und Aigenthum, umb anmit willkhurlichen disponieren zu khennen, eingeraumt und yberlassen.</p>
+            <p>Das dieselbe dargegen schuldig und verpunden seyn solle, alle hievor beschribene Abzüg und Schulden hinaus, samt was allenfahls an dergleichen noch weiters in Vorschein khommen möchte, davon ebenfahls kheine ausgenommen, angehörde, nebst denen erloffenen Commission- und Gerichts Unkosten, auch Würthszöhrung abzufiehren, und zu bezahlen. Und sofort die gnedig geistliche Commission sowohl, als auch die weldtliche Obrigkheit diser ihrer beschechener Immission halber jezt alsdan, und dan für jezt ohne Nachtheill und Schaden zu halten, welch auch allen nachbeschechener Ablesung nachzukhommen, sie Jungfrau <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>, nebst demüethigster Danckhs Abstattung der Immission halber, unter Verpfendung ihres Vermigens zuegesagt und mit Rath und neben deren Anweiser <rs type="person" ref="#haberstroo_johann">Joseph Haaberstroo</rs> der gnedig geistlichen Commission und weltlichen Obrigkheit etc. das Handt Anloben erstatt hat.</p>
             <p>Testes die geist- und weltliche Herrn Actuary und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber.</p>
          </div>
       </body>

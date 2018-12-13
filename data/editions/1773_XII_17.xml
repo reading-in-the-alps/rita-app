@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1773 XII 17/18, St. Georgen (in der Kaplanei) [Gasser Joseph (Benefiziat), fol. 117r-131v] neuerliche Vermögensergänzung, 1788 II 18/19, St. Lorenzen [VB 1788, fol. 178r-183v]</title>
+            <title>1773 XII 17/18, St. Georgen (in der Kaplanei) und 1788 II 18/19, St. Lorenzen [Gasser Joseph (Benefiziat)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -55,8 +55,7 @@
             <p>
                <pb n="117r"/>
             </p>
-            <p>[Rubrum:] Vermigens Egenzung Einraumung und Erbs Thaillung</p>
-            <p>Weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> seel.</p>
+            <p>[Rubrum:] Vermigens Egenzung Einraumung und Erbs Thaillung weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> seel.</p>
             <p>[Aktenvermerk:] Exped. 1 [mal]</p>
             <p>Actum <rs type="place" ref="#st_georgen">Sanct Georgen</rs> in der Caplaney Behausung, den <date when="1773-12-17">17</date> und <date when="1773-12-18">18sten December, anno 1773</date>.</p>
             <p>Vor Ihro Hochwürden, und Gnaden, dem wohl gebohrnen Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Igramb zu Liebenrain, und Fragburg</rs>, Tyrolischen Herren und Landman, S.S. Theol. Dri. hochfürstlich Brixnerisch würcklichen Consistorial Rath, auch Dochand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>. Dann dem wohl edlgebohrnen, gestrengen, und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkirchen, zu Mohregg</rs>, Pfleger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
@@ -65,7 +64,7 @@
             <p>
                <pb n="117v"/>
             </p>
-            <p>als vatterbändig noch minderjährigen Brueder auch <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> zu <rs type="place" ref="#brixen">Brixen</rs>, massen der baidpändige Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> seiner Profession ein Hafner sich in Engeland begeben, und bereits schon 25 Jahr abwesig ohne in Wissenschaft zu haben, obe selber noch bey Leben, oder tod seye, diesen Todfall wissent zu machen. Und so nun er ainpändige Brueder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit seinem Stief-Vatter <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs>, als hierzue verpflichten Curatore anhero beykommen, und gehorsamblichen gebethen, das Herrn brüederlich angefallnen Vermigen in gebräuchige Beschreibung und Ergänzung zu bringen, und soforth dasselbe ihme, weilen der abwesige Brueder soviel als tod zu halten, allein einzuraummen, und zu yberlassen. Als wurde zu solchem Ende auf anheut däto Anstalt ernennet, und zufolg solch billichenssigen Begehrn, all vorderist die Secretur eröfnet, und sodann das zurugg gelassene Vermigen in Ergänzung und Verhandlung gebracht, wie mehrers hernach zu vernemmen, und folgt vor allen die</p>
+            <p>als vatterbändig noch minderjährigen Brueder auch <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> zu <rs type="place" ref="#brixen">Brixen</rs>, massen der baidpändige Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> seiner Profession ein Hafner sich in Engeland begeben, und bereits schon 25 Jahr abwesig ohne in Wissenschaft zu haben, obe selber noch bey Leben, oder tod seye, diesen Todfall wissent zu machen. Und so nun er ainpändige Brueder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit seinem Stief-Vatter <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs>, als hierzue verpflichten Curatore anhero beykommen, und gehorsamblichen gebethen, das Herrn brüederlich angefallene Vermigen in gebräuchige Beschreibung und Ergänzung zu bringen, und soforth dasselbe ihme, weilen der abwesige Brueder soviel als tod zu halten, allein einzuraummen, und zu yberlassen. Als wurde zu solchem Ende auf anheut däto Anstalt ernennet, und zufolg solch billichmessigen Begehrn, all vorderist die Secretur eröfnet, und sodann das zurugg gelassene Vermigen in Ergänzung und Verhandlung gebracht, wie mehrers hernach zu vernemmen, und folgt vor allen die</p>
             <p>Inventur</p>
             <p>Und zwar erstlichen in den klain Stübelen.</p>
             <table rend="rules">
@@ -87,7 +86,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Ain klains Kopf Pölsterle mit inner- und aussern Ziechen, per</cell>
+                  <cell>Ain klains Kopf Pölsterle mit innern und aussern Ziechen, per</cell>
                   <cell>34 x</cell>
                </row>
                <row>
@@ -99,7 +98,7 @@
                   <cell>39 x</cell>
                </row>
                <row>
-                  <cell>Ain <hi rend="bold">Schreib Buld</hi>, mit Schloss, und Bäntl, auch 4 Thätlen, per</cell>
+                  <cell>Ain <bibl>Schreib Buld</bibl>, mit Schloss, und Bäntl, auch 4 Thätlen, per</cell>
                   <cell>57 x</cell>
                </row>
                <row>
@@ -112,13 +111,14 @@
                </row>
                <row>
                   <cell>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Gesamter Eintrag auf der linken Seite eingefügt.</hi>
-                        </p>
-                     </note>Ain klains Täfele warauf das Christkindl gemahlen, ohne Rahm, per<hi rend="superscript">1</hi>
+                     Ain klains Täfele warauf das Christkindl gemahlen, ohne Rahm, per
                   </cell>
-                  <cell>10 x</cell>
+                  <cell>10 x<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic">Gesamter Eintrag am linken Rand eingefügt.</hi>
+                                </p>
+                            </note>
+                        </cell>
                </row>
             </table>
             <p>In Kämmerle</p>
@@ -180,7 +180,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Nemlichen Betten, Bilder, und Büechlen, auch Scapulier, per</cell>
+                  <cell>Nemlichen Betten, Bilder, und <bibl>Büechlen</bibl>, auch Scapulier, per</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -204,7 +204,11 @@
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell>2 Pulfer Horn, samt ain viertl Pf. Pulfer per</cell>
+                  <cell>2 Pulfer Horn, samt ain viertl Pf.<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Nachträglich eingefügt.</hi>
+                                </p>
+                            </note> Pulfer per</cell>
                   <cell>20 x</cell>
                </row>
                <row>
@@ -378,7 +382,7 @@
                   <cell>3 f 0 x</cell>
                </row>
                <row>
-                  <cell>Ain Unser Herr- und Unser Frauen Tafl, mit blau vergolten Ram, per</cell>
+                  <cell>Ain Unser Herren und Unser Frauen Tafl, mit blau vergolten Ram, per</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -386,7 +390,7 @@
                   <cell>5 f 0 x</cell>
                </row>
                <row>
-                  <cell>Ain auf Holz gemahlen Heilige 3 Königen Tafl, per</cell>
+                  <cell>Ain auf Holz gemahlen Heiligen 3 Königen Tafl, per</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -403,7 +407,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>4 Trätene Mausfallen, per</cell>
+                  <cell>4 trätene Mausfallen, per</cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -467,7 +471,10 @@
                   <cell>2 f 48 x</cell>
                </row>
                <row>
-                  <cell>Item 2 Köpf Polster mit innern Zwilch, und ainer mit aussern kättonen <hi rend="strikethrough">Ziechen</hi> und der andere mit weisen Ziechen, wegen 10 Pf. à 15 x, thuet</cell>
+                  <cell>Item 2 Köpf Polster mit innern Zwilch, und ainer mit aussern kättonen<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Ziechen.</p>
+                            </note> und der andere mit weisen Ziechen, wegen 10 Pf. à 15 x, thuet</cell>
                   <cell>2 f 30 x</cell>
                </row>
                <row>
@@ -516,19 +523,25 @@
                </row>
                <row>
                   <cell>
-                     <note>
-                        <p rend="footnote text"> Gesamter Eintrag auf der linken Seite eingefügt.</p>
-                     </note>2 gleichhächlene Leillacher mit Weberfransen pr<hi rend="superscript">2</hi>
+                     2 gleichhächlene Leillacher mit Weberfransen pr
                   </cell>
-                  <cell>1 f 30 x</cell>
+                  <cell>1 f 30 x<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Gesamter Eintrag am linken Rand eingefügt.</hi>
+                                </p>
+                            </note>
+                        </cell>
                </row>
                <row>
                   <cell>
-                     <note>
-                        <p rend="footnote text"> Gesamter Eintrag auf der linken Seite eingefügt.</p>
-                     </note>Item 2 gleichhächlene Leillacher mit Weberfransen pr<hi rend="superscript">3</hi>
+                     Item 2 gleichhächlene Leillacher mit Weberfransen pr
                   </cell>
-                  <cell>1 f 30 x</cell>
+                  <cell>1 f 30 x<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Gesamter Eintrag am linken Rand eingefügt.</hi>
+                                </p>
+                            </note>
+                        </cell>
                </row>
                <row>
                   <cell>Latus</cell>
@@ -561,7 +574,11 @@
                </row>
                <row>
                   <cell>7 Handtüecher à 15 x, thuet</cell>
-                  <cell>1 f 45 x</cell>
+                  <cell>1 f 45<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Korrigiert.</hi>
+                                </p>
+                            </note> x</cell>
                </row>
                <row>
                   <cell>Ain grien gedruckte Pethdecken, per</cell>
@@ -641,7 +658,10 @@
                   <cell>7 f 9 x</cell>
                </row>
                <row>
-                  <cell>20 zinnene Thäler wegen 21 Pf. zu 20 x, thuet</cell>
+                  <cell>20 zinnene Thäler wegen 21 Pf. zu 20 x<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>p-.</p>
+                            </note>, thuet</cell>
                   <cell>7 f 0 x</cell>
                </row>
                <row>
@@ -666,7 +686,9 @@
                </row>
                <row>
                   <cell>Latus</cell>
-                  <cell>21 f 51 x</cell>
+                  <cell>21 f 51<note>
+                                <p rend="footnote text">1 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>4.</p>
+                            </note> x</cell>
                </row>
             </table>
             <p>
@@ -714,7 +736,7 @@
                   <cell>2 f 30 x</cell>
                </row>
                <row>
-                  <cell>Ain tüechens, und 2 zeigene schlechte Camusoler, per</cell>
+                  <cell>Ain tüechens, und 2 zeigene schlechte Camusöler, per</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
@@ -736,6 +758,10 @@
                <row>
                   <cell>Ain Par floretseidene Strimpf, per</cell>
                   <cell>1 f 30 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>20 f 38 x</cell>
                </row>
             </table>
             <p>
@@ -775,11 +801,14 @@
                   <cell>9 x</cell>
                </row>
                <row>
-                  <cell>2 neue, und 3 ältere floretseidene Schnupfüecher, per</cell>
+                  <cell>2 neue, und 3 ältere floretseidene Schnupftüecher, per</cell>
                   <cell>2 f 30</cell>
                </row>
                <row>
-                  <cell>11 andere unterschiedliche Schnupftüechlen, <hi rend="strikethrough">pr</hi> a 7 x thuet</cell>
+                  <cell>11 andere unterschiedliche Schnupftüechlen,<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>pr.</p>
+                            </note> a 7 x thuet</cell>
                   <cell>1 f 17 x</cell>
                </row>
                <row>
@@ -828,7 +857,7 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Ain anderes klains Fehleiselen, per</cell>
+                  <cell>Ain anderes klains Fehleisele, per</cell>
                   <cell>20 x</cell>
                </row>
                <row>
@@ -840,11 +869,18 @@
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell>26 blau seidene, und mehreren Thails leinwattene Krägen, samt 4 pintlen Einfaspäntlen, per</cell>
+                  <cell>26 blau seidene, und mehreren thails leinwattene Krägen, samt 4 pintlen Einfaspäntlen<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Ä-Striche </hi>auf erstem -a- <hi rend="italic" xml:space="preserve">gestrichen.</hi>
+                                </p>
+                            </note>, per</cell>
                   <cell>45 x</cell>
                </row>
                <row>
-                  <cell>Ain Essig Pänzl, und ain Anzäpfer, per</cell>
+                  <cell>Ain Essig Pänzl,<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>per.</p>
+                            </note> und ain Anzäpfer, per</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -852,13 +888,13 @@
                   <cell>2 f 20 x</cell>
                </row>
                <row>
-                  <cell>Ain gfürneister Stock, samt den Mässing Knopf, per</cell>
+                  <cell>Ain gfürneister Stock, samt den Mössing Knopf, per</cell>
                   <cell>15 x</cell>
                </row>
                <row>
-                  <cell>Ain aufstehends angstrichnes Kästl mit 4 Stöhl, 2 Thürn, <hi rend="strikethrough">und</hi> auch<note>
-                        <p rend="footnote text">
-                           <hi rend="italic" xml:space="preserve">Über der Zeile statt </hi>und<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
+                  <cell>Ain aufstehends angstrichnes Kästl mit 4 Stöhl, 2 Thürn, auch<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt </hi>und<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
                         </p>
                      </note> Schlos und Band, per</cell>
                   <cell>1 f 30 x</cell>
@@ -884,6 +920,7 @@
                </row>
             </table>
             <p>
+<!-- stopped here -->
                <pb n="123v"/>
             </p>
             <table rend="rules">
