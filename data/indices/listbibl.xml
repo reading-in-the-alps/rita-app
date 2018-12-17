@@ -316,6 +316,7 @@
                 <bibl xml:id="neuburger_conciodes_moralis">Neuburger Conciodes Moralis</bibl>
                 <bibl xml:id="neu_reformierte_landesordnung">Neu Reformierte Landesordnung</bibl>
                 <bibl xml:id="neue_vermehrte_acerra_philologica">Neue Vermehrte Acerra Philologica 600 Auserlesenen Historien</bibl>
+                <bibl xml:id="nur_kein_todsuend">Nur Kein Tod Sind</bibl>
                 <bibl xml:id="oberleiter_simplicium_legis">Oberleiter Simplicium Legis</bibl>
                 <bibl xml:id="officium_hebdom_sanctae">Officium Hebdom. Sanctae</bibl>
                 <bibl xml:id="opera_del_padre_cattaneo">Opera del Padre Cattaneo</bibl>
@@ -584,6 +585,7 @@
                 <bibl xml:id="prediche_quaresimali_del_padre_fra_leandro_da_roma">Prediche Quaresimali del Padre Fra Leandro da Roma</bibl>
                 <bibl xml:id="prediche_variae_del_padre_antoni_vieira">Prediche Variae del Padre Antoni Vieira</bibl>
                 <bibl xml:id="predigen_zu_zeiten_des_tuerken_kriegs">Predigen Zu Zeiten Des Türken Kriegs Anno 1683</bibl>
+                <bibl xml:id="previer_mit_diurnal">altes klains Previer samt ain Diurnal</bibl>
                 <bibl xml:id="prinzing_proedigen">Prinzing Prödigen</bibl>
                 <bibl xml:id="proprii_nomio_evangelico">Proprii Nomio Evangelico</bibl>
                 <bibl xml:id="proprium_brixinense">Proprium Brixinense so zu dem Praevier geherig, ohne Tax</bibl>
@@ -676,6 +678,7 @@
                 <bibl xml:id="trauners_erstes_dominicale">Trauners Erstes Dominicale</bibl>
                 <bibl xml:id="truz_andacht">Truz Andacht</bibl>
                 <bibl xml:id="unterschidliche_discurs">Unterschidliche Discurs</bibl>
+                <bibl xml:id="unterschiedliche_buecher">unterschiedliche Büechlen</bibl>
                 <bibl xml:id="v_saeles_predigen">v. Säles Predigen</bibl>
                 <bibl xml:id="van_espen_opera_canonica">Van Espen Opera Canonica</bibl>
                 <bibl xml:id="verita_evangelische_overo_discorsi_morali_del_p_simone_bagnati">Verita Evangeliche Overo Discorsi Morali del P. Simone Bagnati</bibl>
@@ -700,6 +703,7 @@
                 <bibl xml:id="werke_des_marcus_caraccioli">Werke des Marcus Caraccioli</bibl>
                 <bibl xml:id="wolfgang_schallerer_dominical">Wolfgang Schallerer Dominical Et Festival</bibl>
                 <bibl xml:id="wunderschener_einzug_des_heiligen_peregrini">Wunderschener Einzug Des Heiligen Peregrini</bibl>
+                <bibl xml:id="wunderschoener_einzug">Wunderschöner Einzug</bibl>
                 <bibl xml:id="zwayundtreissig_andere_unterschidliche_claine_piechlen">Zwayundtreissig andere unterschidliche claine Piechlen</bibl>
             </listBibl>
         </body>

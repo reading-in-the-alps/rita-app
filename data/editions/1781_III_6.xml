@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1781 III 6 – 1781 V 1, St. Martin/Sonnenburg (in der Kaplanei des Stifts Sonnenburg und der Benefiziaten-Behausung in St. Martin) [Zöggeler Anton (Kaplan in Sonnenburg und Benefiziat in St. Martin), Nr. 1204-1207] 1204 [Inventar] 1205 [Inventar und Vermögensabhandlung] Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Nummerierung eingeführt. 1206 [Inventar] Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Nummerierung eingeführt. 1207 [Fahrnis-Licitierung] Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Nummerierung eingeführt. Die Blätter sind in zwei Spalten und in der Regel in 2-4 Zeilen für jeweils einen Käufer / eine Käuferin geteilt. Folioangaben beziehen sich auf das Inventar von Anton Zöggeler Nr. 1204.</title>
+            <title>1781 III 6 – 1781 V 1, St. Martin/Sonnenburg (in der Kaplanei des Stifts Sonnenburg und der Benefiziaten-Behausung in St. Martin) [Zöggeler Anton (Kaplan in Sonnenburg und Benefiziat in St. Martin)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -53,15 +53,17 @@
       <body>
          <div>
             <div>
-               <p>[Titelblatt]</p>
-               <p>[späterer Archivvermerk:] No -1204-</p>
+              <p>
+                 <pb n="Titel"/>
+              </p>
+              <p>[späterer Archivvermerk:] No -1204-</p>
                <p>
                   <pb n="1r"/>
                </p>
                <p>Des wohlehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Tscheggeler</rs> in Leben gewest Stifft Sonnenburgischen Caplan und Beneficiaten bey <rs type="place" ref="#st_martin">St. Martin</rs> untern <date when="1781-03-06">6ten Marz 1781</date> beschriebene</p>
                <p>Inventur<note>
                      <p rend="footnote text">
-                        <hi rend="italic">In der Regel wurden die Verkaufseinträge in der linken Spalte mit Bleistift geschrieben.</hi>
+                        <hi rend="italic">In der Regel wurden die Vermerke über den Verkauf von Inventarsposten in der linken Spalte mit Bleistift geschrieben.</hi>
                      </p>
                   </note>
                </p>
@@ -217,9 +219,9 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x<note>
+                     <cell>Latus<note>
                            <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Seitensummen fehlen trotz geschriebenem </hi>Latus <hi rend="italic">in diesem Inventar.</hi>
+                              <hi rend="italic" xml:space="preserve">Seitensummen fehlen trotz geschriebenem </hi>Latus <hi rend="italic">und Währungsangaben in diesem Inventar. Die Währungsangaben </hi>f<hi rend="italic"> und </hi>x<hi rend="italic">wurden nicht transkripiert.</hi>
                            </p>
                         </note>
                      </cell>
@@ -272,7 +274,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -332,7 +334,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -375,22 +377,27 @@
                      <cell>Ain Strosack</cell>
                      <cell>18 x</cell>
                   </row>
+                  <row>
+                     <cell/>
+                     <cell>Die weiteren allher gehörigen Posten seind in fine erfindlich.<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic"> Gesamte Anmerkung mit Verweiszeichen am linken Rand geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
+                     <cell/>
+                  </row>
                </table>
-               <p>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-3</hi>
-                        <hi rend="italic">Mit Verweiszeichen auf der linken Seite geschrieben.</hi>
-                     </p>
-                  </note>Die weiteren allher gehörigen Posten seind in fine erfindlich<hi rend="superscript">3</hi>
-               </p>
                <p>In der Kuchl</p>
                <table rend="rules">
                   <row>
                      <cell/>
                      <cell>
                         <p>Ain Bratter, drey kleine steinene Schisseler ain kleins Pfändl, und ain hölzener Löfl</p>
-                        <p>Der Tax hievon ist bey denen Posten in untern Gewölm <hi rend="strikethrough">neben anderen Posten</hi> zu finden per Bericht.</p>
+                        <p>Der Tax hievon ist bey denen Posten in untern Gewölm<note>
+                                        <p rend="footnote text">
+                                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>neben anderen Posten.</p>
+                                    </note> zu finden per Bericht.</p>
                      </cell>
                      <cell/>
                   </row>
@@ -404,7 +411,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -462,7 +469,7 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -472,7 +479,7 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Ain Panzen v. 4 Yh. Gehört Herrn v. Wiser pr Bericht.</cell>
+                     <cell>Ain Panzen v. 4 Yh. gehört Herrn v. Wiser pr Bericht.</cell>
                      <cell/>
                   </row>
                   <row>
@@ -504,15 +511,14 @@
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-4</hi>
-                        <hi rend="italic">Auf der linken Seite eingefügt.</hi>
+                        <hi rend="italic">Gesamter Eintrag bis einschließlich der Taxe für die Krautkübeln durch Verweiszeichen am linken Rand geschrieben.</hi>
                      </p>
                   </note>In Kraut Keller</p>
                <table rend="rules">
                   <row>
                      <cell/>
                      <cell>4 Kraut Pottichlen</cell>
-                     <cell>1 f 0 x<hi rend="superscript">4</hi>
+                     <cell>1 f 0 x
                      </cell>
                   </row>
                </table>
@@ -540,7 +546,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -565,13 +571,11 @@
                      <cell>7 f 22 x</cell>
                   </row>
                   <row>
-                     <cell>V <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-5</hi>
-                              <hi rend="italic">Mit Tinte nachgezogen.</hi>
-                           </p>
-                        </note>Grasbeinter kaufft pr 15 x<hi rend="superscript">5</hi>
-                     </cell>
+                     <cell>V Grasbeinter kaufft pr 15 x<note>
+                                    <p rend="footnote text"> Grasbeinter kaufft pr 15 x<hi rend="italic"> mit Tinte nachgezogen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Ain neue Bayr Gabl</cell>
                      <cell>15 x</cell>
                   </row>
@@ -587,12 +591,11 @@
                   </row>
                   <row>
                      <cell>Ego<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Schreiber gibt sich dadurch und Inventar Nr. 1207, fol. 6</hi>
-                              <hi rend="italic superscript">r</hi>
-                              <hi rend="italic" xml:space="preserve"> als Jakob Salcher zu erkennen</hi>.</p>
-                        </note>
-                     </cell>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Schreiber gibt sich durch diese Bezeichnung und den Eintrag bei Inventar Pos. Nr. 1207, fol. 6r als Jakob Salcher zu erkennen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Zwölf drey viertl Pfund gehächleter Haar à 22 x</cell>
                      <cell>4 f 30½ x<note>
                            <p rend="footnote text">
@@ -608,7 +611,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -632,7 +635,7 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>8 x Aichholzer</cell>
+                     <cell>8 x Aichholzerin</cell>
                      <cell>Ain Offen Schissl, und ain Krucken</cell>
                      <cell>6 x</cell>
                   </row>
@@ -663,7 +666,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -698,7 +701,9 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Zwey rote, und ain Stuck gelbes Pirment</cell>
+                     <cell>
+                                <bibl>Zwey rote, und ain Stuck gelbes Pirment</bibl>
+                            </cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
@@ -718,7 +723,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -768,12 +773,12 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Ain Körbisch und ain Kahndl Bürsten pr Bht.</cell>
+                     <cell>Ain Körbisch und ain Kandl Bürsten pr Bht.</cell>
                      <cell/>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -788,13 +793,13 @@
                   </row>
                   <row>
                      <cell>V 25 x Gerber</cell>
-                     <cell>Ain blechern Lutern, ain Mehl Testl, ain Öel Glass und ain <hi rend="bold">Schreib Zeug</hi>
+                     <cell>Ain blechene Lutern, ain Mehl Testl, ain Öel Glass und ain <bibl>Schreib Zeug</bibl>
                      </cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>V Herr Hartnagl</cell>
-                     <cell>Ain <hi rend="bold">Schreib Täfele</hi>
+                     <cell>V Herr Hortnagl</cell>
+                     <cell>Ain <bibl>Schreib Täfele</bibl>
                      </cell>
                      <cell>2 x</cell>
                   </row>
@@ -835,7 +840,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -844,14 +849,11 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-8</hi>
-                              <hi rend="italic" xml:space="preserve">Alles außer </hi>f <hi rend="italic">und</hi> x<hi rend="italic" xml:space="preserve"> mit Tinte nachgezogen.</hi>
-                           </p>
-                        </note>Spilpichler 1 f 6 x<hi rend="superscript">8</hi>
-                     </cell>
+                     <cell>Spilpichler 1 f 6 x<note>
+                                    <p rend="footnote text">Spilpichler<hi rend="italic" xml:space="preserve">, </hi>1 <hi rend="italic" xml:space="preserve">und </hi>6 <hi rend="italic" xml:space="preserve">mit Tinte nachgezogen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Zwey Haar Hächl</cell>
                      <cell>32 x</cell>
                   </row>
@@ -877,14 +879,14 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Ain <hi rend="bold">mössinges Untersätzl zu einen Schreibzeig</hi>
-                     </cell>
+                     <cell>Ain <bibl>mössinges Untersätzl zu einen Schreibzeig</bibl>
+                            </cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
                      <cell>V</cell>
                      <cell>Ain Feuer Hund</cell>
-                     <cell>50 x</cell>
+                     <cell>30 x</cell>
                   </row>
                   <row>
                      <cell>V der Huberbacher</cell>
@@ -898,7 +900,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -917,12 +919,12 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>–––</cell>
+                     <cell/>
                      <cell>Ain Speis Kästl mit 2 Stöllen und Banden</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell/>
+                     <cell>–––</cell>
                      <cell>Zwey Schissl Ram</cell>
                      <cell>12 x</cell>
                   </row>
@@ -942,30 +944,26 @@
                      <cell>9 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-9</hi> Herr Amtman <hi rend="italic">mit Tinte nachgezogen,</hi> 26 x <hi rend="italic">mit Tinte geschrieben.</hi>
-                           </p>
-                        </note>Herr Amtman 26 x<hi rend="superscript">9</hi>
-                     </cell>
+                     <cell>Herr Amtman 26 x<note>
+                                    <p rend="footnote text"> Herr Amtmann<hi rend="italic" xml:space="preserve"> mit Tinte nachgezogen, </hi>26 x <hi rend="italic" xml:space="preserve">mit Tinte geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Ain kupfernes Hennen Häfele</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-10</hi> Spilpichler, 1 <hi rend="italic">und Bindestrich als Auslassungzeichen bei 0</hi> x <hi rend="italic">mit Tinte nachgezogen.</hi>
-                           </p>
-                        </note>Spilpichler 1 f 0 x<hi rend="superscript">10</hi>
-                     </cell>
-                     <cell>Ain kupferner Hafen mit drey Eisen Füesen und ain Handhab</cell>
+                     <cell>Spilpichler 1 f 0 x<note>
+                                    <p rend="footnote text">Spilpichler, 1 <hi rend="italic">und Bindestrich als Auslassungzeichen bei 0</hi> x <hi rend="italic">mit Tinte nachgezogen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
+                     <cell>Ain kupferner Hafen mit drey Eisen Füesen und ain Handheb</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -984,18 +982,18 @@
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>V Frau Steurer</cell>
+                     <cell>V Frau v. Steurer</cell>
                      <cell>Ain eisens Testl</cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
                      <cell>V Ortner</cell>
-                     <cell>Ain blechens deto und zwey deit alte Schisselen</cell>
+                     <cell>Ain blechens deto und zwey deti alte Schisselen</cell>
                      <cell>4 x</cell>
                   </row>
                   <row>
                      <cell>Verkaufft</cell>
-                     <cell>Ain kupferne Dirchling, ain deto Haim Köll, und ain deto Strauben Laur</cell>
+                     <cell>Ain kupferne Dirchling, ain deto Faim Köll, und ain deto Strauben Laur</cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
@@ -1020,7 +1018,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1075,7 +1073,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1130,7 +1128,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1149,7 +1147,10 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>Verkaufft Christian Gasser 10 x</cell>
+                     <cell>Verkaufft<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>Auslassungsstrich.</p>
+                                </note> Christian Gasser 10 x</cell>
                      <cell>Ain Kehr Thättl und ain Stotzen, auch ain Zisten</cell>
                      <cell>12 x</cell>
                   </row>
@@ -1181,7 +1182,7 @@
                   <row>
                      <cell>Verkaufft<note>
                            <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Zuvor darunter nochmals </hi>Verkauft <hi rend="italic">geschrieben und gestrichen.</hi>
+                              <hi rend="italic" xml:space="preserve">Zuvor darunter </hi>Verkauft <hi rend="italic">geschrieben und gestrichen.</hi>
                            </p>
                         </note>
                      </cell>
@@ -1190,7 +1191,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1224,13 +1225,12 @@
                      <cell>2 f 8 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Mit Tinte nachgezogen.</hi>
-                           </p>
-                        </note>Graspeinter 3 f 3 x<hi rend="superscript">475</hi>
-                     </cell>
+                     <cell>Graspeinter 3 f 3 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic"> Gesamter Vermerk mit Tinte nachgezogen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Ain glockspeisener Merscher samt dem Stempfl wigt 4½ Pfund à 33 x</cell>
                      <cell>2 f 28½ x</cell>
                   </row>
@@ -1241,7 +1241,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1256,7 +1256,7 @@
                   </row>
                   <row>
                      <cell>Verkaufft</cell>
-                     <cell>Zwey Esen Brettler, ain Taig Multer ain Firbank, und ain anderes Bänkl</cell>
+                     <cell>Zwey Esen Brettler, ain Taig Multer, ain Firbank, und ain anderes Bänkl</cell>
                      <cell>20 x</cell>
                   </row>
                   <row>
@@ -1266,7 +1266,7 @@
                   </row>
                   <row>
                      <cell>Verkaufft</cell>
-                     <cell>Ain kupferen Tampf Pfannen samt den Luck</cell>
+                     <cell>Ain kupferen Tempf Pfannen samt den Luck</cell>
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
@@ -1291,7 +1291,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1305,7 +1305,7 @@
                      <cell>43 x</cell>
                   </row>
                   <row>
-                     <cell>Verkaufft</cell>
+                     <cell>Mangl</cell>
                      <cell>Ain klenerer deto mit Eisen Werffl v. 6 Pfund</cell>
                      <cell>12 x</cell>
                   </row>
@@ -1330,7 +1330,12 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>Spilpichler 1 f 31 x</cell>
+                     <cell>Spilpichler 1 f 31 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic"> Gesamter Vermerk mit Tinte nachgezogen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Ain grösser, und ain klenere in Leder eingefaste Wein Flaschen</cell>
                      <cell>54 x</cell>
                   </row>
@@ -1341,7 +1346,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1375,16 +1380,14 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell/>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-13</hi>
-                              <hi rend="italic">Eintrag am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>1 Samen Trüchele</cell>
-                     <cell>4 x<hi rend="superscript">13</hi>
-                     </cell>
+                     <cell>Verkaufft</cell>
+                     <cell>1 Samen Trüchele</cell>
+                     <cell>4 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Eintrag am linken Rand geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>Verkaufft</cell>
@@ -1393,15 +1396,13 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-14</hi>
-                              <hi rend="italic">Eintrag am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>1 zerbrochnes Spill Bröt</cell>
-                     <cell>12 x<hi rend="superscript">14</hi>
-                     </cell>
+                     <cell>1 zerbrochnes Spill Bröt</cell>
+                     <cell>12 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Eintrag am linken Rand geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>V</cell>
@@ -1415,17 +1416,17 @@
                   </row>
                   <row>
                      <cell>Verkaufft<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über (oder unter?) Auslassungsstrich geschrieben.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Korrigiert aus Auslassungsstrich.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>Ain eisene Turten Pfannen wigt dreyzehn Pfund à 6 x thut</cell>
                      <cell>1 f 18 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1479,7 +1480,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1527,7 +1528,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1567,7 +1568,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1617,7 +1618,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1652,15 +1653,13 @@
                   </row>
                   <row>
                      <cell>V</cell>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-16</hi>
-                              <hi rend="italic">Eintrag am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>2 gresser und 2 klenere Essich und Wasser Corfieler</cell>
-                     <cell>20 x<hi rend="superscript">16</hi>
-                     </cell>
+                     <cell>2 gresser und 2 klenere Essich und Wasser Corfieler</cell>
+                     <cell>20 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Eintrag am linken Rand geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>V</cell>
@@ -1679,7 +1678,7 @@
                   </row>
                   <row>
                      <cell>V</cell>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1729,7 +1728,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1784,7 +1783,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1839,7 +1838,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1857,8 +1856,11 @@
                <table rend="rules">
                   <row>
                      <cell>
-                        <hi rend="strikethrough">Herr Lechner</hi>
-                     </cell>
+                                <note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gestrichen </hi>Herr Lechner.</p>
+                                </note>
+                            </cell>
                      <cell>Ain schwarze Cafee Täzen</cell>
                      <cell>30 x</cell>
                   </row>
@@ -1889,7 +1891,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1923,8 +1925,11 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell/>
-                     <cell>Ain schwarz <hi rend="strikethrough">von</hi> Hollendisch tüchener Rock und Kämisoll ohne Hosen</cell>
+                     <cell>V</cell>
+                     <cell>Ain schwarz<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>von.</p>
+                                </note> Hollendisch tüchener Rock und Kämisoll ohne Hosen</cell>
                      <cell>15 f 0 x</cell>
                   </row>
                   <row>
@@ -1934,18 +1939,21 @@
                   </row>
                   <row>
                      <cell>V</cell>
-                     <cell>Ain schwarz tiechens mit blauen <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-17</hi>
-                              <hi rend="italic">Nachgetragen.</hi>
-                           </p>
-                        </note>Flanel gefütertes Kamisoll</cell>
-                     <cell>4 f 0 x<hi rend="superscript">17</hi>
-                     </cell>
+                     <cell>Ain schwarz tiechens mit blauen Flanel gefütertes Kamisoll<note>
+                                    <p rend="footnote text"> Flanel gefütertes Kamisoll<hi rend="italic" xml:space="preserve"> nachgetragen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
+                     <cell>4 f 0 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Betrag nachgetragen.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>V</cell>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -1956,16 +1964,11 @@
                   <row>
                      <cell/>
                      <cell>1 Spann Bethstatt</cell>
-                     <cell>1 f 12 x</cell>
-                  </row>
-                  <row>
-                     <cell/>
-                     <cell>
-                        <hi rend="strikethrough">flanel gefütertes Kamisoll</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">4 f 0 x</hi>
-                     </cell>
+                     <cell>1 f 12 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Eintrag nachträglich geschrieben. Danach gestrichen Fortsetzung des Eintrags von voriger Seite: </hi>flanel gefütertes Kamisoll 4 f 0 x</p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>–––</cell>
@@ -2009,7 +2012,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2064,7 +2067,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2119,7 +2122,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2229,7 +2232,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2274,7 +2277,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2303,7 +2306,7 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>Dito V Ihro gnedigen Herrn Herrn v. Grebmer</cell>
+                     <cell>Dito V Ihro gnedigen Herrn Herrn v. Grebmer 40 x</cell>
                      <cell>Ain Heiliger Joseph Tafl mit schlecht vergoldeter Ram</cell>
                      <cell>24 x</cell>
                   </row>
@@ -2324,7 +2327,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2340,7 +2343,11 @@
                   <row>
                      <cell/>
                      <cell>Fünfzehn unterschiedlich sillberne Löfl wigen 38 Loth à 56 x</cell>
-                     <cell>35 f 28 x</cell>
+                     <cell>35<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Korrigiert.</hi>
+                                    </p>
+                                </note> f 28 x</cell>
                   </row>
                   <row>
                      <cell/>
@@ -2374,7 +2381,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2432,7 +2439,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2447,7 +2454,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Zwey deto noch was klenern mit obigen Ramen ein Schiffahrt vorstellend à 42 x</cell>
+                     <cell>Zwey deto noch was klenere mit obigen Ramen ein Schiffahrt vorstellend à 42 x</cell>
                      <cell>1 f 24 x</cell>
                   </row>
                   <row>
@@ -2487,7 +2494,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2550,7 +2557,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2610,7 +2617,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2665,7 +2672,8 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Unterschiedliche Musicalien ohnwissende ob solche ganz und annoch brauchbar per Bericht.</cell>
+                     <cell>
+                                <bibl>Unterschiedliche Musicalien</bibl> ohnwissende ob solche ganz und annoch brauchbar per Bericht.</cell>
                      <cell/>
                   </row>
                   <row>
@@ -2675,7 +2683,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2735,7 +2743,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2745,7 +2753,7 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Ain <hi rend="bold">Buech Binter Stüedl</hi>
+                     <cell>Ain <bibl>Buech Binter Stüedl</bibl>
                      </cell>
                      <cell>3 x</cell>
                   </row>
@@ -2796,7 +2804,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2842,7 +2850,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2897,7 +2905,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2945,7 +2953,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -2965,7 +2973,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Ain Oberbeth mit Pflaum Frederen innern Zwilch und aussern hauszeugen köllischen Ziechen so alles neu wigt 11¾ Pfund à 1 f 8 x</cell>
+                     <cell>Ain Oberbeth mit Pflaum Federen innern Zwilch und aussern hauszeugen köllischen Ziechen so alles neu wigt 11¾ Pfund à 1 f 8 x</cell>
                      <cell>13 f 19 x</cell>
                   </row>
                   <row>
@@ -2990,12 +2998,12 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Acht Kupfer Sticht von biblischen Geschichten ohne Ram</cell>
+                     <cell>Acht Kupfer Stich von biblischen Geschichten ohne Ram</cell>
                      <cell>32 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3045,7 +3053,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3054,7 +3062,10 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Herr v. Leys 2 f <hi rend="strikethrough">54</hi> 57 x</cell>
+                     <cell>Herr v. Leys 2 f<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> 54.</p>
+                                </note> 57 x</cell>
                      <cell>Ain kleins Kästl von Fournier Arbeit mit mössingen Schloss und Banden auch 15 Thättlen</cell>
                      <cell>1 f 45 x</cell>
                   </row>
@@ -3100,7 +3111,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3155,7 +3166,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3175,7 +3186,10 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Fünf Ämelet, und ain Breven, 4 <hi rend="strikethrough">Spu</hi> Scapulir mit schlechten Bänteren</cell>
+                     <cell>Fünf Ämelet, und ain Breven, 4<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Spi-.</p>
+                                </note> Scapulir mit schlechten Bänteren</cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
@@ -3210,7 +3224,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3260,7 +3274,7 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3286,7 +3300,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Drey Bücher Stöllen</hi> mit 82 Unterschläglen</cell>
+                        <bibl>Drey Bücher Stöllen</bibl> mit 82 Unterschläglen</cell>
                      <cell>2 f 0 x</cell>
                   </row>
                   <row>
@@ -3307,7 +3321,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Vier Buch Bost Papir</hi>
+                        <bibl>Vier Buch Bost Papir</bibl>
                      </cell>
                      <cell>16 x</cell>
                   </row>
@@ -3355,25 +3369,25 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Zwey Bücher Regal Papier</hi>
-                     </cell>
+                                <bibl>Zwey Bücher Regal Papier</bibl>
+                            </cell>
                      <cell>48 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Ain stainens <hi rend="bold">Schreib Täfele</hi>
-                     </cell>
+                     <cell>Ain stainens <bibl>Schreib Täfele</bibl>
+                            </cell>
                      <cell>6 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Fünf kleine Schärlen, <hi rend="bold">zwey Feder-</hi>
-                     </cell>
+                     <cell>Fünf kleine Schärlen, <bibl>zwey Feder-</bibl>
+                            </cell>
                      <cell/>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Latus f x</cell>
+                     <cell>Latus</cell>
                      <cell/>
                   </row>
                </table>
@@ -3384,7 +3398,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Meserlen</hi>, und ain Petschierl</cell>
+                                <bibl>Meserlen</bibl>, und ain Petschierl</cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
@@ -3399,7 +3413,10 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Ain gewegltes Tisch Tuech</cell>
+                     <cell>Ain gewegltes Tisch<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Tintenfleck bei </hi>-sch.</p>
+                                </note> Tuech</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
@@ -3428,28 +3445,38 @@
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-18</hi>
-                              <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>
-                        <hi rend="strikethrough">Herr Amtman</hi> Spilpichler</cell>
+                     <cell>Spilpichler<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Unter gestrichenem </hi>Herr Amtman <hi rend="italic" xml:space="preserve">geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>1 Brott Graml</cell>
-                     <cell>24 x<hi rend="superscript">18</hi>
-                     </cell>
+                     <cell>24 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                </table>
             </div>
             <div>
-               <p>[Titelblatt]</p>
-               <p>[Rubrum:]</p>
-               <p>1781</p>
+               <p>
+                  <pb n="Titel"/>
+               </p>
+               <p>[Rubrum:] 1781</p>
                <p>Inventur und Abhandlung</p>
-               <p>So auf zeitlichen Hintrit des wohl ehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggelers</rs> Stifft Sonnenburgischen Cappellani ad Sanctum Martinum vorgangen</p>
+               <p>So auf zeitlichen Hintrit des wohlehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggelers</rs> Stifft Sonnenburgischen Cappellani ad Sanctum Martinum vorgangen</p>
                <p>[späterer Archivvermerk:] No -1205-</p>
-               <p>[1r]</p>
+               <p>
+                  <pb n="1r"/>
+                  <note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve">Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Foliierung vorgenommen.</hi>
+                            </p>
+                        </note>
+               </p>
                <p>Actum in der Stifft Sonnenburgischen Kaplaney- und Beneficial Behausung ad <rs type="place" ref="#st_martin">Sanctum Martinum</rs> den <date when="1781-03-06">6. Merzen 1781</date>.</p>
                <p>Vor</p>
                <table rend="rules">
@@ -3458,55 +3485,90 @@
                      <cell>dem wohl edlgebohrnen hochgelehrten Herrn <rs type="person" ref="#von_call_johann_leonhard">Johann Leonhard von Call</rs> i. u. Doctore des fürstlichen Stiffts und Gottshaus Sonnenburg Hof- und Lechen Richtern als Stifft Sonnenburgischer Deputierten.</cell>
                   </row>
                </table>
-               <p>In praesentia des wohl edlen Herren <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmeyr</rs> hochfürstlich Brixnerischen Commission, und Amtschreiberes zu <rs type="place" ref="#brunegg">Brunegg</rs> als von hoch geistlicher Commission etc. zugezochenen,</p>
-               <p>Und des <hi rend="strikethrough">wohl edlgebohrnen Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretscher</rs> Hof- und Urbäry Amtmanns alda</hi> Amtschreiber <rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salchers</rs>
+               <p>In praesentia des wohl edlen Herren <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmeyr</rs> hochfürstlich Brixnerischen Commission- und Amtschreibers zu <rs type="place" ref="#brunegg">Brunegg</rs> als von hoch geistlicher Commission etc. zugezochenen,</p>
+               <p>Und des<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>wohl edlgebohrnen Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretscher</rs> Hof- und Urbäry Amtmanns alda.</p>
+                        </note> Amtschreiber <rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salchers</rs>
                     </p>
-               <p>[1v]</p>
+                    <p>
+                       <pb n="1v"/>
+                    </p>
                <p>als von Seite der weltlichen Commission etc. zuegezochenen Beysassen.</p>
                <p>Actuante die Sonnenburgische Hofgerichtschreiberey.</p>
-               <p>Ihro Hochwürden und Gnaden vor wohl eingefüehrten Herr Dechand als hochfürstlich Brixnerischer Comissarius referieren, das bey däto fir dem wohl ehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggele</rs> gewesten Stifft Sonnenburgischen Cappellano und Beneficiato ad <rs type="place" ref="#st_martin">St. Martinum</rs> seeligen abgehaltenen 30ist Heiligen Gottesdenst die Ordnung erfordere, mit Erwitterung desselben Testaments, und sodann mit Beschreibung und Verabhandlung desselben zeitlichen Verlassenschafft firzuschreiten, seye demenach anhero gekommen ein so anderes der Ordnung nach vorgehen zu lassen.</p>
+               <p>Ihro Hochwürden und Gnaden vor wohl eingefüehrten Herr Dechand als hochfürstlich Brixnerischer Comissarius referieren, das bey däto fir dem wohl ehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggele</rs> gewesten Stifft Sonnenburgischen Cappellano und Beneficiato ad <rs type="place" ref="#st_martin">St. Martinum</rs> seel[ig]en abgehaltenen 30ist Heiligen Gottesdenst die Ordnung erfordere, mit Erwitterung desselben Testaments, und sodann mit Beschreibung und Verabhandlung desselben zeitlichen Verlassenschafft firzuschreiten, seye demenach anhero gekommen ein so anderes der Ordnung nach vorgehen zu lassen.</p>
                <p>Woriber der Stifft Sonnenburgisch angeordnete Herr Commissarius gleichfahls relationando ad prothocollum gegeben, das die Abhandlung der Stifft Sonnenburgischen Cappellanen bis <date when="1647-09-24">24. September 1647</date> jederzeit von Stifft Sonnenburg per deputationem alleinig vorgenommen,</p>
-               <p>[2r]</p>
+               <p>
+                  <pb n="2r"/>
+               </p>
                <p>und erst von solcher Zeit an die hochgeistlich Brixnerische Commission sich derley Handlung zugesellet habe; Nun habe ersagtes Stifft durch desselben angeordneten Deputation und Hofrichter<note>
                      <p rend="footnote text">
                         <hi rend="italic">Davor Rasur von</hi> Herrn<hi rend="italic">-Kürzung.</hi>
                      </p>
                </note> Amt nicht nur an gedachten <date when="1647-09-24">24. September 1647</date> bey Hinscheiden geistlichen Herrn Schenfelders gewesten Cappellani ad St. Gothardum, sondern auch bey Verhandlung der hinach abgelebten Herrn Cappellanen<note>
                      <p rend="footnote text">
-                        <hi rend="italic" xml:space="preserve">Danach Rasur von </hi>u.</p>
-                  </note> hierwider protestiert, und die uhr alte Rechte und Privilegien und mit solcher Anverwahrung, Protestation, und ausdrücklich Contestation, das solches blos zu Bezeügung gehorsamsten Respects gegen das hochwürdigiste Ordinariat, im übrigen ganz unvergrifen, und ohne mindesten Nachtheil bescheche, die Abhandlungen vor beedseitigen Commissionen simultanee vorgehen lassen, und gleichwie mit solchen Vorbehalt und gehorsamsten <hi rend="strikethrough">Respet</hi> Respects Contestirung salvis caeteroquie iuribus das Stifft Sonnenburg pro hic et nunc nicht entgegen stehet, das die Erwitterung des von dem abgelebten Herrn Ka-</p>
-               <p>[2v]</p>
-               <p>plan <hi rend="strikethrough">Jose</hi> <rs type="person" ref="#zoeggeler_anton">Anton Zöggele</rs> seeligen errichten Testaments, dann des selben Vermägens Ergänzung und so dabey simultanee unvergrifen beschechen mäge, als wolle er Herr Stifft Sonnenburgische Deputierte ein solches alda ad prothocollum ohnverhalten gelassen, und seiner gnädigen Principälschafft gerechtsame jehe und alzeit in optima forma conserviret, und vorbehalten haben.</p>
-               <p>Über solch hofrichterliches Anbringen des Stiffts Sonnenburg haben Ihro Hochwürden und Gnaden hocht geistlich angeordneter Herr Commissarius erwidert, vi iuris et consuetudinis, wie auch vermog Max<hi rend="strikethrough">x</hi>milianischen Vertrags der hochgeistlichen Obrigkeit etc. die Verhandlung der geistlichen Verlassenschafften ohne weiters gebihrig zu sein, westhalben wohl selber etc. seiner gnädigisten Principälschaffts Rechten zu wider die von Seiten Sonnenburg privative ansünnende Abhandlungs Rechte nicht nachgeben, auch hierwider zu protestieren vor der gnädigisten Principalschafft angewisen seye.</p>
-               <p>[3r]</p>
-               <p>Nach welch pro et contra gemachten Äuserung und Rechts Vorbehalt wurde auf Anlangen der <rs type="person" ref="#niderwanger_ursula">Ursula Niderwangerin</rs> geweste Häuserin des abgelebt geistlichen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggeles</rs> und daselben dato verpflichten Anweiser und Bruders <rs type="person" ref="#niderwanger_joseph">Joseph Niderwanger</rs> und<note>
+                        <hi rend="italic" xml:space="preserve">Danach Rasur von </hi>-s.</p>
+                  </note> hierwider protestiert, und die uhr alte Rechte und Privilegien in Anverwahrung gesezt, und mit solcher Anverwahrung, Protestation, und ausdrücklichen Contestation, das solches blos zu Bezeügung gehorsamsten Respects gegen das hochwürdigiste Ordinariat, im übrigen ganz unvergrifen, und ohne mindesten Nachtheil bescheche, die Abhandlungen vor beedseitigen Commissionen simultanee vorgehen lassen, und gleichwie mit solchen Vorbehalt und
+                  gehorsamsten<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Respet.</p>
+                        </note> Respects Contestirung salvis caeteroquin iuribus das Stifft Sonnenburg pro hic et nunc nicht entgegen stehet, das die Erwitterung des von dem abgelebten Herrn Ka-</p>
+                  <p>
+                     <pb n="2v"/>
+                  </p>
+               <p>plan<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Joha-.</p>
+                        </note> <rs type="person" ref="#zoeggeler_anton">Anton Zöggele</rs> seel[ig]en errichten Testaments, dann desselben Vermägens Ergänzung und so dabey simultanee unvergrifen beschechen mäge, als wolle er Herr Stifft Sonnenburgische Deputierte ein solches alda ad prothocollum ohnverhalten gelassen, und seiner gnädigen Principälschafft gerechtsame jehe und alzeit in optima forma conserviret, und vorbehalten haben.</p>
+               <p>Über solch hofrichterliches Anbringen des Stiffts Sonnenburg haben Ihro Hochwürden und Gnaden hoch geistlich angeordneter Herr Commissarius erwidert, vi iuris et consuetudinis, wie auch vermog Maxmilianischen<note>
+                            <p rend="footnote text"> Nach -x- <hi rend="italic" xml:space="preserve">folgt gestrichen </hi>-x-.</p>
+                        </note> Vertrags der hochgeistlichen Obr[igkei]t etc. die Verhandlung der geistlichen Verlassenschafften ohne weiters gebihrig zu sein, westhalben wohl selber etc. seiner gnädigisten Principälschaffts Rechten zu wider die von Seiten Sonnenburg privative ansünnende Abhandlungs Rechte nicht nachgeben, auch hierwider zu protestieren vor der gnädigisten Principalschafft angewogen seye.</p>
+               <p>
+                  <pb n="3r"/>
+               </p>
+               <p>Nach welch pro et contra gemachten Äuserung<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Tintenfleck bei erstem </hi>-u-.</p>
+                        </note> und Rechts Vorbehalt wurde auf Anlangen der <rs type="person" ref="#niderwanger_ursula">Ursula Niderwangerin</rs> geweste Häuserin des abgelebt geistlichen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggeles</rs> und
+               deroselben dato verpflichten Anweiser und Brueders <rs type="person" ref="#niderwanger_joseph">Joseph Niderwanger</rs> und<note>
                      <p rend="footnote text">
                         <hi rend="italic">Über der Zeile eingefügt.</hi>
                      </p>
-               </note> Schuelhalters zu <rs type="place" ref="#gais">Gais</rs> in Gegenwarth <rs type="person" ref="#pranter_barbara">Barbara Pranterin</rs>, <rs type="person" ref="#kamerer_hanns">Hannsen Kamerer</rs> Schuestermeisters in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> Ehewirthin (welche in Namen ihrer Muettern <rs type="person" ref="#egger_elisabeth">Elisabeth Eggerin</rs> <rs type="person" ref="#prantner_michael">Michael Prantnerischen</rs> Ehewirthin beikomen, und eine allenfahlige Erbin materno naturale eine Erbin zu sein glaubet) ferers in Beysein des <rs type="person" ref="#lercher_joseph">Josepf Lercher</rs> Lerchers in Ohnnach (dessen Ähnl <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="#lercher_andre">Andreen Lercher</rs> Lerchers in Ohnnach Ehegathin ware, und weilen des abgelebt geistlichen <rs type="person" ref="#zoeggeler_anton">Herrn Zöggelers</rs> eheleibliche Muetter <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="person" ref="#zoeggeler_anton">Antony Zöggelers</rs> gewesten Schmidmaisters in der Mähr geweste Ehewirtin einen gleichen Namen füehrte, eine Erb hierzue zu sein praesumierlichen vermeinte) wie nit weniger in Gegenwarth fir übrig unbewusten Erben angeordneten Vertretter Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Turneretschers</rs> das verhandene am <date when="1778-05-14">14. May 1778</date> particulariter errichte Testamentum <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-488</hi>
-                        <hi rend="italic">Auf der linken Seite eingefügt.</hi>
-                     </p>
-                  </note>nebst dem von hoch ehrwürdigen geistlichen Cassionalanus Cappellan ad St. Joannem muter heüntig däto abgebenen Attestato<hi rend="superscript">488</hi> abgelesen, und <hi rend="strikethrough">erwitteret</hi>, unvergrifen allerseits Rechten erwitteret, nach welchen Erfolg angebracht worden.</p>
-               <p>[3v]</p>
-               <p>Als von der <rs type="person" ref="#niderwanger_ursula">Ursula Niderwangerin</rs> und deroselben Anweiser <rs type="person" ref="#niderwanger_joseph">Joseph Niderwanger</rs>, das sich selbe der vorgenomenen Testaments Erwitterung gegen wohl loblich geist- und weldtlichen Commission in Demuth bedanke, <hi rend="strikethrough">d</hi> und selbe gnädig und großgünstig zu manutenieren bitte.</p>
-               <p>Hingegen haben voreinkomene wertvol Erben <hi rend="strikethrough">angeb</hi> und Herr Vertretter angebracht, das er das eröfnete Testament dermahlen in seinem Werth und Unwerth beruehen lasse, sich dargegen darwider nach Umständen all gedenliche Behelfe einzubringen in Vorbehalt nemme.</p>
-               <p>Woraufhin von Seiten der weldlichen Obrigkeit weiters alda berichtlichen beigesezt worden, das mann zu Erfragung der <rs type="person" ref="#zoeggeler_anton">Zöggelisch</rs> Eventual Erben an die lobliche Obrigkeiten in Ulten, Paseyr, und Särnthall zwar die Requisitiones erlassen und angesuecht habe, weder von ein noch andern unzt anhero was vorgekommen seye, derowegen mann dann auch sich bemüset gefunden in Sachen einen Vertretter anzuordnen.</p>
+               </note> Schuelhalters zu <rs type="place" ref="#gais">Gais</rs> in Gegenwarth <rs type="person" ref="#pranter_barbara">Barbara Pranterin</rs>, <rs type="person" ref="#kamerer_hanns">Hannsen Kamerer</rs> Schuestermeisters in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> Ehewirthin (welche in Namen ihrer
+               Muettern <rs type="person" ref="#egger_elisabeth">Elisabeth Eggerin</rs> <rs type="person" ref="#prantner_michael">Michael Prantnerischen</rs> Ehewirthin beikomen, und eine allenfahlige Erbin materno naturale eine Erbin zu sein glaubet (ferers in Beysein des <rs type="person" ref="#lercher_joseph">Josepf Lercher</rs> Lerchers in Ohnnach (dessen Ähnl <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="#lercher_andre">Andreen Lercher</rs> Lerchers in Ohnnach Ehegathin ware, und weilen des abgelebt geistlichen <rs type="person" ref="#zoeggeler_anton">Herrn Zöggelers</rs> eheleibliche Muetter <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="person" ref="#zoeggeler_anton">Antony Zöggelers</rs> gewesten Schmidmaisters in der Mähr geweste Ehewirtin einen gleichen Namen füehrte, eine Erb hierzue zu sein praesumierlichen vermeinte). Wie nit weniger in Gegenwarth fir übrig unbewusten Erben angeordneten Vertretter Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Turneretschers</rs> das verhandene am <date when="1778-05-14">14. May 1778</date> particulariter errichte
+               Testamentum nebst dem von hoch ehrwürdigen geistlichen Cassionalanus Cappellan ad St. Joannem unter heüntig däto abgebenen Attestato<note>
+                            <p rend="footnote text"> nebst dem von hoch ehrwürdigen geistlichen Cassionalanus Cappellan ad St. Joannem unter heüntig däto abgebenen Attestato<hi rend="italic"> am linken Rand eingefügt.</hi>
+                            </p>
+                        </note> abgelesen, und<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>erwitteret.</p>
+                        </note>, unvergrifen allerseits Rechten erwitteret, nach welchen Erfolg angebracht worden.</p>
+                  <p>
+                     <pb n="3v"/>
+                  </p>
+               <p>Als von der <rs type="person" ref="#niderwanger_ursula">Ursula Niderwangerin</rs> und deroselben Anweisern <rs type="person" ref="#niderwanger_joseph">Joseph Niderwanger</rs>, das sich selbe der vorgenomenen Testaments Erwitterung gegen wohl loblich geist- und weldtlichen Co[mmissi]on in Demuth bedanke,<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>d-.</p>
+                        </note> und selbe gnädig und gro[ß]g[ünstig] zu manutenieren bitte.</p>
+               <p>Hingegen haben voreinkomene Eventual Erben<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>angeb-.</p>
+                        </note> und Herr Vertretter angebracht, das er das eröfnete Testament dermahlen in seinem Werth und Unwerth beruehen lasse, sich dargegen darwider nach Umständen all gedenliche Behelfe einzubringen in Vorbehalt nemme.</p>
+               <p>Woraufhin von Seiten der weldlichen Obr[igkei]t weiters alda b[eric]htlichen beigesezt worden, das mann zu Erfragung der <rs type="person" ref="#zoeggeler_anton">Zöggelischen</rs> Eventual Erben an die lobliche Obr[igkei]ten in Ulten, Paseyr, und Särnthall zwar die Requisitiones erlassen und angesuecht habe, weder von ein noch andern unzt anhero was vorgekommen seye, derowegen mann dann auch sich bemüset gefunden in Sachen einen Vertretter anzuordnen.</p>
                <p>Nach welchen unvergrifen allerseits Rechten, weilen doch nach allschon von Kloster Stifft</p>
-               <p>[4r]</p>
-               <p>ernenten <hi rend="strikethrough">Herrn</hi> neyen Herrn Capellano die Beneficial Behausung zu evaluieren in<note>
-                     <p rend="footnote text">
-                        <hi rend="italic">Nachträglich eingefügt.</hi>
-                     </p>
-                  </note>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-25</hi>
-                        <hi rend="italic">Auf der linken Seite eingefügt.</hi>
-                     </p>
-                  </note>Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
-                        <hi rend="superscript">25</hi> vorgenommen worden dise</p>
+               <p>
+                  <pb n="4r"/>
+               </p>
+               <p>ernenten<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Herrn<hi rend="italic" xml:space="preserve">-Kürzung</hi>.</p>
+                        </note> neyen Herrn Capellano die Beneficial Behausung zu evaluieren
+               in Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
+                        <note>
+                            <p rend="footnote text">Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
+                                <hi rend="italic"> am linken Rand geschrieben.</hi>
+                            </p>
+                        </note> vorgenommen worden dise</p>
                <p>Inventur</p>
                <p>In der untern Stuben</p>
                <table rend="rules">
@@ -3520,6 +3582,7 @@
                      <cell>Darinen</cell>
                      <cell/>
                   </row>
+<!-- stopped here -->            
                   <row>
                      <cell>In untern Gewölben</cell>
                      <cell>1 schlechts Tischtüechl 1 Schnizer 2<note>
@@ -3578,7 +3641,9 @@
                      <cell>2 f 52 x</cell>
                   </row>
                </table>
-               <p>[4v]</p>
+               <p>
+                  <pb n="4v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -3686,7 +3751,9 @@
                      <cell>11 f 48 x</cell>
                   </row>
                </table>
-               <p>[5r]</p>
+               <p>
+                  <pb n="5r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Bliben</cell>
@@ -3784,7 +3851,9 @@
                      <cell>6 f 1 x</cell>
                   </row>
                </table>
-               <p>[5v]</p>
+               <p>
+                  <pb n="5v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -3890,7 +3959,9 @@
                      <cell>9 f 4 x</cell>
                   </row>
                </table>
-               <p>[6r]</p>
+               <p>
+                  <pb n="6r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Bliben versperten in Kasten</cell>
@@ -3996,7 +4067,9 @@
                      <cell>68 f 36 x</cell>
                   </row>
                </table>
-               <p>[6v]</p>
+               <p>
+                  <pb n="6v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -4080,7 +4153,9 @@
                      <cell>31 f 56 x</cell>
                   </row>
                </table>
-               <p>[7r]</p>
+               <p>
+                  <pb n="7r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -4206,7 +4281,9 @@
                      <cell>13 f 9 x</cell>
                   </row>
                </table>
-               <p>[7v]</p>
+               <p>
+                  <pb n="7v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -4335,7 +4412,9 @@
                      <cell>8 f 4 x</cell>
                   </row>
                </table>
-               <p>[8r]</p>
+               <p>
+                  <pb n="8r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -4443,7 +4522,9 @@
                      <cell>3 f 40 x</cell>
                   </row>
                </table>
-               <p>[8v]</p>
+               <p>
+                  <pb n="8v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell/>
@@ -4531,7 +4612,9 @@
                      <cell>43 f 32 x</cell>
                   </row>
                </table>
-               <p>[9r]</p>
+               <p>
+                  <pb n="9r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -4634,7 +4717,9 @@
                      <cell>13 f 26 x</cell>
                   </row>
                </table>
-               <p>[9v]</p>
+               <p>
+                  <pb n="9v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Bliben in untern Gewelben.</cell>
@@ -4730,7 +4815,9 @@
                      <cell>23 f 48½ x</cell>
                   </row>
                </table>
-               <p>[10r]</p>
+               <p>
+                  <pb n="10r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -4839,7 +4926,9 @@
                      <cell>65 f 34 x</cell>
                   </row>
                </table>
-               <p>[10v]</p>
+               <p>
+                  <pb n="10v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Sprücht Jungfrau Häuserin an</cell>
@@ -4932,7 +5021,9 @@
                      <cell>13 f 58½ x</cell>
                   </row>
                </table>
-               <p>[11r]</p>
+               <p>
+                  <pb n="11r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Bliben<note>
@@ -5059,7 +5150,9 @@
                      <cell>12 f 17 x</cell>
                   </row>
                </table>
-               <p>[11v]</p>
+               <p>
+                  <pb n="11v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -5158,7 +5251,9 @@
                      <cell>7 f 6 x</cell>
                   </row>
                </table>
-               <p>[12r]</p>
+               <p>
+                  <pb n="12r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Gewölben<note>
@@ -5288,7 +5383,9 @@
                      <cell>18 f 59¼ x</cell>
                   </row>
                </table>
-               <p>[12v]</p>
+               <p>
+                  <pb n="12v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -5406,7 +5503,9 @@
                      <cell>43 f 29 x</cell>
                   </row>
                </table>
-               <p>[13r]</p>
+               <p>
+                  <pb n="13r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -5522,7 +5621,9 @@
                      <cell>18 f 44½ x</cell>
                   </row>
                </table>
-               <p>[13v]</p>
+               <p>
+                  <pb n="13v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -5633,7 +5734,9 @@
                      <cell>6 f 28</cell>
                   </row>
                </table>
-               <p>[14r]</p>
+               <p>
+                  <pb n="14r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -5737,7 +5840,9 @@
                      <cell>26 f 23 x</cell>
                   </row>
                </table>
-               <p>[14v]</p>
+               <p>
+                  <pb n="14v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>bliben</cell>
@@ -5835,7 +5940,9 @@
                      <cell>55 f 35 x</cell>
                   </row>
                </table>
-               <p>[15r]</p>
+               <p>
+                  <pb n="15r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -5918,7 +6025,9 @@
                      <cell>26 f 5 x</cell>
                   </row>
                </table>
-               <p>[15v]</p>
+               <p>
+                  <pb n="15v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -6007,7 +6116,9 @@
                      <cell>41 f 45 x</cell>
                   </row>
                </table>
-               <p>[16r]</p>
+               <p>
+                  <pb n="16r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>bliben</cell>
@@ -6130,7 +6241,9 @@
                         </note> x</cell>
                   </row>
                </table>
-               <p>[16v]</p>
+               <p>
+                  <pb n="16v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -6228,7 +6341,9 @@
                      <cell>9 f 16 x</cell>
                   </row>
                </table>
-               <p>[17r]</p>
+               <p>
+                  <pb n="17r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -6336,7 +6451,9 @@
                      <cell>12 f 4 x</cell>
                   </row>
                </table>
-               <p>[17v]</p>
+               <p>
+                  <pb n="17v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Auf den Saal<note>
@@ -6407,7 +6524,9 @@
                      <cell>19 f 32 x</cell>
                   </row>
                </table>
-               <p>[18r]</p>
+               <p>
+                  <pb n="18r"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -6475,7 +6594,9 @@
                      <cell>11 f 34 x</cell>
                   </row>
                </table>
-               <p>[18v]</p>
+               <p>
+                  <pb n="18v"/>
+               </p>
                <table rend="rules">
                   <row>
                      <cell>Bey Herrn Hofrichters Hand ligend</cell>
@@ -6550,13 +6671,17 @@
                </table>
             </div>
             <div>
-               <p>[Titelblatt]</p>
+              <p>
+                 <pb n="Titel"/>
+              </p>
                <p>[Notiz:] 1-Stants-Zeitungs Lexikon Johann Hübners</p>
                <p>[Rubrum:] 1781</p>
                <p>Des wohl ehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zeggeler</rs> gewest Stifft Sonnenburgischen Kaplan ad <rs type="place" ref="#st_martin">St. Martinum</rs> vorgangene</p>
                <p>Vermägensabhandlung</p>
                <p>[späterer Archivvermerk:] No -1206-</p>
-               <p>[1r]</p>
+               <p>
+                  <pb n="1r"/>
+               </p>
                <p>In den obern Saal</p>
                <table rend="rules">
                   <row>
