@@ -1148,7 +1148,8 @@
                   <forename>Franz</forename>
                   <surname>Prugger</surname>
                </persName>
-               <note type="function">Jäger unnd Fischer</note> in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
+               <note type="function">Jäger unnd Fischer in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
+                    </note> 
             </person>
             <person xml:id="pfeiffhofer_gregori">
                <persName>
