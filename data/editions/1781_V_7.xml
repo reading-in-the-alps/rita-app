@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1781 V 7/8, Saalen (in der Kaplanei) [Stocker Franz (Benefiziat), fol. 294r-307v]</title>
+            <title>1781 V 7/8, Saalen (in der Kaplanei) [Stocker Franz (Benefiziat)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -31,7 +31,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from="306r" to="305r"/>
+                     <locus from="294r" to="307v"/>
                      <note>
                         <rs type="skos" ref="#inventar">Inventar</rs>
                      </note>
@@ -52,35 +52,32 @@
    <text>
       <body>
          <div>
+           <p>
+              <pb n="307v"/>
+           </p>
+           <p>
+                   <date when="1762-01-04">4 Jener 1762</date>
+               </p>
+           <p>[Aktennotiz:] Commission für Abhandlung des Beneficiaten in <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> Verlassenschaft</p>
+           <p>Praes. den <date when="1781-04-29">29 April 1781</date>
+               </p>
+           <p>[Briefadresse:] Dem ehrwürdig, edl, hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram von Liebenrain, und Fragburg</rs> SS. Theol. Dri. fürstlich Brixnerisch geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unseren besonders lieben Freund, und Herrn.</p>
+           <p>
+                   <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
+                   <p>[Oblatensiegel des Konsistoriums Brixen]</p>
             <p>
                <pb n="306r"/>
             </p>
-            <p>Unsern freundlichen Gruss, und Dienst anvor: Ehrwürdig, edl, hochgelehrt, besonders lieber Freund, und Herr!</p>
+            <p>Unsern freundlichen Gruss, und Dienst anvor: Ehrwürdig[er], edl[er], hochgelehrt[er], besonders lieber Freund, und Herr!</p>
             <p>Da aus des Herrn Berichte erhellet, das den 7ten dies der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs> verstorben, und in unserm Namen die Sperre an dessen Verlassenschaft behörig angeleget worden;</p>
-            <p>Also ertheilen wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
+            <p>Also ertheilen Wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
             <p>Hieran vollziecht der Herr unsern Willen, und Meynung; und wir verbleiben anbey demselben wohl beygethan.</p>
             <p>Gegeben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1781-04-23">23ten April 1781</date>.</p>
-            <p>
-                    <rs type="person" ref="#taxis_felix">Felix Taxis</rs>
-                </p>
+            <p>[Eigenhändige Unterschrift:]<rs type="person" ref="#taxis_felix"> Felix Taxis</rs></p>
             <p>Praesident m.p.</p>
-            <p>
-                    <rs type="person" ref="#von_pasotti_carl">Carl v. Pasotti</rs>
-                </p>
-            <p>Prosecret. m.p.</p>
+            <p>[Eigenhändige Unterschrift:]<rs type="person" ref="#von_pasotti_carl"> Carl v. Pasotti</rs></p>
+            <p>Prosecre[tarius] m.p.</p>
             <p>[Taxvermerk:] Taxa 1 f 12 x</p>
-            <p>
-               <pb n="307v"/>
-            </p>
-            <p>
-                    <date when="1762-01-04">4 Jener 1762</date>
-                </p>
-            <p>[Aktennotiz:] Commission für Abhandlung des Beneficiaten in <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> Verlassenschaft</p>
-            <p>Praes. den <date when="1781-04-29">29 April 1781</date>
-                </p>
-            <p>[Briefadresse:] Dem ehrwürdig, edl, hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram von Liebenrain, und Fragburg</rs> SS. Theol. Dri. fürstlich Brixnerisch geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unseren besonders lieben Freund, und Herrn.</p>
-            <p>
-                    <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
             <p>
                <pb n="305v"/>
             </p>
@@ -93,31 +90,36 @@
                <pb n="294r"/>
             </p>
             <p>Actum <rs type="place" ref="#saalen">Saalen</rs> in der Kaplanei Behausung den <date when="1781-05-07">7ten May 1781</date>.</p>
-            <p>Vor Ihro Hochwürden und Gnaden dem hochwürdig wohlgebohrn und hochgelehrten Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngram v. Liebenrain und Fragburg</rs> Tyrol. Herrn und Landman des hochfürstlichen Stifts Brixen würcklichen Consistorial Rath, dan Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunneck</rs>, als vermög beylegend hochgnädigen Consistorial Befehl – [späterer Vermerk:] NB Dieser allegierte Befehl ist hinach fol. 306 eingebundner zu erfünden. – zu <rs type="place" ref="#brixen">Brixen</rs> dato <date when="1781-04-23">23ten Apprill 1781</date> verordneten Herrn Commissario etc.</p>
-            <p>Und dem wohledl gestrengen und hochgelehrten Herrn <rs type="person" ref="#steinburger_johann_stephann">Johann Stephann Steinburger</rs> i. u. cand. auch Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
+            <p>Vor Ihro Hochwürden und Gnaden dem hochwürdig wohlgebohrn und hochgelehrten Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngram v. Liebenrain und Fragburg</rs> Tyrol. Herrn und Landman des hochfürstlichen Stifts <rs type="place" ref="#brixen">Brixen</rs> würcklichen Consistorial Rath, dan Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunneck</rs>, als vermög beylegend hochgnädigen Consistorial Befehl – [späterer Vermerk:] NB Dieser allegierte Befehl ist hinach fol. 306 eingebundner zu erfünden. – zu <rs type="place" ref="#brixen">Brixen</rs> dato <date when="1781-04-23">23ten Apprill 1781</date> verordneten Herrn Commissario etc.</p>
+            <p>Und dem wohledl gestrengen und hochgelehrten Herrn <rs type="person" ref="#steinburger_johann_stephann">Johann Stephann Steinberger</rs> i. u. cand. auch Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
             <p>Zugegen des wohledlen Herrn <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmayr</rs> Amtschreibern zu <rs type="place" ref="#brunegg">Brunneck</rs>, dann dem fürnemmen <rs type="person" ref="#hueber_joseph_2">Joseph Hueber</rs> Winckler und Gerichts Ausschuss allda zu <rs type="place" ref="#saalen">Saalen</rs>.</p>
-            <p>Demnach es Gott dem Allerhöchsten abermalen nach seinen unerforschlich allerheiligsten Rathschluss beliebet, seinen allerhailligsten Willen zu vollziechen, und andurch dem wohl ehrwürdig geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs>
+            <p>Demnach es Gott dem Allerhöchsten abermalen nach seinen unerforschlich allerheiligsten Rathschluss beliebet, seinen allerheilligsten Willen zu vollziechen, und andurch dem wohl ehrwürdig geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs>
                 </p>
             <p>
                <pb n="294v"/>
             </p>
             <p>S.S. theol. et S.S. canonicus cand. in Leben gewesten Beneficiaten allhier zu <rs type="place" ref="#saalen">Saalen</rs> jüngst verschiner Zeit nach vorhero ausgestandener Leibskranckheit den <date when="1781-04-07">7ten Apprill</date> von diesen Zeitlichen zweifls ohne zu sich in die himmelische Freyd zu beruffen, Gott gnade dero Seele. Wurde einsmalen auf erfolgten Todtfall von Ihro Hochwürden und Gnaden Herrn Herrn Dechant etc. und vor wohlersagten Herrn Landrichter die Secretur an denen behörigen Orthen angelegt, und sodan am dato von hocherdeuten Herrn Herrn Decano etc. referiret, welcher gestalten hochdemselben von dem hochgeistlichen officio zu <rs type="place" ref="#brixen">Brixen</rs> das Commissorium ertheillet worden, mit dem Innhalt, das hochselber des geistlichen Herrn Ableibers seel. Verlassenschaft vollständig verhandlen, und sohin den Bericht hierüber einsenden solle,</p>
-            <p>Woraufhin dann in Gehorsam beykommen und erschinnen seind des abgeleibten geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> seel. <hi rend="strikethrough">Geschw Brüders zweyen</hi> eheleiblichen Bruder<hi rend="strikethrough">n <rs type="person" ref="#stocker_antoni">Antoni</rs>
-                    </hi> zuruckgelassene Kinder als, von des ebenfals abgeleibten <rs type="person" ref="#stocker_johann">Johann Stockers</rs> gewesten Pfarrmesners zu <rs type="place" ref="#brunegg">Brunneck</rs> bey <rs type="person" ref="#taesser_maria">Maria Tässerin</rs> seel. erzeügten und zurück-</p>
+            <p>Woraufhin dann in Gehorsam beykommen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt Beistrich gestrichen.</hi></p></note> und erschinnen seind des abgeleibten geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> seel.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Geschw Brüders zweyen.</p></note> eheleiblichen
+            Bruder<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-n <rs type="person" ref="#stocker_antoni">Antoni</rs>.</p></note> zuruckgelassene Kinder als, von des ebenfals abgeleibten <rs type="person" ref="#stocker_johann">Johann Stockers</rs> gewesten Pfarrmesners zu <rs type="place" ref="#brunegg">Brunneck</rs> bey <rs type="person" ref="#taesser_maria">Maria Tässerin</rs> seel. erzeügten und zurück-</p>
             <p>
                <pb n="295r"/>
             </p>
-            <p>gelassenen zweyen Töchtern <rs type="person" ref="#stocker_maria">Maria</rs> und <rs type="person" ref="#stocker_anna">Anna</rs>, wovon die <rs type="person" ref="#stocker_anna">Anna</rs> anwessig, und beede in Vertrettung des schon vorhero verpflichten Gerhabens Herrn <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>, und haben bey der gnädigen angeordenten Commission und loblicher Landgerichts Obrigkeit etc. um Vornemmung der ieblichen und Lands gebräuchigen Inventur demüthig und gehorsam angelanget, welchem petito wohlbehabt gnädige Commission etc. und loblichen Obrigkeit etc. nicht abseyn können, von dahero wurde auf am dato Nach Mittig zu Vornemmung solcher Inventur <hi rend="strikethrough">g</hi> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
+            <p>gelassenen zweyen Töchtern <rs type="person" ref="#stocker_maria">Maria</rs> und <rs type="person" ref="#stocker_anna">Anna</rs>, wovon die <rs type="person" ref="#stocker_anna">Anna</rs> anwessig, und beede in Vertrettung des schon vorhero verpflichten Gerhabens Herrn <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>, und haben bey der gnädigen angeordenten Commission und loblicher Landgerichts Obrigkeit etc. um Vornemmung der ieblichen und Lands gebräuchigen Inventur demüthig und gehorsam angelanget, welchem petito wohlbehabt gnädige Commission etc. und loblichen Obrigkeit etc. nicht abseyn können, von dahero wurde auf am dato Nach Mittig
+            zu Vornemmung solcher Inventur<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>g-.</p></note> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
-            </note> bey Befund der recognoscirten und unbedencklich erfundenen Secretur, nachdem vorhero an die Miterbin <rs type="person" ref="#stocker_anna">Anna Stockerin</rs> als geweste Hauswirthschafterin bey dem Herrn Ableiber seel. under ihren Herrn Gerhaben gehörten <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> ratione der getreülichen Anzeügung halber der Zuspruch und darauf <hi rend="strikethrough">von</hi> an beeden erfolget ist, geschritten zu folgender</p>
+            </note> bey Befund der recognoscirten und unbedencklich erfundenen Secretur, nachdem vorhero an die Miterbin <rs type="person" ref="#stocker_anna">Anna Stockerin</rs> als geweste Hauswirthschafterin bey dem Herrn Ableiber seel. under ihren Herrn Gerhaben gehörten <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> ratione der getreülichen Anzeügung halber der Zuspruch und
+            darauf an<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>von.</p></note> beeden erfolget ist, geschritten zu folgender</p>
             <p>Inventursbeschreibung.</p>
             <p>Und zwar erstlichen</p>
             <p>
                <pb n="295v"/>
             </p>
             <p>In dem ordinari Wohnzimer.</p>
+
+<!-- stopped here -->
+
             <table rend="rules">
                <row>
                   <cell>Eine schlechte aufstehende Bethstadt, so zusamm gelegt werden kann pr</cell>
@@ -136,7 +138,7 @@
                   <cell>42 x</cell>
                </row>
                <row>
-                  <cell>4 einschichtige Gabl mit <hi rend="strikethrough">ein</hi> dergleichen Heftern</cell>
+                  <cell>4 einschichtige Gabl mit<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ein.</p></note> dergleichen Heftern</cell>
                   <cell>8 x</cell>
                </row>
                <row>
@@ -169,7 +171,7 @@
                </row>
             </table>
             <p>
-               <pb n="296r"/>
+               <pb n="296r"/><note><p rend="footnote text"> 9<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>6.</p></note>
             </p>
             <table rend="rules">
                <row>
@@ -189,29 +191,19 @@
                   <cell>2 x</cell>
                </row>
                <row>
-                  <cell>1 schlechte <hi rend="bold">Bücher Stehle</hi> pr</cell>
+                  <cell>1 schlechte <bibl>Bücher Stehle</bibl> pr</cell>
                   <cell>8x</cell>
                </row>
                <row>
-                  <cell>1 schlechter Altar, worauf 4 unterschiedliche Täfelen und 9 geschnizte Bilder sich befinden pr Bcht.</cell>
+                  <cell>1 schlechter Altar, worauf 4 unterschiedliche Täfelen und 9 geschnizte Bilder sich befinden pr Bcht.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichener Eintrag: </hi>Ein Perspectiv mit 3 Züg, 18 x.</p></note></cell>
                   <cell/>
-               </row>
-               <row>
-                  <cell>
-                     <hi rend="strikethrough">Ein Perspectiv mit 3 Züg</hi>
-                  </cell>
-                  <cell>
-                     <hi rend="strikethrough">18 x</hi>
-                  </cell>
                </row>
                <row>
                   <cell>1 eüsener Tischpfannknecht</cell>
                   <cell>5 x</cell>
                </row>
                <row>
-                  <cell>1 Schisslwag, ziecht auf der schwäreren Seiten 36<note>
-                        <p rend="footnote text"> 3 aus 4 korrigiert.</p>
-                     </note> Pf.</cell>
+                  <cell>1 Schisslwag, ziecht auf der schwäreren Seiten 36<note><p rend="footnote text"> 3<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>4.</p></note> Pf.</cell>
                   <cell>36 x</cell>
                </row>
                <row>
@@ -219,7 +211,7 @@
                   <cell>54 x</cell>
                </row>
                <row>
-                  <cell>2 Controve den hochwürdigsten Fürsten Kaspar Ignetz und Leopold vorstellend pr</cell>
+                  <cell>2 Controve den hochwürdigsten Fürsten <rs type="person" ref="#kaspar_ignaz_kuenigl">Kaspar Ignetz</rs> und <rs type="person" ref="#leopold_spaur">Leopold</rs> vorstellend pr</cell>
                   <cell>8 x</cell>
                </row>
                <row>
@@ -248,7 +240,7 @@
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell>10 Apotecker Glaschen</cell>
+                  <cell>10 Apotecker Glaslen</cell>
                   <cell>15 x</cell>
                </row>
                <row>
@@ -292,8 +284,8 @@
                   <cell>3 x</cell>
                </row>
                <row>
-                  <cell>4 Rosoli Gläsl</cell>
-                  <cell>8 x</cell>
+                  <cell>4<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> Rosoli Gläsl</cell>
+                  <cell>8<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>2.</p></note> x</cell>
                </row>
                <row>
                   <cell>2 mösenge Leichter mit Geirfües pr</cell>
@@ -321,7 +313,7 @@
                   <cell>2 x</cell>
                </row>
                <row>
-                  <cell>4 zinene Lücker pr</cell>
+                  <cell>4<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>3.</p></note> zinene Lücker pr</cell>
                   <cell>4 x</cell>
                </row>
                <row>
@@ -349,8 +341,8 @@
                   <cell>15 x</cell>
                </row>
                <row>
-                  <cell>2 Schuch Bürsten pr</cell>
-                  <cell>4 x</cell>
+                  <cell>2<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> Schuch Bürsten pr</cell>
+                  <cell>4<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> x</cell>
                </row>
                <row>
                   <cell>1 Glut Pfandl und 1 Rohr Leichter</cell>
@@ -358,12 +350,8 @@
                </row>
             </table>
             <p>In dem Verschlägl.</p>
+            <p>Vermög die der Kirchen Cassa vorfindigen zu den Beneficiaten Haus gehörigen Stellungs Instrument kommen nachstehende Posten von gegenwärtiger Inventur abzusezen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamte Bemerkung am linken Rand geschrieben.</hi></p></note></p>
             <table rend="rules">
-               <row>
-                  <cell>Vermög die der Kirchen Cassa vorfindigen zu den Beneficiaten Haus gehörigen Stellungs Instrument kommen nachstehende Posten von gegenwärtiger Inventur abzusezen</cell>
-                  <cell/>
-                  <cell/>
-               </row>
                <row>
                   <cell/>
                   <cell>1 altes Bethstädtl</cell>
@@ -375,7 +363,7 @@
                   <cell>10 x</cell>
                </row>
                <row>
-                  <cell>Gehört zur Stellung 5 x</cell>
+                  <cell>gehört zur Stellung 5 x</cell>
                   <cell>1 stainenes Ober- und Untergiesbecket</cell>
                   <cell>5 x</cell>
                </row>
@@ -396,13 +384,13 @@
                </row>
                <row>
                   <cell/>
-                  <cell>1 <hi rend="bold">Schreib Zeüg</hi> pr</cell>
+                  <cell>1 <bibl>Schreib Zeüg</bibl> pr</cell>
                   <cell>2 x</cell>
                </row>
                <row>
                   <cell/>
                   <cell>[Latus]</cell>
-                  <cell>3 f 56 x</cell>
+                  <cell>3 f 56 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Betrag korrigiert.</hi></p></note></cell>
                </row>
             </table>
             <p>
@@ -418,17 +406,17 @@
             <p>In der Kammer hinein.</p>
             <table rend="rules">
                <row>
-                  <cell>Gehört zur Stellung 42 x</cell>
+                  <cell>gehört zur Stellung 42 x</cell>
                   <cell>1 aufstehender Kasten mit Schloss und Band</cell>
                   <cell>42 x</cell>
                </row>
                <row>
-                  <cell>Gehört zur Stellung 12 x</cell>
+                  <cell>gehört zur Stellung 12 x</cell>
                   <cell>1 niederes Kästl mit Schloss und Banden</cell>
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell>Hieraus gehört einer zur Stellung pr 12 x</cell>
+                  <cell>hieraus gehört einer zur Stellung pr 12 x</cell>
                   <cell>2 Schleifstain</cell>
                   <cell>36 x</cell>
                </row>
@@ -532,9 +520,9 @@
                         <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>11.</p>
                      </note> deto Tischtüecher a 20 x</cell>
-                  <cell>3 f 20<note>
+                  <cell>3 f 20 x<note>
                         <p rend="footnote text">
-                           <hi rend="italic">Korrigiert aus</hi> 40.</p>
+                           <hi rend="italic"> Betrag korrigiert aus</hi>1 f 40 x.</p>
                      </note> x</cell>
                </row>
                <row>
@@ -546,7 +534,7 @@
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell>7 Schlafhaufen a 4 x</cell>
+                  <cell>7<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>5.</p></note> Schlafhaufen a 4 x</cell>
                   <cell>28 x</cell>
                </row>
                <row>
@@ -589,7 +577,7 @@
                   <cell>[Latus]</cell>
                   <cell>20 f 4 x<note>
                         <p rend="footnote text">
-                           <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>23 f 9 x.</p>
+                           <hi rend="italic" xml:space="preserve"> Betrag korrigiert aus </hi>18 f 24 x.</p>
                      </note>
                   </cell>
                </row>
@@ -604,10 +592,10 @@
                </row>
                <row>
                   <cell>1 einlezes Kamisol</cell>
-                  <cell>6 x<note>
+                  <cell>6<note>
                         <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>10.</p>
-                     </note>
+                     </note> x
                   </cell>
                </row>
                <row>
@@ -658,7 +646,7 @@
                   <cell>11 Pf. ungewaschenes härbens deto a 20 Pf. [sic!]</cell>
                   <cell>3 f 20<note>
                         <p rend="footnote text">
-                           <hi rend="italic">Korrigiert aus Auslassungsstrich.</hi>
+                           <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
                         </p>
                      </note> x</cell>
                </row>
@@ -671,12 +659,11 @@
                   <cell>7 f 40 x</cell>
                </row>
                <row>
-                  <cell>1 Dräen Banck samt der Zugehör, 14 unterschidliche Höbl, 31 zerschiedene Dräe <note>
-                        <p rend="footnote text">
-                           <hi rend="superscript">-8</hi>
-                           <hi rend="italic">Am linken Rand eingefügt.</hi>
+                  <cell>1 Dräen Banck samt der Zugehör, 14 unterschidliche Höbl, 31 zerschiedene Dräe-, [flach]e und Pall-Eisen<note>
+                        <p rend="footnote text">[flach]e und Pall-
+                           <hi rend="italic"> am linken Rand eingefügt.</hi>
                         </p>
-                     </note>[flach]e und Pall-<hi rend="superscript">8</hi>Eisen, 14 grösser und klenere</cell>
+                     </note>, 14 grösser und klenere</cell>
                   <cell/>
                </row>
                <row>
@@ -689,7 +676,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Borer, 11 Eisen, und Holzfeülen, 2 Spitzsäglen, 4 Hämerlen, 1 Schnizer, 3 Peis- und zwey Spizzänglen, 2 schlechte Zürggl, ein eissener Schraufzeüg mit 18 Borer, 1 Nahle, 1 Dräe Docke mit 2 mösinge Flaschen, 8 grösser- und klenere Spansagen, 6 Schraufzwinger, <hi rend="strikethrough">1 kupferne Leimpfann,</hi> per</cell>
+                  <cell>Borer, 11 Eisen, und Holzfeülen, 2 Spitzsäglen, 4 Hämerlen, 1 Schnizer, 3 Peis- und zwey Spizzänglen, 2 schlechte Zürggl, ein eissener Schraufzeüg mit 18 Borer, 1 Nahle, 1 Dräe Docke mit 2 mösinge Flaschen, 8 grössere und klenere Spansagen, 6 Schraufzwinger<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>1 kupferne Leimpfann.</p></note> <hi rend="strikethrough"></hi> per</cell>
                   <cell>6 f 0 x</cell>
                </row>
                <row>
@@ -713,7 +700,7 @@
                </row>
                <row>
                   <cell>7 grösser und klenere Pfändlen 3 Dürchling- und 3 Wasser Kellen pr</cell>
-                  <cell>3 f 18<note>
+                  <cell>3 f<note><p rend="footnote text">3 f<hi rend="italic" xml:space="preserve"> korrigiert aus Bindestrich als Auslassungszeichen.</hi></p></note> 18<note>
                         <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 48.</p>
                      </note> x</cell>
@@ -735,12 +722,7 @@
                   <cell>58 x</cell>
                </row>
                <row>
-                  <cell>1 Fleischpeil, <note>
-                        <p rend="footnote text">
-                           <hi rend="superscript">-11</hi>
-                           <hi rend="italic">Strichliert unterstrichen.</hi>
-                        </p>
-                     </note>1 Herdpfannknecht<hi rend="superscript">11</hi>, 1 Raifmesser 2 Turtenblecher, und 2 Turten Tribl</cell>
+                  <cell>1 Fleischpeil, 1 Herdpfannknecht<note><p rend="footnote text"> 1 Herdpfannknecht<hi rend="italic" xml:space="preserve"> strichliert unterstrichen.</hi></p></note>, 1 Raifmesser, 2 Turtenblecher, und 2 Turten Tribl</cell>
                   <cell>31 x</cell>
                </row>
                <row>
@@ -781,7 +763,7 @@
                   <cell>8 x</cell>
                </row>
                <row>
-                  <cell>2 eüssene Häfen pr</cell>
+                  <cell>2<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> eüssene Häfen pr</cell>
                   <cell>36 x</cell>
                </row>
                <row>
@@ -789,7 +771,7 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell>2 drätene, und 2 hilzene Poglsteizen, </cell>
+                  <cell>2 drätene, und 2 hilzene Voglsteizen, </cell>
                   <cell>18 x</cell>
                </row>
             </table>
@@ -823,9 +805,9 @@
                   <cell>9<note>
                         <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 8.</p>
-                     </note> f 50<note>
+                     </note> f 0<note>
                         <p rend="footnote text">
-                           <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
+                           <hi rend="italic"> Bindestrich als Auslassungszeichen korrigiert aus </hi>50.
                         </p>
                      </note> x</cell>
                </row>
@@ -843,7 +825,7 @@
                   <cell>27 x</cell>
                </row>
                <row>
-                  <cell>3 Näglschür mit Eisen Reifen, und ein Nachtstuel pr</cell>
+                  <cell>3 Näglgschür mit Eisen Reifen, und ein Nachtstuel pr</cell>
                   <cell>18 x</cell>
                </row>
                <row>
@@ -866,7 +848,7 @@
                   <cell>54 x</cell>
                </row>
                <row>
-                  <cell>1 Sesslstuel, und 1 <hi rend="bold">Schreib Bult</hi>,</cell>
+                  <cell>1 Sesslstuel, und 1 <bibl>Schreib Bult</bibl>,</cell>
                   <cell>16 x</cell>
                </row>
                <row>
@@ -967,11 +949,10 @@
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell>
-                     <hi rend="strikethrough">1</hi>6 Pfund geselchtes Fleisch a 5 x</cell>
+                  <cell>6<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1.</p></note> Pfund geselchtes Fleisch a 5 x</cell>
                   <cell>30<note>
                         <p rend="footnote text">
-                           <hi rend="italic">Gestrichen und über der Zeile erneut geschrieben.</hi>
+                           <hi rend="italic">Verwischt, gestrichen und über der Zeile erneut geschrieben.</hi>
                         </p>
                      </note> x</cell>
                </row>
@@ -980,7 +961,7 @@
                   <cell>20 x</cell>
                </row>
                <row>
-                  <cell>1 Gräeten Bänzl, und ein Zupfenschäffl pr</cell>
+                  <cell>1 Gräeten Bänzl, und ein Zapfenschäffl pr</cell>
                   <cell>18 x</cell>
                </row>
                <row>
@@ -1009,7 +990,7 @@
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell>1 kupferner Sechtkessl wiegt 16½ Pfundt zu 20 x macht</cell>
+                  <cell>1 kupferner Sechtkessl wiegt 16½ Pfundt zu 20 kr. macht</cell>
                   <cell>5 f 30 x</cell>
                </row>
             </table>
@@ -1033,7 +1014,7 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">Bücher in Folio.</hi>
+               <bibl>Bücher in Folio.</bibl>
             </p>
             <table rend="rules">
                <row>
@@ -1081,7 +1062,7 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">In Quart.</hi>
+               <bibl>In Quart.</bibl>
             </p>
             <table rend="rules">
                <row>
@@ -1139,7 +1120,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#supplementum_conferentiarum_mor_theol_p_a_kiliano_kazenberger">Supplementum Conferentiarum Mor. Theol. P. a Kiliano Kazenberger</rs>
+                     <rs type="bibl" ref="#supplementum_conferentiarum_mor_theol_p_a_kiliano_kazenberger">Supplementum Conferentiarum Mor. Theol. P.a Kiliano Kazenberger</rs>
                   </cell>
                   <cell>
                     15 x
@@ -1171,7 +1152,7 @@
                </row>
                <row>
                   <cell>
-                     Auszug des Grosen Catecissmus
+                     <rs type="bibl" ref="#catechismus_auszug">Auszug des Grosen Catecissmus</rs>
                   </cell>
                   <cell>
                      6 x
@@ -1179,7 +1160,7 @@
                </row>
                <row>
                   <cell>
-                     Richter Stuhl Kristi
+                     <rs type="bibl" ref="#richterstuhl_christi">Richter Stuhl Kristi</rs>
                   </cell>
                   <cell>
                      6 x
@@ -1204,7 +1185,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen
+                     <rs type="bibl" ref="#sonn_feiertagspredigen_brediger">Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen</rs>
                   </cell>
                   <cell>
                      12 x
@@ -1212,7 +1193,7 @@
                </row>
                <row>
                   <cell>
-                     Bethbüchl des Heiligen Augustini
+                     <rs type="bibl" ref="#betbuch_augustini">Bethbüchl des Heiligen Augustini</rs>
                   </cell>
                   <cell>
                      8 x
@@ -1239,7 +1220,7 @@
                </row>
                <row>
                   <cell>5½ Stuck Einundzweinzigner</cell>
-                  <cell>1 f 55½ x</cell>
+                  <cell>1 f 55½<note><p rend="footnote text"> ½<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt.</hi></p></note> x</cell>
                </row>
                <row>
                   <cell>Mintz pr</cell>
@@ -1306,7 +1287,7 @@
             <p>Abzüg</p>
             <table rend="rules">
                <row>
-                  <cell>Die Funeral Kosten betrefend, begehrn Ihro hochfreyherrlich Gnaden titl. etc. Herr Pfarrer allda nicht mehrers als per aversum.</cell>
+                  <cell>Die Funeral Kosten betrefend<note><p rend="footnote text"> -ef-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-ag-.</p></note>, begehrn Ihro hochfreyherrlich Gnaden titl. etc. Herr Pfarrer allda nicht mehrers als per aversum.</cell>
                   <cell>4 f 0 x</cell>
                </row>
                <row>
@@ -1314,26 +1295,12 @@
                   <cell>2 f 0x</cell>
                </row>
                <row>
-                  <cell>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="superscript">-16</hi>
-                           <hi rend="italic">Gesamter Eintrag am linken Rand nachgetragen.</hi>
-                        </p>
-                     </note>Der loblichen Lauretto Kapellen wegen der in der Kirchen verstatten Begräbnus,<hi rend="superscript">16</hi>
-                  </cell>
-                  <cell>3 f 0x</cell>
+                  <cell>Der loblichen Lauretto Kapellen wegen der in der Kirchen verstatten Begräbnus,</cell>
+                  <cell>3 f 0x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag durch Verweiszeichen am linken Rand nachgetragen.</hi></p></note></cell>
                </row>
                <row>
-                  <cell>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="superscript">-17</hi>
-                           <hi rend="italic">Gesamter Eintrag am linken Rand nachgetragen.</hi>
-                        </p>
-                     </note>Dem loblichen St. Niclaus Gotteshaus für 1 alts Messgewanth, so dem geistlichen Herrn Ableiber in Grab mitgeben worden<hi rend="superscript">17</hi>
-                  </cell>
-                  <cell>2 f 0 x</cell>
+                  <cell>Dem loblichen St. Niclaus Gotteshaus für 1 alts Messgewanth, so dem geistlichen Herrn Ableiber in Grab mitgeben worden</cell>
+                  <cell>2 f 0 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag durch Verweiszeichen am linken Rand nachgetragen.</hi></p></note></cell>
                </row>
                <row>
                   <cell>Und dem Herrn Cooperator <rs type="person" ref="#vischnaller_joseph">Josef Vischnaller</rs> sonderbar wegen in der Kranckheit des geistlichen Herrn Erblassers und bey dem Hinscheiden geleisten Beystand</cell>
@@ -1391,7 +1358,7 @@
                   <cell>12 f 30 x</cell>
                </row>
                <row>
-                  <cell>Dem Herrn Organisten, Mesner und Schulern laut Conto No 7</cell>
+                  <cell>[No] 7: Dem Herrn Organisten, Mesner und Schulern laut Conto No 7</cell>
                   <cell>7 f 6 x</cell>
                </row>
                <row>
@@ -1415,25 +1382,15 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                        </p>
-                     </note>Der vorhero gewesten Häuserin <rs type="person" ref="#prechtl_elisabeth">Elisabeth Prechtlin</rs> laut aigenhändiger Bekäntnus v. <date when="1774-12-23">23ten December 1774</date>, an verbliebenen Lidlohn</cell>
-                  <cell>23 f</cell>
+                  <cell>Der vorhero gewesten Häuserin <rs type="person" ref="#prechtl_elisabeth">Elisabeth Prechtlin</rs> laut aigenhändiger Bekäntnus v. <date when="1774-12-23">23ten December 1774</date>, an verbliebenen Lidlohn</cell>
+                  <cell>23 f 0 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag durch Verweiszeichen am linken Rand nachgetragen.</hi></p></note></cell>
                </row>
                <row>
-                  <cell>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                        </p>
-                     </note>Herrn <rs type="person" ref="#anrather_franz">Franz Anrather</rs> Chyrurgo zu <rs type="place" ref="#brunegg">Bruneck</rs> aus 4 f 18 x moderirter massen die Helfte mit</cell>
+                  <cell>Herrn <rs type="person" ref="#anrather_franz">Franz Anrather</rs> Chyrurgo zu <rs type="place" ref="#brunegg">Bruneck</rs> aus 4 f 18 x moderirter massen die Helfte mit</cell>
                   <cell>2 f 9<note>
                         <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 10.</p>
-                     </note> x</cell>
+                     </note> x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag durch Verweiszeichen am linken Rand nachgetragen.</hi></p></note></cell>
                </row>
                <row>
                   <cell>[Latus]</cell>
@@ -1470,11 +1427,11 @@
                </row>
             </table>
             <p>
-               <note>
+               [Marginalzuschreibung:]<note>
                   <p rend="footnote text">
-                     <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                     <hi rend="italic"> Gesamte Zuschreibung am linken Rand geschrieben.</hi>
                   </p>
-               </note>[Marginalzuschreibung:]</p>
+               </note></p>
             <table rend="rules">
                <row>
                   <cell>Obrigkeitliche Abhandlungs Taxa</cell>
@@ -1505,21 +1462,18 @@
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell>
-                     <p>
-                        <hi rend="strikethrough">Rest:</hi> [Summa]</p>
-                     <p>Debit 15 f 14 x von darumen weillen das Schreib Geld um 2 f 29 x minders betrofen</p>
-                  </cell>
+                  <cell>[Summa]<note><p rend="footnote text"> Rest:<hi rend="italic" xml:space="preserve"> gestrichen</hi></p></note></cell>
                   <cell>17 f 43 x</cell>
+               </row>
+               <row>
+                  <cell>Debit 15 f 14 x von darumen weillen das Schreib Geld um 2 f 29 x minders betrofen</cell>
+                  <cell/>
                </row>
             </table>
             <table rend="rules">
                <row>
                   <cell>Summa der Abzüg</cell>
-                  <cell>145 f <hi rend="strikethrough">4</hi> 13<note>
-                        <p rend="footnote text"> 13 <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                        </p>
-                     </note> x</cell>
+                  <cell>145 f 13<note><p rend="footnote text"><hi rend="italic">Über der Zeile geschrieben statt gestrichenem</hi> 4.</p></note> x</cell>
                </row>
             </table>
             <p>
@@ -1528,25 +1482,17 @@
             <table rend="rules">
                <row>
                   <cell>Hierüber verbleibt noch an Vermögen vorständig, sovielen in Auswurf gekommen 58 f 48½ x id est</cell>
-                  <cell>
-                     <hi rend="strikethrough">89</hi> 58 f <hi rend="strikethrough">57</hi> 48½ x<note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Die richtigen Werte wurden nach der Streichung darüber nachgetragen.</hi>
-                        </p>
-                     </note>
-                  </cell>
+                  <cell>58 f 48½ x<note><p rend="footnote text"><hi rend="italic"> Die richtigen Werte wurden nach der Streichung von </hi>89 f 57 x<hi rend="italic"> darüber nachgetragen.</hi></p></note></cell>
                </row>
                <row>
-                  <cell>Darzue seind, wie vor zu sechen, zwey Geschwistrigeth als gleiche Erbinen vurhanden, kommt also auf einem zur gleichen Portion: 29<note>
-                        <p rend="footnote text"> 9 <hi rend="italic" xml:space="preserve">Korrigiert aus begonnener </hi>6.</p>
+                  <cell>Darzue seind, wie vor zu sechen, zwey Geschwistrigeth als gleiche Erbinen verhanden, kommt also auf einem zur gleichen Portion: 29<note>
+                        <p rend="footnote text"> 9 <hi rend="italic" xml:space="preserve">korrigiert aus begonnener </hi>6.</p>
                      </note> f 24¼ x das ist</cell>
-                  <cell>
-                     <hi rend="strikethrough">44</hi> 29<note>
-                        <p rend="footnote text"> 9 <hi rend="italic" xml:space="preserve">Korrigiert aus begonnener </hi>6.</p>
-                     </note> f <hi rend="strikethrough">58½</hi> 24¼ x</cell>
+                  <cell>29 f 24¼ x<note><p rend="footnote text"><hi rend="italic"> Die richtigen Werte wurden nach der Streichung von </hi>44 f 58½ x<hi rend="italic"> darüber nachgetragen.</hi></p></note></cell>
                </row>
             </table>
-            <p>Und würdet das ganze und vellig, vor beschriebene und unbeschriebene, geistliche Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockerische</rs> Vermögen denen verhandenen zweyen Jungfrauen Baasen und Erbinen hiemit Erb Eigenthum weise gegen Abführung gesamter Schulden hinnaus, und was etwo weiters in Vorschein kommen möchte, hiemit eingeraumt, und denenselben bevor gestellet, wie bereits schon oben angebracht, das selbige nebst was an Herr brüderlichen <rs type="person" ref="#stocker_antoni">Anton Stockerischen</rs> Erb darzu komt, sohin unter sich selbs zuvertheillen, indessen aber sie Erbinen auch in eventum dieser Erbs Immissions halber sowohl der hochgeistlichen angeordneten</p>
+            <p>Und würdet das ganze und vellig, vor beschriebene und unbeschriebene, geistliche Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockerische</rs> Vermögen denen verhandenen zweyen Jungfrauen Baasen und Erbinen hiemit Erb Eigenthum weise gegen Abführung gesamter Schulden hinnaus, und was etwo weiters in Vorschein kommen möchte, hiemit eingeraumt, und denenselben bevor gestellet, wie bereits schon oben angebracht, das selbige nebst was an Herr
+            brüderlichen <rs type="person" ref="#stocker_antoni">Anton Stockerischen</rs> Erb darzu komt, sohin unter sich selbs zuvertheillen, indessen aber sie Erbinen auch in eventum dieser Erbs Immissions halber sowohl der hochgeistlichen angeordneten</p>
             <p>
                <pb n="305r"/>
             </p>

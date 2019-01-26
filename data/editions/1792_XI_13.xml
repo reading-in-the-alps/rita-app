@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1792 XI 13/14 (Inventur) &amp; 15 (Vermögensergänzung), St. Georgen [Tratter Josef (Kaplan), fol. 477r-502v]</title>
+            <title>1792 XI 13/14 (Inventur) &amp; 15 (Vermögensergänzung), St. Georgen [Tratter Josef (Kaplan)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -58,29 +58,22 @@
             <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-13">13. November 1792</date>
                 </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
-            <p>
-               <note>
-                  <p rend="footnote text">
-                     <hi rend="superscript">-1</hi>
-                     <hi rend="italic">Am linken Rand geschrieben.</hi>
-                  </p>
-               </note>Deto hierfür samt Schreibgeld 1 f 2 x, so in Verfachbüchl eingeschrieben worden.<hi rend="superscript">1</hi>
+            <p>Deto hierfür samt Schreibgeld 1 f 2 x, so in Verfachbüchl eingeschrieben worden.
+               <note><p rend="footnote text"><hi rend="italic">Gesamte Anmerkung am linken Rand geschrieben.</hi></p></note>
             </p>
-            <p>Erscheint <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda mit dem Anbringen, dass, weilen am dato für weilenden den hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewest daselbstigen Kapplans der dreysigst Heilige Gottesdienst abgehalten worden, und eben desselben Erben zugegen seynd, er sich schuldig befinde anzuzeigen, dass der nun abgeleibte geistliche Herr Kapplan, nachdem dieser von der vorigen Krankheit wiederum die Genessung erhalten, sich zu ihne vernemmen gelassen, <hi rend="strikethrough">das</hi> er seye entschlossen mit seiner zeitlichen Habschaft noch bey seiner Gesundheit eine würkliche Disposition aufzurichten, und seinen diesfälligen lesten Willen der Landgerichts Obrigkeit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> zu behörigen Aufzeichnung, damit seiner Zeit alles ordentlich berichtiget werden könne, dahin zu eröffnen, es solle nämlich all das jenige, was er nämlich von seinen Eltern ererbet, auf seinen Abgang seinen Ge-</p>
+            <p>Erscheint <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda mit dem Anbringen, dass, weilen am dato für weilend den hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewest daselbstigen Kapplans der dreysigst Heilige Gottesdienst abgehalten worden, und eben desselben Erben zugegen seynd, er sich schuldig befinde anzuzeigen, dass der nun abgeleibte geistliche Herr Kapplan, nachdem dieser von der vorigen Krankheit wiederum die Genessung erhalten, sich zu ihne vernemmen gelassen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p></note> er seye entschlossen mit seiner zeitlichen Habschaft noch bey seiner Gesundheit eine würkliche Disposition aufzurichten, und seinen diesfälligen lesten Willen der Landgerichts Obrigkeit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> zur behörigen Aufzeichnung, damit seiner Zeit alles ordentlich berichtiget werden könne, dahin zu eröffnen, es solle nämlich all das jenige, was er nämlich von seinen Eltern ererbet, auf seinen Abgang seinen Ge-</p>
             <p>
                <pb n="477v"/>
             </p>
-            <p>schwisterten wiederum gänzlich zu kommen, das übrige aber zu seinen Seelenheil, und allenfalls auch einen Jahrtag angewendet werden; Er <rs type="person" ref="#hueber_christian">Christian Hueber</rs> wolle demenach mit dieser Kundmachung sein Gewissen entledigen, es möge sodann dieser <hi rend="strikethrough">lest</hi> ihme anvertraute leste Willen in Erfüllung gebracht werden, je oder nicht. Zur Bekräftigung dessen hat er sich allda eigenhändig unterschrieben.</p>
-            <p>[eigenhändige Unterschrift] <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mössner</p>
-            <p>Die Landgerichts Obrigkeit hat demenach nicht ermangelt diese <rs type="person" ref="#hueber_christian">Christian Hueberische</rs> Aussage deme eben gegenwärtigen Erben, <hi rend="strikethrough">und st</hi> als<note>
-                  <p rend="footnote text">
-                     <hi rend="italic">Über der Zeile geschrieben.</hi>
-                  </p>
-            </note> dem Herrn Ableibers Geschwisterten, und respective deren Vertrettern, als geistlichen Herrn <rs type="person" ref="#tratter_balthasar">Balthasar</rs>, <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin</rs> dann <rs type="person" ref="#peintner_georg">Georg Peintner</rs> qua verpflichten Curatore der dato nicht beygekommenen <rs type="person" ref="#tratter_veit">Veit</rs>, <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterischen</rs> Hauptstollen vorzuhalten, welche sich hierüber</p>
+            <p>schwisterten wiederum gänzlich zukommen, das übrige aber zu seinen Seelenheil, und allenfalls auch einen Jahrtag angewendet werden; Er <rs type="person" ref="#hueber_christian">Christian Hueber</rs> wolle demenach mit dieser Kundmachung sein Gewissen entledigen, es möge sodann dieser<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>lest-.</p></note> ihme anvertraute leste Willen in Erfüllung gebracht werden, ja oder nicht. Zur Bekräftigung dessen hat er sich allda eigenhändig unterschrieben.</p>
+            <p>[Eigenhändige Unterschrift:] <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mössner</p>
+            <p>Die Landgerichts Obrigkeit hat demenach nicht ermangelt diese <rs type="person" ref="#hueber_christian">Christian Hueberische</rs> Aussage denen eben gegenwärtigen Erben, als<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>und <hi rend="italic" xml:space="preserve">sowie darüber geschriebenem und ebenfalls gestrichenem </hi>de-.</p></note> denen Herrn Ableibers Geschwisterten, und respective
+            deren Vertrettern, als geistlichen Herrn <rs type="person" ref="#tratter_balthasar">Balthasar</rs>, <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin</rs>, dann <rs type="person" ref="#peintner_georg">Georg Peintner</rs> qua verpflichten Curatore der dato nicht beygekommenen <rs type="person" ref="#tratter_veit">Veit</rs>,
+            <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterischen</rs> Hauptstollen vorzuhalten, welche sich hierüber</p>
             <p>
                <pb n="478r"/>
             </p>
-            <p>dahin geäusseret haben, sie können sich einsmals nicht so gleich entschliessen, dieses, was <rs type="person" ref="#hueber_christian">Christian Hueber</rs> ausgesagt, für einen würklichen lesten Willen anzuerkenen; wurde also nichts anderes zu erfinden seyn, so werden sie nach beschehener Vermögens Ergänzung ihr Erklären ad protocollum geben, indessen solle alles unpraejudiziert in suo esse beruhen, deme der <rs type="person" ref="#peintner_georg">Georg Peintner</rs> in proprio beyzusetzen gebetten, er habe das nämliche, was <rs type="person" ref="#hueber_christian">Christian Hueber</rs> ausgesagt, ebenfalls von geistlichen Herrn Erblasser vernommen, wolle aber seine Pupällen andurch nicht Nachtheilliges reden.</p>
+            <p>dahin geäusseret haben, sie können sich einsmals nicht so gleich entschliessen, dieses, was <rs type="person" ref="#hueber_christian">Christian Hueber</rs> ausgesagt, für einen würklichen lesten Willen anzuerkenen; wurde also nichts anderes zu erfinden seyn, so werden sie nach beschehener Vermögens Ergänzung ihr Erklären ad protocollum geben, indessen solle alles unpraejudiziert in suo esse beruhen, deme der <rs type="person" ref="#peintner_georg">Georg Peintner</rs> in proprio beyzusetzen gebetten, er habe das nämliche, was <rs type="person" ref="#hueber_christian">Christian Hueber</rs> ausgesagt, ebenfalls von geistlichen Herrn Erblasser vernommen, wolle aber seine Pr(inci)pällen andurch nicht Nachtheilliges reden.</p>
             <p>
                <pb n="478v"/>
             </p>
@@ -96,7 +89,7 @@
             <p>Zugegen des wohl geachten <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Mühlermeisters, und Landgerichts Ausschus allda als zugezohenen Taxatore, und Beysitzer.</p>
             <p>[Marginalzuschreibung:]<note>
                   <p rend="footnote text">
-                     <hi rend="italic">Gesamte Zuschreibung am linken Rand eingetragen.</hi>
+                     <hi rend="italic">Gesamte Zuschreibung am linken Rand geschrieben.</hi>
                   </p>
                </note>
             </p>
@@ -122,7 +115,7 @@
                   </cell>
                </row>
                <row>
-                  <cell>Handlung ab 3. Täg jedem Tag der Gerichtsverhandlung a 8 f 6 x</cell>
+                  <cell>Handlung ab 3 Täg jedem Tag der Gerichtsverhandlung a 8 f 6 x</cell>
                   <cell>24 f 18 x</cell>
                </row>
                <row>
@@ -130,16 +123,16 @@
                   <cell>
                      <p>1 f 30<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
+                              <hi rend="italic"> Korrigiert aus Bindestrich als Auslassungszeichen.</hi>
                            </p>
                         </note> x</p>
-                     <p>44<note>
+                     <p>54<note>
                            <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Zweite </hi>4 <hi rend="italic">korrigiert aus</hi> 8.</p>
+                              <hi rend="italic"> Korrigiert aus vermutlich</hi> 48.</p>
                         </note> x</p>
                      <p>49<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 30.</p>
+                              <hi rend="italic"> Korrigiert aus</hi> 30.</p>
                         </note> x</p>
                   </cell>
                </row>
@@ -172,22 +165,20 @@
                   <cell/>
                </row>
             </table>
-            <p>Den 14ten vorigen Monats October ist der hoch ehrwürdige Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewester Kapplon allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> der Pfarr <rs type="place" ref="#gais">Gais</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> nach einer kurz ausgestandenen Krankheit gottseelig verschieden. Auf solchen Todtfall wurde nicht nur von Ihro Hochwürden Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> auf gnädige Decanal Anweisung all das jenige, was an zur Seelsorge, und auch unmittelbar anderen geistlichen Verrichtungen <hi rend="strikethrough">der</hi> gehörigen<note>
-                  <p rend="footnote text">
-                     <hi rend="italic">Über der Zeile korrigiert.</hi>
-                  </p>
-               </note> Schriften verhanden, obsigniret, sondern auch von gedachter Landgerichts Obrigkeit den 15ten darauf an nöthigen Orten die Secretur angeleget: Weilen nun am dato für den hochehrwürdigen Herrn</p>
+            <p>Den <date when="1792-10-14">14ten vorigen Monats October</date> ist der hoch ehrwürdige Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewester Kapplon allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> der Pfarr <rs type="place" ref="#gais">Gais</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> nach einer kurz ausgestandenen Krankheit gottseelig verschieden. Auf solchen Todtfall wurde nicht nur von Ihro Hochwürden
+            Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> auf gnädige Decanal Anweisung all das jenige, was an zur Seelsorge, und auch unmittelbar anderen geistlichen Verrichtungen gehörigen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>der.</p></note> Schriften verhanden, obsigniret, sondern auch von gedachter Landgerichts Obrigkeit den <date when="1792-10-15">15ten darauf</date> an nöthigen Orten die Secretur angeleget: Weilen nun am dato für den hochehrwürdigen Herrn</p>
             <p>
-               <pb n="479v"/> Ableiber der dreysigst Heilige Gottesdienst abgehalten worden, so hat mehr besagte Landgerichts Obrigkeit hierauf vor allen Ihro Hochwürden Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> die von wohl demselben obsignirte Schriften extradiret, sodann die landgerichtliche Secretur in Gegenwart hienach einkommender Erbs Interessenten abgenommen, und in den Behältnissen nachgesuchet, obe nicht etwo eine schriftliche lestwillige Verordnung verhanden, worvon man aber nichts zu Gesicht gekommen, wohl hingegen hat der alldaige Mesner <rs type="person" ref="#hueber_christian">Christian Hueber</rs> angezeiget, was er von dem hochwürdigen Herrn Erblasser, wie dieser zu disponiren gesinnet seye, vernommen habe, diese Anzeige wurde dahero sonderbar zu Protokoll gebracht, und denen Partheyen am dato eröffnet. Auf diesen Erfolg haben die Erbs Interessenten, als des Herrn Erblassers Geschwistern, und respective deren Nachkömmlinge, nämlichen</p>
+               <pb n="479v"/> Ableiber der dreysigst Heilige Gottesdienst abgehalten worden, so hat mehr besagte Landgerichts Obrigkeit hierauf vor allen Ihro Hochwürden Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> die von wohl demselben obsignirte Schriften extradiret, sodann die landgerichtliche Secretur in Gegenwart hienach einkommender Erbs Interessenten abgenommen, und in den Behältnissen nachgesuchet, obe nicht etwo eine schriftliche lestwillige Verordnung verhanden, worvon man aber nichts zu Gesicht gekommen, wohl hingegen hat der alldaige Mesner <rs type="person" ref="#hueber_christian">Christian Hueber</rs> angezeiget, was er von dem hochwürdigen Herrn Erblasser, wie dieser zu disponiren gesinnet seye, vernommen habe, diese Anzeige wurde dahero sonderbar zu Protokoll gebracht, und denen Partheyen am dato eröffnet. Auf diesen Erfolg haben die Erbs Interessenten, als des Herrn Erblassers Geschwistern, und respective deren Nachkömmlinge, nämlich</p>
             <p>
                <pb n="480r"/>
             </p>
             <p>1: der wohl ehrwürdige Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> Cooperator zu <rs type="place" ref="#lazfonns">Latzfons</rs>, dann</p>
             <p>2: <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, Tratter allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Stadtgerichts <rs type="place" ref="#brunegg">Bruneck</rs>, weiters</p>
-            <p>3: <rs type="person" ref="#tratter_maria">Maria Tratterin</rs> verwittwete Pifraderin Prantlechnerin daselbs in assistentia des wohl ehrsamen <rs type="person" ref="#felser_joseph">Joseph Felsers</rs> halben Kaltenhausers allda, nicht weniger</p>
-            <p>4: der auch wohl ehrsame <rs type="person" ref="#peintner_georg">Georg Peintner</rs> Kachler Würth daselbs als obrigkeitlicher verpflichten Curatores nicht nur der von Bruder <rs type="person" ref="#tratter_veit">Veit Tratter</rs> gewesten Weisgärbermeister zu <rs type="place" ref="#stoerzing">Störzing</rs> bey <rs type="person" ref="#tratter_anna">Anna gebohrnen Ofnerin</rs> nachgelassenen 8 Kindern, deren Nämen allda vorbehalten, wovon nur sie Wittib gegenwärtig, sondern auch</p>
-            <p>5to: der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> einer Wittwe in Borgo nächst Reveredo, und</p>
-            <p>6to: der von weilend <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> in Pasen, oder selber Gegend ruckbegebenen Descendenten</p>
+            <p>3: <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin Prantlechnerin</rs> daselbs in assistentia des wohl ehrsamen <rs type="person" ref="#felser_joseph">Joseph Felsers halben Kaltenhausers</rs> allda, nicht weniger</p>
+            <p>4: der auch wohl ehrsame <rs type="person" ref="#peintner_georg">Georg Peintner</rs> Kachler Würth daselbs als obrigkeitlicher verpflichten Curatores nicht nur der von Bruder <rs type="person" ref="#tratter_veit">Veit Tratter</rs> gewesten Weisgärbermeistern zu <rs type="place" ref="#stoerzing">Störzing</rs> bey
+            <rs type="person" ref="#tratter_anna">Anna gebohrnen Ofnerin</rs> nachgelassenen 8 Kindern, deren Nämen allda vorbehalten, wovon nur sie Wittib gegenwärtig, sondern auch</p>
+            <p>5to: der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> einer Wittwe in Borgo nächst <rs type="place" ref="#roveredo">Roveredo</rs>, und</p>
+            <p>6to: der von weilend <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> in Pasln, oder selber Gegend ruckbegebenen Descendenten</p>
             <p>eine lobliche Landgerichts Obrigkeit weiters ersuchet unter einen mit der Verlassenschafts Abhandlung fürzugehen,</p>
             <p>
                <pb n="480v"/>
@@ -196,7 +187,10 @@
             <p>Inventur.</p>
             <p>Nämlichen an</p>
             <p>Baarschaft.</p>
-            <p>In dem Schlafzimmer, und zwar in dem Pult befinden sich in einer hölzenen Bichs</p>
+            <p>In dem Schlafzimmer, und zwar in dem Pult, befinden sich in einer hölzenen Bichs</p>
+
+<!-- stopped here 1110179.jpg -->
+
             <table rend="rules">
                <row>
                   <cell>36 Kayserliche, Salzburger, und Conventions Thaler a 2 f 6 x</cell>

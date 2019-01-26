@@ -50,6 +50,9 @@
             <place xml:id="unterschönberg">
                <placeName>Unterschönberg</placeName>
             </place>
+            <place xml:id="ahrn">
+               <placeName>St. Johann im Ahrntal</placeName>
+            </place>
             <place xml:id="auf-der-scheibe-neustift">
                <placeName>auf der Scheibe (Neustift)</placeName>
             </place>
