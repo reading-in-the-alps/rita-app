@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1797 XII 1 – 1798 III 31, Dietenheim [Lechner Georg (Beneficiat / Priester und Lokalkaplan), fol. 208r-247v]</title>
+            <title>1797 XII 1 – 1798 III 31, Dietenheim [Lechner Georg (Beneficiat / Priester und Lokalkaplan)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -53,10 +53,14 @@
       <body>
          <div>
             <p>
+               <pb n="209v"/>
+            </p>
+            <p>[Rubrum:] Testament von Priester <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan in <rs type="place" ref="#dietenheim">Diethenheim</rs>, 1797.</p>
+            <p>
                <pb n="208r"/>
             </p>
             <p>In Namen der allerheiligsten Dreyfaltigkeit Gottes Vaters, des Sohns und des Heiligen Geistes Amen.</p>
-            <p>Nachdem ich <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Priester, und Localcaplan zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, in meinem zimlich hochen Alter, innier mit Kranckheiten von Gott heimgesuchet werde, so habe mich entschlossen folgende meine leze Willens Mainung zu verfassen, und zu erklären. Zum Bericht zeuge an, dass ich kein ererbtes Vermögen habe, was ich aber gesohnen, und erübriget, bestehet in weniger Baarschaft, etwas Silber Geschmeid, <hi rend="bold">Birchern</hi>, gewise Mobilien, und Haus Rath, wie auch 100 f sage hundert Gulden anligendes Capital. Hirzu ist mein ungezweifelter einziger Erb (ab intestato) mein leiblicher Bruder <rs type="person" ref="#lechner_johan_babtist">Johan Babtist Lechner</rs>, ledigen Stands, für welchen ich aber eine weltliche Obrigkeit bitte für diesen armseligen Menschen der seiner nicht fächig ist, und das wenige Vermögen selbs nicht besorgen kann, eine gute sorgfältige Vorsorge zu treffen. Schulden hinaus habe keine, verlange aber das von diesen meinen Vermögen folgende Legata genauist sollen praestiert werden.</p>
+            <p>Nachdem ich <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Priester, und Localcaplan zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, in meinem zimlich hochen Alter, immer mit Kranckheiten von Gott heimgesuchet werde, so habe mich entschlossen folgende meine leze Willens Mainung zu verfassen, und zu erklären. Zum Bericht zeuge an, dass ich kein ererbtes Vermögen habe, was ich aber gesohnen, und erübriget, bestehet in weniger Baarschaft, etwas Silber Geschmeid, <bibl>Birchern</bibl>, gewise Mobilien, und Haus Rath, wie auch 100 f sage hundert Gulden anligendes Capital. Hiezu ist mein ungezweifelter einziger Erb (ab intestato) mein leiblicher Bruder <rs type="person" ref="#lechner_johan_babtist">Johan Babtist Lechner</rs>, ledigen Stands, für welchen ich aber eine weltliche Obrigkeit bitte für diesen armseligen Menschen der seiner nicht fächig ist, und das wenige Vermögen selbs nicht besorgen kann, eine gute sorgfältige Vorsorge zu treffen. Schulden hinaus habe keine, verlange aber das von diesen meinen Vermögen folgende Legata genauist sollen praestiert werden.</p>
             <p>1mo verlange auf mein Absterben die <hi rend="strikethrough">Gott</hi> Bestatnis meines Körpers auf eine für einen Priester anständige Weise mit 6 Ämtern und einen Jahrtag.</p>
             <p>2do sollen für meine abgeschidene Seele um 50 f sage fünfzig Gulden Heilige Messen gelessen werden eine a 30 x, wovon die Helfte dennen P. P. Cappucinern in <rs type="place" ref="#brunegg">Bruneck</rs>, die Helfte aber andern Priestern zur baldigen Abfertigung ohne Verweilung sollen gegeben werden.</p>
             <p>
@@ -67,7 +71,7 @@
             <p>5to: Denen Armen zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, und Luns zechen Gulden wovon aber den alten Muz einen armen Mann in <rs type="place" ref="#dietenheim">Diethenheim</rs> ein Species Thaler alein zu geben ist.</p>
             <p>6to: Meiner Dienst Magdt <rs type="person" ref="#burger_gertraud">Gertraud Burgerin</rs> in Rücksicht ihrer treu geleisteten Dienste, und besonders in meinen schon lang währigen Unbeslichkeiten geleisteten Liebe, vermache hundert Gulden, und den ganzen Lohn des laufenden Jahrs, samt den Gewandkasten.</p>
             <p>7timo: Den armen <rs type="person" ref="#weisel_vincenz">Weisel Vincenz</rs>, welchen ich bisher in meinen Widum uns Erbarmnis behalten habe, verschaffe zu Erlehrnung einer Handthierung, weil er doch zum Studieren nicht scheinet tauglich zu sein dreysig Gulden, welches Geld aber nicht in den Händen der Mutter sollen gegeben werden. Soll er aber vor Erlehrnung einer Handthierung sterben so sollen diese dreysig Gulden für mein Seelen Heil mit Heiligen Messen verwendet werden.</p>
-            <p>Octavo: Der löblichen St. Jacobs Kirchen in <rs type="place" ref="#dietenheim">Diethenheim</rs> schencke mein ligendes Kriskindlein, die 4 Piramider mit Gold Schneid Arbeit geziehret, die 4 grösseren, und 8 kleinern saubern Buschen Stöck</p>
+            <p>8t[a]vo: Der löblichen St. Jacobs Kirchen in <rs type="place" ref="#dietenheim">Diethenheim</rs> schencke mein ligendes Kriskindlein, die 4 Piramider mit Gold Schneid Arbeit geziehret, die 4 grösseren, und 8 kleinern saubern Buschen Stöck</p>
             <p>
                <pb n="209r"/>
             </p>
@@ -75,7 +79,7 @@
                   <p rend="footnote text">
                      <hi rend="italic">Baldachin.</hi>
                   </p>
-               </note>, doch mit deme dass man es fleisig, und sorgfältig aufbevehret.</p>
+               </note>, doch mit deme dass man es fleisig, und sorgfältig aufbevahret.</p>
             <p>9no: Den Weingartner zu <rs type="place" ref="#muehlbach">Mihlwach</rs> vernher zu einen Angedencken die von Wachs gemachte Heilige Dreyfaltigkeit.</p>
             <p>10mo: Der <rs type="person" ref="#weingartner_helena_maria">Helena Maria Weingartnerin</rs>, seiner Tochter, schencke zwey Species Thaller.</p>
             <p>11mo: Zum Exekutor dieses Testaments ernehne den ehrsamen <rs type="person" ref="#strasser_johan">Johan Strasser</rs> Messner zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, welcher bemühet sein soll meinen Willen möglichst zu erfühlen, und mein ausständiges Vermögen zu samlen, für welches ihm vier Species Thaller vermache, besondere Ausgaben bey diesen Geschäfte kann er auch besonders von meinen Vermögen fordern, dieses ist nur für seine Bemühung.</p>
@@ -86,12 +90,11 @@
             <p>[eigenhändige Unterschrift und Siegel:] Ich bezeige mit Betschafft und Unterschrifft das dises der leste Wilen und Meinung des Briesters Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> etc. wie obsteht ist. <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
                 </p>
             <p>
-               <pb n="209v"/>
-            </p>
-            <p>[Rubrum:] Testament von Priester <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan in <rs type="place" ref="#dietenheim">Diethenheim</rs>, 1797.</p>
-            <p>
                <pb n="210r"/>
             </p>
+
+<!-- stopped here -->
+
             <p>Actum <rs type="place" ref="#dietenheim">Diettenheim</rs> in dem k.k. Lokal Kaplaney Widum den <date when="1797-12-26">26t. December 1797</date>
                 </p>
             <p>Aus Verordnung loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
