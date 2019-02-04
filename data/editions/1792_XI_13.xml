@@ -66,15 +66,28 @@
                 </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Deto hierfür samt Schreibgeld 1 f 2 x, so in Verfachbüchl eingeschrieben worden.
-               <note><p rend="footnote text"><hi rend="italic">Gesamte Anmerkung am linken Rand geschrieben.</hi></p></note>
+               <note>
+                        <p rend="footnote text">
+                            <hi rend="italic">Gesamte Anmerkung am linken Rand geschrieben.</hi>
+                        </p>
+                    </note>
             </p>
-            <p>Erscheint <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda mit dem Anbringen, dass, weilen am dato für weilend den hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewest daselbstigen Kapplans der dreysigst Heilige Gottesdienst abgehalten worden, und eben desselben Erben zugegen seynd, er sich schuldig befinde anzuzeigen, dass der nun abgeleibte geistliche Herr Kapplan, nachdem dieser von der vorigen Krankheit wiederum die Genessung erhalten, sich zu ihne vernemmen gelassen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p></note> er seye entschlossen mit seiner zeitlichen Habschaft noch bey seiner Gesundheit eine würkliche Disposition aufzurichten, und seinen diesfälligen lesten Willen der Landgerichts Obrigkeit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> zur behörigen Aufzeichnung, damit seiner Zeit alles ordentlich berichtiget werden könne, dahin zu eröffnen, es solle nämlich all das jenige, was er nämlich von seinen Eltern ererbet, auf seinen Abgang seinen Ge-</p>
+            <p>Erscheint <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda mit dem Anbringen, dass, weilen am dato für weilend den hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewest daselbstigen Kapplans der dreysigst Heilige Gottesdienst abgehalten worden, und eben desselben Erben zugegen seynd, er sich schuldig befinde anzuzeigen, dass der nun abgeleibte geistliche Herr Kapplan, nachdem dieser von der vorigen Krankheit wiederum die Genessung erhalten, sich zu ihne vernemmen gelassen,<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p>
+                    </note> er seye entschlossen mit seiner zeitlichen Habschaft noch bey seiner Gesundheit eine würkliche Disposition aufzurichten, und seinen diesfälligen lesten Willen der Landgerichts Obrigkeit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> zur behörigen Aufzeichnung, damit seiner Zeit alles ordentlich berichtiget werden könne, dahin zu eröffnen, es solle nämlich all das jenige, was er nämlich von seinen Eltern ererbet, auf seinen Abgang seinen Ge-</p>
             <p>
                <pb n="477v"/>
             </p>
-            <p>schwisterten wiederum gänzlich zukommen, das übrige aber zu seinen Seelenheil, und allenfalls auch einen Jahrtag angewendet werden; Er <rs type="person" ref="#hueber_christian">Christian Hueber</rs> wolle demenach mit dieser Kundmachung sein Gewissen entledigen, es möge sodann dieser<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>lest-.</p></note> ihme anvertraute leste Willen in Erfüllung gebracht werden, ja oder nicht. Zur Bekräftigung dessen hat er sich allda eigenhändig unterschrieben.</p>
+            <p>schwisterten wiederum gänzlich zukommen, das übrige aber zu seinen Seelenheil, und allenfalls auch einen Jahrtag angewendet werden; Er <rs type="person" ref="#hueber_christian">Christian Hueber</rs> wolle demenach mit dieser Kundmachung sein Gewissen entledigen, es möge sodann dieser<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>lest-.</p>
+                    </note> ihme anvertraute leste Willen in Erfüllung gebracht werden, ja oder nicht. Zur Bekräftigung dessen hat er sich allda eigenhändig unterschrieben.</p>
             <p>[Eigenhändige Unterschrift:] <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mössner</p>
-            <p>Die Landgerichts Obrigkeit hat demenach nicht ermangelt diese <rs type="person" ref="#hueber_christian">Christian Hueberische</rs> Aussage denen eben gegenwärtigen Erben, als<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>und <hi rend="italic" xml:space="preserve">sowie darüber geschriebenem und ebenfalls gestrichenem </hi>de-.</p></note> denen Herrn Ableibers Geschwisterten, und respective
+            <p>Die Landgerichts Obrigkeit hat demenach nicht ermangelt diese <rs type="person" ref="#hueber_christian">Christian Hueberische</rs> Aussage denen eben gegenwärtigen Erben, als<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>und <hi rend="italic" xml:space="preserve">sowie darüber geschriebenem und ebenfalls gestrichenem </hi>de-.</p>
+                    </note> denen Herrn Ableibers Geschwisterten, und respective
             deren Vertrettern, als geistlichen Herrn <rs type="person" ref="#tratter_balthasar">Balthasar</rs>, <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin</rs>, dann <rs type="person" ref="#peintner_georg">Georg Peintner</rs> qua verpflichten Curatore der dato nicht beygekommenen <rs type="person" ref="#tratter_veit">Veit</rs>,
             <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterischen</rs> Hauptstollen vorzuhalten, welche sich hierüber</p>
             <p>
@@ -173,7 +186,10 @@
                </row>
             </table>
             <p>Den <date when="1792-10-14">14ten vorigen Monats October</date> ist der hoch ehrwürdige Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewester Kapplon allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> der Pfarr <rs type="place" ref="#gais">Gais</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> nach einer kurz ausgestandenen Krankheit gottseelig verschieden. Auf solchen Todtfall wurde nicht nur von Ihro Hochwürden
-            Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> auf gnädige Decanal Anweisung all das jenige, was an zur Seelsorge, und auch unmittelbar anderen geistlichen Verrichtungen gehörigen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>der.</p></note> Schriften verhanden, obsigniret, sondern auch von gedachter Landgerichts Obrigkeit den <date when="1792-10-15">15ten darauf</date> an nöthigen Orten die Secretur angeleget: Weilen nun am dato für den hochehrwürdigen Herrn</p>
+            Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> auf gnädige Decanal Anweisung all das jenige, was an zur Seelsorge, und auch unmittelbar anderen geistlichen Verrichtungen gehörigen<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>der.</p>
+                    </note> Schriften verhanden, obsigniret, sondern auch von gedachter Landgerichts Obrigkeit den <date when="1792-10-15">15ten darauf</date> an nöthigen Orten die Secretur angeleget: Weilen nun am dato für den hochehrwürdigen Herrn</p>
             <p>
                <pb n="479v"/> Ableiber der dreysigst Heilige Gottesdienst abgehalten worden, so hat mehr besagte Landgerichts Obrigkeit hierauf vor allen Ihro Hochwürden Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> die von wohl demselben obsignirte Schriften extradiret, sodann die landgerichtliche Secretur in Gegenwart hienach einkommender Erbs Interessenten abgenommen, und in den Behältnissen nachgesuchet, obe nicht etwo eine schriftliche lestwillige Verordnung verhanden, worvon man aber nichts zu Gesicht gekommen, wohl hingegen hat der alldaige Mesner <rs type="person" ref="#hueber_christian">Christian Hueber</rs> angezeiget, was er von dem hochwürdigen Herrn Erblasser, wie dieser zu disponiren gesinnet seye, vernommen habe, diese Anzeige wurde dahero sonderbar zu Protokoll gebracht, und denen Partheyen am dato eröffnet. Auf diesen Erfolg haben die Erbs Interessenten, als des Herrn Erblassers Geschwistern, und respective deren Nachkömmlinge, nämlich</p>
             <p>
@@ -249,7 +265,10 @@
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>1 silberen Sack Uhr<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>so alt.</p></note> mit doppelten Gehäuss, doch schon abgenutzt</cell>
+                  <cell>1 silberen Sack Uhr<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>so alt.</p>
+                            </note> mit doppelten Gehäuss, doch schon abgenutzt</cell>
                   <cell>7 f 0 x</cell>
                </row>
                <row>
@@ -268,7 +287,10 @@
             <p>Haus Fahrnussen.</p>
             <table rend="rules">
                <row>
-                  <cell>1 Spann<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Pöthschath.</p></note> Pöthstath auf Fournir-Art angestrichen pr</cell>
+                  <cell>1 Spann<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Pöthschath.</p>
+                            </note> Pöthstath auf Fournir-Art angestrichen pr</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
@@ -396,7 +418,9 @@
                </row>
                <row>
                   <cell>5 Baar Caffe Schaalen von Majolica samt 2 deto Caffe, und ein Milch Kändele, dann 1 mettallens Löfele, und ein laquirte Tätze von Blech</cell>
-                  <cell>1 f 15<note><p rend="footnote text"> 1 <hi rend="italic">korrigiert aus vermutlich </hi>4.</p></note> x</cell>
+                  <cell>1 f 15<note>
+                                <p rend="footnote text"> 1 <hi rend="italic">korrigiert aus vermutlich </hi>4.</p>
+                            </note> x</cell>
                </row>
                <row>
                   <cell>1 messingene Schlag Uhr samt die Gewichter</cell>
@@ -407,7 +431,11 @@
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell>8<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert.</hi></p></note> weise Fenster Fürhäng samt die Rämblen</cell>
+                  <cell>8<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Korrigiert.</hi>
+                                </p>
+                            </note> weise Fenster Fürhäng samt die Rämblen</cell>
                   <cell>4 f 0 x</cell>
                </row>
                <row>
@@ -499,7 +527,10 @@
                   <cell>8 x</cell>
                </row>
                <row>
-                  <cell>1 zinnens Weihbrun- und ein Salz Bichsl, auch 1 deto Becherle, dann 2 Baar Messer, und Gabl, ein bainener, und 1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>silber.</p></note> mettallener Löfl.</cell>
+                  <cell>1 zinnens Weihbrun- und ein Salz Bichsl, auch 1 deto Becherle, dann 2 Baar Messer, und Gabl, ein bainener, und 1<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>silber.</p>
+                            </note> mettallener Löfl.</cell>
                   <cell>18 x</cell>
                </row>
                <row>
@@ -777,7 +808,10 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>1 Schmalz Stötzl, ein Fürbank, ein Zist, und 8<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus vermutlich </hi>7.</p></note> erdene Häfelen</cell>
+                  <cell>1 Schmalz Stötzl, ein Fürbank, ein Zist, und 8<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Korrigiert aus vermutlich </hi>7.</p>
+                            </note> erdene Häfelen</cell>
                   <cell>8 x</cell>
                </row>
                <row>
@@ -789,9 +823,21 @@
                   <cell>1 f 25 x</cell>
                </row>
                <row>
-                  <cell><p>1 kupferene Pfefer Pfann</p>
-                  <p>Spricht der Bruder <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> als ein Eigenthum an pr Bht.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamte Anmerkung am linken Rand geschrieben.</hi></p></note></p></cell>
-                  <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Betrag wegen Eigentumsanspruch gestrichen, war </hi>24 x.</p></note></cell>
+                  <cell>
+                            <p>1 kupferene Pfefer Pfann</p>
+                  <p>Spricht der Bruder <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> als ein Eigenthum an pr Bht.<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamte Anmerkung am linken Rand geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </p>
+                        </cell>
+                  <cell>
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Betrag wegen Eigentumsanspruch gestrichen, war </hi>24 x.</p>
+                            </note>
+                        </cell>
                </row>
                <row>
                   <cell>2<note>
@@ -1101,14 +1147,24 @@
                      <hi rend="italic">Über der Zeile nachgetragen.</hi>
                   </p>
                </note>
-               einen<note><p rend="footnote text"><hi rend="italic">Über der Zeile korrigiert aus gestrichenem </hi>die.</p></note> hochfreyherrlichen v. Sternbachische<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und geistlichen Herrn Mutschlechnerische.</p></note> Stift Mess dieses Jahr gelesen,
-               und doch nicht nur für diese, sonder auch für die andere Sternbachische Stiftmess, und Herrn Mutschlechnerischen Jahrtag die völlige Gebühr per 4 f 12 x, einfolgsam um 2 f 42 x zu viel empfangen. Auf gleiche Weis hat wohl derselbe auch einschlüsslich Quartal Crucis die übrigen Einkünfte, und noch darzu auch für das Quartal Luciae vorhinein 40 f erhalten, so das alldaige Verlassenschaft, weilen Herrn Erblasser an lesten Quartal nur 2 Wochen erlebet, auch an diesem dem Herrn Successor von 11 Wochen die Gebühr pr 33 f<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen unlesbare Ziffer und </hi>8½.</p></note> 50 x, mithin in allen 36 f 32 x zu ersetzen habe, so hienach per Schuld hinaus einzutragen komet pr Bht.</p>
+               einen<note>
+                        <p rend="footnote text">
+                            <hi rend="italic">Über der Zeile korrigiert aus gestrichenem </hi>die.</p>
+                    </note> hochfreyherrlichen v. Sternbachische<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und geistlichen Herrn Mutschlechnerische.</p>
+                    </note> Stift Mess dieses Jahr gelesen,
+               und doch nicht nur für diese, sonder auch für die andere Sternbachische Stiftmess, und Herrn Mutschlechnerischen Jahrtag die völlige Gebühr per 4 f 12 x, einfolgsam um 2 f 42 x zu viel empfangen. Auf gleiche Weis hat wohl derselbe auch einschlüsslich Quartal Crucis die übrigen Einkünfte, und noch darzu auch für das Quartal Luciae vorhinein 40 f erhalten, so das alldaige Verlassenschaft, weilen Herrn Erblasser an lesten Quartal nur 2 Wochen erlebet, auch an diesem dem Herrn Successor von 11 Wochen die Gebühr pr 33 f<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen unlesbare Ziffer und </hi>8½.</p>
+                    </note> 50 x, mithin in allen 36 f 32 x zu ersetzen habe, so hienach per Schuld hinaus einzutragen komet pr Bht.</p>
             <p>Hingegen, da laut sonderbaren Protokolls von gestrigen dato die alldaige Nachbaurschaft den Bstandzins von<note>
                   <p rend="footnote text"> v- <hi rend="italic">korrigiert aus</hi> d-.</p>
                </note> Keselanger einschlüsslich der 1791ten Benutzung dem Herrn Erblasser zugeeignet, und hieran noch einige Restanten sich befinden, als werden solche allda zum Vermögen beschrieben, und ist noch ausständig</p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#pifrader_paul">Paul Pifrader Bartlmayr</rs> von dem 1791ten Nutzen</cell>
+                  <cell>
+                            <rs type="person" ref="#pifrader_paul">Paul Pifrader Bartlmayr</rs> von dem 1791ten Nutzen</cell>
                   <cell>8 f 0 x</cell>
                </row>
                <row>
@@ -1144,7 +1200,9 @@
             <p>Der Funeral Conto bestehet in folgenden, als</p>
             <table rend="rules">
                <row>
-                  <cell>Ihro<note><p rend="footnote text">I-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>H-.</p></note> Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen
+                  <cell>Ihro<note>
+                                <p rend="footnote text">I-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>H-.</p>
+                            </note> Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen
                   geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> auch gewesten Kapplon allhier anno 1773 bezahlt worden</cell>
                   <cell>8 f 0 x</cell>
                </row>
@@ -1206,7 +1264,14 @@
                   <cell>54 x</cell>
                </row>
                <row>
-                  <cell>Bey denen Exsequien seynd, wie ob verstanden 10 Heilige Messen gelesen worden<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a 36 x.</p></note> als drey von denen P. Cap[uzinern] a 36 x<note><p rend="footnote text"> als drey von denen P. Cap[uzinern] a 36 x<hi rend="italic" xml:space="preserve"> nachgetragen.</hi></p></note></cell>
+                  <cell>Bey denen Exsequien seynd, wie ob verstanden 10 Heilige Messen gelesen worden<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a 36 x.</p>
+                            </note> als drey von denen P. Cap[uzinern] a 36 x<note>
+                                <p rend="footnote text"> als drey von denen P. Cap[uzinern] a 36 x<hi rend="italic" xml:space="preserve"> nachgetragen.</hi>
+                                </p>
+                            </note>
+                        </cell>
                   <cell>1 f 48 x</cell>
                </row>
                <row>
@@ -1243,7 +1308,10 @@
                   <cell>11 f 15 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Müllermeister für etwelche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>2.</p></note> mal hergelichenen Wägele</cell>
+                  <cell>Dem <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Müllermeister für etwelche<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>2.</p>
+                            </note> mal hergelichenen Wägele</cell>
                   <cell>2<note>
                         <p rend="footnote text">
                            <hi rend="italic"> Zuerst </hi>1 <hi rend="italic">korrigiert aus Bindestrich als Auslassungszeichen, dann </hi> 2 <hi rend="italic">korrigiert aus </hi>1.</p>
@@ -1279,12 +1347,17 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Für die <rs type="person" ref="#herrnegger_johann">Johann Herrneggerische</rs> Übergab hat die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs><note><p rend="footnote text"> V <hi rend="italic" xml:space="preserve">von </hi>Veit<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>J.</p></note>
+                  <cell>Für die <rs type="person" ref="#herrnegger_johann">Johann Herrneggerische</rs> Übergab hat die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs>
+                            <note>
+                                <p rend="footnote text"> V <hi rend="italic" xml:space="preserve">von </hi>Veit<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>J.</p>
+                            </note>
                   Wittib <rs type="person" ref="#tratter_anna">Anna gebohrne Ofnerin</rs> in <rs type="place" ref="#brunegg">Bruneck</rs> ausgeleget</cell>
                   <cell>1 f 27 x</cell>
                </row>
                <row>
-                  <cell>Wie anfor<note><p rend="footnote text">-f-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-b-.</p></note> bey dem Vermögen Anführung beschehen, hat die <rs type="person" ref="#kammerer_joseph">Joseph Kammerer Grienbacherische</rs> Verlassenschaft zu <rs type="place" ref="#kiens">Kiens</rs> noch zu begehren</cell>
+                  <cell>Wie anfor<note>
+                                <p rend="footnote text">-f-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-b-.</p>
+                            </note> bey dem Vermögen Anführung beschehen, hat die <rs type="person" ref="#kammerer_joseph">Joseph Kammerer Grienbacherische</rs> Verlassenschaft zu <rs type="place" ref="#kiens">Kiens</rs> noch zu begehren</cell>
                   <cell>39 f 0 x</cell>
                </row>
                <row>
@@ -1296,7 +1369,9 @@
                   <cell>24 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dann werden zu Bezahlung extra Heilige Messen für den Herrn<note><p rend="footnote text"> H-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>E-.</p></note> Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen Herrn Pfarrer zu Gais pr Abzug gebracht</cell>
+                  <cell>Dann werden zu Bezahlung extra Heilige Messen für den Herrn<note>
+                                <p rend="footnote text"> H-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>E-.</p>
+                            </note> Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen Herrn Pfarrer zu Gais pr Abzug gebracht</cell>
                   <cell>80 f 0 x</cell>
                </row>
                <row>
@@ -1365,8 +1440,14 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#hofer_georg">Georg Hofer</rs> Stadtmetzer in <rs type="place" ref="#brunegg">Bruneck</rs></cell>
-                  <cell>4 f 24 x<note><p rend="footnote text"><hi rend="italic"> Dieser und nächster Eintrag am linken Rand nachgetragen.</hi></p></note></cell>
+                  <cell>Dem <rs type="person" ref="#hofer_georg">Georg Hofer</rs> Stadtmetzer in <rs type="place" ref="#brunegg">Bruneck</rs>
+                        </cell>
+                  <cell>4 f 24 x<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic"> Dieser und nächster Eintrag am linken Rand nachgetragen.</hi>
+                                </p>
+                            </note>
+                        </cell>
                </row>
                <row>
                   <cell>Denen 3 Götlen, als denen 2 Tratter Söhnen <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_bartlmae">Bartlmä Tratter</rs>, dann dem Prantlechner Sohn <rs type="person" ref="#pifrader_peter">Peter Pifrader</rs> jedem 1 Species Thaler a 2 f 6 x</cell>
@@ -1408,7 +1489,10 @@
             <p>Mit diesen wollen sie Erben eben wiederum nach dem Willen des Herrn Erblassers folgende Disposition machen.</p>
             <table rend="rules">
                <row>
-                  <cell>1mo: Sollen der Kirche zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einbegrif des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<note><p rend="footnote text"> des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> der dem Herrn Ableiber in das Grab mitgegebnen Paramenten ohne anderweiter Obligation</cell>
+                  <cell>1mo: Sollen der Kirche zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einbegrif des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<note>
+                                <p rend="footnote text"> des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi>
+                                </p>
+                            </note> der dem Herrn Ableiber in das Grab mitgegebnen Paramenten ohne anderweiter Obligation</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -1615,7 +1699,8 @@
                   <cell>22 f 47 x</cell>
                </row>
                <row>
-                  <cell>Bey <rs type="person" ref="#pifrader_paul">Paul Pifrader Bartlmayr</rs></cell>
+                  <cell>Bey <rs type="person" ref="#pifrader_paul">Paul Pifrader Bartlmayr</rs>
+                        </cell>
                   <cell>8 f 0 x</cell>
                </row>
                <row>
@@ -1701,7 +1786,8 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dem <rs type="person" ref="#peintner_georg">Georg Peintner Kachler</rs></cell>
+                  <cell>Dem <rs type="person" ref="#peintner_georg">Georg Peintner Kachler</rs>
+                        </cell>
                   <cell>84 f 12 x</cell>
                </row>
                <row>

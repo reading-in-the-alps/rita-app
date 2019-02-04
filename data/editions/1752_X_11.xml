@@ -95,7 +95,8 @@
                   <p rend="footnote text">
                      hernac- <hi rend="italic">auf Rasur geschrieben.</hi>
                   </p>
-               </note></p>
+               </note>
+                </p>
             <p>Inventur</p>
             <p>Und zwar erstlichen in der unter <pb n="5r"/> Stuben</p>
             <table rend="rules">
@@ -1453,7 +1454,9 @@
                 <cell/>
               </row>
             </table>
-            <p><pb n="21v"/></p>
+            <p>
+                    <pb n="21v"/>
+                </p>
             <table rend="rules">
               <row>
                 <cell>richten lassenen Mösen Dienst, hat er <rs type="person" ref="#hueber_hans">Hueber</rs> aus vierzöchen Gulden jehrlicher Besoldung von der verwichen Geörgi bis hiehero von ain halb Jahr abzuziechen, siben Gulden, macht der Abzug, ainhundert siben Gulden, Rest noch er Khirchprobst <rs type="person" ref="#hueber_hans">Hans Hueber</rs> in das Vermigen</cell>
@@ -1513,7 +1516,8 @@
                       <p rend="footnote text">
                          <hi rend="italic">Über der Zeile eingefügt.</hi>
                       </p>
-                   </note> zaldt worden, dis zu Bht, <p>Latus</p></cell>
+                   </note> zaldt worden, dis zu Bht, <p>Latus</p>
+                        </cell>
                 <cell>150 f 45 x</cell>
               </row>
             </table>
@@ -1560,7 +1564,8 @@
               </row>
               <row>
                 <cell>Herrn <rs type="person" ref="#wachtler_johann_antoni">Johann Antany Wachtler</rs> Wirth an der Rosen alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> umb abgöbnen Wein, yber ain Gulden zöchen Khreizer Absaz, noch zwaiundtzwainzig Gulden, von wölichen aber noch weitters jenige zöchen Gulden darvon zukhomben, haben, so dössen Herr
-                Brueder <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs>, Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs><note>
+                Brueder <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs>, Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs>
+                            <note>
                       <p rend="footnote text">
                          Caplan zu Cronburg <hi rend="italic">auf der linken Seite eingefügt.</hi>
                       </p>

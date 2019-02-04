@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -46,16 +47,12 @@
       </fileDesc>
       <encodingDesc>
          <p>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listperson.xml"
-                        xpointer="listperson">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listplace.xml"
-                        xpointer="listplace">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
@@ -75,8 +72,13 @@
                <pb n="53v"/>
             </p>
             <p>solle. Hieran vollziecht der Herr unseren Willen, und Maynung, und wür verbleiben demselben anbey wohl zugethan. Geben in Consistorio zu Brixen den 4. Jenner 1762.</p>
-            <p><rs type="person" ref="#ferdinand_joseph">Ferdinand Joseph</rs> Bischof zu Hypsopolitanus, Praesident m.p.</p>
-            <p><rs type="person" ref="#tangl_georg">Georg Tangl</rs> Secret(arius) Eulicus m.p.<note><p rend="footnote text"> Gesamte Unterschrift am unteren Blattrand.</p></note></p>
+            <p>
+                    <rs type="person" ref="#ferdinand_joseph">Ferdinand Joseph</rs> Bischof zu Hypsopolitanus, Praesident m.p.</p>
+            <p>
+                    <rs type="person" ref="#tangl_georg">Georg Tangl</rs> Secret(arius) Eulicus m.p.<note>
+                        <p rend="footnote text"> Gesamte Unterschrift am unteren Blattrand.</p>
+                    </note>
+                </p>
             <p>
                <pb n="54v"/>
             </p>
@@ -102,8 +104,14 @@
             <p>
                <pb n="56r"/>
             </p>
-            <p>eheleiblicher Brueder Lucäs und Jungfrau Schwester Hellena Mitterdorfferin, woraus der Brueder fir sich selbs, die Schwester<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Maria m-.</p></note> aber mit Rath des Vatern
-            ernents Mathesen Mitterdorffers<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Zwischen </hi>Mit- <hi rend="italic" xml:space="preserve">und</hi> terdorffers <hi rend="italic" xml:space="preserve">gestrichen</hi> -terhof-.</p></note> gehandlet, und er Vater auch die noch ibrigen vier abwesigen Geschwistriget, Mathes, Agnes, Teresia, und Maria vertretten, mit demiettig gehorsamber Bitt, des herrn briederlich ihnen nattirlichen Rechtens erblichen zue und angefahlene Vermigen in gebreichige Beschreibung Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu verthaillen auch an und auszuweisen, wan man nur von Seiten der gnedig geistlichen Commission und weltlichen Obrigkeit disen ihren billichmessigen Begehrn zu deferieren keine bedenckhen getragen, als wurde demnach zu solchem Ende auf anheut dato Anstalt ernent, und bei nit erfundenen Testament yber vorleifige Eröffnung der Secretur ainsmahl vorgenomben, nachvolgende</p>
+            <p>eheleiblicher Brueder Lucäs und Jungfrau Schwester Hellena Mitterdorfferin, woraus der Brueder fir sich selbs, die Schwester<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Maria m-.</p>
+                    </note> aber mit Rath des Vatern
+            ernents Mathesen Mitterdorffers<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Zwischen </hi>Mit- <hi rend="italic" xml:space="preserve">und</hi> terdorffers <hi rend="italic" xml:space="preserve">gestrichen</hi> -terhof-.</p>
+                    </note> gehandlet, und er Vater auch die noch ibrigen vier abwesigen Geschwistriget, Mathes, Agnes, Teresia, und Maria vertretten, mit demiettig gehorsamber Bitt, des herrn briederlich ihnen nattirlichen Rechtens erblichen zue und angefahlene Vermigen in gebreichige Beschreibung Taxierung und Ergenzung zu bringen, und sovorth dasselbe unter sie zu verthaillen auch an und auszuweisen, wan man nur von Seiten der gnedig geistlichen Commission und weltlichen Obrigkeit disen ihren billichmessigen Begehrn zu deferieren keine bedenckhen getragen, als wurde demnach zu solchem Ende auf anheut dato Anstalt ernent, und bei nit erfundenen Testament yber vorleifige Eröffnung der Secretur ainsmahl vorgenomben, nachvolgende</p>
             <p>Inventur</p>
             <table rend="rules">
                <row>
@@ -401,7 +409,11 @@
                   <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Ain Tafl Die Genembaus<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Emmaus-Gang.</hi></p></note> vorstellendt</cell>
+                  <cell rend="left">Ain Tafl Die Genembaus<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Emmaus-Gang.</hi>
+                                </p>
+                            </note> vorstellendt</cell>
                   <cell rend="left">30 x</cell>
                </row>
                <row>
@@ -1080,7 +1092,10 @@
                   <cell rend="left">50 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Wieviel aber Interesse hievon ausstendig, ist nit bewust, und mithin in bianco und von ausgesteckhten Geldt die Abfiehrung<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Zwischen </hi>Ab- <hi rend="italic" xml:space="preserve">und </hi>fiehrung <hi rend="italic" xml:space="preserve">gestrichen </hi>-fiehren-.</p></note> zu thuen gelassen worden,</cell>
+                  <cell rend="left">Wieviel aber Interesse hievon ausstendig, ist nit bewust, und mithin in bianco und von ausgesteckhten Geldt die Abfiehrung<note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Zwischen </hi>Ab- <hi rend="italic" xml:space="preserve">und </hi>fiehrung <hi rend="italic" xml:space="preserve">gestrichen </hi>-fiehren-.</p>
+                            </note> zu thuen gelassen worden,</cell>
                   <cell rend="left"/>
                </row>
                <row>
@@ -1114,12 +1129,21 @@
                <pb n="64v"/>
             </p>
             <p>Geherde abzufiehren und zu bezahlen; Umb damit aber die gnedig geistliche Commission und weltliche Obrigkeit umb sothaner Ybernembung sowohl- als umb willen der zugleich anverlangter Extradierung des Vermigens nit etwa angefochten, sondern in Sicherheit gesezt werde, und verbleiben mege, sollen sie Geschwistriget nebst dero eheleiblichen Vater, und zwar all insgesambt- und iedes zu Sonderheit unter Verpfendung ihres Vermigens, da und zum Fall wider verhofen, was wüdrigens iber kurz oder lang heraus khumben solt, vor dissortigen foro ohne mindist machende Exception, Redt und Antworth und allenfahlige Satisfaction zu geben schuldig, denenselben dargegen ebenfahls die noch in Jempach ausligen sollende 100 f und respective annoch weitteres Vermigen unter sich selbst verthaillen zu khenen yberlassen sein.</p>
-            <p>Allermassen nach beschechner Ablesung, auch<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>hiemit wegen spruchermassen</p></note> ein solches</p>
+            <p>Allermassen nach beschechner Ablesung, auch<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>hiemit wegen spruchermassen</p>
+                    </note> ein solches</p>
             <p>
                <pb n="65r"/>
             </p>
-            <p>zu thuen und respective nachzukhumben, der gnedig geistlichen Commission und loblichen weltlichen Obrigkeit, mehr widerholter Vater Mathes Mitterdorffer, dan der Sohn und Brueder Lucäs, und die Tochter Hellena Mitterdorfferin und zwar dise mit rath und neben dern Vatern, und mehr er Vater in Namen und anstatt der ybrigen 4 Khinder und <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>gestri-.</p></note> geschwistrigeth
-            <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> unter Verpfendung dero Vermigenheiten.</p></note> in Gehorsamb und Demueth das Handt Anloben und zu Ausfertigung aines solchen Instruments, die Sigl Pith erstatt haben.</p>
+            <p>zu thuen und respective nachzukhumben, der gnedig geistlichen Commission und loblichen weltlichen Obrigkeit, mehr widerholter Vater Mathes Mitterdorffer, dan der Sohn und Brueder Lucäs, und die Tochter Hellena Mitterdorfferin und zwar dise mit rath und neben dern Vatern, und mehr er Vater in Namen und anstatt der ybrigen 4 Khinder und <note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>gestri-.</p>
+                    </note> geschwistrigeth
+            <note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> unter Verpfendung dero Vermigenheiten.</p>
+                    </note> in Gehorsamb und Demueth das Handt Anloben und zu Ausfertigung aines solchen Instruments, die Sigl Pith erstatt haben.</p>
             <p>Testes Johan Kherschpaumber Landtgerichtschreiber, und Joseph Steeger Schreiber etc. beedt alhier zu Sanct Lorenzen.</p>
          </div>
       </body>
