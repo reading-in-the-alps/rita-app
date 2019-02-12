@@ -290,6 +290,7 @@ declare function app:toc($node as node(), $model as map(*)) {
         let $date := $title//tei:title//text()
         let $datum := data($title//tei:origin[1]/@notBefore)
         let $place : = $title//tei:origin/tei:rs/text()
+        let $docType := $title//tei:msItem//tei:note/tei:rs/text()
         let $link2doc := if ($collection)
             then
                 <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
@@ -300,6 +301,7 @@ declare function app:toc($node as node(), $model as map(*)) {
            <td>{$date}</td>
            <td>{$datum}</td>
            <td>{$place}</td>
+           <td>{$docType}</td>
            <td>{$link2doc}</td>
         </tr>
 };
