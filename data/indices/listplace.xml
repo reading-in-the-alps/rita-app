@@ -5,7 +5,7 @@
          <titleStmt>
             <title>Ortsverzeichnis des Editionsprojects Reading in The Alps</title>
             <respStmt>
-               <resp>Datenkruation</resp>
+               <resp>Datenkuration</resp>
                <name>
                   <rs type="person" ref="#span_michael">Michael Span</rs>
                </name>
@@ -368,6 +368,13 @@
                   <geo decls="#LatLng">46.99623 11.97988</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/6534793</idno>
+            </place>
+            <place xml:id="stainach">
+               <placeName>Steinach am Brenner</placeName>
+               <location>
+                  <geo decls="#LatLng">47.08333 11.46667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/7873623</idno>
             </place>
             <place xml:id="aichholz">
                <placeName>Roverè della Luna</placeName>

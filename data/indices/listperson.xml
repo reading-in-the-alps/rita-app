@@ -10,7 +10,7 @@
                   <rs type="person" ref="#span_michael">Michael Span</rs>
                </name>
                <name>
-                  <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
+                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
                </name>
                <name>
                   <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
@@ -73,35 +73,365 @@
             </person>
          </listPerson>
          <listPerson xml:id="rita2">
-<!-- names done -->
+<!-- names 1750_VII_8 -->
             <person xml:id="stockher_maria_ursula">
                <persName>
                   <forename>Maria Ursula</forename>
-                  <surname>Stockerin</surname>
+                  <surname type="birth">Stockerin</surname>
                </persName>
-               <note type="placing">wohnhaft im Ansitz <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in Dietenheim</note>
+               <occupation>Terziarschwester</occupation>
+               <note type="placing">Ansitz <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+               <note type="function"/>
+               <note type="family"/>
             </person>
             <person xml:id="wenzl_johann_joseph_martin">
                <persName>
                   <forename>Johann Joseph Martin</forename>
                   <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
                </persName>
+               <note type="function">Inhaber des Ansitzes <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>Dietenheim</note>
             </person>
+            <person xml:id="hebenstreit_christoph_andree">
+               <persName>
+                  <forename>Christoph Andre</forename>
+                  <surname>von Hebenstreit zu Glurnhör</surname>
+               </persName>
+               <note type="function">Aktuar</note>
+            </person>
+            <person xml:id="hueber_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <persName type="alt">
+                  Niedermayr in Dietenheim
+               </persName>
+               <note type="function">Taxator</note>
+            </person>
+            <person xml:id="danauer_johann_joseph_ciriaen">
+               <persName>
+                  <forename>Johann Joseph Kirian</forename>
+                  <surname>Danauer</surname>
+               </persName>
+               <note type="function">Bergrichter in <rs type="place" ref="#aehrn">Ahrn</rs>
+                    </note>
+            </person>
+            <person xml:id="stockher_andre">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Stocker</surname>
+               </persName>
+               <note type="function">Handelsverweser in <rs type="place" ref="#aehrn">Ahrn</rs>
+                    </note>
+               <note type="placing">wohnhaft im Ansitz <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>Dietenheim</note>
+               <note type="family">Vater von <rs type="person" ref="stockher_maria_ursula">Maria Ursula Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="englmohr_joseph_ignaeti">
+               <persName>
+                  <forename>Joseph Ignaz</forename>
+                  <surname>Englmohr von Aufkirchen und Moregg</surname>
+               </persName>
+               <note type="function">oberösterreichischer Regimentsadvokat, Lizenziat beider Rechte</note>
+               <note type="function">Pfleger und Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sankt Michaelsburg</rs>
+                    </note>
+            </person>
+            <person xml:id="stockher_franz_antoni">
+               <persName>
+                  <forename>Franz Anton</forename>
+                  <surname>Stocker</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="stockher_maria_ursula">Maria Ursula Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="stockher_maria_magdalena">
+               <persName>
+                  <forename>Maria Magdalena</forename>
+                  <surname type="birth">Stockerin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="spaengler_joseph_paul">Joseph Paul Spängler</rs>
+                    </note>
+               <note type="family">Schwester von <rs type="person" ref="stockher_maria_ursula">Maria Ursula Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="spaengler_joseph_paul">
+               <persName>
+                  <forename>Joseph Paul</forename>
+                  <surname>Spängler</surname>
+               </persName>
+               <note type="function">Handelsverweser und Kassier in <rs type="place" ref="#aehrn">Ahrn</rs>
+                    </note>
+               <note type="family">Ehemann von <rs type="person" ref="stockher_maria_magdalena">Maria Magdalena Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="stockher_maria_catharinae">
+               <persName>
+                  <forename>Maria Katharina</forename>
+                  <surname type="birth">Stockerin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="marchner_johann_lorenz">Johann Lorenz Marchner</rs>
+                    </note>
+               <note type="family">Halbschwester von <rs type="person" ref="stockher_maria_ursula">Maria Ursula Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="marchner_johann_lorenz">
+               <persName>
+                  <forename>Johann Lorenz</forename>
+                  <surname>Marchner</surname>
+               </persName>
+               <note type="function">Kommissions- und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="family">Ehemann von <rs type="person" ref="stockher_maria_catharinae">Maria Katharina Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="stockher_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname type="birth">Stockerin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="satzinger_johann_ludwig">Johann Ludwig Satzinger</rs>
+                    </note>
+               <note type="family">Schwester von <rs type="person" ref="stockher_maria_ursula">Maria Ursula Stockerin</rs>
+                    </note>
+               <occupation>Goldschmiedin in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </occupation>
+            </person>
+            <person xml:id="satzinger_johann_ludwig">
+               <persName>
+                  <forename>Johann Ludwig</forename>
+                  <surname>Satzinger</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="stockher_elisabeth">Elisabeth Stockerin</rs>
+                    </note>
+               <occupation>Goldschmied in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </occupation>
+            </person>
+            <person xml:id="mutter_maria_ursula_stockerin">
+               <persName>
+                  <forename/>
+                  <surname type="married">Stockerin</surname>
+               </persName>
+               <note type="family">Mutter von <rs type="person" ref="stockher_elisabeth">Elisabeth Stockerin</rs> und <rs type="person" ref="stockher_maria_magdalena">Maria Magdalena Stockerin</rs>
+                    </note>
+            </person>
+            <person xml:id="von_zaun">
+               <persName>
+                        <forename>[Stefan/Sebastian]</forename>
+                        <surname>von Zaun</surname>
+                    </persName>
+                    <note type="function">Richter und Rentamtmann in <rs type="place" ref="#soneburg">Sonnenburg</rs>
+                    </note>
+            </person>
+<!-- names 1752_X_11 -->
+      <!-- im inventar nichts -->
+            <person xml:id="manucredo_marcus_aurelii">
+               <persName>
+                  <forename>Markus Aurelius</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Kooperator / Kaplan in <rs type="place" ref="#saalen">Saalen</rs>
+                    </note>
+               <note type="family">Bruder von <rs type="person" ref="#manucredo_joseph_carl">Joseph Karl Manucredo</rs>
+                    </note>
+            </person>
+            <person xml:id="manucredo_joseph_carl">
+               <persName>
+                  <forename>Joseph Karl</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#manucredo_marcus_aurelii">Markus Aurelius Manucredo</rs>
+                    </note>
+               <note type="function">Kurat in <rs type="place" ref="#steinach">Steinach</rs>
+                    </note>
+            </person>
+            <person xml:id="ingramb_joseph_mathias">
+               <persName>
+                  <forename>Joseph Matthias</forename>
+                  <surname>Ingram von Liebenrain und Fragsburg</surname>
+               </persName>
+               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="function">geistlicher Kommissär</note>
+            </person>
+            <person xml:id="hueber_hans">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <persName type="alt">
+                  Rindler in Saalen
+               </persName>
+               <occupation>Wirt</occupation>
+               <note type="function">Taxator (1752)</note>
+               <note type="function">Vertreter von Maria Manucredin, Theresia Manucredin, Anna Manucredin (1752)</note>
+               <note type="function">Kirchenpropst</note>
+               <note type="function">Gerichtsverpflichteter</note>
+            </person>
+            <person xml:id="marchner_franz_michael">
+               <persName>
+                  <forename>Franz Michael</forename>
+                  <surname>Marchner</surname>
+               </persName>
+               <note type="function">Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            </person>
+            <person xml:id="kerschpaember_johan">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Kerschbaumer</surname>
+               </persName>
+               <note type="function">Landgerichtschreiber in <rs type="place" ref="#saenct_michaelspurg">Sankt Michaelsburg</rs>
+                    </note>
+            </person>
+            <person xml:id="schifferle_jacob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Schifferle</surname>
+               </persName>
+               <note type="function">Kaplan / Benefiziat in <rs type="place" ref="#soneburg">Sonnenburg</rs>
+                    </note>
+               <note type="function">Beichtvater von <rs type="person" ref="#manucredo_marcus_aurelii">Markus Aurelius Manucredo</rs>
+                    </note>
+            </person>
+
+<!-- Manucredo family -->
+
+            <person xml:id="manucredo_jacob_andree">
+               <persName>
+                  <forename>Jakob Andre</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Gerichtsadvokat in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="family">Bruder von <rs type="person" ref="#manucredo_marcus_aurelii">Markus Aurelius Manucredo</rs>
+                    </note>
+               <note type="family">Ehemann von <rs type="person" ref="#hueberin_maria_elisabetha">Maria Elisabeth Hueberin</rs>
+                    </note>
+               <note type="family">Vater von <rs type="person" ref="xxx">Anton Sebastian Manucredo, Johannes Manucredo, Maria Manucredin, Anna Manucredin, Theresia Manucredin</rs>
+                    </note>
+            </person>
+
+            <person xml:id="hueberin_maria_elisabetha">
+               <persName>
+                  <forename>Maria Elisabeth</forename>
+                  <surname type="birth">Hueberin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="manucredo_jacob_andree">Jakob Andre Manucredo</rs>
+                    </note>
+               <note type="family">Mutter von <rs type="person" ref="xxx">Anton Sebastian Manucredo, Johannes Manucredo, Maria Manucredin, Anna Manucredin, Theresia Manucredin</rs>
+                    </note>
+            </person>
+            <person xml:id="pifrader_maria_johanes">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Manucredin</surname>
+                  <note type="family">Ehefrau von <rs type="person" ref="#pifrader_johannes">Johannes Pifrader</rs>
+                    </note>
+               </persName>
+            </person>
+            <person xml:id="pifrader_johannes">
+               <persName>
+                  <forename>Johannes</forename>
+                  <surname>Pifrader</surname>
+                  <note type="family">Ehemann von <rs type="person" ref="#pifrader_maria_johanes">Maria Manucredin</rs>
+                        </note>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#roveredo">Rovereto</rs>
+                    </note>
+            </person>
+
+            <person xml:id="manucredo_antany_sebastian">
+               <persName>
+                  <forename>Anton Sebastian</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+
+
+            <person xml:id="manucredo_leonhardt_johann">
+               <persName>
+                  <forename>Leonhard Johann</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_johann_antany">
+               <persName>
+                  <forename>Johann Anton</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Priester</note>
+            </person>
+            <person xml:id="manucredo_joseph_joaechimb">
+               <persName>
+                  <forename>Joseph Joachim</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_maria_theresia">
+               <persName>
+                  <forename>Maria Theresia</forename>
+                  <surname>Wachtlerin</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_leonardi_joachimi">
+               <persName>
+                  <forename>Leonhard Joachim</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="diaconi_joseph_joachimb">
+               <persName>
+                  <forename>Joseph Joachim</forename>
+                  <surname>Manucredo</surname>
+                  <note type="family">Sohn von <rs type="person" ref="#manucredo_leonardi_joachimi">Leonhard Joachim Manucredo</rs> und der <rs type="person" ref="#scheuckin_hellenae">Helena Schenkin</rs>
+                    </note>
+                  <note type="function">Diakon
+                         </note>
+               </persName>
+            </person>
+            <person xml:id="manucredo_maria_ursulae">
+               <persName>
+                  <forename>Maria Ursula</forename>
+                  <surname>Manucredin</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_johann_jakob">
+               <persName>
+                  <forename>Johann Jakob</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Stadt- und Landgerichtsanwalt</note>
+            </person>
+            <person xml:id="manucredo_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Ehefrau von <rs type="person" ref="#mitscha_michael">Michael Mitscha</rs>
+                    </note>
+            </person>
+
+
+
+<!-- names to go -->
+
             <person xml:id="kaspar_ignaz_kuenigl">
                <persName>
                   <forename>Kaspar Ignaz</forename>
                   <surname>von Künigl</surname>
                </persName>
-               <note type="function">Fürstbischof zu <rs type="place" ref="#brixen">Brixen (1702-1747)</rs>
-                    </note>
+               <note type="function">Fürstbischof zu <rs type="place" ref="#brixen">Brixen</rs> (1702-1747)</note>
             </person>
             <person xml:id="leopold_spaur">
                <persName>
                   <forename>Leopold</forename>
                   <surname>von Spaur</surname>
                </persName>
-               <note type="function">Fürstbischof zu <rs type="place" ref="#brixen">Brixen (1747-1778)</rs>
-                    </note>
+               <note type="function">Fürstbischof zu <rs type="place" ref="#brixen">Brixen</rs> (1747-1778)</note>
             </person>
 
 
@@ -111,7 +441,6 @@
                   <forename>Sebastian Joseph</forename>
                   <surname>Stainer</surname>
                </persName>
-               <idno type="URL">hasi</idno>
                <note type="function">Erblasser, Priester, Benefiziat zu <rs type="place" ref="#saalen">Saalen</rs> im Pustertal</note>
             </person>
             <person xml:id="stainer_jacob">
@@ -219,15 +548,6 @@
                   <surname>Müller</surname>
                </persName>
                <note type="function">Secret.</note>
-            </person>
-            <person xml:id="ingramb_joseph_mathias">
-               <persName>
-                  <forename>Joseph Mathias</forename>
-                  <surname>Ingramb von Liebenrain, und Fragburg</surname>
-               </persName>
-               <note type="function">hochfürstlich Brixnerischer geistlicher Rath, Döchandt und
-                  Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>
-                    </note>
             </person>
             <person xml:id="iser_michael">
                <persName>
@@ -441,39 +761,6 @@
                <note type="function">hochfürstlich Brixnerischer Stadtrichter zu <rs type="place" ref="#klausen">Klausen</rs>
                     </note>
             </person>
-            <person xml:id="englmohr_joseph_ignaeti">
-               <persName>
-                  <forename>Joseph Ignaz</forename>
-                  <surname>Englmohr von Aufkirchen zu Moregg</surname>
-               </persName>
-               <note type="function">oberösterreichischer Regimentsadvokat, Pfleger und Landrichter der
-                  Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sankt Michaelsburg</rs>
-                    </note>
-            </person>
-            <person xml:id="marchner_franz_michael">
-               <persName>
-                  <forename>Franz Michael</forename>
-                  <surname>Marchner</surname>
-               </persName>
-               <note type="function">Amtgerichtschreiber zu <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            </person>
-            <person xml:id="kerschpaember_johan">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Kerschbaumer</surname>
-               </persName>
-               <note type="function">Landgerichtschreiber zu <rs type="place" ref="#saenct_michaelspurg">Sankt Michaelsburg</rs>
-                    </note>
-            </person>
-            <person xml:id="hueber_hans">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="function">Kirchenpropst, Gerichtsverpflichteter, Rindler und Wirt zu <rs type="place" ref="#saalen">Saalen</rs>
-                    </note>
-            </person>
             <person xml:id="mayrhofer_franz">
                <persName>
                   <forename>Franz</forename>
@@ -582,14 +869,6 @@
                      Lorenzen</rs>
                     </note>
             </person>
-            <person xml:id="schifferle_jacob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Schifferle</surname>
-               </persName>
-               <note type="function">Benefiziat in <rs type="place" ref="#soneburg">Sonnenburg</rs>
-                    </note>
-            </person>
             <person xml:id="steeger_leopoldt_niclaus">
                <persName>
                   <forename>Leopold Nikolaus</forename>
@@ -626,14 +905,6 @@
                   <surname>Haberstroh</surname>
                </persName>
                <note type="function">Handelsmann</note>
-            </person>
-            <person xml:id="stockher_elisabeth">
-               <persName>
-                  <forename>Elisabeth</forename>
-                  <surname>Stockerin</surname>
-               </persName>
-               <note type="function">Goldschmiedin in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
             </person>
             <person xml:id="mitterhofer_jacob">
                <persName>
@@ -712,119 +983,10 @@
                </persName>
                <note type="function">Schreibereibediensteter zu <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs>.</note>
             </person>
-            <person xml:id="hebenstreit_christoph_andree">
-               <persName>
-                  <forename>Christoph Andre</forename>
-                  <surname>von Hebenstreit zu Glurnhör</surname>
-               </persName>
-            </person>
-            <person xml:id="danauer_johann_joseph_ciriaen">
-               <persName>
-                  <forename>Johann Joseph Kirian</forename>
-                  <surname>Danauer</surname>
-               </persName>
-               <note type="function">Bergrichter in Ahrn</note>
-            </person>
-            <person xml:id="stockher_andre">
-               <persName>
-                  <forename>Andre</forename>
-                  <surname>Stocker</surname>
-               </persName>
-            </person>
-            <person xml:id="stockher_franz_antoni">
-               <persName>
-                  <forename>Franz Anton</forename>
-                  <surname>Stocker</surname>
-               </persName>
-            </person>
-            <person xml:id="stockher_maria_magdalena">
-               <persName>
-                  <forename>Maria Magdalena</forename>
-                  <surname>Stockerin</surname>
-               </persName>
-            </person>
-            <person xml:id="spaengler_joseph_paul">
-               <persName>
-                  <forename>Joseph Paul</forename>
-                  <surname>Spängler</surname>
-               </persName>
-               <note type="function">Handelsverweser und Kassier in Ahrn</note>
-            </person>
-            <person xml:id="stockher_maria_catharinae">
-               <persName>
-                  <forename>Maria Katharina</forename>
-                  <surname>Stockerin</surname>
-               </persName>
-            </person>
-            <person xml:id="marchner_johann_lorenz">
-               <persName>
-                  <forename>Johann Lorenz</forename>
-                  <surname>Marchner</surname>
-               </persName>
-               <note type="function">Kommissions- und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            </person>
-            <person xml:id="satzinger_johann_ludwig">
-               <persName>
-                  <forename>Johann Ludwig</forename>
-                  <surname>Satzinger</surname>
-               </persName>
-               <note type="function">Goldtschmied in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            </person>
-            <person xml:id="manucredo_marcus_aurelii">
-               <persName>
-                  <forename>Markus Aurelius</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#saalen">Saalen</rs>
-                    </note>
-               <note type="family">Bruder von <rs type="person" ref="#manucredo_joseph_carl">Joseph
-                     Karl Manucredo</rs>
-                    </note>
-            </person>
-            <person xml:id="manucredo_joseph_carl">
-               <persName>
-                  <forename>Joseph Karl</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#manucredo_marcus_aurelii">Markus Aurelius Manucredo</rs>
-                    </note>
-            </person>
-            <person xml:id="pifrader_maria_johanes">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Manucredin</surname>
-                  <note type="family">Ehefrau von <rs type="person" ref="#manucredo_marcus_aurelii">Johannes Pifrader</rs> aus <rs type="place" ref="#roveredo">Rovereto</rs>
-                    </note>
-               </persName>
-            </person>
-            <person xml:id="manucredo_leonardi_joachimi">
-               <persName>
-                  <forename>Leonhard Joachim</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-            </person>
             <person xml:id="scheuckin_hellenae">
                <persName>
                   <forename>Helena</forename>
                   <surname>Schenkin</surname>
-               </persName>
-            </person>
-            <person xml:id="diaconi_joseph_joachimb">
-               <persName>
-                  <forename>Joseph Joachim</forename>
-                  <surname>Manucredo</surname>
-                  <note type="family">Sohn von <rs type="person" ref="#manucredo_leonardi_joachimi">Leonhard Joachim Manucredo</rs> und der <rs type="person" ref="#scheuckin_hellenae">Helena Schenkin</rs>
-                    </note>
-                  <note type="function">Diakon
-                         </note>
-               </persName>
-            </person>
-            <person xml:id="manucredo_maria_ursulae">
-               <persName>
-                  <forename>Maria Ursula</forename>
-                  <surname>Manucredin</surname>
                </persName>
             </person>
             <person xml:id="wachtler_jacob">
@@ -888,43 +1050,6 @@
                   <surname>Dämb</surname>
                </persName>
                <note type="function">Büchsenmacher</note>
-            </person>
-            <person xml:id="manucredo_jacob_andree">
-               <persName>
-                  <forename>Jakob Andre</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-            </person>
-            <person xml:id="manucredo_antany_sebastian">
-               <persName>
-                  <forename>Anton Sebastian</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-            </person>
-            <person xml:id="manucredo_leonhardt_johann">
-               <persName>
-                  <forename>Leonhard Johann</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-            </person>
-            <person xml:id="manucredo_johann_antany">
-               <persName>
-                  <forename>Johann Anton</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-               <note type="function">Priester</note>
-            </person>
-            <person xml:id="manucredo_joseph_joaechimb">
-               <persName>
-                  <forename>Joseph Joachim</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-            </person>
-            <person xml:id="manucredo_maria_theresia">
-               <persName>
-                  <forename>Maria Theresia</forename>
-                  <surname>Manucredin</surname>
-               </persName>
             </person>
             <person xml:id="fezl_christoph">
                <persName>
@@ -1165,7 +1290,8 @@
                   <forename>Franz</forename>
                   <surname>Prugger</surname>
                </persName>
-               <note type="function">Jäger unnd Fischer</note> in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
+               <note type="function">Jäger unnd Fischer in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
+                    </note>
             </person>
             <person xml:id="pfeiffhofer_gregori">
                <persName>
@@ -1690,7 +1816,7 @@
             </person>
             <person xml:id="von_call_johann_leonhard">
                <persName>
-                  <forename>Johann Leonharh</forename>
+                  <forename>Johann Leonhard</forename>
                   <surname>von Call</surname>
                </persName>
                <note type="function">Arzt und Hof- und Lehenrichter des Stifts <rs type="place" ref="#soneburg">Sonnenburg</rs> und Abgeordneter des Stifts</note>
@@ -1856,14 +1982,6 @@
                   <surname>Steinberger</surname>
                </persName>
                <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
-                    </note>
-            </person>
-            <person xml:id="hueber_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="function">Niedermayr in <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
             </person>
             <person xml:id="hueber_joseph_2">
@@ -2560,13 +2678,6 @@
                <note type="function">Büchsenmachermeister in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             </person>
-            <person xml:id="manucredo_johann_jakob">
-               <persName>
-                  <forename>Johann Jakob</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-               <note type="function">Stadt- und Landgerichtsanwalt</note>
-            </person>
             <person xml:id="plaickner_anton">
                <persName>
                   <forename>Anton</forename>
@@ -2581,14 +2692,6 @@
                   <surname>Christinell</surname>
                </persName>
                <note type="function">Bürgermeister in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            </person>
-            <person xml:id="manucredo_anna">
-               <persName>
-                  <forename>Anna</forename>
-                  <surname>Manucredo</surname>
-               </persName>
-               <note type="function">Ehefrau von <rs type="person" ref="#mitscha_michael">Michael Mitscha</rs>
                     </note>
             </person>
             <person xml:id="mitscha_michael">
