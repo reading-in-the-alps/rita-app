@@ -36,7 +36,7 @@
                                                 <xsl:value-of select="concat('hits.html?searchkey=', $entiyID)"/>
                                             </xsl:attribute>
                                             <xsl:attribute name="target">_blank</xsl:attribute>
-                                            mentioned in
+                                            erwähnt in
                                         </a>
                                     </small>
                                 </h3>
@@ -131,6 +131,16 @@
                                             </td>
                                         </tr>
                                     </xsl:if>
+                                    <xsl:for-each select="$entity//tei:note">
+                                        <tr>
+                                            <th>
+                                                <xsl:value-of select="./@type"/>
+                                            </th>
+                                            <td>
+                                                <xsl:value-of select="."/>
+                                            </td>
+                                        </tr>
+                                    </xsl:for-each>
                                 </table>
                                 <div>
                                     <h4 data-toggle="collapse" data-target="#more"> more (tei structure)</h4>
