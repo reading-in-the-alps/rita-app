@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1798 III 16/17, St. Lorenzen [Manucredo Anton Sebastian (Priester), fol. 349r-362v] Hausverkauf 1797 IX 1-21, St. Lorenzen [VB 1797, fol. 667-670r] Verlassenschaftsabhandlung 1798 III 16/17, St. Lorenzen [VB 1798, fol. 349r-362v]</title>
+            <title>1798 III 16/17, St. Lorenzen [Manucredo Anton Sebastian (Priester)] samt Hausverkauf von 1797 IX 1-21, St. Lorenzen</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -56,7 +56,7 @@
                <p>
                   <pb n="669v / 670r"/>
                </p>
-               <p>Kund und zuwissen wirdet angefügt männlichen, wie daß von dem Landrichter Amt der Pfandsherrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> auf Vorstellen des Priesters Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seiner obrigkeitlich verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den <date when="1798-09-21">21ten dies Monats September</date> um 9 bis 10 Uhr Vormittag in alldaigen Gerichts Kanzley an nachstehende Effeten Versteigerungs Tagsazung anberaumet wird; wobey jeder Kaufslustige zu erscheinen vorgeladen ist. Es wird nemmlich dem Meistbote feilgestellet; als die Baurecht und Gerechtigkeit einer Behausung im Markte <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den Platz liegend mit No. 16 signiret, mit derselben Ein- und Zugehörung, Backen, und Kreütle Garten. Über welch diese Behausung und Zugehörde ist die aufgehobene Maria Himmelfahrts Bruderschaft allda Grundherrschaft, und zinst man dahin jährlich auf Martini zu Handen eines jedweiligen Herrn Administrators 1 f 36 x, vorbehältlich der Steüer und anderen nachbarlichen Oblagen. Dazu gehören auch zwey Gemeinds Grundstücke auf der Frohnwiese liegend.</p>
+               <p>Kund und zuwissen wirdet angefügt männlichen, wie daß von dem Landrichter Amt der Pfandsherrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> auf Vorstellen des Priesters Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines obrigkeitlich verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den <date when="1798-09-21">21ten dies Monats September</date> um 9 bis 10 Uhr Vormittag in alldaiger Gerichts Kanzley an nachstehende Effeten Versteigerungs Tagsazung anberaumet wird; wobey jeder Kaufslustige zu erscheinen vorgeladen ist. Es wird nemmlich dem Meistbote feilgestellet; als die Baurecht und Gerechtigkeit einer Behausung im Markte <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den Platz liegend mit No. 16 signiret, mit derselben Ein- und Zugehörung, Backen, und Kreütle Garten. Über welch diese Behausung und Zugehörde ist die aufgehobene Maria Himmelfahrts Bruderschaft allda Grundherrschaft, und zinst man dahin jährlich auf Martini zu Handen eines jedweiligen Herrn Administrators 1 f 36 x, vorbehältlich der Steüer und anderen nachbarlichen Oblagen. Dazu gehören auch zwey Gemeinds Grundstücke auf der Frohnwiese liegend.</p>
                <p>Bedingnüsse.</p>
                <p>1mo: Wird für diese Behausung samt den darzu gehörigen Gemeindsstüken zum ersten Ausrufspreis bestimmet, und festgesezet 1600 f.</p>
                <p>2do: Wird kein minderer Darbot als die Erfellung des ersten Ausrufspreises angenommen.</p>
@@ -72,7 +72,7 @@
                <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> den <date when="1797-09-21">21ten September 1797</date>
                     </p>
                <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> titl. Herr <rs type="person" ref="#latzi_peter_paul">Peter Paul Latzi</rs>.</p>
-               <p>Actuante <rs type="person" ref="#schenach_franz">Franz Schennach</rs> bey der Landgerichtschreiberey allda.</p>
+               <p>Actuante <rs type="person" ref="#schenach_franz">Franz Schenach</rs> bey der Landgerichtschreiberey allda.</p>
                <p>[Marginalzuschreibung:]<note>
                      <p rend="footnote text">
                         <hi rend="italic">Gesamte Zuschreibung am linken Rand geschrieben.</hi>
@@ -106,15 +106,15 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>Siglgeld.</cell>
+                     <cell>Siglgeld</cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>Publicierung.</cell>
+                     <cell>Publicierung</cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>Assignation</cell>
+                     <cell>Assig(nation)</cell>
                      <cell>3 x</cell>
                   </row>
                   <row>
@@ -122,7 +122,10 @@
                      <cell>6 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Lizitation tagsatzlich ob ½ Tag der Obrigkeit</cell>
+                     <cell>
+                                <p>Lizitation Tagsatzung ob ½ Tag</p>
+                                <p>der Obrigkeit</p>
+                            </cell>
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
@@ -130,7 +133,7 @@
                      <cell>45 x</cell>
                   </row>
                   <row>
-                     <cell>Amtdiener</cell>
+                     <cell>Amtd(iene)r</cell>
                      <cell>15 x</cell>
                   </row>
                   <row>
@@ -146,33 +149,37 @@
                <p>
                   <pb n="667v"/>
                </p>
-               <p>von 9 bis 10 Uhr Vormittag die Tagsazung bestimmt worden; so ist das Gericht bereit, die Beykunft der Kaufs Liebhaber abzuwarten, und ihre annemmliche Darbote ad protocollum zu nemmen.</p>
+               <p>von 9 bis 10 Uhr Vormittag die Tagsazung bestimmt worden; so ist das Gericht bereit, die Beykunft der Kaufs Liebhabern abzuwarten, und ihre annemmliche Darbote ad protocollum zu nemmen.</p>
                <p>Erscheinet Herr <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlicher Bichsenmachermeister allda zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs>, und leget um die versteigerenden Effetten den Ausrufspreis pr 1600 f und verbindet sich auch anbey die überigen in den Edikte eingekommene Bedingnissen zu erfüllen.</p>
                <p>Nachdem es nun 10 Uhr geschlagen, und kein anderer Kaufsliebhaber sich hervorgethan; als wurde der Licitations Kauf mit Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> geschlossen.</p>
                <p>
                   <pb n="668r"/>
                </p>
                <p>Zur Bekräftigung dessen hat sich derselbe allda ad protocollum eigenhändig unterschrieben.</p>
-               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#dam_franz">Franz Däm</rs>
+               <p>[Eigenhändige Unterschrift:] <rs type="person" ref="#dam_franz">Franz Däm</rs>
                     </p>
             </div>
             <div>
                <p>
+                  <pb n="358bv"/>
+               </p>
+               <p>[Briefadresse:] <rs type="person" ref="#plaickner_anton"/>Anton<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Davor sowie darüber gestrichen </hi>Herrn.</p>
+                        </note> Plaickner burgerlichen Weisgärbermeistern in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </p>
+               <p>
                   <pb n="358ar"/>
                </p>
                <p>Besonders vilgeehrter Maister,</p>
-               <p>Erst am dato erhalte von meiner Obrigkeit das Ersuchschreiben das ich auf den 16ten et 17. dis zu meines geistlichen Herrn Bruders Abhandlung in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> erscheinen solle, da ich mich aber nicht allerdings wohlauf befinde, als siehe mich nicht in Stande eine solliche Rais zumachen, und da ich gar niemande Bekanntes in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> weiß, als habe mich an den Meister wenden, und bitten wollen mich bei der Herr Brüderlichen Abhandlung zuvertretten, zu wellichen Ende den Meister hiemit den vollen Gwalt mit allen Rechtsklauslen, nebst der</p>
+               <p>Erst am dato erhalte von meiner Obrigkeit das Ersuchschreiben das ich auf den <date notBefore="1798-03-16" notAfter="1798-03-17">16ten et 17. dis</date> zu meines geistlichen Herrn Bruders Abhandlung in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> erscheinen solle, da ich mich aber nicht allerdings wohlauf befinde, als siehe mich nicht in Stande eine solliche Rais zumachen, und da ich gar niemande Bekanntes in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> weiß, als habe mich an den Meister wenden, und bitten wollen mich bei der Herr Brüderlichen Abhandlung zuvertretten, zu wellichen Ende den Meister hiemit den vollen Gwalt mit allen Rechtsklauslen, nebst der</p>
                <p>
                   <pb n="358av"/>
                </p>
                <p>Substitution, und Schadloshaltung, ertheilet haben will, womit nebst einen freindlichen Gruß an die eheliebste, und Jungfrau Schwester Maria verbleibe</p>
                <p>der altbekante <rs type="person" ref="#manucredo_johann_jakob">Johann Jakob Manucredo</rs> Stadt et Landgerichts Anwald m.p.</p>
-               <p>Sterzing den 13. Marti 1798</p>
                <p>
-                  <pb n="358bv"/>
-               </p>
-               <p>
-                  <hi rend="strikethrough">Herrn Herrn</hi> <rs type="person" ref="#plaickner_anton"/>Anton Plaickner burgerlichen Weisgärbermeistern in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                        <rs type="place" ref="#sterzing">Sterzing</rs> den <date when="1798-03-13">13. Marti 1798</date>
                     </p>
                <p>
                   <pb n="349r"/>
@@ -246,13 +253,16 @@
                      <cell>3 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>2 baar deto schlechtere <hi rend="strikethrough">a 45 x</hi> a 36 x</cell>
+                     <cell>2 baar deto schlechtere<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a 45 x.</p>
+                                </note> a 36 x</cell>
                      <cell>2 f 24 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 1 f 30 x. <hi rend="italic">2 f 24 x wäre der Wert für 4 Stück.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                                    <p rend="footnote text">
+                                        <hi rend="italic">Korrigiert aus</hi> 1 f 30 x. <hi rend="italic">2 f 24 x ist der Wert für 4 Stück.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>5 rupfene Leilacher a 48 x</cell>
@@ -271,8 +281,10 @@
                      <cell>6 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Ein</hi> 2½ Ellen schwarzer Hosenzeig a 48 x</cell>
+                     <cell>2½<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>Ein.</p>
+                                </note> Ellen schwarzer Hosenzeig a 48 x</cell>
                      <cell>2 f 0 x</cell>
                   </row>
                   <row>
@@ -299,11 +311,11 @@
                   <row>
                      <cell>Ein zinnenes Obergiessbeket wägt 3¼ Pfund a 26 x</cell>
                      <cell>1 f 37½ x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag wäre der Wert für 30 x pro Pfund oder 3¾ Pfund zu 26 x, richtig wäre 1 f 24½ x.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                                    <p rend="footnote text">
+                                        <hi rend="italic">Betrag wäre der Wert für 30 x pro Pfund oder 3¾ Pfund zu 26 x, richtig wäre 1 f 24½ x.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>Ein kupfernes Untergiessbecket wägt 2¼ Pf. a 20 x</cell>
@@ -353,7 +365,14 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>14 <hi rend="strikethrough">9</hi> Wein- und 4 Wasser Gläser</cell>
+                     <cell>14<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Am linken Rand korrigiert aus gestrichener </hi>9.</p>
+                                </note> Wein- und 4<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Korrigiert.</hi>
+                                    </p>
+                                </note> Wasser Gläser</cell>
                      <cell>54 x</cell>
                   </row>
                   <row>
@@ -382,14 +401,12 @@
                      <cell>6 x</cell>
                   </row>
                   <row>
-                     <cell>Ein weisser Komod Kasten mit 3 Thaten mit Schloss</cell>
+                     <cell>Ein weisser Komod Kasten mit 3 Thaten mit Schloss<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichene Bemerkung: </hi>Das darin befindliche Gewandt gehört der Jungfrau Miedl.</p>
+                                </note>
+                            </cell>
                      <cell>1 f 30 x</cell>
-                  </row>
-                  <row>
-                     <cell>
-                        <hi rend="strikethrough">Das darin befindliche Gewandt gehört der Jungfrau Miedl.</hi>
-                     </cell>
-                     <cell/>
                   </row>
                   <row>
                      <cell>Ein kleines schwarz gepeiztes Kastl mit 4 Thaten</cell>
@@ -461,8 +478,8 @@
                   </row>
                   <row>
                      <cell>1 schwarz tüchener Rock mit schwarz plurschener Weste<note>
-                           <p rend="footnote text"> W- <hi rend="italic">korrigiert aus</hi> B-.</p>
-                        </note>, und schwarz zeigen Beinkleider</cell>
+                                    <p rend="footnote text"> W- <hi rend="italic">korrigiert aus</hi> B-.</p>
+                                </note>, und schwarz zeigen Beinkleider</cell>
                      <cell>4 f 0 x</cell>
                   </row>
                   <row>
@@ -519,7 +536,7 @@
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>3 Welsberger Tepischer a 45 x</cell>
+                     <cell>3 Welsberger Tepicher a 45 x</cell>
                      <cell>2 f 15 x</cell>
                   </row>
                   <row>
@@ -563,8 +580,10 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Das</hi> Ein Tisch, und 1 Schisslram, und 1 Mehlthatl</cell>
+                     <cell>Ein<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>Das.</p>
+                                </note> Tisch, und 1 Schisslram, und 1 Mehlthatl</cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
@@ -680,14 +699,12 @@
                      <cell>4 x</cell>
                   </row>
                   <row>
-                     <cell>1 schwarz lakirter Stock, und 3 andere deto</cell>
+                     <cell>1 schwarz lakirter Stock, und 3 andere deto<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichener begonnener Eintrag: </hi>1 gefarbtes Schaf</p>
+                                </note>
+                            </cell>
                      <cell>1 f 0 x</cell>
-                  </row>
-                  <row>
-                     <cell>
-                        <hi rend="strikethrough">1 gefarbtes Schaf</hi>
-                     </cell>
-                     <cell/>
                   </row>
                   <row>
                      <cell>2 Bandlramlen, und 1 Brodram</cell>
@@ -713,7 +730,7 @@
                <p>In Keller</p>
                <table rend="rules">
                   <row>
-                     <cell>4 Waschzuber, und 2 runde Zapfenzüberln und 2 Yhren Banzelen</cell>
+                     <cell>4 Waschzuber, und 2 runde Zapfenzüberlen und 2 Yhren Banzelen</cell>
                      <cell>2 f 0 x</cell>
                   </row>
                   <row>
@@ -727,11 +744,17 @@
                <table rend="rules">
                   <row>
                      <cell>
-                        <hi rend="strikethrough">Summa der Inventur</hi>
-                     </cell>
+                                <note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gestrichener Text: </hi>Summa der Inventur.</p>
+                                </note>
+                            </cell>
                      <cell>
-                        <hi rend="strikethrough">136 f 56½ x</hi>
-                     </cell>
+                                <note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gestrichene Summe: </hi>136 f 56½ xr.</p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>Ein Korn Truchen mit 2 Klester</cell>
@@ -750,9 +773,7 @@
                   <pb n="362v"/>
                </p>
                <p>[Rubrum:] 1798</p>
-               <p>Weilend des hochehrwurdigen Priester Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </p>
-               <p>Erbstheilung</p>
+               <p>Weilend des hochehrwurdigen Priester Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Erbstheilung</p>
                <p>[Kanzleivermerk:] Exped.</p>
                <p>
                   <pb n="355r"/>
@@ -811,23 +832,25 @@
                <p>
                   <pb n="355v"/>
                </p>
-               <p>Zur Vermögens <hi rend="strikethrough">Ergänzung</hi> Abhandlung hat der Miterbe<note>
-                     <p rend="footnote text"> Mit- <hi rend="italic">über der Zeile eingefügt.</hi>
-                     </p>
-               </note> Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> laut eines Missivs de dato <rs type="place" ref="#sterzing">Sterzing</rs> den 13ten dies den Herrn <rs type="person" ref="#plaickner_anton">Anton Pleikner</rs> burgerlichen Weissgarbermeister <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-9</hi>
-                        <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                     </p>
-               </note>allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                        <hi rend="superscript">9</hi> begwältiget.</p>
-               <p>Und die Frau <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> verehelichte Mitscha hat zu selchen Ende die Vertrettung ihrer hier befindlichen Jungfrau Tochter <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> aufgetragen, diese hendlt mit gebetener Assistenz des Herrn <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-10</hi>
-                        <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                     </p>
-               </note>
-                        <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda<hi rend="superscript">10</hi>.</p>
+               <p>Zur Vermögens Abhandlung<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>Ergänzung.</p>
+                        </note> hat der
+               Miterbe<note>
+                            <p rend="footnote text"> Mit- <hi rend="italic">über der Zeile eingefügt.</hi>
+                            </p>
+                        </note> Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> laut
+               eines Missivs de dato <rs type="place" ref="#sterzing">Sterzing</rs> den <date when="1798-03-13">13ten dies</date> den Herrn <rs type="person" ref="#plaickner_anton">Anton Pleikner</rs> burgerlichen
+               Weissgarbermeister allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                        <note>
+                            <p rend="footnote text"> allda zu St. Lorenzen <hi rend="italic">am linken Rand nachgetragen.</hi>
+                            </p>
+                        </note> begwältiget.</p>
+               <p>Und die Frau <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> verehelichte Mitscha hat zu solchen Ende die Vertrettung ihrer hier befindlichen Jungfrau Tochter <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> aufgetragen, diese hendlt mit gebetener Assistenz des
+               Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> burger allda<note>
+                            <p rend="footnote text"> Thomas Mayr burger allda <hi rend="italic">am linken Rand nachgetragen.</hi>
+                            </p>
+                        </note>.</p>
                <p>Auf derenselben Anlangen wurde demnach amgestern laut sonderbaren Protokolls die Inventur vorgenommen, auf dato aber zur wurklichen Vermogens Ergänzung die Tagsatzung bestimmet; wobey auch dieselben rechtens erschienen sind.</p>
                <p>Nach Anbringen der Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitschin</rs> solle Herr Ableiber dem Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlicher Bichsenmachermeister, und Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> auch Burger allda vor seinen Ableiben</p>
                <p>
@@ -835,40 +858,38 @@
                </p>
                <p>eine letztwillige Verordnung mit der Bitte mündlich eröffnet haben, dieselben wollen nach seinen Hinscheiden solch vernommenen letzten Willen dem Gericht ordentlich kundmachen:</p>
                <p>Es sind demnach auch Herr <rs type="person" ref="#dam_franz">Franz Dam</rs>, und Herr <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> anhero erschienen, diese melden vor allen, dass Herr Ableiber nicht ihnen allein sondern auch dem damals gegenwärtigen Herrn Kaplan zu <rs type="place" ref="#soneburg">Sonnenburg</rs> mithin dreyen Gezeügen seinen letzten Willen mündlich eröffnet, welcher in folgenden bestehe:</p>
-               <p>Er bath vor allen nach seinen Hinscheiden, seine Schriften zu untersehen, und nachzusehen, obe etwo noch bezahlte Heilige Messen in Ausstand ungelesen verblieben, in diesen Falle wolle er, dass die Erben von seinen Vermögen die ausständigen Heiligen Messen nachlesen lassen sollen. Sollten aber keine Heiligen Messen in Ausstand seyen, <hi rend="strikethrough">so solle dessen Vermögen auf sein Hinscheiden unter seinen 2 Geschwisterte als Universal Erben gleich getheilet werden,</hi> so solle von seinen Vermögen</p>
+               <p>Er bath vor allen nach seinen Hinscheiden, seine Schriften zu untersehen, und nachzusehen, obe etwo noch bezahlte Heilige Messen in Ausstand ungelesen verblieben, in diesen Falle wolle er, dass die Erben von seinen Vermögen die ausständigen Heiligen Messen nachlesen lassen sollen. Sollten aber keine Heiligen Messen
+                 in Ausstand seyen,<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>so solle dessen Vermögen auf sein Hinscheiden unter seinen 2 Geschwisterte als Universal Erben gleich getheilet werden.</p>
+                        </note>, so solle von seinen Vermögen</p>
                <p>
                   <pb n="356v"/>
                </p>
                <p>seinen Geschwisterten folgende Erbtheile zuflüsen.</p>
-               <p>Dem Herrn Bruder <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> in <rs type="place" ref="#sterzing">Sterzing</rs> 50 f, der Frau Schwester <rs type="person" ref="#manucredo_anna">Anna verehlichte Mitscha</rs> 100 f, und der Jungfrauen Baas nemlich seiner Häuserin <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-11</hi> <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
+               <p>Dem Herrn Bruder <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> in <rs type="place" ref="#sterzing">Sterzing</rs> 50 f, der Frau Schwester <rs type="person" ref="#manucredo_anna">Anna verehlichte Mitscha</rs> 100 f, und der
+               Jungfrauen Baas nemlich seiner Hauserin Maria Mitscha<note>
+                            <p rend="footnote text"> <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
                                 <hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi>
-                     </p>
-               </note>
-                        <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
-                        <hi rend="superscript">11</hi> als eine Erkenntlichkeit für ihre getreue Haushaltung und fleissige Aufwartung ein Legat pr 25 f.</p>
+                            </p>
+                        </note> als eine Erkenntlichkeit für ihre getreue Haushaltung und fleissige Aufwartung ein Legat pr 25 f.</p>
                <p>Was demnach über solche bestimmte Erbs- und Legatsgebuhren noch ubrig verbleiben würde, solle zu Lesenlassung Heiliger Messen verwendet werden.</p>
                <p>Zur Bestettigung dieser ihrer Aussagen haben Deponenten nach dem Ablesen loblicher Landgerichts Obrigkeit das Handanloben erstattet.</p>
-               <p>Es meldet auch die Jungfrau <hi rend="strikethrough">Anna</hi> <rs type="person" ref="#mitscha_maria">Maria</rs>
+               <p>Es meldet auch die Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
                         <note>
-                     <p rend="footnote text">
-                        <hi rend="italic">Über der Zeile korrigiert.</hi>
-                     </p>
-               </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs>, dass Herr Ableiber seel. ihro das Kuchlzeug geschenket habe.</p>
+                            <p rend="footnote text"> Maria<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>Anna.</p>
+                        </note>, dass Herr Ableiber seel. ihro das Kuchlzeug geschenket habe.</p>
                <p>Diese Schenkung scheinet ganz billich zu seyn,</p>
                <p>
                   <pb n="357r"/>
                </p>
-               <p>
-                  <hi rend="strikethrough">diese Schenkung</hi>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-13</hi>
-                        <hi rend="italic">Über der Zeile korrigiert.</hi>
-                     </p>
-                  </note>und selbe<hi rend="superscript">13</hi> abzuweisen, wurde es auch nicht wohl der Mühe lohnen, denn nachdem amgestern das Kupferzeig ad Inventarium beschrieben worden, so darfte das übrige Kuchlzeug nur gar von geringen Werth seyn.</p>
-               <p>Das Testament wird einsmals in suspenso gelassen, und um hernach das weitere vorkehren zu können, wird allda vor allen <hi rend="strikethrough">einsmals</hi> vorgenommen diese</p>
+               <p>und selbe<note>
+                            <p rend="footnote text"> und selbe<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>diese Schenkung.</p>
+                        </note> abzuweisen, wurde es auch nicht wohl der Mühe lohnen, denn nachdem amgestern das Kupferzeig ad Inventarium beschrieben worden, so darfte das übrige Kuchlzeug nur gar von geringen Werth seyn.</p>
+               <p>Das Testament wird einsmals in suspenso gelassen, und um hernach das weitere vorkehren zu können, wird allda vor allen<note>
+                            <p rend="footnote text">
+                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>einsmals.</p>
+                        </note> vorgenommen diese</p>
                <p>Vermogensergänzung.</p>
                <table rend="rules">
                   <row>
@@ -883,7 +904,13 @@
                <p>Hauptvermögen.</p>
                <table rend="rules">
                   <row>
-                     <cell>Laut Kaufschillings Liquidation, und Schuldensüberbündung de dato <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1797-10-09">9ten Oktober 1797</date> so entzwischen Herrn Ableiber Sebastian Anton</cell>
+                     <cell>Laut Kaufschillings Liquidation, und Schuldensüberbündung de dato <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1797-10-09">9ten Oktober 1797</date> so entzwischen Herrn Ableiber <rs type="person" ref="#manucredo_antany_sebastian">Sebastian Anton Manukredo</rs>
+                                <note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Auf der nächsten Seite geschrieben.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell/>
                   </row>
                </table>
@@ -892,14 +919,12 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>
-                                <rs type="person" ref="#manucredo_antany_sebastian">Manukredo</rs> als Verkaufern, dann Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlichen Bichsenmachermeister allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> als Kaufern einer Behausung allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> vorgenommen worden, ist Kaufer Herr <rs type="person" ref="#dam_franz">Franz Dam</rs> dem Herrn Ableiber Kaufschillingsrest schuldig verblieben</cell>
-                     <cell>
-                        <p>
-                           <hi rend="strikethrough">600 f 16 x</hi>
-                        </p>
-                        <p>500 f 0 x</p>
-                     </cell>
+                     <cell>als Verkaufern, dann Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlichen Bichsenmachermeister allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> als Kaufern einer Behausung allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> vorgenommen worden, ist Kaufer Herr <rs type="person" ref="#dam_franz">Franz Dam</rs> dem Herrn Ableiber Kaufschillingsrest schuldig verblieben</cell>
+                     <cell>500 f 0 x<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Gesamter Betrag unter der Zeile geschrieben statt gestrichenem </hi>500 f 0 x.</p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
                      <cell>Zinsratum wird keines furgetragen, es laufet also dennen Erben die Verzinsung hievon auf Martini dies Jahrs ab 1 Jahr zu 3½ p.c.</cell>
@@ -907,12 +932,10 @@
                   </row>
                   <row>
                      <cell>Betragt das Hauptvermögen</cell>
-                     <cell>
-                        <p>
-                           <hi rend="strikethrough">638 f 32½ x</hi>
-                        </p>
-                        <p>per se.</p>
-                     </cell>
+                     <cell>per<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Links daneben gestrichen </hi> 638 f 32½ x.</p>
+                                </note> se.</cell>
                   </row>
                   <row>
                      <cell>Summa des völligen Vermögens</cell>
@@ -926,7 +949,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>No 1: Funeral Conto in loblicheem Pfarrwidum allda</cell>
+                     <cell>No 1: Funeral Conto in loblichem Pfarrwidum allda</cell>
                      <cell>18 f 33 x</cell>
                   </row>
                   <row>
@@ -942,7 +965,10 @@
                      <cell>6 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>[No] 5: Dem Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> Kameraladministrator an an [sic!] alt ausständigen Kapital- und Grundzinsen</cell>
+                     <cell>[No] 5: Dem Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> Kameralad(ministrat)or an<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt erneut irrig </hi>an.</p>
+                                </note> alt ausständigen Kapital- und Grundzinsen</cell>
                      <cell>12 f 42 x</cell>
                   </row>
                   <row>
@@ -950,11 +976,15 @@
                      <cell>8 f 29 x</cell>
                   </row>
                   <row>
-                     <cell>[No] 7: Dem Herrn <rs type="person" ref="#mayr_anton">Anton Mayr</rs> Eicholzer <hi rend="strikethrough">Se</hi> an deto</cell>
+                     <cell>[No] 7: Dem Herrn <rs type="person" ref="#mayr_anton">Anton Mayr Eicholzer</rs>
+                                <note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Se-.</p>
+                                </note> an deto</cell>
                      <cell>6 f 52 x</cell>
                   </row>
                   <row>
-                     <cell>[No] 8: Dem <rs type="person" ref="#wiser_veit">Veit Wiser</rs> Strutzer an abgegebenen Fleisch</cell>
+                     <cell>[No] 8: Dem <rs type="person" ref="#wiser_veit">Veit Wiser Strutzer</rs> an abgegebenen Fleisch</cell>
                      <cell>16 f 12 x</cell>
                   </row>
                   <row>
@@ -979,19 +1009,24 @@
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Die Jungfrau Hausserin <hi rend="strikethrough">Lidlohn</hi> hat selbst Lidlohn ab 5 Monath zubegehren</cell>
+                     <cell>Die Jungfrau Hausserin<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Lidlohn.</p>
+                                </note> hat selbst Lidlohn ab 5 Monath zubegehren</cell>
                      <cell>6 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Zu Bezahlung der Abhandlungsunkösten werden <hi rend="strikethrough">aus</hi> ausgestöckt</cell>
+                     <cell>Zu Bezahlung der Abhandlungsunkösten werden<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen mit langem -s- </hi>aus-.</p>
+                                </note> ausgestöckt</cell>
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Macht demnach was die Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs>
+                     <cell>Macht demnach was die Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
                                 <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> Anna.</p>
-                     </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs> an Abzugen zu bezahlen übernommen, und selbst zu fodern hat</cell>
+                                    <p rend="footnote text"> Maria<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>Anna.</p>
+                                </note> an Abzugen zu bezahlen übernommen, und selbst zu fodern hat</cell>
                      <cell>114 f 38 x</cell>
                   </row>
                   <row>
@@ -1004,18 +1039,22 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Zu kommen auf das Testament: Wenn man obigen Vermögensüberlieg entgegen haltet, so ist durch solches Testament das Landesgesetz überschritten. Zudem ist auch zu betrachten, dass die Erben selbst von ihren rechtmessigen Erbtheilen nichts nachsehen können, als hat man sich einverstanden, zu Abzahlung einiger allenfalls ausständigen Heiligen Messen, <hi rend="strikethrough">oder allenfalls</hi> und<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> zu des Herrn Ableibers eigenen Seelenheil <hi rend="strikethrough">zu Heiligen Messen</hi> auszusteken</cell>
+                     <cell>Zu kommen auf das Testament: Wenn man obigen Vermögensüberling entgegen haltet, so ist durch solches Testament das Landesgesetz überschritten. Zudem ist auch zu betrachten, dass die Erben selbst von ihren rechtmessigen Erbtheilen nichts nachsehen können, als hat man sich einverstanden, zu Abzahlung einiger allenfalls ausständigen
+                       Heiligen Messen, und<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>oder allenfalls.</p>
+                                </note> zu des Herrn Ableibers eigenen Seelenheil<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>zu Heiligen Messen.</p>
+                                </note> auszusteken</cell>
                      <cell>25 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Der Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs>
+                     <cell>Der Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
                                 <note>
-                           <p rend="footnote text"> M- <hi rend="italic">korrigiert aus begonnenem</hi> vo-</p>
-                     </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs> will der Herr Manucredische Vertretter <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs>, das zugedachte Legat verbilligen mit</cell>
+                                    <p rend="footnote text"> M-<hi rend="italic" xml:space="preserve"> von </hi>Maria<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>Ba-.</p>
+                                </note> will
+                     der Herr Johann Manucredische Vertretter <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs>, das zugedachte Legat verbilligen mit</cell>
                      <cell>25 f 0 x</cell>
                   </row>
                   <row>
@@ -1033,7 +1072,10 @@
                      <cell>11 f 41 x</cell>
                   </row>
                   <row>
-                     <cell>Machen diese <hi rend="strikethrough">Ab</hi> weiteren Abzüg</cell>
+                     <cell>Machen diese<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Ab-.</p>
+                                </note> weiteren Abzüg</cell>
                      <cell>61 f 41 x</cell>
                   </row>
                   <row>
@@ -1104,17 +1146,13 @@
                   <row>
                      <cell>Und Legat</cell>
                      <cell>25 f 0 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Auslassungsstrich für 0 korrigiert aus</hi> 25.</p>
-                        </note>
-                     </cell>
+                                    <p rend="footnote text">
+                                        <hi rend="italic">Auslassungsstrich für 0 korrigiert aus</hi> 25.</p>
+                                </note>
+                            </cell>
                   </row>
                   <row>
-                     <cell>Das wenige Kuchlgeschirr ist nicht ad Inventarium gekommen, und kann selbe solches zu sich nehmen.</cell>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Betragt deroselben Forderung in Geld</cell>
+                     <cell>Das wenige Kuchlgeschirr ist nicht ad Inventarium gekommen, und kann selbe solches zu sich nehmen. Betragt deroselben Forderung in Geld</cell>
                      <cell>139 f 38 x</cell>
                   </row>
                   <row>
@@ -1194,8 +1232,12 @@
                <p>
                   <pb n="362r"/>
                </p>
-               <p>Wo anmit gegenwürtige Vermogensergänzung und Erbtheilung beschossen, und bey Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> die alten Furpfandsrechte allda bestens erhollet werden.</p>
-               <p>Massen nach dem Ablesen zur Bekräftigung alles vorigen der Herr <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs> als Vertretter des Herrn <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs>, dann die Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> in proprio und Vertrettung ihrer Frau Mutter <rs type="person" ref="#manucredo_anna">Anna Mitscha</rs>, mit ihren erbetenen Asistenten Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> nomine loblicher Landgerichts Obrigkeit titl. Herr Pfleger und Landgerichtschreiber <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leyß</rs> das Handanloben erstattet haben.</p>
+               <p>Wo anmit gegenwürtige Vermogensergänzung und Erbtheilung beschlossen, und bey Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> die alten Furpfandsrechte allda bestens erhollet werden.</p>
+               <p>Massen nach dem Ablesen zur Bekräftigung alles vorigen der Herr <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs> als Vertretter des Herrn <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs>, dann die Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> in proprio und Vertrettung
+               ihrer Frau Mutter <rs type="person" ref="#manucredo_anna">Anna Mitscha</rs>
+                        <note>
+                            <p rend="footnote text"> A-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>Ma-.</p>
+                        </note>, mit ihren erbetenen Asistenten Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> nomine loblicher Landgerichts Obrigkeit titl. Herr Pfleger und Landgerichtschreiber <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leyß</rs> das Handanloben erstattet haben.</p>
                <p>Gezeugen Herr Burgermeister <rs type="person" ref="#christinell_michael">Michael Christinell</rs>, und <rs type="person" ref="#schenach_franz">Franz Schenach</rs> Oberschreiber allda.</p>
             </div>
          </div>
