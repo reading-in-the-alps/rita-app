@@ -234,11 +234,12 @@ declare function app:listPers($node as node(), $model as map(*)) {
         let $project := data($person/parent::tei:listPerson/@xml:id)
         let $id: = data($person/@xml:id)
         let $ref := "#"||$id
-        let $docs := collection($app:data)//tei:TEI[.//tei:rs[@ref=$ref]]//tei:title[1]
+        let $docs := collection($app:editions)//tei:TEI[.//tei:rs[@ref=$ref]]//tei:title[1]
         let $links := for $x in $docs
             let $collection := app:getColName($x)
             let $docName := util:document-name($x)
             let $link2doc := app:hrefToDoc($x, $collection)
+            where $collection != "listperson.xml"
             return
                 <li><a href="{$link2doc}">{$docName}</a></li>
             return
