@@ -229,27 +229,37 @@ for $title in ($entities, $terms)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $person in doc($app:personIndex)//tei:body//tei:person
-    let $relations := $person//tei:note[@type="family"]//text()
-    let $functions := $person//tei:note[@type="function"]//text()
-    let $project := data($person/parent::tei:listPerson/@xml:id)
-        return
-        <tr>
-            <td>
-                <a href="{concat($hitHtml,data($person/@xml:id))}">{$person/tei:persName/tei:surname}</a>
-            </td>
-            <td>
-                {$person/tei:persName/tei:forename}
-            </td>
-            <td>
-                {$relations}
-            </td>
-            <td>
-                {$functions}
-            </td>
-            <td>
-                {$project}
-            </td>
-        </tr>
+        let $relations := $person//tei:note[@type="family"]//text()
+        let $functions := $person//tei:note[@type="function"]//text()
+        let $project := data($person/parent::tei:listPerson/@xml:id)
+        let $id: = data($person/@xml:id)
+        let $ref := "#"||$id
+        let $docs := collection($app:data)//tei:TEI[.//tei:rs[@ref=$ref]]//tei:title[1]
+        let $links := for $x in $docs
+            let $collection := app:getColName($x)
+            let $docName := util:document-name($x)
+            let $link2doc := app:hrefToDoc($x, $collection)
+            return
+                <li><a href="{$link2doc}">{$docName}</a></li>
+            return
+            <tr>
+                <td>
+                    <a href="{concat($hitHtml,$id)}">{$person/tei:persName/tei:surname}</a>
+                </td>
+                <td>
+                    {$person/tei:persName/tei:forename}
+                </td>
+                <td>
+                    {$relations}
+                </td>
+                <td>
+                    {$functions}
+                </td>
+                <td>{$links}</td>
+                <td>
+                    {$project}
+                </td>
+            </tr>
 };
 
 (:~
