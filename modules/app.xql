@@ -9,6 +9,7 @@ import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:or
 
 declare variable $app:data := $config:app-root||'/data';
 declare variable $app:editions := $config:app-root||'/data/editions';
+declare variable $app:inventare := $config:app-root||'/data/inventare';
 declare variable $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
 declare variable $app:personIndex := $config:app-root||'/data/indices/listperson.xml';
@@ -313,6 +314,35 @@ declare function app:toc($node as node(), $model as map(*)) {
            <td>{$datum}</td>
            <td>{$place}</td>
            <td>{$docType}</td>
+           <td>{$link2doc}</td>
+        </tr>
+};
+
+(:~
+ : creates a basic table of content derived from the documents stored in '/data/inventare'
+ :)
+declare function app:inventare($node as node(), $model as map(*)) {
+
+    let $collection := request:get-parameter("collection", "")
+    let $docs := if ($collection)
+        then
+            collection(concat($config:app-root, '/data/', $collection, '/'))//tei:TEI
+        else
+            collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+    for $title in $docs
+        let $date := $title//tei:title//text()
+        let $amountInv := count($title//tei:row) - 2
+        let $place : = $title//tei:origin/tei:rs/text()
+        let $docType := $title//tei:msItem//tei:note/tei:rs/text()
+        let $link2doc := if ($collection)
+            then
+                <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
+            else
+                <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
+        return
+        <tr>
+           <td>{$date}</td>
+           <td>{$amountInv}</td>
            <td>{$link2doc}</td>
         </tr>
 };

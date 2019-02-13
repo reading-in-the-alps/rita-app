@@ -21,15 +21,14 @@
 ##################################
 -->
     <xsl:template match="/">
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.16/b-1.4.2/b-html5-1.4.2/b-print-1.4.2/datatables.min.css"/>
         
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"/>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"/>
-        <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.16/b-1.4.2/b-html5-1.4.2/b-print-1.4.2/datatables.min.js"/>
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.18/b-1.5.4/b-colvis-1.5.4/b-html5-1.5.4/b-print-1.5.4/fh-3.1.4/r-2.2.2/datatables.css"/>
+        
+        <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.18/b-1.5.4/b-colvis-1.5.4/b-html5-1.5.4/b-print-1.5.4/fh-3.1.4/r-2.2.2/datatables.js"/>
         <!--  https://github.com/jhyland87/DataTables-Keep-Conditions  -->
         <script src="../resources/js/datatables/dataTables.keepConditions.min.js"/>
-       
-
+        
+        
         <div class="card">
             <div class="card card-header">
                 <div class="row">
@@ -241,14 +240,15 @@
             </div>
             <script>
                 var table = $('#myTable').DataTable({
+                fixedHeader: true,
                 "language": {
                 "url": "https://cdn.datatables.net/plug-ins/1.10.19/i18n/German.json"
                 },
                 keepConditions: true,
-                "pageLength": 100,
+                "pageLength": 10,
                 dom: 'Bfrtip',
                 buttons: [
-                'copy', 'excel', 'pdf'
+                'copy', 'excel', 'pdf', 'colvis'
                 ]
                 });
                 
