@@ -23,7 +23,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Inventare des Mittleren Pustertals</repository>
@@ -240,7 +240,7 @@
                </row>
                <row>
                   <cell>
-                     In Folio zechen thomi pr
+                     <rs type="bibl" ref="undefined2">In Folio zechen thomi</rs> pr
                   </cell>
                   <cell>
                      10 f 0 x
@@ -248,7 +248,7 @@
                </row>
                <row>
                   <cell>
-                     In Quart vierundtzwainzig deto zu vierzig Khreizer thuet
+                     <rs type="bibl" ref="undefined3">In Quart vierundtzwainzig deto</rs> zu vierzig Khreizer thuet
                   </cell>
                   <cell>
                      16 f 0 x
@@ -261,7 +261,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     Ingefer funfzig unterschidliche Piechlen in Octav zu zwelf Khreizer thuet
+                     <rs type="bibl" ref="undefined4">Ingefer funfzig unterschidliche Piechlen in Octav</rs> zu zwelf Khreizer thuet
                   </cell>
                   <cell>
                      10 f 0 x

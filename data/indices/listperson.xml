@@ -90,7 +90,8 @@
                   <forename>Johann Joseph Martin</forename>
                   <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
                </persName>
-               <note type="function">Inhaber des Ansitzes <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>Dietenheim</note>
+               <note type="function">Inhaber des Ansitzes <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
             </person>
             <person xml:id="hebenstreit_christoph_andree">
                <persName>

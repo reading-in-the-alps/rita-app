@@ -453,7 +453,7 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Hunoldt 6 thomi in franzesischen Pundt pr</bibl>
+                     <rs type="bibl" ref="#hunoldt">P. Hunoldt 6 thomi</rs> in franzesischen Pundt pr
                   </cell>
                   <cell rend="left">
                      8 f 0 x
@@ -461,7 +461,7 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Marianischn Exempl per</bibl>
+                     <rs type="bibl" ref="#marianischer_exempl">Marianisches Exempl</rs> per
                   </cell>
                   <cell rend="left">
                      1 f 20 x
@@ -469,7 +469,7 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Hëger 4 thom seint aber dem Herrn Cooperatorn Steeger fir seine gehabte extra Miehe gelassen pr</bibl>
+                     <rs type="bibl" ref="#pater_heger">P. Hëger 4 thom</rs> seint aber dem Herrn Cooperatorn Steeger fir seine gehabte extra Miehe gelassen pr
                   </cell>
                   <cell rend="left">
                      2 f 0 x
@@ -477,7 +477,7 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Hobat 2 thomi per</bibl>
+                     <rs type="bibl" ref="#hobat">P. Hobat 2 thomi</rs> per
                   </cell>
                   <cell rend="left">
                      2 f 0 x
@@ -485,37 +485,37 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Boetius 3 thomi so aber dem andern Herrn Cooperatore Feichter auch fir seiner Miehe gelassen worden,</bibl>
+                     <rs type="bibl" ref="#boetius">Boetius 3 thomi</rs> so aber dem andern Herrn Cooperatore Feichter auch fir seiner Miehe gelassen worden,
                   </cell>
                   <cell rend="left"/>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Bibliae Sacrae germana et latina pr</bibl>
+                     <rs type="bibl" ref="#biblia_sacra">Bibliae Sacrae germana et latina</rs> pr
                   </cell>
                   <cell rend="left">2 f 30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Aber Bibliae Sacro per</bibl>
+                     Aber <rs type="bibl" ref="#biblia_sacra2">Bibliae Sacro</rs> per
                   </cell>
                   <cell rend="left">1 f 24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Missalle Romanum pr</bibl>
+                     <rs type="bibl" ref="#missale_romanum">Missalle Romanum</rs> pr
                   </cell>
                   <cell rend="left">40 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Kheller Hans: 3 thomi per</bibl>
+                     <rs type="bibl" ref="#pater_kellerhaus2">Khellerhaus: 3 thomi</rs> per
                   </cell>
                   <cell rend="left">2 f 20 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Lojmon</bibl>
+                     <rs type="bibl" ref="#laymann_paul">P. Lojmon</rs>
                      <note>
                         <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve"> Irrig für </hi>Laymann.</p>
@@ -525,13 +525,13 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Brev. Rom. in fol(io)</bibl>
+                     <rs type="bibl" ref="#breviarium_romanum">Brev(iarium) Rom(anum) in folio</rs>
                   </cell>
                   <cell rend="left">20 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Ius Can(onicus) P. Pichler 1 thomi pr</bibl>
+                     <rs type="bibl" ref="#ius_canonicum_pichler">Ius Can(onicus) P. Pichler 1 thomi</rs> pr
                   </cell>
                   <cell rend="left">3 f 0 x</cell>
                </row>
@@ -546,37 +546,37 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     <bibl>P. Roberti 3 thom per</bibl>
+                     <rs type="bibl" ref="#roberti">P. Roberti 3 thom</rs> per
                   </cell>
                   <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Reifenstuel Theol. Moralis per</bibl>
+                     <rs type="bibl" ref="#reiffenstuehl_theologus">P. Reifenstuel Theol. Moralis</rs> per
                   </cell>
                   <cell rend="left">51 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Lacroix 2 thom pr</bibl>
+                     <rs type="bibl" ref="#lacrua">Lacroix 2 thom</rs> pr
                   </cell>
                   <cell rend="left">1 f 24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Hechel Predigen per</bibl>
+                     <rs type="bibl" ref="#hechel">P. Hechel Predigen</rs> per
                   </cell>
                   <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Reichardt Lob und Leich Predigen</bibl>
+                     <rs type="bibl" ref="#reichardt_lob_und_leich">P. Reichardt Lob und Leich Predigen</rs>
                   </cell>
                   <cell rend="left">24 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Hermonie Comentorius per</bibl>
+                     <rs type="bibl" ref="#commentarius_in_ius_statutarium_tyrolense_hermanin_notsure">Hermonin Comentorius</rs> per
                   </cell>
                   <cell rend="left">24 x</cell>
                </row>
@@ -588,28 +588,31 @@
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Vieria 3 thom pr</bibl>
+                     <rs type="bibl" ref="#vieria">Vieria 3 thom</rs> pr
                   </cell>
                   <cell rend="left">1 f 30 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Prigl centi folium 2 thom pr</bibl>
+                     <rs type="bibl" ref="#p_conradus_prigl_centifolium_vernons_flori">P. Prigl centi folium 2 thom</rs> pr
                   </cell>
                   <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>P. Schmidt Cathecismus 2 thom pr</bibl>
+                     <rs type="bibl" ref="#schmid_katechismus">P. Schmidt Cathecismus 2 thom</rs> pr
                   </cell>
                   <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
                   <cell rend="left">
-                     <bibl>Strobl Ovum Paschale per</bibl>
+                     <rs type="bibl" ref="#strobl_ovum_paschale">Strobl Ovum Paschale</rs> per
                   </cell>
                   <cell rend="left">40 x</cell>
                </row>
+
+<!-- stopped here -->
+
                <row>
                   <cell rend="left">
                      <bibl>P. Hofer Promptuarium Philosophicum pr</bibl>

@@ -644,7 +644,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#proviarium">Praeviarium</rs> in vier Thaill, per
+                     <rs type="bibl" ref="#brevier">Praeviarium</rs> in vier Thaill, per
                   </cell>
                   <cell>
                      3 f 30 x
@@ -660,7 +660,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#schlechte_alte_braevier">Schlechte alte Praevier</rs>, in vier Thaill, per
+                     <rs type="bibl" ref="#brevier">Schlechte alte Praevier</rs>, in vier Thaill, per
                   </cell>
                   <cell>
                      24 x
@@ -829,7 +829,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_lohner">P. Lohner</rs>, pr
+                     <rs type="bibl" ref="#tobias_lohner">P. Lohner</rs>, pr
                   </cell>
                   <cell>
                      21 x

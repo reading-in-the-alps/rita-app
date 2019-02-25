@@ -1134,7 +1134,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_balthasar_knellinger_predigen">P. Balthasar Keilinger Predigen auf alle Festtäg</rs>
+                     <rs type="bibl" ref="#knellinger_predigen_festtage">P. Balthasar Keilinger Predigen auf alle Festtäg</rs>
                             <note>
                                 <p rend="footnote text"> Keilinger <hi rend="italic">irrig für</hi> Knellinger.</p>
                             </note>, in Schwein Leder, per
@@ -1145,7 +1145,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#concordantiae_biblionum">Concordantiae Biblionum</rs> in französischen Bund, per
+                     <rs type="bibl" ref="#concordantiae_biblionum">Concordantiae Bibliorum</rs> in französischen Bund, per
                   </cell>
                   <cell>
                      2 f 20 x
@@ -1290,7 +1290,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_mauritius_notenssussae_homo_simplex_et_rectus">P. Mauritius Notenssussae Homo Simplex Et Rectus</rs>, per
+                     <rs type="bibl" ref="#pater_mauritius_homo_simplex_et_rectus">P. Mauritius Notenssussae Homo Simplex Et Rectus</rs>, per
                   </cell>
                   <cell>
                     24 x
@@ -1330,7 +1330,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_ignatius_ertl_promontorium">P. Ignatius Ertl Manitocium Bonaespei</rs>
+                     <rs type="bibl" ref="#ignatius_ertl_promontorium">P. Ignatius Ertl Manitocium Bonaespei</rs>
                             <note>
                                 <p rend="footnote text"> Manitocium <hi rend="italic" xml:space="preserve">irrig für </hi>Promontorium.</p>
                             </note> per
@@ -1529,7 +1529,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#cathecismus_concilium_tridentinum">Cathecismus Concilium Tridentinum</rs> per
+                     <rs type="bibl" ref="#cathecismus_romanus">Cathecismus Concilium Tridentinum</rs> per
                   </cell>
                   <cell>
                     15 x
@@ -1537,7 +1537,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_tobias_lohner_instruction_practicae">P. Tobias Lohner Instruction Practicae</rs> per
+                     <rs type="bibl" ref="#tobias_lohner_instructio_practica">P. Tobias Lohner Instruction Practicae</rs> per
                   </cell>
                   <cell>
                      20 x
@@ -1634,7 +1634,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_elbl_theol_moralis">P. Elbl Theol. Moralis</rs> 10 thom in französischen Bund, per
+                     <rs type="bibl" ref="#pater_elbl_theologiae_moralis">P. Elbl Theol. Moralis</rs> 10 thom in französischen Bund, per
                   </cell>
                   <cell>
                      4 f 0 x

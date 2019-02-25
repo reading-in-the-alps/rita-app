@@ -409,12 +409,15 @@ return
 declare function app:listBibl($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $item in doc($app:workIndex)//tei:listBibl/tei:bibl
+        let $author := $item/tei:author/text()
+        let $title := if ($item/tei:title/text()) then $item/tei:title/text() else 'kein Titel'
 
    return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($item/@xml:id))}">{$item/text()}</a>
+                <a href="{concat($hitHtml,data($item/@xml:id))}">{$title}</a>
             </td>
+            <td>{$author}</td>
         </tr>
 };
 

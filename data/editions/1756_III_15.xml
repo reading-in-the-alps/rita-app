@@ -1990,7 +1990,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#pater_ilhum">Pater Ilhum</rs> in Schwein Löder Einpundt, pr
+                     <rs type="bibl" ref="#pater_ilhum">Pater Ilsum</rs> in Schwein Löder Einpundt, pr
                   </cell>
                   <cell>
                      1 f 12 x
@@ -2071,7 +2071,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#wolfgang_schallerer_dominical">Wolfgang Schallerer Dominical Et Festival</rs>, in francösischen Einpundt, pr
+                     <rs type="bibl" ref="#wolfgang_schallerer_dominical #wolfgang_schallerer_festival">Wolfgang Schallerer Dominical Et Festival</rs>, in francösischen Einpundt, pr
                   </cell>
                   <cell>
                     2 f 0 x
@@ -2178,7 +2178,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#biblia_sacra">Biblia Sacra</rs> in Schwein Löder pr
+                     <rs type="bibl" ref="#biblia_sacra2">Biblia Sacra</rs> in Schwein Löder pr
                   </cell>
                   <cell>
                      2 f 30 x
@@ -2199,7 +2199,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#pater_letelies_geistliche_veldt">Pater Letelies Geistliche Veldt Pau, nein thomi</rs>, in Schweinlöder pr
+                     <rs type="bibl" ref="#pater_letelies_geistliche_veldt">Pater Setelins Geistliche Veldt Pau, nein thomi</rs>, in Schweinlöder pr
                   </cell>
                   <cell>
                      4 f 30 x
@@ -2230,12 +2230,6 @@
                   </cell>
                </row>
                <row>
-                  <cell>
-                     <rs type="bibl" ref="#reiffenstuehl_theologus">Reiffenstuehl Theologus</rs>
-                  </cell>
-                  <cell/>
-               </row>
-               <row>
                   <cell>Latus</cell>
                   <cell>15 f 15 x</cell>
                </row>
@@ -2246,7 +2240,11 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#reiffenstuehl_theologus">moralis</rs> in Schweinlöder, pr
+                     <rs type="bibl" ref="#reiffenstuehl_theologus">Reiffenstuehl Theologus moralis</rs>
+                                <note>
+                                    <p rend="footnote text"> Reiffenstuehl Theologus<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
+                                    </p>
+                                </note> in Schweinlöder, pr
                   </cell>
                   <cell>
                      51 x
@@ -2254,11 +2252,10 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#concordantia">Concandantia Bibliorum</rs>
+                     <rs type="bibl" ref="#concordantiae_biblionum">Concandantiae Bibliorum</rs>
                                 <note>
                                     <p rend="footnote text">
-                                        <hi rend="italic"> Gemeint ist </hi>
-                                        <rs type="bibl" ref="#concordantia">Concordantia Bibliorum</rs>.</p>
+                                        <hi rend="italic"> Gemeint ist </hi>Concordantiae Bibliorum.</p>
                                 </note> in Schwein Löder, pr
                   </cell>
                   <cell>
@@ -2283,9 +2280,9 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#callans_contans">Thraumer Callans Contans, item Geistliche Seellen Jagt</rs>
+                     <rs type="bibl" ref="#thrauner_callans_contans #thrauner_seelenjagd">Thraumer Callans Contans, item Geistliche Seellen Jagt</rs>
                                 <note>
-                                    <p rend="footnote text"> Thraumer <hi rend="italic">verschrieben für </hi> <rs type="bibl" ref="#thrauner">Thrauner</rs>.</p>
+                                    <p rend="footnote text"> Thraumer <hi rend="italic">verschrieben für </hi>Thrauner.</p>
                                 </note>, pr
                   </cell>
                   <cell>
@@ -2354,7 +2351,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#pater_ertl_proedigen">Pater Ertl Prödigen drey thomi</rs> in französischen Pundt, pr
+                     <rs type="bibl" ref="#ignatius_ertl_proedigen2">Pater Ertl Prödigen drey thomi</rs> in französischen Pundt, pr
                   </cell>
                   <cell>
                      2 f 24 x
@@ -2370,7 +2367,10 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#pater_neumayr_municulus_triplex">Pater Neumayr Municulus Triplex</rs>, in französischen Bundt in 2 Thaill, pr
+                     <rs type="bibl" ref="#pater_neumayr_municulus_triplex">Pater Neumayr Municulus Triplex</rs>
+                                <note>
+                                    <p rend="footnote text"> Municulus<hi rend="italic" xml:space="preserve"> verschrieben für </hi>Funiculus.</p>
+                                </note>, in französischen Bundt in 2 Thaill, pr
                   </cell>
                   <cell>
                      1 f 20 x
@@ -2394,7 +2394,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#johan_goestl_caethaekhismus">Johan Göstl Cäthäkhismus</rs> pr
+                     <rs type="bibl" ref="#johan_goestl_caethaekhismus">Johan Gösl Cäthäkhismus</rs> pr
                   </cell>
                   <cell>
                      24 x
@@ -2417,12 +2417,6 @@
                   </cell>
                </row>
                <row>
-                  <cell>
-                     <rs type="bibl" ref="#strobl_geistliches_khartten">Strobl Geistliches Khartten</rs>
-                  </cell>
-                  <cell/>
-               </row>
-               <row>
                   <cell>Latus</cell>
                   <cell>8 f 27 x</cell>
                </row>
@@ -2433,7 +2427,11 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#strobl_geistliches_khartten">Spill zway thomi</rs>, pr
+                     <rs type="bibl" ref="#strobl_geistliches_khartten">Strobl Geistliches Khartten Spill zway thomi</rs>
+                                <note>
+                                    <p rend="footnote text"> Strobl Geistliches Khartten<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
+                                    </p>
+                                </note>, pr
                   </cell>
                   <cell>
                     1 f 12 x
@@ -2473,7 +2471,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#trauners_erstes_dominicale">Trauners Erstes Dominicale</rs>, pr
+                     <rs type="bibl" ref="#trauners_seelenjagd_1">Trauners Erstes Dominicale</rs>, pr
                   </cell>
                   <cell>
                      45 x
@@ -2563,7 +2561,12 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#pater_inderstorfer_in_decalogi">Pater Inderstorfer In Decalogi</rs> pr
+                     <rs type="bibl" ref="#pater_inderstorfer_in_decalogi">Pater Inderstorfer In Decalogi</rs>
+                                <note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Zweites </hi>-r-<hi rend="italic" xml:space="preserve"> von Inderstorfer auf Rasur von </hi>-f-<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
+                                    </p>
+                                </note> pr
                   </cell>
                   <cell>
                      25 x
@@ -2579,7 +2582,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#marchonzius_rationale_et_hortus_pastorum">Marchonzius Rationale Et Hortus Pastorum</rs>, pr
+                     <rs type="bibl" ref="#marchonzius_rationale #marchonzius_hortus_pastorum">Marchonzius Rationale Et Hortus Pastorum</rs>, pr
                   </cell>
                   <cell>
                      1 f 26 x
@@ -2592,7 +2595,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#pater_knellingers_proedigen">Pater Khnelingers</rs>
+                     <rs type="bibl" ref="#knellingers_predigten">Pater Khnelingers</rs>
                      <note>
                         <p rend="footnote text">
                            <hi rend="italic"> Gemeint ist</hi> Knellinger.</p>
@@ -2688,7 +2691,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#praeviarium_in_octav">Praeviarium in Octav</rs>, pr
+                     <rs type="bibl" ref="#brevier">Praeviarium in Octav</rs>, pr
                   </cell>
                   <cell>
                      2 f 0 x
@@ -3343,7 +3346,7 @@
                   <cell>
                             <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainerisches</rs>
                                 <note>
-                                    <p rend="footnote text"> Seba-<hi rend="italic" xml:space="preserve"> noch auf der vorigen Seite geschrieben.</hi>
+                                    <p rend="footnote text"> Seba-<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
                                     </p>
                                 </note> gleichthailpar respective gewohnenes Vermigen vorstendig zu sein, dreitaussent söchshundert söchsundtfunfzig Gulden id est</cell>
                   <cell>3656 f 0 x</cell>

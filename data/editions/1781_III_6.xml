@@ -7678,7 +7678,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_pauli_laymann_theologia_moralis">P. Pauli Laymann Theologia Moralis</rs> in Schwein Leder
+                        <rs type="bibl" ref="#pauli_leymans_theologi_moralis">P. Pauli Laymann Theologia Moralis</rs> in Schwein Leder
                      </cell>
                   </row>
                   <row>
@@ -7930,7 +7930,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_pichler_ius_canonicum">P. Pichler Ius Canonicum</rs>, französischer Bund
+                        <rs type="bibl" ref="#ius_canonicum_pichler">P. Pichler Ius Canonicum</rs>, französischer Bund
                      </cell>
                   </row>
                   <row>
@@ -9291,7 +9291,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#alte_brevier">Alte Brevier in 4 Theil.</rs>
+                        <rs type="bibl" ref="#brevier">Alte Brevier in 4 Theil.</rs>
                      </cell>
                   </row>
                   <row>
@@ -9725,7 +9725,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_lohner_instructio_practica">Instructio Practica De S.S. Missae Sacrificio P. Lohner</rs> in deto Bund
+                        <rs type="bibl" ref="#tobias_lohner_instructio_practica_ms">Instructio Practica De S.S. Missae Sacrificio P. Lohner</rs> in deto Bund
                      </cell>
                   </row>
                   <row>
@@ -9781,7 +9781,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_elbel_theologia_morales">Theologia Morales P. Elbel</rs> 8
+                        <rs type="bibl" ref="#pater_elbl_theologiae_moralis">Theologia Morales P. Elbel</rs> 8
                         <note>
                            <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
@@ -9943,7 +9943,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_nadasi_jahr_der_geheiligten">Jahr Der Geheiligten Sonntägen P. Nadasi</rs> in deto Bund.
+                        <rs type="bibl" ref="#nadasi_jahr_der_geheiligten">Jahr Der Geheiligten Sonntägen P. Nadasi</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -10044,7 +10044,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_pichler_compendium_iuris_canonici">P. Pichler Compendium Iuris Canonici</rs> 2 thom. in französischen Bund,
+                        <rs type="bibl" ref="#ius_canonicum_pichler_compendium">P. Pichler Compendium Iuris Canonici</rs> 2 thom. in französischen Bund,
                      </cell>
                   </row>
                   <row>
@@ -10079,7 +10079,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#conscientia_recta_seu_miscellanei_practici_casus_weinzierl">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</rs> in 3 thom. in pirmenten Bund.
+                        <rs type="bibl" ref="#weinzierl_conscientiae_rectae">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</rs> in 3 thom. in pirmenten Bund.
                      </cell>
                   </row>
                   <row>
