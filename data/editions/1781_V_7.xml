@@ -1092,7 +1092,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_henrici_fruchtbarer_himelsthau_bredigen">Fruchtbarer Himelsthau, Geist- Und Lehrreiche Bredigen P. Henrici Venedien</rs> 2 Theil
+                     <rs type="bibl" ref="#venedien_fruchtbarer_himelsthau_bredigen">Fruchtbarer Himelsthau, Geist- Und Lehrreiche Bredigen P. Henrici Venedien</rs> 2 Theil
                   </cell>
                   <cell>
                      1 f 30 x
@@ -1217,7 +1217,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_neymayr_khern_des_christenthumb">Kern des Kristenthums P. Franciscus Neumayr</rs>
+                     <rs type="bibl" ref="#p_neumayr_khern_des_christenthumb">Kern des Kristenthums P. Franciscus Neumayr</rs>
                   </cell>
                   <cell>
                      15 x

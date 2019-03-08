@@ -509,7 +509,11 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#neuburger_conciodes_moralis">Neuburger Conciodes Moralis</rs> driter Thaill pr
+                     <rs type="bibl" ref="#neuburger_conciodes_moralis">Neuburger Conciodes Moralis</rs>
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Irrig für </hi>Conciones Rurales.</p>
+                            </note> driter Thaill pr
                   </cell>
                   <cell>
                      30 x
@@ -517,7 +521,11 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#dolog_moralis">Dolog. Moralis</rs> pr
+                     <rs type="bibl" ref="#dolog_moralis">Dolog. Moralis</rs>
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Vermutlich irrig für </hi>Theologia Moralis.</p>
+                            </note> pr
                   </cell>
                   <cell>
                      24 x
@@ -533,7 +541,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_franz_bojerus">P. Franz Bojerus Dreyfache Cron 2 thomae</rs> pr
+                     <rs type="bibl" ref="#p_franz_bojerus">P. Franz Bojerus Dreyfache Cron</rs> 2 thomae pr
                   </cell>
                   <cell>
                      1 f 0 x
@@ -557,7 +565,11 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_riga_achti_platationi">P. Riga Achti Platationi</rs> pr
+                     <rs type="bibl" ref="#p_cyrilus_riga_horti_plantation">P. Riga Achti Platationi</rs>
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Verschrieben für </hi>Horti Plantationum.</p>
+                            </note> pr
                   </cell>
                   <cell>
                      45 x
@@ -668,7 +680,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_graditensis_concianes">P. Graditensis Concianes</rs> in drey Thaill, per
+                     <rs type="bibl" ref="#p_graditensis_concianes">P. Graditensis Conciones</rs> in drey Thaill, per
                   </cell>
                   <cell>
                     1 f 12 x
@@ -708,7 +720,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_hetti_heiliger_ehestandt">P. Hetti Heiliger Ehestandt</rs>, pr
+                     <rs type="bibl" ref="#p_hetti_heiliger_ehestandt">P. Xetti Heiliger Ehestandt</rs>, pr
                   </cell>
                   <cell>
                      26 x
@@ -732,7 +744,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_sigl_diester_gwaldt_zum_todt">P. Sigl Diester Gwaldt Zum Todt</rs>, per
+                     <rs type="bibl" ref="#p_sigl_diester_gwaldt_zum_todt">P. Sigl Siesser Gwaldt Zum Todt</rs>, per
                   </cell>
                   <cell>
                      24 x
@@ -757,7 +769,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_steinhies_aphorismus_juris">P. Steinhies Aphorismus Juris</rs>
+                     <rs type="bibl" ref="#p_steinhies_aphorismus_juris">P. Steinsies Aphorismus Juris</rs>
                   </cell>
                   <cell>
                      21 x
@@ -773,7 +785,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#idem_ideo_poesias_et_de_idearo_rhethorico">Idem Ideo Poesias et de Idearo Rhethorico</rs> zwo Piecher, pr
+                     <rs type="bibl" ref="#p_neumayr_idea_poesios #p_neumayr_idea_rethoricae">Idem Ideo Poesias et de Idearo Rhethorico</rs> zwo Piecher, pr
                   </cell>
                   <cell>
                      48 x
@@ -797,7 +809,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#moerckhs_paur_von_p_peer">Mörckhs Paur von P. Peer</rs> pr
+                     <rs type="bibl" ref="#peer_moerckhs_paur">Mörckhs Paur von P. Peer</rs> pr
                   </cell>
                   <cell>
                      18 x
@@ -805,7 +817,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_peer_die_angelica_wurzen">P. Peer Die Angelica Wurzen</rs> per
+                     <rs type="bibl" ref="#peer_die_angelica_wurzen">P. Peer Die Angelica Wurzen</rs> per
                   </cell>
                   <cell>
                      20 x
@@ -813,7 +825,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#unterschidliche_discurs">Unterschidliche Discurs</rs> pr
+                     <rs type="bibl" ref="#undefined5">Unterschidliche Discurs</rs> pr
                   </cell>
                   <cell>
                      21 x
@@ -837,7 +849,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#zwayundtreissig_andere_unterschidliche_claine_piechlen">Zwayundtreissig andere unterschidliche claine Piechlen</rs>, per
+                     <rs type="bibl" ref="#undefined6">Zwayundtreissig andere unterschidliche claine Piechlen</rs>, per
                   </cell>
                   <cell>
                      3 f 0 x
@@ -851,7 +863,8 @@
                 <p/>
             <table>
                <row>
-                  <cell>Betrifft hievon beschribene Inventur, samt den Piechern</cell>
+                  <cell>Betrifft hievon beschribene Inventur, samt den <bibl>Piechern</bibl>
+                        </cell>
                   <cell>192 f 45 x</cell>
                </row>
             </table>

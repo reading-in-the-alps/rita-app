@@ -603,7 +603,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_francisci_neymayr_exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</rs>
+                     <rs type="bibl" ref="#p_neumayr_exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</rs>
                   </cell>
                   <cell>
                      15 x
@@ -684,7 +684,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_francisci_neymayr_idea_rethorices">P. Francisci Neymayr Idea Rethorices</rs>
+                     <rs type="bibl" ref="#p_neumayr_idea_rethoricae">P. Francisci Neymayr Idea Rethorices</rs>
                   </cell>
                   <cell>
                      8 x
@@ -789,7 +789,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_neymayr_khern_des_christenthumb">P. Neymayr Khern des Christenthumb</rs> pr
+                     <rs type="bibl" ref="#p_neumayr_khern_des_christenthumb">P. Neymayr Khern des Christenthumb</rs> pr
                   </cell>
                   <cell>
                      15 x
@@ -841,7 +841,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#drexelius">Drexelius</rs> in siben Theillelen pr
+                     <rs type="bibl" ref="#drexel">Drexelius</rs> in siben Theillelen pr
                   </cell>
                   <cell>
                      1 f 24 x
