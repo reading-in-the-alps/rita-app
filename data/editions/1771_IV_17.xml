@@ -434,7 +434,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#jacobi_marchantii_hortus_pastorum">Jacobi Marchantii Hortus Pastorum</rs> 1 thom obigen Pundt pr
+                     <rs type="bibl" ref="#marchonzius_hortus_pastorum">Jacobi Marchantii Hortus Pastorum</rs> 1 thom obigen Pundt pr
                   </cell>
                   <cell>
                      1 f 0 x
@@ -450,7 +450,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#manuscriptoten_tractus_de_sacram">Manuscriptae seu Tractatus de Sacram. Poenitentiae ohne Tax</rs>
+                     <rs type="bibl" ref="#manuscriptoten_tractus_de_sacram">Manuscriptae seu Tractatus de Sacramento Poenitentiae</rs> ohne Tax
                   </cell>
                   <cell/>
                </row>
@@ -461,7 +461,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#anacleti_reifenstuel">Anacleti Reifenstuel Theol. Moralis</rs> in Schwein Leder per
+                     <rs type="bibl" ref="#reiffenstuehl_theologus">Anacleti Reifenstuel Theol. Moralis</rs> in Schwein Leder per
                   </cell>
                   <cell>
                      36 x
@@ -566,7 +566,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#biblia_sacra">Biblia Sacra teutsch</rs>
+                     <rs type="bibl" ref="#teutsche_bibl">Biblia Sacra teutsch</rs>
                   </cell>
                   <cell>
                      24 x
@@ -587,7 +587,7 @@
                </row>
                <row>
                   <cell>
-                     Ain anderes deto in 4 Thaill pr
+                     <rs type="bibl" ref="#raiß_previer">Ain anderes deto</rs> in 4 Thaill pr
                   </cell>
                   <cell>
                      1 f 30 x
@@ -611,7 +611,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#vir_apostolicus_supradicti_autoris">Vir Apostolicus supraedicti autoris</rs>
+                     <rs type="bibl" ref="#p_neumayr_vier_apostolicus">Vir Apostolicus supraedicti autoris</rs>
                   </cell>
                   <cell>
                      18 x
@@ -652,7 +652,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_joannis_taberna_synopsus">P. Joannis Taberna Synopssus Theolog. Pract.</rs>
+                     <rs type="bibl" ref="#taverne_jean_synopsis_theologiae_practicae">P. Joannis Taberna Synopssus Theolog. Pract.</rs>
                   </cell>
                   <cell>
                      12 x
@@ -749,7 +749,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_francisci_nepren_considerationes_christ">P. Francisci Nepren Considerationes Christ.</rs> In 4 thom
+                     <rs type="bibl" ref="#p_francisci_nepren_considerationes_christ">P. Francisci Nepren Considerationes Christ.</rs> in 4 thom
                   </cell>
                   <cell>
                      48 x
@@ -773,7 +773,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#joannis_adami_weeber_iter_coeleste">Joannis Adami Weeber Iter Coeleste</rs> pr
+                     <rs type="bibl" ref="#joannis_adami_weeber_iter_coeleste">Joannis Adami Weebers Iter Coeleste</rs> pr
                   </cell>
                   <cell>
                      6 x
@@ -898,18 +898,18 @@
                </row>
                <row>
                   <cell>
-                     21 claine unterschidliche Piechlen ohne Tax
+                     <rs type="bibl" ref="#undefined7">21 claine unterschidliche Piechlen</rs> ohne Tax
                   </cell>
                   <cell/>
                </row>
                <row>
                   <cell>
-                     Und mehr 22 dergleichen ohne Tax.
+                     Und <rs type="bibl" ref="#undefined8">mehr 22 dergleichen</rs> ohne Tax.
                   </cell>
                   <cell/>
                </row>
                <row>
-                  <cell>Betreffen zwar die Piecher in den ausgeworffenen Tax 21 f 22 x weillen aber solche die zwo Gewalthabern den Herrn Cooperatore alda Jacob Moswalder däto umb vier Kremizer Dugaten keiflichen verwendet, also ist nur villmeher ernente Summa alda per Vermigen zu tragen mit</cell>
+                  <cell>Betreffen zwar die <bibl>Piecher</bibl> in den ausgeworffenen Tax 21 f 22 x weillen aber solche die zwo Gewalthabern den Herrn Cooperatore alda Jacob Moswalder däto umb vier Kremizer Dugaten keiflichen verwendet, also ist nur villmeher ernente Summa alda per Vermigen zu tragen mit</cell>
                   <cell>17 f 36 x</cell>
                </row>
             </table>

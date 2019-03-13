@@ -8665,7 +8665,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_reifenstuel_theologia_moralis">P. Reifenstuel Theologia Moralis</rs> in französischen Bund,
+                        <rs type="bibl" ref="#reiffenstuehl_theologus">P. Reifenstuel Theologia Moralis</rs> in französischen Bund,
                      </cell>
                   </row>
                   <row>
@@ -9698,7 +9698,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_taberna_synopsis_theologicae_practicae">Synopsis Theologicae Practicae P. Taberna</rs> in französischen Bund<note>
+                        <rs type="bibl" ref="#taverne_jean_synopsis_theologiae_practicae">Synopsis Theologicae Practicae P. Taberna</rs> in französischen Bund<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>2 thom.</p>
                                 </note>
