@@ -1467,7 +1467,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#chopius_christliche_betrachtung">Chopius Christliche Betrachtung</rs> 2 thom, per
+                     <rs type="bibl" ref="#chopius_christliche_betrachtung">Chapuis Christliche Betrachtung</rs> 2 thom, per
                   </cell>
                   <cell>
                      52 x
@@ -1505,7 +1505,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#stubenpeck_in_casus_reservatis">Stubenpeck In Casus Reservatis</rs>, per
+                     <rs type="bibl" ref="#martin_stubenbeck_tractatus_in_casibus_reservatis">Stubenpeck In Casus Reservatis</rs>, per
                   </cell>
                   <cell>
                      28 x
@@ -1569,7 +1569,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#ad_casus_conscientiae_ad_mandatum">Ad Casus Conscientiae Ad Mandatum p[er]</rs>
+                     <rs type="bibl" ref="#casus_conscientia_benedicti">Ad Casus Conscientiae Ad Mandatum</rs> p[er]
                   </cell>
                   <cell>
                      9 x
@@ -1585,7 +1585,7 @@
                </row>
                <row>
                   <cell>
-                     Ain <rs type="bibl" ref="#previer_mit_diurnal">altes klains Previer samt ain Diurnal</rs>, per
+                     Ain <rs type="bibl" ref="#brevier_mit_diurnal">altes klains Previer samt ain Diurnal</rs>, per
                   </cell>
                   <cell>
                      30 x
@@ -1593,7 +1593,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#gilasius_de_cilio_thesourus">Gilasius de Cilio Thesourus</rs>, per
+                     <rs type="bibl" ref="#dicilia_completissimus_thesaurus">Gilasius de Cilia Thesourus</rs>, per
                   </cell>
                   <cell>
                      26 x
@@ -1626,7 +1626,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_gervasius_pulver_cathecismus_historicus">P. Gervasius Pulver Cathecismus Historicus, und Auserlesene Lob Reden</rs>, 2 thom, per
+                     <rs type="bibl" ref="#gervasius_pulver_cathecismus_historicus #gervasius_pulver_lobreden">P. Gervasius Pulver Cathecismus Historicus, und Auserlesene Lob Reden</rs>, 2 thom, per
                   </cell>
                   <cell>
                      1 f 20 x
@@ -1642,7 +1642,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#joann_imhof_messis_mistica_theol_moral">Joann Imhof Messis Mistica Theol. Moral.</rs> 2 thom, per
+                     <rs type="bibl" ref="#johann_imhof_messis_mystica">Joann Imhof Messis Mistica Theol. Moral.</rs> 2 thom, per
                   </cell>
                   <cell>
                      1 f 12 x
@@ -1650,7 +1650,7 @@
                </row>
                <row>
                   <cell>
-                     Etliche schlechte <rs type="bibl" ref="#unterschiedliche_buecher">unterschiedliche Büechlen</rs>, per
+                     Etliche schlechte <rs type="bibl" ref="#undefined10">unterschiedliche Büechlen</rs>, per
                   </cell>
                   <cell>
                      1 f 30 x
@@ -1661,7 +1661,8 @@
                   <cell>14 f 2 x</cell>
                </row>
                <row>
-                  <cell>Summa der Büecher</cell>
+                  <cell>Summa der <bibl>Büecher</bibl>
+                        </cell>
                   <cell>60 f 24 x</cell>
                </row>
             </table>
@@ -2362,6 +2363,8 @@
                   <row>
                     <cell>Wann nun auch die denen Eventual Erben noch betreffende Gebühr per</cell>
                     <cell>107 f 4 x</cell>
+                  </row>
+                  <row>
                      <cell>hinzugesetzt wird, erscheinet, dass geistlicher Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> über die Zahlungen noch in allen schuldig verbleibe</cell>
                      <cell>130 f 0 x</cell>
                   </row>

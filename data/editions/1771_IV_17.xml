@@ -579,7 +579,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#raiß_previer">Raiß Previer</rs>
+                     <rs type="bibl" ref="#raiß_brevier">Raiß Previer</rs>
                   </cell>
                   <cell>
                      1 f 0 x
@@ -587,7 +587,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#raiß_previer">Ain anderes deto</rs> in 4 Thaill pr
+                     <rs type="bibl" ref="#raiß_brevier">Ain anderes deto</rs> in 4 Thaill pr
                   </cell>
                   <cell>
                      1 f 30 x
@@ -636,7 +636,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_gelasii_de_cilia_benedict">P. Gelasii de Cilia Benedict. et Exercismi</rs> per
+                     <rs type="bibl" ref="#dicilia_completissimus_thesaurus">P. Gelasii de Cilia Benedict. et Exercismi</rs> per
                   </cell>
                   <cell>
                      15 x

@@ -109,16 +109,16 @@
             </p>
             <p>Nachdem auf beschehner Todtfalls Anzeige des hochwürdigen Herrn Lokalkaplan allda <rs type="person" ref="#lechner_georg">Georg Lechner</rs> die Vorbenannten zur Vornehmung der Sperre abgeordneten Deputirten sich anhero begeben, so hat man vor allen des Herrn Ableibers Schriften durchsuchet, und wurden diejenigen, so unmittelbar in die Seelsorge einschlagen, dem deputirten hochwürdigen Herrn <rs type="person" ref="#von_hebenstreit_johann_nepomuck">von Hebenstreit</rs> eingehändiget, nemmlich:</p>
             <p>
-               Das <bibl>Taufbuch</bibl>.
+               Das <rs type="bibl" ref="#taufbuch">Taufbuch</rs>.
             </p>
             <p>
-               Ein <bibl>Kalender</bibl> von Jahr 1797 worin zerschiedene Seelsorgs Geschäft aufgezeichnet.
+               Ein <rs type="bibl" ref="#kalender">Kalender von Jahr 1797</rs> worin zerschiedene Seelsorgs Geschäft aufgezeichnet.
             </p>
             <p>
-               Ebenso <bibl>2 Aufschreibbüchlen</bibl> mit eben diesen Inhalt.
+               Ebenso <rs type="bibl" ref="#aufschreibbuecher">2 Aufschreibbüchlen</rs> mit eben diesen Inhalt.
             </p>
             <p>
-               <bibl>2 zusamengebundene Paqueter Schriften</bibl> ebenfalls in Seelsorgs Angelegenheiten.<note>
+               <rs type="bibl" ref="#paket_schriften">2 zusamengebundene Paqueter Schriften</rs> ebenfalls in Seelsorgs Angelegenheiten.<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen begonnener Eintrag </hi>Ein Puschen Schlüssel zum Kirchmarkt, derglechen auch.</p>
                     </note>
@@ -127,7 +127,7 @@
                <pb n="211r"/>
             </p>
             <p>Nebst obigen, wurde in des Herrn Ableibers <bibl>Schreibpult</bibl> auch vorgefunden eine von denselben untern <date when="1797-12-01">1ten dies</date> errichtete, von denselben selbst unterschriebene und gefertigts Testament. Dieses hat der obrigkeitlich deputirte Oberschreiber <rs type="person" ref="#schenach_franz">Franz Schenach</rs> als eine Zulage zu gegenwärtigen Protokoll erhoben.</p>
-            <p>Die <bibl>ubrigen Schriften</bibl> werden in dem <bibl>Schreibpulte</bibl> gelassen, dieses gesperrt und das gerichtliche
+            <p>Die <rs type="bibl" ref="#undefined16">ubrigen Schriften</rs> werden in dem <bibl>Schreibpulte</bibl> gelassen, dieses gesperrt und das gerichtliche
             Sigill<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Am linken Rand geschrieben statt gestrichenem </hi>Sperr.<hi rend="italic" xml:space="preserve"> Folgt irrig nicht gestrichen </hi>daran.</p>
@@ -1870,7 +1870,7 @@
                   <cell>Sondann sind verhanden<note>
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>folgende.</p>
-                            </note> an <bibl>Bücher</bibl> laut Zulage Lit. A. die zusamen in Summe betragen</cell>
+                            </note> an <rs type="bibl" ref="#undefined17">Bücher</rs> laut Zulage Lit. A. die zusamen in Summe betragen</cell>
                   <cell>190 f 18½ x</cell>
                </row>
             </table>
@@ -1894,7 +1894,7 @@
                   <cell>231 f 6 x</cell>
                </row>
                <row>
-                  <cell>Und die Bücher werfen ab</cell>
+                  <cell>Und die <bibl>Bücher</bibl> werfen ab</cell>
                   <cell>190 f 18½ x</cell>
                </row>
             </table>

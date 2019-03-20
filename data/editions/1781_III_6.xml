@@ -7678,7 +7678,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#pauli_leymans_theologi_moralis">P. Pauli Laymann Theologia Moralis</rs> in Schwein Leder
+                        <rs type="bibl" ref="#p_laymon_theol_moralis">P. Pauli Laymann Theologia Moralis</rs> in Schwein Leder
                      </cell>
                   </row>
                   <row>
@@ -7746,13 +7746,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#titi_livii_geschicht_romischer_historien">Titi Livii Geschicht Romischer Historien</rs> altes Buch in schlechten pirmenten Bund Teütsch
+                        <rs type="bibl" ref="#titi_livii_geschicht_romischer_historien">Titi Livii Geschicht Römischer Historien</rs> altes Buch in schlechten pirmenten Bund Teütsch
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_ribadenvira_triumpfirende_tugenden_oder_leben_der_heiligen">Triumpfirende Tugenden, oder Leben der Heiligen P. Ribadenevira</rs> thom. 2 in Schwein Leder
+                        <rs type="bibl" ref="#p_ribadenvira_triumpfirende_tugenden_oder_leben_der_heiligen">Triumphirende Tugenden, oder Leben der Heiligen P. Ribadenevira</rs> thom. 2 in Schwein Leder
                      </cell>
                   </row>
                   <row>
@@ -7816,7 +7816,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_archdekin_theologia_tripartita">Theologia Tripartita P. Achdeckin</rs> französischer Bund.
+                        <rs type="bibl" ref="#p_archdekin_theologia_tripartita">Theologia Tripartita P. Arhdeckin</rs> französischer Bund.
                      </cell>
                   </row>
                </table>
@@ -7881,7 +7881,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_august_calmet_dictionarium_biblicum">P. August Calmet Dictionarium Biblicum</rs> französischer Bund 2 thom.
+                        <rs type="bibl" ref="#august_calmet_dictionarium_biblicum">P. August Calmet Dictionarium Biblicum</rs> französischer Bund 2 thom.
                      </cell>
                   </row>
                   <row>
@@ -7918,7 +7918,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#p_weselii_sontag_und_feyrtag_predigen">P. Weselii Sontag Und Feyrtag Predigen</rs> in französischen Bund 2 thom.
+                        <rs type="bibl" ref="#p_weselii_sontag_predigen #p_weselii_feyrtag_predigen">P. Weselii Sontag Und Feyrtag Predigen</rs> in französischen Bund 2 thom.
                      </cell>
                   </row>
                   <row>
@@ -7958,7 +7958,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_gravehon_historia_ecclesiastica">P. Gravehon Historia Ecclesiastica Novi Et Veteris</rs> Testamenti 3 thom. in französischen Bund.
+                        <rs type="bibl" ref="#p_gravehon_historia_ecclesiastica_novi #p_gravehon_historia_ecclesiastica_veteris">P. Gravehon Historia Ecclesiastica Novi Et Veteris</rs> Testamenti 3 thom. in französischen Bund.
                      </cell>
                   </row>
                   <row>
@@ -7994,7 +7994,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_agricola_historia_provincio_soc_jesu_germaniae_superioris">Historia Provincio Soc. Jesu Germaniae Superioris P. Agricola</rs> 2 thom. französischer Bund.
+                        <rs type="bibl" ref="#p_agricola_historia_provincio_soc_jesu_germaniae_superioris">Historia Provinciae Soc. Jesu Germaniae Superioris P. Agricola</rs> 2 thom. französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -8012,7 +8012,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_woller_quaestiones_selecto_ex_iure_canonico">Quaestiones Selecto Ex Iure Canonico Woller</rs>
+                        <rs type="bibl" ref="#p_woller_quaestiones_selecto_ex_iure_canonico">Quaestiones Selectae Ex Iure Canonico Woller</rs>
                                 <note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>P.</p>
@@ -8057,7 +8057,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#biblia_sacra">Biblia Sacra</rs> in klein Folio französischer Bund.
+                        <rs type="bibl" ref="#biblia_sacra2">Biblia Sacra</rs> in klein Folio französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -8098,7 +8098,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#benedicti_xiv_de_festis_domine_nostri">Benedicti XIV De Festis Domine Nostri, Et B. M. V.</rs> französischen Bund.
+                        <rs type="bibl" ref="#benedicti_xiv_de_festis_domine_nostri #benedicti_xiv_de_festis_bmv #benedicti_xiv_de_festis_beide">Benedicti XIV De Festis Domine Nostri, Et B. M. V.</rs> französischen Bund.
                      </cell>
                   </row>
                   <row>
@@ -9713,7 +9713,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_la_croix_theologia_moralis">Theologia Moralis P. La Croix</rs> 9 thom. in deto Bund,
+                        <rs type="bibl" ref="lacroix_theologia_moralis">Theologia Moralis P. La Croix</rs> 9 thom. in deto Bund,
                      </cell>
                   </row>
                   <row>
@@ -9772,7 +9772,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#messis_mysticae">Messis Mysticae, oder Reichgesamelter Frucht Schnitt Joannes Imhof</rs>.
+                        <rs type="bibl" ref="#johann_imhof_messis_mystica">Messis Mysticae, oder Reichgesamelter Frucht Schnitt Joannes Imhof</rs>.
                         <note>
                            <p rend="footnote text"> -h- <hi rend="italic">korrigiert aus</hi> -s-.</p>
                         </note>
@@ -9937,7 +9937,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_crasset_la_storia_della_chiesa_del_giappone">La Storia Della Chiesa Del Giappone P. Crasset</rs> in deto Bund. 4 thom.
+                        <rs type="bibl" ref="#crasset_la_storia_della_chiesa_del_giappone">La Storia Della Chiesa Del Giappone P. Crasset</rs> in deto Bund. 4 thom.
                      </cell>
                   </row>
                   <row>
@@ -10568,7 +10568,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <bibl>Nebst anderen mehr unterschiedliche in Octav und Duodec deren beyläufig bey 650 vorfündig sind.</bibl>
+                        <rs type="bibl" ref="#undefined11">Nebst anderen mehr unterschiedliche in Octav und Duodec deren beyläufig bey 650 vorfündig sind.</rs>
                      </cell>
                   </row>
                </table>
@@ -10577,7 +10577,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Von vorstehenden Bücheren seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt 146 f 0 x<note>
+                     <cell>Von vorstehenden <bibl>Bücheren</bibl> seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt 146 f 0 x<note>
                                     <p rend="footnote text"> 146 f 0 x<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt statt gestrichenem </hi>80 f 45 x.</p>
                                 </note> die
                      323<note>

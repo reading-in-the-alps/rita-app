@@ -2363,7 +2363,7 @@
                   <row>
                      <cell>217</cell>
                      <cell>
-                                <bibl>Die ganze Bücher Pibliteck worunter die Heilige Schrift in Folio sammt die 4 Previer</bibl>
+                                <bibl>Die ganze Bücher Pibliteck worunter die</bibl> <rs type="bibl" ref="#biblia_sacra2">Heilige Schrift in Folio</rs> <bibl>sammt die</bibl> <rs type="bibl" ref="#brevier">4 Previer</rs>
                             </cell>
                      <cell>Pergmann</cell>
                      <cell>6 f 0 x</cell>

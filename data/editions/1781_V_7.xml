@@ -1121,7 +1121,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#biblia_sacra">Bibliae Sacrae</rs>, so teütsch
+                     <rs type="bibl" ref="#teutsche_bibl">Bibliae Sacrae</rs>, so teütsch
                   </cell>
                   <cell>
                     1 f 0 x
@@ -1164,7 +1164,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_anacleti_reufenstul_thol">Thol. [sic!] Mor. P. Anacleti Reufenstul</rs>
+                     <rs type="bibl" ref="#reiffenstuehl_theologus">Thol. [sic!] Mor. P. Anacleti Reufenstul</rs>
                   </cell>
                   <cell>
                      48 x
@@ -1180,12 +1180,12 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">In Octav.</hi>
+               <bibl>In Octav.</bibl>
             </p>
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#johann_kristoph_peer_bredigen">Sonn- und Feyrtags Bredigen v. Johann Kristoph Peer</rs> 2 thom
+                     <rs type="bibl" ref="#beer_sonn_feiertagspredigen">Sonn- und Feyrtags Bredigen v. Johann Kristoph Peer</rs> 2 thom
                   </cell>
                   <cell>
                      48 x
@@ -1201,7 +1201,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#leben_jesu_kristi_auch_denen_4_heiligen_evangelisten">Leben Jesu Kristi Auch Denen 4 Heiligen Evangelisten</rs>,
+                     <rs type="bibl" ref="#leben_jesu_kristi_auch_denen_4_heiligen_evangelisten">Leben Jesu Kristi Aus Denen 4 Heiligen Evangelisten</rs>,
                   </cell>
                   <cell>
                      17 x
@@ -1258,7 +1258,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#sonn_feiertagspredigen_brediger">Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen</rs>
+                     <rs type="bibl" ref="#joann_christoph_peer_der_in_eyl_bereitete_prediger">Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen</rs>
                   </cell>
                   <cell>
                      12 x
@@ -1274,7 +1274,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#instructio_practica_de_sacrificio_missae">Instructio Practica De Sacrificio Missae</rs>
+                     <rs type="bibl" ref="#tobias_lohner_instructio_practica_ms">Instructio Practica De Sacrificio Missae</rs>
                   </cell>
                   <cell>
                      7 x
@@ -1320,7 +1320,8 @@
                   <cell>157 f 23 x</cell>
                </row>
                <row>
-                  <cell>Die Bücher</cell>
+                  <cell>Die <bibl>Bücher</bibl>
+                        </cell>
                   <cell>10 f 9 x</cell>
                </row>
                <row>
@@ -1352,7 +1353,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>angefallen, weillen aber dieses Erb nur auf der Inventur und haubtsächlich auf denen Büchern haftet, diese aber nicht verwendet werden können und noch weitters nahmhafte Schulden hinnaus in Vorschein gekommen seyn sollen, als würdet dermalen allda abstrahiert, und denen dasigen Erbinen der Gesuch dahin ebenso bevor gelassen als die Richtigstellung. Pr Bcht.</cell>
+                  <cell>angefallen, weillen aber dieses Erb nur auf der Inventur und haubtsächlich auf denen <bibl>Büchern</bibl> haftet, diese aber nicht verwendet werden können und noch weitters nahmhafte Schulden hinnaus in Vorschein gekommen seyn sollen, als würdet dermalen allda abstrahiert, und denen dasigen Erbinen der Gesuch dahin ebenso bevor gelassen als die Richtigstellung. Pr Bcht.</cell>
                   <cell/>
                </row>
                <row>

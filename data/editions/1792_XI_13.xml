@@ -277,13 +277,13 @@
                </row>
             </table>
             <p>
-               <bibl>Bücher.</bibl>
+               <rs type="bibl" ref="#undefined15">Bücher</rs>.
             </p>
             <p>Diese werden, weilen selbe schon alt, und dermalen nicht mehr gangbar, 4 f 30 x geschätzet, und dem Mit-</p>
             <p>
                <pb n="481v"/>
             </p>
-            <p>erbnemmenden geistlichen Herrn Bruder mit den <bibl>alten Breviren</bibl> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
+            <p>erbnemmenden geistlichen Herrn Bruder mit den <rs type="bibl" ref="#brevier">alten Breviren</rs> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
             <p>Haus Fahrnussen.</p>
             <table rend="rules">
                <row>
