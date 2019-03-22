@@ -281,4 +281,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="tei:ref">
+        <xsl:apply-templates/>
+    </xsl:template>
 </xsl:stylesheet>
