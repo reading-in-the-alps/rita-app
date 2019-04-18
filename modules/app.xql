@@ -409,15 +409,25 @@ return
 declare function app:listBibl($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $item in doc($app:workIndex)//tei:listBibl/tei:bibl
-        let $author := $item/tei:author/text()
+        let $itemID := data($item/@xml:id)
+        let $itemRef := '#'||$itemID
+        let $author := for $x in $item/tei:author
+            let $at := if($x/text()) then $x else <something>N.N.</something>
+            let $at_link := if ($x/@ref) then <a href="{data($x/@ref)}">{$at/text()}</a> else $at
+            return <li>{$at_link}</li>
         let $title := if ($item/tei:title/text()) then $item/tei:title/text() else 'kein Titel'
+        let $exemplare := for $x in $item/tei:exemplar/text()
+            return <li><a href="{$x}">see</a></li>
+        let $mentions := count(collection($app:editions)//tei:rs[@ref=$itemRef])
 
    return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($item/@xml:id))}">{$title}</a>
+                <a href="{concat($hitHtml, $itemID)}">{$title}</a>
             </td>
             <td>{$author}</td>
+            <td>{$exemplare}</td>
+            <td>{$mentions}</td>
         </tr>
 };
 
