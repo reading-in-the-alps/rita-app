@@ -259,12 +259,9 @@
               </bibl>
               <bibl xml:id="penzingers_khinderlehr_und_proedigen">
                 <author ref="http://d-nb.info/gnd/124641075">Sebastian Heinrich Penzinger</author>
-                <publisher/>
-                <title>Auslegung oder Gute Ordnung aller alten Heiligen katholischen Caeremonien, auch erbauliche Predigten und Kinder-Lehren daraus zu halten</title>
+                <title>Gute Ordnung Darauß Kinder-Lehr Auch Predigen Zu Machen etc.</title>
+                <exemplar>https://books.google.at/books?id=ST1ZAAAAcAAJ</exemplar>
                 <format>Quart</format>
-                <einband>Pergament</einband>
-                <volumes/>
-                <language/>
               </bibl>
               <bibl xml:id="rogmon_biblische_geschichten">
                 <author ref="http://d-nb.info/gnd/100260055">Nicolas Fontaine [=Herr von Royaumont]</author>
@@ -1437,7 +1434,7 @@
               </bibl>
               <bibl xml:id="proprium_brixinense">
                 <author/>
-                <title>Proprium Brixinense [zu einem Brevier gehörig, evtl. dem Brevarium Brixinense]</title>
+                <title>Proprium Brixinense [zu einem Brevier gehörig]</title>
                 <exemplar>http://manuscripta.at/m1/hs_detail.php?ID=29434</exemplar>
               </bibl>
               <bibl xml:id="thomas_de_kempis_de_meditatione_christi">
@@ -3174,35 +3171,162 @@
                 <title>Gottseelige Schlüss Und Fürsätz Der Seelen Uber Die Geheimnus Des Bittern Leidens Unsers Heylandes Jesu Christi etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366378-8</exemplar>
               </bibl>
-
-
-<!-- 375 -->
-
-              <bibl xml:id="p_casalicchio_anmuthige_hundert_historien">Anmuthige Hundert Historien P. Casalicchio</bibl>
-              <bibl xml:id="historia_concilii_tridentini">Historia Concilii Tridentini</bibl>
-              <bibl xml:id="lux_cathechetica_comitis_fieger">Lux Catechetica Comitis Fieger</bibl>
-              <bibl xml:id="quator_mundi_monarchiarum_initium_et_origo">Quator Mundi Monarchiarum Initium Et Origo authore Penzinger</bibl>
-              <bibl xml:id="p_myller_fremdling_zu_jerusalem">Fremdling zu Jerusalem P. Myller</bibl>
-              <bibl xml:id="thesauri_concionatorum_de_trugillo">Thesauri Concionatorum de Trugillo</bibl>
-              <bibl xml:id="bedenken_und_untersuchung">Bedenken Und Untersuchung</bibl>
-
-              <bibl xml:id="homo_christianus_institutus_pauli_segneri">Homo Christianus Institutus Pauli Segneri</bibl>
-              <bibl xml:id="p_segneri_incredulus_non_excusabilibis">Incredulus Non Excusabilibis P. Segneri</bibl>
-              <bibl xml:id="p_segneri_la_manna_dell_anima">La Manna Dell´ Anima P. Segneri</bibl>
-              <bibl xml:id="paolo_segneri_panegirici_sacri">Paolo Segneri Panegirici Sacri</bibl>
-              <bibl xml:id="eiusdem_panegirici">Eiusdem Panegirici</bibl>
-              <bibl xml:id="eiusdem_instructio_poenitentis">Eiusdem Instructio Poenitentis, Confessarii, Et Parochi</bibl>
-              <bibl xml:id="eiusdem_il_christiano_instruito">Eiusdem Il Christiano Instruito</bibl>
-              <bibl xml:id="eiusdem_brevis_vitae_historia">Eiusdem Brevis Vitae Historia etc.</bibl>
-              <bibl xml:id="pauli_segneri_prediche_de_palazzo_apostolico">Pauli Segneri Prediche De Palazzo Apostolico</bibl>
-              <bibl xml:id="quaresimale_di_p_segneri">Quaresimale di P. Segneri</bibl>
-
-              <bibl xml:id="tugendschmied">Tugend Schmied P. Gansler</bibl>
-              <bibl xml:id="roschmann_veldidena_urbs_antiquissima">Veldidena Urbs Antiquissima authore Roschmann</bibl>
-              <bibl xml:id="p_amort_dictionarium_casuum_conscientiae">Dictionarium Casuum Conscientiae P. Amort</bibl>
-              <bibl xml:id="p_breanni_christliche_wahrheiten">Christliche Wahrheiten P. Breanni</bibl>
-              <bibl xml:id="opere_del_padre_gio_eusebio_nieremberg">Opere del Padre Gio Eusebio Nieremberg</bibl>
-              <bibl xml:id="p_joannis_anbettung_im_geist">Anbettung Im Geist, Und Wahrheit P. Joannis Eusebii Nierembergii</bibl>
+              <bibl xml:id="p_casalicchio_anmuthige_hundert_historien">
+                <author ref="http://d-nb.info/gnd/100074561">Carlo Casalicchio</author>
+                <title>Utile Cum Dulci, das ist: Anmuthige Hundert Historien etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11294317-5</exemplar>
+              </bibl>
+              <bibl xml:id="historia_concilii_tridentini">
+                <author ref="http://d-nb.info/gnd/1089634536" cer="undefined">Filippo Quorli</author>
+                <author ref="http://d-nb.info/gnd/118751336" cer="undefined">Paolo Sarpi</author>
+                <author ref="http://d-nb.info/gnd/118802143" cer="undefined">Jacques Auguste de Thou</author>
+                <author ref="http://d-nb.info/gnd/119030691" cer="undefined">Sforza Pallavicino</author>
+                <author ref="http://d-nb.info/gnd/100130259" cer="low">Ägidius Estrix</author>
+                <title cer="undefined">Historia Concilii Tridentini</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10348340-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10348358-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11301825-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10348315-1</exemplar>
+                <exemplar>http://resolver.sub.uni-goettingen.de/purl?PPN832850756</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10348328-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10348330-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10321700-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10321702-5</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10668870-5</exemplar>
+              </bibl>
+              <bibl xml:id="lux_cathechetica_comitis_fieger">
+                <author ref="http://d-nb.info/gnd/105046351X">Johann Philipp Karl Fieger von Fridberg</author>
+                <title>Lux Catechetica Infidelitatis Tenebris Opposita Magis Elucescens etc.</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="quator_mundi_monarchiarum_initium_et_origo">
+                <author ref="http://d-nb.info/gnd/124641075">Sebastian Heinrich Penzinger</author>
+                <title>Novissimum Historiae Quatuor Mundi Monarchiarum, Chaldaeorum nempe, Persarum, Graecorum Et Romanorum Compendium etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10007390-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_myller_fremdling_zu_jerusalem">
+                <author ref="http://d-nb.info/gnd/100225713">Angelicus Maria Myller</author>
+                <title cer="undefined">Peregrinus In Jerusalem. Fremdling Zu Jerusalem, oder: Ausführliche Reiß-Beschreibungen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366699-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366703-5</exemplar>
+              </bibl>
+              <bibl xml:id="thesauri_concionatorum_de_trugillo">
+                <author ref="http://d-nb.info/gnd/100657982">Tomás de Trujillo</author>
+                <title cer="undefined">Thesaurus Concionatorum etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10161824-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10180364-1</exemplar>
+              </bibl>
+              <bibl xml:id="bedenken_und_untersuchung">
+                <author ref="http://d-nb.info/gnd/118659871">Heinrich Braun</author>
+                <title cer="undefined">Bedenken Und Untersuchung Der Frage: Ob Man Den Ordensgeistlichen Die Pfarrey Und Seelsorge Abnehmen Soll, Oder Nicht? etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11061493-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029487-3</exemplar>
+              </bibl>
+              <bibl xml:id="p_segneri_incredulus_non_excusabilibis">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>Incredulus Non Excusabilibis etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10690311-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10690313-7</exemplar>
+              </bibl>
+              <bibl xml:id="paolo_segneri_panegirici_sacri_quart">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>Panegirici Sacri</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461979-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00068942-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461986-0</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_instructio_poenitentis">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>Instructio Poenitentis, Confessarii, Et Parochi / Instructio Poenitentis Sive Opusculum etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365970-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597401-7</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_il_christiano_instruito">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title cer="undefined">Il Cristiano Instruito Nella Sua Legge Ragionamenti Morali.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526894-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526895-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10813012-3</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_brevis_vitae_historia">
+                <author ref="http://d-nb.info/gnd/124577598">Maximilian Rassler</author>
+                <author ref="http://d-nb.info/gnd/129646512">Giuseppe Massei</author>
+                <title cer="undefined">Brevis Vitae Historia Pauli Segneri Societatis Jesu</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11065065-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223614-1</exemplar>
+              </bibl>
+              <bibl xml:id="homo_christianus_institutus_pauli_segneri">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title cer="undefined">Homo Christianus In Sua Lege Institutus Sive Discursus Morales etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060490-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526904-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293513-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_segneri_la_manna_dell_anima">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>La Manna Dell'Anima, Overo Esercizio Facile Insieme E Fruttuoso etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267674-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293611-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267727-7</exemplar>
+              </bibl>
+              <bibl xml:id="paolo_segneri_panegirici_sacri_oktav">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>Panegirici Sacri</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461979-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00068942-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461986-0</exemplar>
+              </bibl>
+              <bibl xml:id="pauli_segneri_prediche_de_palazzo_apostolico">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>Prediche Dette Nel Palazzo Apostolico etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365958-0</exemplar>
+              </bibl>
+              <bibl xml:id="quaresimale_di_p_segneri">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title>Quaresimale</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365965-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330247-7</exemplar>
+              </bibl>
+              <bibl xml:id="tugendschmied">
+                <author ref="http://d-nb.info/gnd/129750859">Rupert Gansler</author>
+                <title cer="undefined">Lugenschmid, das ist: Unter Dem Schein Der Warheit Verborgener Anjetzo Aber Entdeckter Welt-Betrug etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060192-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526615-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526616-1</exemplar>
+              </bibl>
+              <bibl xml:id="roschmann_veldidena_urbs_antiquissima">
+                <author ref="http://d-nb.info/gnd/143042688">Tobias Roschmann</author>
+                <title>Veldidena Urbs Antiquissima Augusti Colonia Et Totius Rhætiæ Princeps etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10000398-1</exemplar>
+              </bibl>
+              <bibl xml:id="p_amort_dictionarium_casuum_conscientiae">
+                <author ref="http://d-nb.info/gnd/118648861">Eusebius Amort</author>
+                <title cer="undefined">Dictionarium Casuum Conscientiae [...] etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595700-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812810-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10627229-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595699-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595700-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595701-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_breanni_christliche_wahrheiten">
+                <author ref="http://d-nb.info/gnd/100054625">Franz Xaver Brean</author>
+                <title cer="undefined">Christliche Wahrheiten [...] in offentlichen / offentlicher Predig[ten ...] vorgetragen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363665-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11066083-1</exemplar>
+              </bibl>
+              <bibl xml:id="opere_del_padre_gio_eusebio_nieremberg">
+                <author ref="http://d-nb.info/gnd/119439875">Juan Eusebio Nieremberg</author>
+                <title>Opere Spirituali</title>
+                <exemplar>https://books.google.at/books?id=JLimgCcr2kUC</exemplar>
+              </bibl>
+              <bibl xml:id="p_joannis_anbettung_im_geist">
+                <author ref="http://d-nb.info/gnd/119439875">Juan Eusebio Nieremberg</author>
+                <title>Anbettung im Geist und Warheit: Worinn Der Kern Und Marck Alles Geistlichen Lebens etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270500-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223326-2</exemplar>
+                <exemplar/>
+              </bibl>
               <bibl xml:id="viva_theologia_trutina_damnatarum">
                 <author ref="http://d-nb.info/gnd/100673228">Domenico Viva</author>
                 <title>Damnatarum Thesium Theologica Trutina</title>
@@ -3215,23 +3339,95 @@
                 <title>Opere Spirituali e Morali Del padre Carlo Gregorio Rosignoli etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223531-0</exemplar>
               </bibl>
-              <bibl xml:id="bibliotheca_patrum_asscetica">Bibliotheca Patrum Asscetica</bibl>
-              <bibl xml:id="p_henrici_engelgrave_caeleste_pantheon">Caeleste Pantheon P. Henrici Engelgrave</bibl>
-              <bibl xml:id="eiusdem_caelum_empyreum">Eiusdem Caelum Empyreum</bibl>
-              <bibl xml:id="eiusdem_lux_evangelica">Eiusdem Lux Evangelica</bibl>
-              <bibl xml:id="p_joannis_christliches_andaechtiges_jahr">Christliches Andächtiges Jahr P. Joannis Suffren</bibl>
-
-              <bibl xml:id="discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</bibl>
-              <bibl xml:id="neu_reformierte_landesordnung">Neu Reformierte Landesordnung</bibl>
-              <bibl xml:id="selva_novissima_di_concetti_del_r_p_alesandro_calamato">Selva Novissima Di Concetti del R. P. Alesandro Calamato</bibl>
-              <bibl xml:id="memoriale_catechistico_dal_padre_antoni_maria_affaitati">Memoriale Catechistico dal Padre Antoni Maria Affaitati</bibl>
-              <bibl xml:id="il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli">Il Gentiluomo Istruito etc. da D. Francesco Giuseppe Morelli</bibl>
-              <bibl xml:id="henrici_penzinger_gute_ordnung_zur_kinderlehr">Gute Ordnung Zur Kinderlehr etc. Henrici Penzinger {evtl. penzingers_khinderlehr_und_proedigen?}</bibl>
-              <bibl xml:id="r_d_gregorio_fritz_historischer_sonntag_prediger">Historischer Sonntag Prediger R. D. Gregorio Fritz</bibl>
-              <bibl xml:id="p_naisl_speculum_cleri">Speculum Cleri P. Naisl</bibl>
-              <bibl xml:id="p_neissl_ein_stimm_des_rufenden_in_der_wiesten">Ein Stimm Des Rufenden In Der Wiesten P. Neissl</bibl>
-              <bibl xml:id="p_rothner_margaritha_caelestis">Margaritha Caelestis P. Rothner</bibl>
-              <bibl xml:id="p_saint_jure_erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</bibl>
+              <bibl xml:id="bibliotheca_patrum_asscetica">
+                <author/>
+                <title>Bibliotheca Patrum Ascetica Sive Selecta Veterum Patrum De Christiana Et Religiosa Perfectione Opuscula</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11227999-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11228000-3</exemplar>
+              </bibl>
+              <bibl xml:id="p_henrici_engelgrave_caeleste_pantheon">
+                <author ref="http://d-nb.info/gnd/121935299">Henricus Engelgrave</author>
+                <title>Caeleste Pantheon Sive Caelum Novum In Festa Et Gesta Sanctorum Totius Anni etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222961-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364080-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364081-0</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_caelum_empyreum">
+                <author ref="http://d-nb.info/gnd/121935299">Henricus Engelgrave</author>
+                <title>Caelum Empyreum, Non Vanis Et Fictis Constellationum Monstris Belluatum, Sed Divorum Domus etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11065532-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364077-7 </exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329597-3</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_lux_evangelica">
+                <author ref="http://d-nb.info/gnd/121935299">Henricus Engelgrave</author>
+                <title>Lux Evangelica Sub Velum Sacrorum Emblematum Recondita etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458880-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458881-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364078-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364079-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_joannis_christliches_andaechtiges_jahr">
+                <author ref="http://d-nb.info/gnd/123834171">Johannes Suffren</author>
+                <title cer="undefined">Christliches Andächtiges Jahr, das ist: Geistreiche Underricht Und Ubungen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268208-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223687-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10481418-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223688-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10481420-4</exemplar>
+              </bibl>
+              <bibl xml:id="discussio_theologica_augustini_michel">
+                <author ref="http://d-nb.info/gnd/124410812">Augustinus Michel</author>
+                <title cer="undefined">Discussio Theologica</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10545839-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10545838-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526740-0</exemplar>
+              </bibl>
+              <bibl xml:id="neu_reformierte_landesordnung">
+                <author ref="http://d-nb.info/gnd/118532502">Ferdinand I.</author>
+                <title>New Reformierte Landsordnung Der Fürstlichen Grafschafft Tirol etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10162144-1</exemplar>
+              </bibl>
+              <bibl xml:id="selva_novissima_di_concetti_del_r_p_alesandro_calamato">
+                <author ref="http://d-nb.info/gnd/129924776">Alessandro Calamato</author>
+                <title>Selva Novissima Di Concetti etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363735-6</exemplar>
+              </bibl>
+              <bibl xml:id="memoriale_catechistico_dal_padre_antoni_maria_affaitati">
+                <author ref="http://d-nb.info/gnd/121191605">Antonio Maria Affaitati</author>
+                <title>Memoriale Catechistico Esposto Alle Religiose Claustrali Di Qualunque Ordine</title>
+                <exemplar>https://books.google.at/books?id=NNFVkhbOScEC</exemplar>
+              </bibl>
+              <bibl xml:id="il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli">
+                <author ref="http://d-nb.info/gnd/100101305">William Darell</author>
+                <author ref="http://d-nb.info/gnd/100753566">Francesco Giuseppe Morelli</author>
+                <title>Il Gentiluomo Istruito Nella Condotta d'una Virtuosa, E Felice Vita</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10007839-4</exemplar>
+              </bibl>
+              <bibl xml:id="r_d_gregorio_fritz_historischer_sonntag_prediger">
+                <author ref="http://d-nb.info/gnd/129211664">Gregorius Sebastianus Fritz</author>
+                <title>Der Historische Sonntag-Prediger, Bestehend In Weltlichen Aber Geistlich-gedeuteten Geschichten etc.</title>
+                <exemplar>https://books.google.at/books?id=SspgAAAAcAAJ</exemplar>
+                <exemplar>http://data.onb.ac.at/rec/AC09877942</exemplar>
+              </bibl>
+              <bibl xml:id="p_naisl_speculum_cleri">
+                <author ref="http://d-nb.info/gnd/"/>
+                <title cer="undefined">Speculum Cleri Utriusque, Tam Saecularis, Quam Regularis In Quo etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270708-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270709-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10481220-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10481221-9</exemplar>
+              </bibl>
+              <bibl xml:id="p_neissl_ein_stimm_des_rufenden_in_der_wiesten">
+                <author ref="http://d-nb.info/gnd/124498981">Aemilianus Naisl</author>
+                <title>Ein Stimm Des Ruffenden In Der Wüsten, das ist: Acht-Tägige Exercitia, Welche etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11083003-4</exemplar>
+              </bibl>
+              <bibl xml:id="p_rothner_margaritha_caelestis">
+                <author ref="http://d-nb.info/gnd/100975038">Johannes Baptista Rottner</author>
+                <title>Margarita Coelestis Seu Status Religiosus Ascetico-Theologice Expensus etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786649-6</exemplar>
+              </bibl>
               <bibl xml:id="p_joannis_majoris_magnum_speculum_exemplorum">
                 <author ref="http://d-nb.info/gnd/116837918">Johannes Major</author>
                 <title>Magnum Speculum Exemplorum</title>
@@ -3246,31 +3442,466 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223254-1</exemplar>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10143555-7</exemplar>
               </bibl>
-              <bibl xml:id="p_nicolai_caussini_heilige_hofhaltung">Heilige Hofhaltung P. Nicolai Caussini</bibl>
-
-
-              <bibl xml:id="p_paulo_oliva_sermoni_domestici">Sermoni Domestici P. Paulo Oliva</bibl>
-              <bibl xml:id="sermoni_sacri_del_p_la_columbiere">Sermoni Sacri del P. la Columbiere</bibl>
-              <bibl xml:id="mathias_kramer_novo_ditionario_reale">Novo Ditionario Reale Italiano Todesco Mathias Kramer</bibl>
-              <bibl xml:id="opera_del_padre_cattaneo">Opera del Padre Cattaneo</bibl>
-              <bibl xml:id="discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</bibl>
-              <bibl xml:id="eiusdem_discorsi_sacri_sopra_varie_feste">Eiusdem [[Campidelli]] Discorsi Sacri Sopra Varie Feste</bibl>
-              <bibl xml:id="discorsi_della_bona_morte_del_padre_bordoni">Discorsi Della Bona Morte del Padre Bordoni</bibl>
-              <bibl xml:id="p_luigi_granata_opere_spirituali">Opere Spirituali P. Luigi Granata</bibl>
-              <bibl xml:id="p_vieyra_prediche_della_quaresima">Prediche Della Quaresima P. Vieyra</bibl>
-              <bibl xml:id="padre_vieyra_la_rosa_mystica">La Rosa Mystica Padre Vieyra</bibl>
-              <bibl xml:id="la_vita_di_st_francesco_di_sales">La Vita di St. Francesco di Sales</bibl>
-              <bibl xml:id="opere_di_st_francesco_di_sales">Opere di St. Francesco di Sales</bibl>
-              <bibl xml:id="opere_spirituali_di_st_francesco_di_sales">Opere Spirituali di St. Francesco di Sales</bibl>
-
-
-              <bibl xml:id="a1">
-                <author ref="http://d-nb.info/gnd/"/>
+              <bibl xml:id="p_nicolai_caussini_heilige_hofhaltung">
+                <author ref="http://d-nb.info/gnd/118668846">Nicolas Caussin</author>
+                <title>Heilige Hoffhaltung, das ist: Christliche Underweisung Für Alle Hoch- Und Nidere Weltliche Standtspersohnen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222853-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060216-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222868-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222856-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_paulo_oliva_sermoni_domestici">
+                <author ref="http://d-nb.info/gnd/100237266">Giovanni Paolo Oliva</author>
+                <title cer="undefined">Sermoni Domestici: Detti Privatamente Nelle Case Romane Della Compagnia Di Giesù</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460980-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460983-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460994-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460989-6</exemplar>
+              </bibl>
+              <bibl xml:id="sermoni_sacri_del_p_la_columbiere">
+                <author ref="http://d-nb.info/gnd/">Claude La Colombière</author>
+                <title>Sermoni Sacri</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10483224-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364661-0</exemplar>
+              </bibl>
+              <bibl xml:id="mathias_kramer_novo_ditionario_reale">
+                <author ref="http://d-nb.info/gnd/104268018">Matthias Kramer</author>
+                <title>Novo Ditionario Reale Italiano Todesco Mathias Kramer</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523974-9</exemplar>
+                <exemplar>http://nbn-resolving.de/urn:nbn:de:gbv:3:1-315475</exemplar>
+              </bibl>
+              <bibl xml:id="opera_del_padre_cattaneo">
+                <author ref="http://d-nb.info/gnd/104303883">Carlo Ambrogio Cattaneo</author>
+                <title>Opere</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222845-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222848-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222851-1</exemplar>
+              </bibl>
+              <bibl xml:id="discorsi_sacri_morali_campidelli">
+                <author ref="http://d-nb.info/gnd/100067328">Giovanni Battista Campadelli</author>
+                <title>Discorsi Sacri Morali</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361876-2</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_discorsi_sacri_sopra_varie_feste">
+                <author ref="http://d-nb.info/gnd/100067328">Giovanni Battista Campadelli</author>
+                <title>Discorsi Sacri Sopra Varie Feste, Divozioni, Et Altre Materie Morali</title>
+                <exemplar cer="deutsche_ausgabe">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458433-5</exemplar>
+              </bibl>
+              <bibl xml:id="discorsi_della_bona_morte_del_padre_bordoni">
+                <author ref="http://d-nb.info/gnd/128883707">Giuseppe Antonio Bordoni</author>
+                <title>Discorsi Per L'Esercizio Della Buona Morte</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363575-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363576-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363577-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_luigi_granata_opere_spirituali">
+                <author ref="http://d-nb.info/gnd/118729640">Luigi Granata [=Luis de Granada]</author>
+                <title>Opere Spirituali</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223067-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_vieyra_prediche_della_quaresima">
+                <author ref="http://d-nb.info/gnd/118626914">António Vieira</author>
+                <title cer="undefined">Prediche Varie Sopra Gli Evangeli Della Quaresima</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366241-0</exemplar>
+              </bibl>
+              <bibl xml:id="padre_vieyra_la_rosa_mystica">
+                <author ref="http://d-nb.info/gnd/118626914">António Vieira</author>
+                <title>Maria Rosa Mystica etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366231-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366232-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366233-5</exemplar>
+              </bibl>
+              <bibl xml:id="la_vita_di_st_francesco_di_sales">
+                <author/>
+                <title cer="undefined">La Vita di St. Francesco di Sales</title>
+                <exemplar>https://books.google.at/books?id=Wi42ojnMYCAC</exemplar>
+                <exemplar>https://books.google.at/books?id=-7yu4JTRfwYC</exemplar>
+                <exemplar>https://books.google.at/books?id=HeZQAAAAcAAJ</exemplar>
+                <exemplar>https://books.google.at/books?id=qpFcr2uDJT0C</exemplar>
+                <exemplar>https://books.google.at/books?id=WCs9iwlpAQcC</exemplar>
+              </bibl>
+              <bibl xml:id="lo_spirito_sancto_francesco_di_sales">
+                <author ref="http://d-nb.info/gnd/118702246">Jean Pierre Camus</author>
+                <title>Lo Spirito Di Sancto Francesco di Sales</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290315-3 </exemplar>
+              </bibl>
+              <bibl xml:id="alt_katholischer_hohe_genffer_schul_francisci_de_sales">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <author ref="http://d-nb.info/gnd/131488503">Johann Kaspar Stadler</author>
+                <title>Alt-Catholische Hohe Genffer-Schul: Darinn Von Dem H[errn] Lehrer Francisco von Sales, Fürsten und Bischoffen zu Genff, Durch Frag Und Antwort etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10998633-9</exemplar>
+              </bibl>
+              <bibl xml:id="lettere_spirituali_di_st_francesco_di_sales">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <title cer="undefined">Lettere Spirituali</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267166-2</exemplar>
+              </bibl>
+              <bibl xml:id="opere_di_st_francesco_di_sales">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <title cer="high">Le Opere: Divise In Cinque Tomi</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223554-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223556-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223555-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223557-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223558-8</exemplar>
+              </bibl>
+              <bibl xml:id="opere_spirituali_di_st_francesco_di_sales">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <title cer="middle">Tutte Le Opere spirituali Di San Francesco Di Sales etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223559-8</exemplar>
+              </bibl>
+              <bibl xml:id="summa_corona_confessorum_antonio_berarducii">
+                <author ref="http://d-nb.info/gnd/129922692">Mauro Antonio Berarducci</author>
+                <title cer="undefined">Summa Corona Confessorum</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10187095-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060436-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060437-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060438-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060439-2</exemplar>
+              </bibl>
+              <bibl xml:id="trattenimento_istorico_spirituale_di_calino">
+                <author ref="http://d-nb.info/gnd/">Cesare Calino</author>
+                <title cer="high">Trattenimento Istorico, Teologico, E Scritturale etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10353544-1</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10353545-6</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10688540-4</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_quaresimale">
+                <author ref="http://d-nb.info/gnd/">Cesare Calino</author>
+                <title>Quaresimale</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363736-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_veggi_sermoni_familiari">
+                <author ref="http://d-nb.info/gnd/1067535500">Pier Luigi Veggi</author>
+                <title>Sermoni Famigliari Su Evangeli Correnti Delle Domeniche</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366215-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_steinhart_sacrum_veterum_tempora">
+                <author ref="http://d-nb.info/gnd/142825999">Franz Steinhart</author>
+                <title cer="undefined">Sacrum Veterum Temporum [...]</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10005723-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11061024-0</exemplar>
+              </bibl>
+              <bibl xml:id="sermones_in_evangelium_dominicarum">
+                <author ref="http://d-nb.info/gnd/118632981" cer="high">Arvernus Guilelmus</author>
+                <author ref="http://d-nb.info/gnd/118622110" cer="low">Thomas von Aquin</author>
+                <author ref="http://d-nb.info/gnd/118711563" cer="low">Jakob von Vitry</author>
+                <title cer="undefined">Sermones in Evangelium Dominicarum</title>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10685850-9</exemplar>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10685851-5</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10744163-5</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10144179-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_mayr_tractatus_theologicus_de_secundo_christi_adventus">
+                <author ref="http://d-nb.info/gnd/130065579">Cölestin Mayr</author>
+                <author ref="http://d-nb.info/gnd/103008640">Gabriel Künigl</author>
+                <title>Tractatus Theologicus De Secundo Christi Adventu</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11025897-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10951457-6</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11025904-3</exemplar>
+              </bibl>
+              <bibl xml:id="geistliche_stadt_gottes_mariae_lauretae">
+                <author ref="http://d-nb.info/gnd/119019515">María de Jesús de Agreda</author>
+                <title>Geistliche Stadt Gottes, Mirackul Seiner Allmacht, Und Abgrund Der Gnad etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222622-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10692682-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060317-1</exemplar>
+              </bibl>
+              <bibl xml:id="johann_caspar_du_fey_predigen">
+                <author ref="http://d-nb.info/gnd/1045717177">Jean-Gaspard Dufay</author>
+                <title cer="undefined">Sämmtliche Predigten [...]</title>
+                <einband>französisch</einband>
+                <volumes>2</volumes>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478420-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478423-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478424-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478427-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458793-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_du_fay_predigen">
+                <author ref="http://d-nb.info/gnd/1045717177">Jean-Gaspard Dufay</author>
+                <title cer="undefined">Sämmtliche Predigten [...]</title>
+                <einband>Papier (braun)</einband>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478420-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478423-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478424-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478427-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458793-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_seiller_geistliche_reden">
+                <author ref="http://d-nb.info/gnd/118794035">Sebastian Sailer</author>
+                <title cer="undefined">Geistliche Reden Bey Mancherley Gelegenheiten Und Über Zerschiedene Materien Gesprochen</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461656-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461660-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461658-2</exemplar>
+              </bibl>
+              <bibl xml:id="fleschiers_sitten_rede">
+                <author ref="http://d-nb.info/gnd/116597674">Esprit Fléchier</author>
+                <title cer="undefined">Lob- Trauer- und Sittenreden</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10459057-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10459058-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290656-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10459060-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10459051-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290658-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10459061-2</exemplar>
+              </bibl>
+              <bibl xml:id="die_wichtigsten_wahrheiten_der_religion">
+                <author ref="http://d-nb.info/gnd/124961002">Gregor Trautwein</author>
+                <title cer="undefined">Neue Auserlesene Kanzelreden Über Die Wichtigsten Wahrheiten Der Religion</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292773-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292774-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292775-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292776-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292777-7</exemplar>
+              </bibl>
+              <bibl xml:id="ciceri_predigen">
+                <author ref="http://d-nb.info/gnd/100083498">Paul César de Ciceri</author>
+                <title cer="undefined">Gesammte Predigten</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458487-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458488-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458489-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458490-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458491-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458492-7</exemplar>
+              </bibl>
+              <bibl xml:id="p_segant_predigen">
+                <author ref="http://d-nb.info/gnd/100272657">Wilhelm von Ségaud</author>
+                <title>Sämmtliche Predigten, vor dem Könige in Frankreich Ludwig dem Fünfzehnten und zu Paris [...] gehalten worden</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461966-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461960-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461961-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461962-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461963-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461964-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461965-4</exemplar>
+              </bibl>
+              <bibl xml:id="p_balde_opera_poetica">
+                <author ref="http://d-nb.info/gnd/118506137">Jakob Balde</author>
+                <title>Opera Poetica Omnia</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712436-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712437-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712439-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712438-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712440-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712441-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10712442-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10926406-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_schwarz_collegia_hystorica">
+                <author ref="http://d-nb.info/gnd/117367257">Ignaz Schwarz</author>
+                <title cer="undefined">Collegia Historica, Seu Quaestiones Historiae Criticae Ex Institutionibus Historicis etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033770-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033772-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033778-4</exemplar>
+              </bibl>
+              <bibl xml:id="eiusdem_institutiones_historicae">
+                <author ref="http://d-nb.info/gnd/117367257">Ignaz Schwarz</author>
+                <title>Institutiones Historicae Pro Academico Studio Romano-Catholico etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11096581-0</exemplar>
+              </bibl>
+              <bibl xml:id="p_perusseau_predigen">
+                <author ref="http://d-nb.info/gnd/104326077">Sylvain Perussault</author>
+                <title>Auserlesene Predigten</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461093-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461094-7</exemplar>
+              </bibl>
+              <bibl xml:id="p_herzig_manuale_parochiae">
+                <author ref="http://d-nb.info/gnd/100164587">Franciscus Herzig</author>
+                <title>Manuale Parochi, Seu Methodus Compendiosa Munus Parochi Apostolicum Ritè Obeundi etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596484-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596486-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292962-2</exemplar>
+              </bibl>
+              <bibl xml:id="lacroix_theologia_moralis">
+                <author ref="http://d-nb.info/gnd/129957682">Claude Lacroix</author>
+                <title cer="undefined">Theologia Moralis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496740-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596620-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596655-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496735-0</exemplar>
+              </bibl>
+              <bibl xml:id="adami_josephi_greneck_examen_iuris_canonici">
+                <author ref="http://d-nb.info/gnd/133869997">Adam Joseph Greneck</author>
+                <title>Examen Iuris Canonici etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10840018-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10840019-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10840020-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10840021-3</exemplar>
+              </bibl>
+              <bibl xml:id="avantures_de_telemaque">
+                <author ref="http://d-nb.info/gnd/118532464">François de Salignac de La Mothe Fénelon</author>
+                <title>Avantures De Telemaque</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10923987-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10091199-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10091205-4</exemplar>
+              </bibl>
+              <bibl xml:id="p_franck_manuale_theologicum">
+                <author ref="http://d-nb.info/gnd/100729355">Kajetan Franck</author>
+                <title>Manuale Theologicum Synoptice Complectens Praecipuas Quaestiones Ex Quatuor Tractatibus etc.</title>
+                <exemplar>https://books.google.at/books?id=sTtutwAACAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="p_habisreutinger_gewissens_ruhe">
+                <author ref="http://d-nb.info/gnd/116351195">Columban Habisreutinger</author>
+                <title>Etwas Für Alle, das ist: Eine Wohlgegründte Gewissens-Ruhe, Auf Theologisch- Und Ascetische Lehren Gesetzt etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596431-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290867-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290868-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_neumayr">
+                <author cer="undefined">[Pater] Neumayr</author>
                 <title/>
                 <exemplar/>
-                <exemplar/>
+                <volumes>25</volumes>
+              </bibl>
+              <bibl xml:id="mathias_schenberg_religions_gruende">
+                <author ref="http://d-nb.info/gnd/124038697">Matthias von Schönberg</author>
+                <title>Die Religionsgründe in ihrem ordentlichen Zusammenhange</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399401-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10776436-5</exemplar>
+              </bibl>
+              <bibl xml:id="werke_des_marc_caraccioli">
+                <author cer="undefined">Marchese Caraccioli</author>
+                <title cer="undefined">Werke des Marchese Caraccioli</title>
                 <exemplar/>
               </bibl>
+              <bibl xml:id="opere_di_padre_calino">
+                <author ref="http://d-nb.info/gnd/100067476" cer="high">Cesare Calino</author>
+                <title cer="high">Opere del Padre Calino</title>
+                <volumes>25</volumes>
+                <exemplar>https://books.google.at/books?id=nNFQAAAAcAAJ</exemplar>
+                <exemplar>https://books.google.at/books?id=YlypuAtMf_wC</exemplar>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="p_bellechii_kern_der_geistlichen">
+                <author ref="http://d-nb.info/gnd/124332404">Aloysius Bellecius</author>
+                <title>Kern Der Geist-Lehre, oder: Uebungen Des Heil[igen] Vatters Ignatii von Loyola etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082503-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_bisling_mons_tabor">
+                <author ref="http://d-nb.info/gnd/11538085X">Anselm Bisling</author>
+                <title>Mons Thabor Sive Solitudo Exercitiorum Spiritualium</title>
+                <exemplar>http://diglib.hab.de/drucke/xb-2637/start.htm</exemplar>
+              </bibl>
+              <bibl xml:id="reden_und_lebens_ordnung_der_heiligen_vaeter_augustini_benedicti_francisci">
+                <author ref="http://d-nb.info/gnd/106108972X">Fortunat von Wolckenstein und Rodenegg</author>
+                <author ref="http://d-nb.info/gnd/131448498">Philippe François</author>
+                <title>Regel Und Lebens-Ordnungen Der Heiligen Vätter Augustini, Benedictini Und Francisci etc.</title>
+                <exemplar>http://resolver.sub.uni-goettingen.de/purl?PPN804317879</exemplar>
+              </bibl>
+              <bibl xml:id="p_bellechii_medula_asceseos">
+                <author ref="http://d-nb.info/gnd/124332404">Aloysius Bellecius</author>
+                <title>Medulla Asceseos Seu Exercitia S. P. Ignatii De Loyola etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10260094-3</exemplar>
+              </bibl>
+              <bibl xml:id="v_saeles_predigen">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="salesius_et_bellecius">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <author ref="http://d-nb.info/gnd/124332404">Aloysius Bellecius</author>
+                <title/>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="st_salesii_philothea">
+                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
+                <title cer="undefined">Philothea</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267121-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292450-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267106-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292934-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270430-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292935-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267107-6</exemplar>
+              </bibl>
+              <bibl xml:id="regula_cleri">
+                <author ref="http://d-nb.info/gnd/102901473" cer="middle">Otto Logk</author>
+                <author ref="http://d-nb.info/gnd/103009698" cer="middle">Andochius Kretzlinger</author>
+                <author ref="http://d-nb.info/gnd/1052471234" cer="high">Simon Salamo</author>
+                <author ref="http://d-nb.info/gnd/123187133" cer="high">Melchior Gelabert</author>
+                <title>Regula cleri Tam Saecularis Quam Regularis etc. / Regula Cleri Ex Sacris Litteris, Sanctorum Patrum Monimentis, Ecclesiasticisque Sanctionibus Excerpta</title>
+                <exemplar cer="middle">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10953328-1</exemplar>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10030502-0</exemplar>
+              </bibl>
+              <bibl xml:id="p_pinemonti_exercitii_spirituali">
+                <author ref="http://d-nb.info/gnd/104087110">Giovanni Pietro Pinamonti</author>
+                <title>Exercitii Spirituali</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="ausfuehrliche_rede_kunst_gottscheds">
+                <author ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</author>
+                <title>Ausführliche Redekunst Nach Anleitung Der Alten Griechen Und Römer Wie Auch Der Neuen Ausländer etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573938-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573940-6</exemplar>
+              </bibl>
+              <bibl xml:id="st_augustini_enchyridion">
+                <author ref="http://d-nb.info/gnd/118505114">Augustinus Aurelius</author>
+                <title>Enchyridion etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10742614-0</exemplar>
+                <exemplar>http://resolver.sub.uni-goettingen.de/purl?PPN832347981</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10188102-9</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00065384-8</exemplar>
+              </bibl>
+              <bibl xml:id="crasset_la_storia_della_chiesa_del_giappone">
+                <author ref="http://d-nb.info/gnd/100091695">Jean Crasset</author>
+                <title cer="undefined">La Storia Della Chiesa Del Giappone</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029120-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029123-3</exemplar>
+              </bibl>
+              <bibl xml:id="rudimenta_historica_fir_die_schulen">
+                <author ref="http://d-nb.info/gnd/">Dufrène, Maximilian</author>
+                <title>Rudimenta Historica [...] Zum Gebrauch Der Schulen</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033536-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11247741-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033532-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033509-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033510-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033511-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_stainhurstii_dei_immoratalitatis_in_corpore_morali">
+                <author ref="http://d-nb.info/gnd/124570984">Guillaume Stanyhurst</author>
+                <title>[Immortalis Dei] In Corpore Mortali Patientis Historia etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268035-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292850-4</exemplar>
+              </bibl>
+              <bibl xml:id="p_stoecklein_herrliche_tugend_beyspiel">
+                <author ref="http://d-nb.info/gnd/133740145">Joseph Stöcklein</author>
+                <title>Herrliche Tugend-Beyspihl Der Von Jetzt Regierenden Sinischen Kayseren Herstammenden Und Um Christi Willen Verfolgten Sunischen Printzen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268607-6</exemplar>
+              </bibl>
+              <bibl xml:id="regul_buechlein_des_dritten_ordens_st_francisci">
+                <author/>
+                <title>Regel-Büchlein Des Dritten Ordens der Franziskaner</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10743092-1 </exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092817-1 </exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092816-6 </exemplar>
+                <exemplar>http://idb.ub.uni-tuebingen.de/opendigi/Gc61</exemplar>
+                <exemplar>https://books.google.at/books?id=tWZRAAAAcAAJ</exemplar>
+                <exemplar>https://books.google.at/books?id=JdZiAAAAcAAJ</exemplar>
+                <exemplar>https://books.google.at/books?id=Q8kDAAAAcAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="historischer_auszug_des_alt_und_neuen_testaments_de_royaumont">
+                <author ref="http://d-nb.info/gnd/100260055">Nicolas Fontaine [=Herr von Royaumont]</author>
+                <title cer="high">Catholischer Geschicht-Spiegel, das ist: Historischer Auszug Aller Begebenheiten Altes Und Neuen Testaments etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11116198-5</exemplar>
+              </bibl>
+              <bibl xml:id="opera_st_fulgentii">
+                <author ref="http://d-nb.info/gnd/118536834">Claudius Gordianus Fulgentius</author>
+                <title>Opera St. Fulgentii</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10148740-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10188409-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10743106-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10685823-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10743110-8</exemplar>
+              </bibl>
+
+
+<!-- 378 -->
+
+
+
               <bibl xml:id="a1">
                 <author ref="http://d-nb.info/gnd/"/>
                 <title/>
@@ -3283,7 +3914,7 @@
 <!-- ähnliche -->
               <bibl xml:id="jacobi_halde_lyrica_et_poemata">
                 <author ref="http://d-nb.info/gnd/"/>
-                <title>Jacobi Halde Lyrica Et Poemata</title>
+                <title>Jacobi Halde / Balde Lyrica Et Poemata</title>
                 <exemplar/>
               </bibl>
 
@@ -3293,33 +3924,28 @@
                <title>Pastor Bonus: Secundum Praecipuas Suas Dotes Ac Munia Doctrina Theologico-Morali Illustratus etc.</title>
                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10840045-5</exemplar>
              </bibl>
+             <bibl xml:id="p_stainhursto_quotidiana_christiani_militis">
+               <author ref="http://d-nb.info/gnd/124570984">Guillaume Stanyhurst</author>
+               <title>Quotidiana Christiani Militis Tessera</title>
+               <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223656-3</exemplar>
+               <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268033-0</exemplar>
+             </bibl>
+             <bibl xml:id="mathias_schoenberg_zierde_der_jugend">
+               <author ref="http://d-nb.info/gnd/124038697">Matthias von Schönberg</author>
+               <title>Die Zierde Der Jugend</title>
+               <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597348-1</exemplar>
+             </bibl>
              <bibl xml:id="p_claus_tradoediae_ludis_autumnalis">
                <author ref="http://d-nb.info/gnd/129603112">Anton Claus</author>
                <title>Tradoediae Ludis Autumnalibus</title>
                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11234765-2</exemplar>
              </bibl>
-             <bibl xml:id="p_neumayr">
-                <author cer="undefined">[Pater] Neumayr</author>
-                <title/>
-                <exemplar/>
-              </bibl>
               <bibl xml:id="p_neumayr_sicher_himmels_strasse">
                 <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
                 <author ref="http://d-nb.info/gnd/122548124">Ignatius Bonschab</author>
                 <title cer="undefined">Allerheiligsten Herzens Jesu Sichere Himmels-Strasse etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270713-0</exemplar>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270714-6</exemplar>
-              </bibl>
-              <bibl xml:id="st_salesii_philothea">
-                <author ref="http://d-nb.info/gnd/118534971">François de Sales</author>
-                <title cer="undefined">Philothea</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267121-4</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292450-3</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267106-0</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292934-6</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270430-9</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292935-2</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267107-6</exemplar>
               </bibl>
               <bibl xml:id="ius_canonicum_pichler_compendium">
                 <author cer="undefined">[Pater] Pichler</author>
@@ -3335,64 +3961,35 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092885-7</exemplar>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092883-7</exemplar>
               </bibl>
-              <bibl xml:id="p_schwarz_collegia_hystorica">
-                <author ref="http://d-nb.info/gnd/117367257">Ignaz Schwarz</author>
-                <title cer="undefined">Collegia Historica, Seu Quaestiones Historiae Criticae Ex Institutionibus Historicis etc.</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033770-1</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033772-2</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10033778-4</exemplar>
-              </bibl>
-              <bibl xml:id="lacroix_theologia_moralis">
-                <author ref="http://d-nb.info/gnd/129957682">Claude Lacroix</author>
-                <title cer="undefined">Theologia Moralis</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496740-9</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596620-7</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596655-1</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496735-0</exemplar>
-              </bibl>
-              <bibl xml:id="crasset_la_storia_della_chiesa_del_giappone">
-                <author ref="http://d-nb.info/gnd/100091695">Jean Crasset</author>
-                <title cer="undefined">La Storia Della Chiesa Del Giappone</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029120-7</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029123-3</exemplar>
-              </bibl>
 
 
 <!-- noch offen -->
-
-                <bibl xml:id="adami_josephi_greneck_examen_iuris_canonici">Examen Iuris Canonici Adami Josephi Greneck</bibl>
-                <bibl xml:id="alt_katholischer_hohe_genffer_schul_francisci_de_sales">Alt Katholischer Hohe Genffer Schul Francisci de Sales</bibl>
+                <!-- noch offen -->
                 <bibl xml:id="anselmi_fischer_vita_interna_cum_deo">Anselmi Fischer Vita Interna Cum Deo</bibl>
                 <bibl xml:id="antiquitaeten">Antiquitäten</bibl>
-                <bibl xml:id="ausfuehrliche_rede_kunst_gottscheds">Ausführliche Rede Kunst Gottscheds</bibl>
-                <bibl xml:id="avantures_de_telemaque">Avantures De Telemaque</bibl>
+
                 <bibl xml:id="bibliorum">Bibliorum</bibl>
                 <bibl xml:id="caspari_biesmann_doctrina_moralis">Caspari Biesmann Doctrina Moralis</bibl>
                 <bibl xml:id="choral_buch">Coral Buech</bibl>
-                <bibl xml:id="ciceri_predigen">Ciceri Gesamte Predigen</bibl>
                 <bibl xml:id="claudius_fleurii_historischer_cathecismus">Claudius Fleurii Historischer Cathecismus</bibl>
                 <bibl xml:id="clericus_romanus_francolini">Clericus Romanus Francolini</bibl>
                 <bibl xml:id="compendium_geographiae_ecclesiasticae">Compendium Geographiae Ecclesiasticae Stadel</bibl>
                 <bibl xml:id="confessio_bernardinae">Confessio Bernardinae</bibl>
                 <bibl xml:id="d_salviani_opera">D. Salviani Opera</bibl>
-                <bibl xml:id="die_wichtigsten_wahrheiten_der_religion">Neü Auserlesene Kanzel Reden Über Die Wichtigsten Wahrheiten Der Religion</bibl>
                 <bibl xml:id="discorso_con_la_natura_e_con_dio">Discorso Con La Natura, E Con Dio</bibl>
                 <bibl xml:id="dizionario_geografico_portatile_del_signore_brouckner">Dizionario Geografico Portatile del Signore Brouckner</bibl>
-                <bibl xml:id="eiusdem_institutiones_historicae">Eiusdem Institutiones Historicae</bibl>
-                <bibl xml:id="eiusdem_quaresimale">Eiusdem Quaresimale</bibl>
+
                 <bibl xml:id="epistolae_st_francisci_xaveri">Epistolae St. Francisci Xaveri</bibl>
                 <bibl xml:id="erwiesene_wahrheit_der_katholischen_religion">Die Aus Der Heiligen Schrift Erwiesene Wahrheit Der Katholischen Religion</bibl>
                 <bibl xml:id="explicatio_sacramentorum_ecclesiae_authore_beuveleto">Explicatio Sacramentorum Ecclesiae authore Beuveleto</bibl>
-                <bibl xml:id="fleschiers_sitten_rede">Fleschiers Sitten Rede und andere etc.</bibl>
                 <bibl xml:id="francisci_dorn_lauertanische_lytanei">Francisci Dorn Lauertanische Lytanei</bibl>
                 <bibl xml:id="gedanken_st_bernardi">Gedanken St. Bernardi</bibl>
                 <bibl xml:id="geistliche_schaubuehne">Geistliche Schaubühne Oder Der Heilige Augustin In Seiner Bekehrung</bibl>
-                <bibl xml:id="geistliche_stadt_gottes_mariae_lauretae">Geistliche Stadt Gottes Mariae Lauretae</bibl>
                 <bibl xml:id="gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco">Gli Inganni [Johanni???] Del Peccatore Nella Confessione expositi</bibl>
                 <bibl xml:id="viridarium_sanctorum">Viridarium Sanctorum</bibl>
                 <bibl xml:id="gramatica_hispanica_crameri">Gramatica Hispanica Crameri</bibl>
                 <bibl xml:id="heilige_schrift_des_alten_bunds_jordan_simon">Die Heilige Schrift Des Alten Bunds Jordan Simon</bibl>
-                <bibl xml:id="historischer_auszug_des_alt_und_neuen_testaments_de_royaumont">Historischer Auszug Des Alt- Und Neuen Testaments de Royaumont</bibl>
+
                 <bibl xml:id="historischer_beihilf_und_unterricht_der_geographie">Historischer Beihilf Und Unterricht V. Der Geographie</bibl>
                 <bibl xml:id="ignatii_weitenauer_auxilii_st_tribunalis">Ignatii Weitenauer Auxilii St. Tribunalis</bibl>
                 <bibl xml:id="il_diocesano_istruito_fontana">Il Diocesano Istruito Fontana</bibl>
@@ -3401,84 +3998,52 @@
                 <bibl xml:id="in_p_sporer_theologiam_morales_praelectiones_morales_extemporaneae_a_p_cozenberger">In P. Sporer Theologiam Morales Praelectiones Morales extemporaneae à P. Cozenberger</bibl>
                 <bibl xml:id="instructio_parochi_pro_visitatione">Instructio Parochi Pro Visitatione</bibl>
                 <bibl xml:id="joannes_bisselii_medulla_historica">Joannes Bisselii Medulla Historica</bibl>
-                <bibl xml:id="johann_caspar_du_fey_predigen">Johann Caspar du Fey Predigen</bibl>
                 <bibl xml:id="l_ecclesiastico_provvedutto_ovvero">L‘Ecclesiastico Provvedutto ovvero Esortattioni Famigliari Per Tutte Le Domeniche É Feste Principali Del Anno</bibl>
                 <bibl xml:id="la_lumiera_del_mondo_gesu_christo_nella_sua_passione">La Lumiera Del Mondo Gesu Christo Nella Sua Passione</bibl>
+
                 <bibl xml:id="la_vita_del_beato_giovanni_francesco_regis">La Vita Del Beato Giovanni Francesco Regis</bibl>
                 <bibl xml:id="leben_des_heiligen_andreae_avellini">Leben Des Heiligen Andreae Avellini</bibl>
                 <bibl xml:id="lebensgeschichte_aller_kardinaele">Lebens Geschichte Aller Cardinäle etc.</bibl>
-                <bibl xml:id="lettere_spirituali_di_st_francesco_di_sales">Lettere Spirituali di St. Francesco di Sales</bibl>
-                <bibl xml:id="lo_spirito_sancto_francesco_di_sales">Lo Spirito Sancto Francesco di Sales in deto Bund</bibl>
                 <bibl xml:id="lustiges_sterb_jahr_mit_grab_schriften">Lustiges Sterb Jahr mit Grab-Schriften</bibl>
                 <bibl xml:id="manuale_benedictionum">Manuale Benedictionum</bibl>
                 <bibl xml:id="manuale_romanum_confessariorum">Manuale Romanum Confessariorum https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10595703_00005.html</bibl>
                 <bibl xml:id="marianische_schatz_kammer">Marianische Schatz Kammer (evtl. https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10366052_00007.html)</bibl>
-                <bibl xml:id="mathias_schenberg_religions_gruende">Religions Gründe Mathias Schenberg</bibl>
-                <bibl xml:id="mathias_schoenberg_zierde_der_jugend">Mathias Schönberg Zierde Der Jugend</bibl>
                 <bibl xml:id="meditazioni_sopra_gli_evangeli_delle_dominiche_feste_giorni_dell_anno_dal_padre_navarra">Meditazioni Sopra Gli Evangeli Delle Dominiche, Feste, E Giorni Dell Anno dal Padre Navarra</bibl>
                 <bibl xml:id="modus_iuste_vivendi_in_religione">Modus Iuste Vivendi In Religione</bibl>
                 <bibl xml:id="neue_vermehrte_acerra_philologica">Neue Vermehrte Acerra Philologica 600 Auserlesenen Historien</bibl>
-                <bibl xml:id="opera_st_fulgentii">Opera St. Fulgentii</bibl>
-                <bibl xml:id="p_balde_opera_poetica">P. Balde Opera Poetica</bibl>
-                <bibl xml:id="p_bellechii_kern_der_geistlichen">Kern Der Geistlichen Lehre P. Bellechii</bibl>
-                <bibl xml:id="p_bellechii_medula_asceseos">Medula Asceseos P. Bellechii</bibl>
+
                 <bibl xml:id="p_biner_indifferntismus_oder_gleichgiltigkeit_in_glauben">Indifferentismus Oder Gleichgiltigkeit In Glauben P. Biner</bibl>
                 <bibl xml:id="p_biselii_illustrium_ruinarum">Illustrium Ruinarum P. Biselii</bibl>
-                <bibl xml:id="p_bisling_mons_tabor">Mons Tabor P. Bisling</bibl>
                 <bibl xml:id="p_bonucci_il_saverio_addormentato">Il Saverio Addormentato P. Bonucci</bibl>
                 <bibl xml:id="p_bourdaloue_conciones">Conciones P. Bourdaloue</bibl>
                 <bibl xml:id="p_burghaber_centuriae_et_selectorum_casuum">Centuriae Et Selectorum Casuum P. Burghaber</bibl>
                 <bibl xml:id="p_cheruobino_mayr_recollectiones_morales">Recollectiones Morales Ex Temporanaeae P. Cherubino Mayr</bibl>
                 <bibl xml:id="p_d_outremann_paedagogus_christianus">Paedagogus Christianus P. D‘Outremann</bibl>
-                <bibl xml:id="p_du_fay_predigen">P. du Fay Predigen</bibl>
-                <bibl xml:id="p_franck_manuale_theologicum">Manuale Theologicum P. Franck</bibl>
                 <bibl xml:id="p_georgii_reeb_prudentiae_christianae_regulae">Prudentiae Christianae Regulae P. Georgii Reeb</bibl>
                 <bibl xml:id="p_gobat_thesaurus_ecclesiasticus_indulgentiarum">Thesaurus Ecclesiasticus Indulgentiarum P. Gobat</bibl>
-                <bibl xml:id="p_grosetzs_diarium_sanctorum">Diarium Sanctorum P. Grosetzs</bibl>
-                <bibl xml:id="p_habisreutinger_etwas_fir_alle_ein_wohl_gegruendte_gewissens_ruhe">Etwas Fir Alle Ein Wohl Gegründte Gewissens Ruhe P. Habisreutinger</bibl>
-                <bibl xml:id="p_herzig_manuale_parochiae">P. Herzig Manuale Parochiae</bibl>
                 <bibl xml:id="p_ignatii_brentano_annus_assceticus">Annus Assceticus P. Ignatii Brentano</bibl>
+
                 <bibl xml:id="p_isidori_sutter_lehrreiche_kanzel_reden">Lehrreiche Kanzel Reden auf verschiedener Festtäge Des Jahrs P. Isidori Sutter</bibl>
                 <bibl xml:id="p_mathias_schoenberg_das_geschaefft_des_menschen">Das Geschäfft des Menschen P. Mathias Schönberg</bibl>
-                <bibl xml:id="p_mayr_tractatus_theologicus_de_secundo_christi_adventus">Tractatus Theologicus De Secundo Christi Adventus P. Mayr</bibl>
                 <bibl xml:id="p_patritii_sporer_instructiones_confessariorum">P. Patritii Sporer Instructiones Confessariorum, Et Theologia Moralis</bibl>
-                <bibl xml:id="p_perusseau_predigen">Predigen P. Perusseau</bibl>
                 <bibl xml:id="p_pez_bibliotheca_benedictino_mauriana">Bibliotheca Benedictino Mauriana P. Pez</bibl>
-                <bibl xml:id="p_pinemonti_exercitii_spirituali">Exercitii Spirituali P. Pinemonti</bibl>
                 <bibl xml:id="p_philiputschii_de_siehensium_ritibis">De Siehensium Ritibus P. Philiputschii</bibl>
                 <bibl xml:id="p_rodriguez_esercizio_di_perfezione">Esercizio Di Perfezione P. Rodriquez</bibl>
-                <bibl xml:id="p_segant_predigen">P. Segant Samtliche Predigen</bibl>
-                <bibl xml:id="p_seiller_geistliche_reden">Geistliche Reden P. Seiller</bibl>
-                <bibl xml:id="p_stainhurstii_dei_immoratalitatis_in_corpore_morali">Dei Immortalitatis In Corpore Mortali Patientis Historia P. Stainhurstii</bibl>
-                <bibl xml:id="p_stainhursto_quotidiana_christiani_militis">Quotidiana Christiani Militis P. Stainhursto</bibl>
-                <bibl xml:id="p_steinhart_sacrum_veterum_tempora">Sacrum Veterum Tempora P. Steinhart http://lobid.org/gnd/142825999</bibl>
                 <bibl xml:id="p_stephani_a_st_paulo_nova_theologia_moralis">Nova Theologia Moralis P. Stephani à St. Paulo</bibl>
-                <bibl xml:id="p_stoecklein_herrliche_tugend_beyspiel">Herrliche Tugend Beyspiel P. Stöcklein</bibl>
-                <bibl xml:id="p_veggi_sermoni_familiari">Sermoni Familiari P. Veggi</bibl>
                 <bibl xml:id="p_voit_theologia_moralis">Theologia Moralis P. Voit</bibl>
                 <bibl xml:id="poenitentiae">Poenitentiae</bibl>
                 <bibl xml:id="pontificale_romanum">Pontificale Romanum</bibl>
+
                 <bibl xml:id="prediche_variae_del_padre_antoni_vieira">Prediche Variae del Padre Antoni Vieira</bibl>
                 <bibl xml:id="raimundi_de_sabunde_theologia_naturalis">Raimundi de Sabunde Theologia Naturalis</bibl>
-                <bibl xml:id="reden_und_lebens_ordnung_der_heiligen_vaeter_augustini_benedicti_francisci">Reden Und Lebens Ordnung Der Heiligen Väter Augustini, Benedicti, und Francisci</bibl>
-                <bibl xml:id="regul_buechlein_des_dritten_ordens_st_francisci">Regul Büchlein Des Dritten Ordens St. Francisci</bibl>
-                <bibl xml:id="regula_cleri">Regula Cleri</bibl>
                 <bibl xml:id="renatus_rapin_glaube_der_heutigen_christen">Renatus Rapin Glaube Der Heütigen Christen</bibl>
                 <bibl xml:id="riflessioni_christiane_del_padre_francesco_nepveu">Riflessioni Christiane del Padre Francesco Nepveu</bibl>
-                <bibl xml:id="rudimenta_historica_fir_die_schulen">Rudimenta Historica Fir Die Schulen</bibl>
-                <bibl xml:id="salesius_et_bellecius">Salesius, Et Bellecius</bibl>
-                <bibl xml:id="sermones_in_evangelium_dominicarum">Sermones in Evangelium Dominicarum</bibl>
                 <bibl xml:id="sermoni_del_p_cheminalis">Sermoni del P. Cheminalis</bibl>
                 <bibl xml:id="solliloquia_cum_maria">Solliloquia Cum Maria</bibl>
-                <bibl xml:id="st_augustini_enchyridion">St. Augustini Enchyridion</bibl>
-                <bibl xml:id="summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</bibl>
                 <bibl xml:id="thomae_aequinatis_summae_theologiae">Thomae Aequinatis Summae Theologiae</bibl>
                 <bibl xml:id="tractatum_opticum_colmansii">Tractatum Opticum Colmansii</bibl>
-                <bibl xml:id="trattenimento_istorico_spirituale_di_calino">Trattenimento Istorico Spirituale di Calino</bibl>
-                <bibl xml:id="v_saeles_predigen">v. Säles Predigen</bibl>
                 <bibl xml:id="weislinger">Weislinger</bibl>
                 <bibl xml:id="weislinger_die_gesuchte_wahrheit">Die Gesuchte Wahrheit etc. Weislinger</bibl>
-                <bibl xml:id="werke_des_marcus_caraccioli">Werke des Marcus Caraccioli</bibl>
             </listBibl>
         </body>
     </text>

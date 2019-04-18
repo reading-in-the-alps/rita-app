@@ -9221,7 +9221,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#eiusdem_panegirici">Eiusdem Panegirici</rs> in pirmenten Bund,
+                        <rs type="bibl" ref="#paolo_segneri_panegirici_sacri_quart">Eiusdem Panegirici</rs> in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
@@ -9421,7 +9421,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#henrici_penzinger_gute_ordnung_zur_kinderlehr">Gute Ordnung Zur Kinderlehr etc. Henrici Penzinger</rs> in deto Bund.
+                        <rs type="bibl" ref="#penzingers_khinderlehr_und_proedigen">Gute Ordnung Zur Kinderlehr etc. Henrici Penzinger</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -9445,7 +9445,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_saint_jure_erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</rs> 2 Theil in Schwein Leder
+                        <rs type="bibl" ref="#saintjure_erkhantnus_jesu_christi">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</rs> 2 Theil in Schwein Leder
                      </cell>
                   </row>
                   <row>
@@ -9624,7 +9624,7 @@
                   </row>
                </table>
                <p>
-                  <bibl>In Quart</bibl>
+                  <bibl>Octavisten</bibl>
                   <note>
                      <p rend="footnote text">
                         <hi rend="italic">Durch Verweiszeichen am linken Rand nachgetragen.</hi>
@@ -9665,7 +9665,7 @@
                   <row>
                      <cell>––</cell>
                      <cell>
-                        <rs type="bibl" ref="#p_segant_predigen">P. Segant Samtliche Predigen</rs> 6 thom. in deto Bund,
+                        <rs type="bibl" ref="#p_segant_predigen">P. Segaut Samtliche Predigen</rs> 6 thom. in deto Bund,
                      </cell>
                   </row>
                   <row>
@@ -9763,7 +9763,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_habisreutinger_etwas_fir_alle_ein_wohl_gegruendte_gewissens_ruhe">Etwas Fir Alle Ein Wohl Gegründte Gewissens Ruhe P. Habisreutinger</rs> in deto Bund
+                        <rs type="bibl" ref="#p_habisreutinger_gewissens_ruhe">Etwas Fir Alle Ein Wohl Gegründte Gewissens Ruhe P. Habisreutinger</rs> in deto Bund
                      </cell>
                   </row>
                   <row>
@@ -9815,11 +9815,17 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#werke_des_marcus_caraccioli">Werke des Marcus Caraccioli</rs> in braun Papir 10
+                        <rs type="bibl" ref="#werke_des_marc_caraccioli">Werke des Marc[hese] Caraccioli</rs> in braun Papir 10
                         <note>
                            <p rend="footnote text"> 1 <hi rend="italic">korrigiert aus</hi> 9.</p>
                         </note>
                         <hi xml:space="preserve"> thom.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <rs type="bibl" ref="#opere_di_padre_calino">Opere di Padre Calino</rs> 25 thom. in französischem Bund
                      </cell>
                   </row>
                   <row>
@@ -9927,7 +9933,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_grosetzs_diarium_sanctorum">Diarium Sanctorum P. Grosetzs</rs> in 2 thom. in deto Bund.
+                        <rs type="bibl" ref="#r_p_joannis_stephani_grossez_diarium">Diarium Sanctorum P. Grosetzs</rs> in 2 thom. in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -10488,7 +10494,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#paolo_segneri_panegirici_sacri">Paolo Segneri Panegirici Sacri</rs> in pirmenten Bund,
+                        <rs type="bibl" ref="#paolo_segneri_panegirici_sacri_oktav">Paolo Segneri Panegirici Sacri</rs> in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
