@@ -825,7 +825,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_6</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_6_2_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_6</ref>
+                    </cell>
                     <cell n="2">2</cell>
                     <cell n="3">Stephan Stern ("Auten")</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -895,7 +897,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_6</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_6_7_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_6</ref>
+                    </cell>
                     <cell n="2">7</cell>
                     <cell n="3">"Herr" Jakob Leitgeb</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1007,7 +1011,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/TLA_Fasz_8_Pos_5_Nr_2.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">2</cell>
                     <cell n="3">Wendelin Tänler [Danler]</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1105,7 +1111,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/TLA_Fasz_8_Pos_5_Nr_9.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">9</cell>
                     <cell n="3">Fr. Maria Hoferin (Ehefrau des Hr. Pongratz Volderauer)</cell>
                     <cell n="4">Inventar d. tot. u.lebend. Fahrnisse</cell>
@@ -1231,7 +1239,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/???">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">7</cell>
                     <cell n="3">Wendelin Gleinser</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1245,7 +1255,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/???">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">8</cell>
                     <cell n="3">Bartlme Kindl</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1259,7 +1271,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/TLA_Fasz_8_Pos_5_Nr_9.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">9</cell>
                     <cell n="3">Georg Hofer</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1273,7 +1287,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/???">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">10</cell>
                     <cell n="3">Simon Pitl</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1287,7 +1303,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/???">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">11</cell>
                     <cell n="3">Regina Ranalterin (ledig)</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1301,7 +1319,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</cell>
+                    <cell n="1">
+                        <ref target="#rita1/???">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_5</ref>
+                    </cell>
                     <cell n="2">12</cell>
                     <cell n="3">Kinder des Urban Haas; Joseph Mayr</cell>
                     <cell n="4">Bestandskontrakt (Pacht)</cell>
@@ -1412,7 +1432,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_3_1_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</ref>
+                    </cell>
                     <cell n="2">1</cell>
                     <cell n="3">Matheus Tenifl [Denifl]</cell>
                     <cell n="4">Verlassenschaftsabandlung</cell>
@@ -1440,7 +1462,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_3_3_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</ref>
+                    </cell>
                     <cell n="2">3</cell>
                     <cell n="3">Simon Werner / Anna Sillerin</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1510,7 +1534,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_3_8_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</ref>
+                    </cell>
                     <cell n="2">8</cell>
                     <cell n="3">Maria Teniflin [Denifl] (ledig)</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1594,7 +1620,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_3_14_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</ref>
+                    </cell>
                     <cell n="2">14</cell>
                     <cell n="3">Bläsi Volderauer</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
