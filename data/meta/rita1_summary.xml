@@ -1636,7 +1636,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_3_15_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_3</ref>
+                    </cell>
                     <cell n="2">15</cell>
                     <cell n="3">Ursula Tanglin (Ehefrau des Pangraz Vergörer)</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1692,7 +1694,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_2_2_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</ref>
+                    </cell>
                     <cell n="2">2</cell>
                     <cell n="3">Johann Mark</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1706,7 +1710,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_2_3_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</ref>
+                    </cell>
                     <cell n="2">3</cell>
                     <cell n="3">Sylvester Wisfleker [Wiesflecker]</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1720,7 +1726,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_2_4_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</ref>
+                    </cell>
                     <cell n="2">4</cell>
                     <cell n="3">Georg Steyxner [Steixner/Steuxner]</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -1776,7 +1784,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_2_8_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</ref>
+                    </cell>
                     <cell n="2">8</cell>
                     <cell n="3">Thoman Volderauer (ledig)</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1845,7 +1855,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_2_13_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</ref>
+                    </cell>
                     <cell n="2">13</cell>
                     <cell n="3">Maria Sillerin (Witwe des Jenewein Siller)</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -1956,7 +1968,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_2_21_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_2</ref>
+                    </cell>
                     <cell n="2">21</cell>
                     <cell n="3">Katharina Hoferin (Ehefrau des Bartlme Jäger)</cell>
                     <cell n="4">Inventar d. tot. u.lebend. Fahrnisse</cell>
@@ -2026,7 +2040,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_1_1_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</ref>
+                    </cell>
                     <cell n="2">1</cell>
                     <cell n="3">Balthasar Tanzer</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -2040,7 +2056,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_1_2_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</ref>
+                    </cell>
                     <cell n="2">2</cell>
                     <cell n="3">Martin Stolz</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -2054,7 +2072,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_1_3_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</ref>
+                    </cell>
                     <cell n="2">3</cell>
                     <cell n="3">Mathias Rott</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -2095,7 +2115,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_1_6_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</ref>
+                    </cell>
                     <cell n="2">6</cell>
                     <cell n="3">Bläsi [Blasius] Trolf</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -2193,7 +2215,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_1_12_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_1</ref>
+                    </cell>
                     <cell n="2">12</cell>
                     <cell n="3">Sebastian Hapacher [Happacher]</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -2235,7 +2259,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_6</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_7_Pos_6_2_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_6</ref>
+                    </cell>
                     <cell n="2">2</cell>
                     <cell n="3">Veit Mayr</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -2290,7 +2316,9 @@
                     <cell n="11"/>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_6</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_7_Pos_6_6_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_6</ref>
+                    </cell>
                     <cell n="2">6</cell>
                     <cell n="3">Gregor Hilber</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -2318,7 +2346,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_6</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_7_Pos_6_8_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_6</ref>
+                    </cell>
                     <cell n="2">8</cell>
                     <cell n="3">Matheus Siller</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -2361,7 +2391,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_1_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_1_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">1</cell>
                     <cell n="3">Christian Hilber</cell>
@@ -2517,7 +2547,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_12_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_12_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">12</cell>
                     <cell n="3">Nikolaus Siller (vgl. Nr. 10)</cell>
@@ -2547,7 +2577,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_4_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_14_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">14</cell>
                     <cell n="3">Wolfgang Greyer (vgl. Nr. 13)</cell>
@@ -2633,7 +2663,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_20_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_20_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">20</cell>
                     <cell n="3">Paul Wieser</cell>
@@ -2691,7 +2721,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_24_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_24_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">24</cell>
                     <cell n="3">Katharina Kartnalerin [Kartnallerin] (ledig)</cell>
@@ -2735,7 +2765,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_27_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="rita1/Fasz_7_Pos_5_27_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">27</cell>
                     <cell n="3">Anton Ferchl</cell>
@@ -2765,7 +2795,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_29_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_29_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">29</cell>
                     <cell n="3">Urban Sachser (ledig)</cell>
@@ -2837,7 +2867,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_34_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_34_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">34</cell>
                     <cell n="3">Cassian [Kassian] Schmid (ledig)</cell>
@@ -2895,7 +2925,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_38_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_38_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">38</cell>
                     <cell n="3">Valentin Schwaiger</cell>
@@ -2911,7 +2941,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_39_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_39_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">39</cell>
                     <cell n="3">Martin Tenifl [Denifl]</cell>
@@ -2969,7 +2999,7 @@
                 </row>
                 <row>
                     <cell n="1">
-                        <ref target="rita1:Fasz_7_Pos_5_43_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
+                        <ref target="#rita1/Fasz_7_Pos_5_43_BUCH.xml">TLA_Aktenserie_LG_Mieders_Fasz_7_Pos_5</ref>
                     </cell>
                     <cell n="2">43</cell>
                     <cell n="3">Elisabeth Lenerin (Ehefrau des Blasius Ferchl)</cell>
