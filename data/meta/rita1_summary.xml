@@ -54,8 +54,7 @@
                     <cell n="8">3.3.1790</cell>
                     <cell n="9">211 f 16 x</cell>
                     <cell n="10">n.a.</cell>
-                    <cell n="11">n
-</cell>
+                    <cell n="11">n</cell>
                 </row>
                 <row>
                     <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_10</cell>
@@ -350,7 +349,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_8</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_8_2_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_8</ref>
+                    </cell>
                     <cell n="2">2</cell>
                     <cell n="3">Andreas Pitl</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
@@ -406,7 +407,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_8</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_8_6_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_8</ref>
+                    </cell>
                     <cell n="2">6</cell>
                     <cell n="3">Simon Tenifl [Denifl]</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -420,7 +423,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_8</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_8_7_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_8</ref>
+                    </cell>
                     <cell n="2">7</cell>
                     <cell n="3">Thomas Grießer</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -630,7 +635,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_7_9_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</ref>
+                    </cell>
                     <cell n="2">9</cell>
                     <cell n="3">Peter Hupfauf</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -644,7 +651,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_7_10_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</ref>
+                    </cell>
                     <cell n="2">10</cell>
                     <cell n="3">Lorenz Pfurtscheller</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -728,7 +737,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_7_16_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</ref>
+                    </cell>
                     <cell n="2">16</cell>
                     <cell n="3">Johann Hofer (nach dem Tod seines Vaters hat Johann Hofer den besitz "zu einer Prob von Jahr zu Jahr" übernommen)</cell>
                     <cell n="4">Inventar d. tot. u. lebend. Fahrnisse</cell>
@@ -770,7 +781,9 @@
 </cell>
                 </row>
                 <row>
-                    <cell n="1">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</cell>
+                    <cell n="1">
+                        <ref target="#rita1/Fasz_8_Pos_7_19_BUCH_NEU.xml">TLA_Aktenserie_LG_Mieders_Fasz_8_Pos_7</ref>
+                    </cell>
                     <cell n="2">19</cell>
                     <cell n="3">Joseph Ranalter</cell>
                     <cell n="4">Verlassenschaftsabhandlung</cell>
