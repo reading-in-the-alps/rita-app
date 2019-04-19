@@ -282,6 +282,23 @@
     </xsl:template>
     
     <xsl:template match="tei:ref">
-        <xsl:apply-templates/>
+        <xsl:variable name="doc-path">
+            <xsl:value-of select="substring-after(./@target, '#')"/>
+        </xsl:variable>
+        <xsl:variable name="doc-id">
+            <xsl:value-of select="substring-after($doc-path, '/')"/>
+        </xsl:variable>
+        <xsl:variable name="doc-col">
+            <xsl:value-of select="substring-before($doc-path, '/')"/>
+        </xsl:variable>
+        <xsl:variable name="to-transcript">
+            <xsl:value-of select="concat('show.html?document=', $doc-id, '&amp;directory=', $doc-col)"/>
+        </xsl:variable>
+        <a>
+            <xsl:attribute name="href">
+                <xsl:value-of select="$to-transcript"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
     </xsl:template>
 </xsl:stylesheet>
