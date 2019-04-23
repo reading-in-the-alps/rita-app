@@ -2,6 +2,7 @@ xquery version "3.1";
 module namespace app="http://www.digital-archiv.at/ns/rita/templates";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace functx = 'http://www.functx.com';
+import module namespace httpclient="http://exist-db.org/xquery/httpclient";
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/rita/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
@@ -16,6 +17,9 @@ declare variable $app:personIndex := $config:app-root||'/data/indices/listperson
 declare variable $app:orgIndex := $config:app-root||'/data/indices/listorg.xml';
 declare variable $app:workIndex := $config:app-root||'/data/indices/listbibl.xml';
 declare variable $app:defaultXsl := doc($config:app-root||'/resources/xslt/xmlToHtml.xsl');
+
+declare variable $app:redmineBaseUrl := "https://shared.acdh.oeaw.ac.at/acdh-common-assets/api/imprint.php?serviceID=";
+declare variable $app:redmineID := "6930";
 
 declare function functx:contains-case-insensitive
   ( $arg as xs:string? ,
@@ -494,3 +498,26 @@ declare function app:rita1($node as node(), $model as map(*)) {
            <td>{$link2doc}</td>
         </tr>
 };
+
+
+
+(:~
+ : fetches html snippets from ACDH's imprint service; Make sure you'll have $app:redmineBaseUrl and $app:redmineID set
+ :)
+declare function app:fetchImprint($node as node(), $model as map(*)) {
+    let $url := $app:redmineBaseUrl||$app:redmineID
+
+let $headers := 
+    <headers>
+        <header name="Accept" value="text/html"/>
+        <header name="Accept-Charset" value="utf-8"/>
+    </headers>
+    
+    let $request := httpclient:get(($url), true(), $headers)
+    return
+    <div>
+        {$request//BODY}
+    </div>
+
+};
+
