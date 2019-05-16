@@ -435,7 +435,7 @@ declare function app:listBibl($node as node(), $model as map(*)) {
             let $cert := data($x/@cer)
             let $cert := if ($cert) then $app:certometer($cert) else 'green-dot'
             return <li><a href="{$x/text()}">see</a><span class="{$cert}"/></li>
-        let $mentions := count(collection($app:editions)//tei:rs[@ref=$itemRef])
+        let $mentions := count(collection($app:editions)//tei:rs[contains(./@ref, $itemRef)])
 
    return
         <tr>
