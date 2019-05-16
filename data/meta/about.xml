@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Reading in the Alps (rita2)</title>
-            <title type="sub">Private book ownership in the Catholically dominated Central Alps 1750–1800.</title>
+            <title type="main">Lesen im Alpental (rita2)</title>
+            <title type="sub">Privater Buchbesitz im katholisch dominierten Zentralalpenraum 1750–1800</title>
             <author>Michael Span</author>
          </titleStmt>
          <publicationStmt>
@@ -16,34 +14,18 @@
             <p>Born digital</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <div>
-            <p>The project aims at investigating private book ownership in the Catholically dominated rural
-               areas of the Central Alps, or, putting it more precisely, in historic Tyrol in the 18th century. Referring
-               to comparable existing studies – for example by Hans Medick – mainly focusing on protestant-pietistic
-               regions, this study investigates inventories. Books mentioned in about 2,200 inventories from the
-               Pustertal/Val di Pusteria, today belonging to South-Tyrol (Südtirol/Alto Adige), Italy, and Stubaital will be gathered
-               in order to describe and systematically analyse private book ownership in the respective administrative
-               districts.<lb/>
-               The main research questions are:
-               <list>
-                  <item>Who owned books and which patterns can be observed regarding the book-owners? (gender,
-                     age, socioeconomic background, profession)</item>
-                  <item>Which and how many books were in circulation/popular in the region? (religious or profane
-                     content, authors, origin, value/price, effects of state/church censorship)</item>
-                  <item>Which differences and/or parallels come to light in comparison with the findings of existing
-                     studies?</item>
-               </list>
-               A study like this is pioneering work, not only for the area of historic Tyrol, but also for Austria, and even for the mainly Catholically oriented South of the German language area. The project therefore also makes a contribution to the European history of books and reading, hence, the cultural and social history of the 18th century, at the dawn of the age of modernity.<lb/>
-               In cooperation with the Austrian Center for Digital Humanities of the <ref target="http://www.oeaw.ac.at/acdh/">Austrian Academy of Sciences
-                  (ACDH-ÖAW)</ref>, the inventories that have been systematically examined in this project will
-               subsequently be published in an XML-encoded online-database. Thus, substantial value is added by
-               creating easy access to source material that can be relevant for many aspects of further scientific
-               research as well as for an interested public.
-            </p>
+            <p>Ziel dieses FWF-geförderten, vom Institut für Geschichtswissenschaften und Europäische Ethnologie der Universität Innsbruck und dem Austrian Center for Digital Humanities der Österreichischen Akademie der Wissenschaften (ACDH-ÖAW) durchgeführten Projekts ist die systematische Erforschung des privaten Buchbesitzes im katholisch dominierten Zentralalpenraum, genauer gesagt in Tirol, für den Zeitraum von 1750 bis 1800. Als Hauptquelle werden – wie das auch in vergleichbaren Studien, die sich bislang vor allem mit protestantisch-pietistisch geprägten Regionen beschäftigten, gemacht wurde – Inventare herangezogen. Bücher, die in rund 2000 Inventaren aus dem Südtiroler Pustertal genannt werden, sollen erhoben und so der private Buchbesitz in dieser Region beschrieben und systematisch analysiert werden.</p>
+            <p>Wer besaß Bücher und welche Muster lassen sich bei den BuchbesitzerInnen beobachten? (Geschlecht, Alter, sozioökonomischer Hintergrund, Beruf)</p>
+            <p>Welche und wie viele Bücher waren im Umlauf bzw. populär/verbreitet? (religiöser oder weltlicher Inhalt, Autoren, Herkunft, Wert/Preis, Auswirkungen von staatlicher/kirchlicher Zensur)</p>
+            <p>Welche Unterschiede und Parallelen zeigen sich im Vergleich zu existierenden Studien?</p>
+            <p>Diese Studie betritt Neuland, nicht nur für das historische Tirol, sondern auch für das Gebiet des heutigen Österreich und den gesamten katholisch-süddeutschen Raum.</p>
+            <p>In Kooperation mit dem Austrian Center for Digital Humanities der Österreichischen Akademie der Wissenschaften (ACDH-ÖAW), werden die Daten aus den systematisch analysierten Inventare hier in einer XML-codierten Online-Datenbank publiziert. Auf diese Weise sollen sowohl die Wissenschaft als auch die interessierte Öffentlichkeit einfachen Zugang zu den aufbereiteten Quellen erhalten, die für eine ganze Reihe von Fragestellungen von Interesse sein können.</p>
+            <p>In einer Pilotstudie wurden bereits rund 200 Inventare aus dem Tiroler Stubaital untersucht. Die Ergebnisse sind hier ebenfalls zu finden.</p>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>

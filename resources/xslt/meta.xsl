@@ -39,7 +39,7 @@
                                     <xsl:value-of select="//tei:title[@type='sub']"/>
                                 </muted>
                             </h4>
-                            by 
+                            von 
                            <h5>
                               <i>
                                     <xsl:value-of select="//tei:author/text()"/>
@@ -64,7 +64,7 @@
                     <xsl:apply-templates select="//tei:body"/>
                 </div>
                 <div class="card-footer text-muted" style="text-align:center">
-                    Michael Span u.a.,
+                    Michael Span,
                     <i>
                         <xsl:value-of select="//tei:title[@type='main']"/>
                     </i>
@@ -73,7 +73,7 @@
                         <xsl:attribute name="href">
                             <xsl:value-of select="$path2source"/>
                         </xsl:attribute>
-                        see the TEI source of this document
+                        TEI
                     </a>
                 </div>
             </div>
