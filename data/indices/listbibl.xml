@@ -282,7 +282,7 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11116198-5</exemplar>
               </bibl>
               <bibl xml:id="sargor_conferentiae_morales">
-                <author ref="http://d-nb.info/gnd/136281958">Elisaeus Sargar</author>
+                <author ref="http://d-nb.info/gnd/136281958" cer="undefined">Elisaeus Sargar</author>
                 <publisher/>
                 <title>Conferentiae Theologico Morales ex mateira septem sacramentorum atque justitiae de restitutione excerptae etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11255309-1</exemplar>

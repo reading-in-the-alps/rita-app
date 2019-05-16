@@ -21,6 +21,14 @@ declare variable $app:defaultXsl := doc($config:app-root||'/resources/xslt/xmlTo
 declare variable $app:redmineBaseUrl := "https://shared.acdh.oeaw.ac.at/acdh-common-assets/api/imprint.php?serviceID=";
 declare variable $app:redmineID := "6930";
 
+declare variable $app:certometer := map{
+    "undefined": "gray-dot",
+    "low": "red-dot",
+    "middle": "orange-dot",
+    "high": "yellow-dot",
+    "cert": "green-dot"
+};
+
 declare function functx:contains-case-insensitive
   ( $arg as xs:string? ,
     $substring as xs:string )  as xs:boolean? {
@@ -418,16 +426,21 @@ declare function app:listBibl($node as node(), $model as map(*)) {
         let $author := for $x in $item/tei:author
             let $at := if($x/text()) then $x else <something>N.N.</something>
             let $at_link := if ($x/@ref) then <a href="{data($x/@ref)}">{$at/text()}</a> else $at
-            return <li>{$at_link}</li>
+            let $cert := data($x/@cer)
+            let $cert := if ($cert) then $app:certometer($cert) else 'green-dot'
+            return <li>{$at_link}<span class="{$cert}"/></li>
         let $title := if ($item/tei:title/text()) then $item/tei:title/text() else 'kein Titel'
-        let $exemplare := for $x in $item/tei:exemplar/text()
-            return <li><a href="{$x}">see</a></li>
+        let $titlecert := if (data($item/tei:title/@cer)[1]) then  $app:certometer(data($item/tei:title/@cer)[1]) else 'green-dot'
+        let $exemplare := for $x in $item/tei:exemplar
+            let $cert := data($x/@cer)
+            let $cert := if ($cert) then $app:certometer($cert) else 'green-dot'
+            return <li><a href="{$x/text()}">see</a><span class="{$cert}"/></li>
         let $mentions := count(collection($app:editions)//tei:rs[@ref=$itemRef])
 
    return
         <tr>
             <td>
-                <a href="{concat($hitHtml, $itemID)}">{$title}</a>
+                <a href="{concat($hitHtml, $itemID)}">{$title}<span class="{$titlecert}"/></a>
             </td>
             <td>{$author}</td>
             <td>{$exemplare}</td>
