@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1781 V 7/8, Saalen (in der Kaplanei) [Stocker Franz (Benefiziat)]</title>
+            <titleshort>Stocker Franz (Benefiziat)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="294r" to="307v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

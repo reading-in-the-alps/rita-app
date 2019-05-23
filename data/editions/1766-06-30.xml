@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1766 VI 30, St. Lorenzen [Sigmayr Andreas (Kooperator)]</title>
+            <titleshort>Sigmayr Andreas (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1766</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="217r" to="226r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -57,7 +58,7 @@
             </p>
             <p>[Rubrum:] Vermigens Abhandlung Weillend Herrn <rs type="person" ref="#sigmayr_andree">Andree Sigmayr</rs> gewesten Cooperatorn alhier seel.</p>
             <p>[Aktenvermerk:] Exped.</p>
-            <p>Actum in Pfarrwidum zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1766-06-30">30isten Juny änno 1766</date>.</p>
+            <p>Actum in <rs type="place" ref="#st_lorenzen_kirche">Pfarrwidum</rs> zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1766-06-30">30isten Juny änno 1766</date>.</p>
             <p>Vor Ihro Hochwürden und Gnaden, dem hochedl gebohrn Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram, zu Liebenrain und Fragburg</rs>, Tyrolischen Herrn und Landtmann, S.S. Theol. Dri. hochfürstlich Brixnerisch wirckhlichen Consistorial Rath, auch Döchand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, dann dem wohl edlgebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohregg</rs>, beeder rechten Lit. ooe. Regimendts Advocaten, auch Pfleger und Landtrichtern der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> Amtgericht- und Commission Schreibern zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaumer</rs> Landtgerichtschreibern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Nachdeme Gott dem Allmechtigen abermahlen gefahlen, seinen Allerheiligisten Willen zu vollziechen, und andurch weylande dem wohl ehrwürdig edlen und wohlgelehrten Herrn <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs> gewesten Cooperatore alhier zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> nach ausgestandener langwirigen Leibs<note>
@@ -71,7 +72,7 @@
             <p>
                <pb n="217v"/>
             </p>
-            <p>mit Gnaden pflegen, und am Tag des Jüngst und Lezten Gerichts ain freliche Aufersteheung und beglickhten Eingang zum ewig himelischen Wohlleben allergnedigst mitthaillen und verleichen wolle, wurde all vorderist ainsmahlen von der gnedig geistlichen Commission und weldtlichen Obrigkheit die gewohnliche Secretur angelegt. Und weillen er Herr Ableiber seel. nur zwo eheleibliche Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> in Kärnten und ausser Landtes verlassen, und vor seinen Hinscheiden, wie ihro wohl Ehrwürden Herr <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiat bey dem Heiligen Creuz alhier vorgetragen, die mindtliche Verschafung gethann, das dessen ybrig verbleibendes Vermigen zu seiner Seelen Hayl angewendet, seinen Brüedern aber hievon ain Gedenckhzaichen gegeben werden solle, desselben zurugg gelassene Vermigen, yber zuvor der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gotts Denst, in gebreichige Beschreibung, Taxierung Ergenzung und Verhandlung gebracht, wie mehrers hernach zu vernemmen und folgt vor allen die</p>
+            <p>mit Gnaden pflegen, und am Tag des Jüngst und Lezten Gerichts ain freliche Aufersteheung und beglickhten Eingang zum ewig himelischen Wohlleben allergnedigst mitthaillen und verleichen wolle, wurde all vorderist ainsmahlen von der gnedig geistlichen Commission und weldtlichen Obrigkheit die gewohnliche Secretur angelegt. Und weillen er Herr Ableiber seel. nur zwo eheleibliche Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> in <rs type="place" ref="#kaernten">Kärnten</rs> und ausser Landtes verlassen, und vor seinen Hinscheiden, wie ihro wohl Ehrwürden Herr <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiat bey dem <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Creuz</rs> alhier vorgetragen, die mindtliche Verschafung gethann, das dessen ybrig verbleibendes Vermigen zu seiner Seelen Hayl angewendet, seinen Brüedern aber hievon ain Gedenckhzaichen gegeben werden solle, desselben zurugg gelassene Vermigen, yber zuvor der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gotts Denst, in gebreichige Beschreibung, Taxierung Ergenzung und Verhandlung gebracht, wie mehrers hernach zu vernemmen und folgt vor allen die</p>
             <p>Inventur</p>
             <table rend="rules">
                <row>
@@ -940,7 +941,7 @@
                   <cell>2 f 34 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Mehr deme samt seinen zwo Gspänn für Anlegung der Leich, und per Reischach umb das Möss Gwandt verrichten Gang</cell>
+                  <cell>Dedit. Mehr deme samt seinen zwo Gspänn für Anlegung der Leich, und per <rs type="place" ref="#reischach">Reischach</rs> umb das Möss Gwandt verrichten Gang</cell>
                   <cell>51 x</cell>
                </row>
                <row>
@@ -948,7 +949,8 @@
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Für die in das Grab gegebene Paramenta der Reischacher Kirchen</cell>
+                  <cell>Dedit. Für die in das Grab gegebene Paramenta der <rs type="place" ref="#reischach_kirche">Reischacher Kirchen</rs>
+                        </cell>
                   <cell>4 f 0 x</cell>
                </row>
                <row>
@@ -989,11 +991,11 @@
                   <cell>1 f 43 x</cell>
                </row>
                <row>
-                  <cell>No 3: Dedit. Dem <rs type="person" ref="#schranz_paul">Pauln Schranz</rs> Würth zu Wenz in Ober Yhnthall laut Misiv Schreiben</cell>
+                  <cell>No 3: Dedit. Dem <rs type="person" ref="#schranz_paul">Pauln Schranz</rs> Würth zu <rs type="place" ref="#wenns">Wenz</rs> in Ober Yhnthall laut Misiv Schreiben</cell>
                   <cell>7 f 28 x</cell>
                </row>
                <row>
-                  <cell>No 4: Dedit. Ihro gestreng dem Herrn Pfleger zu Räsen Haubtsach laut Schultschein</cell>
+                  <cell>No 4: Dedit. Ihro gestreng dem Herrn Pfleger zu <rs type="place" ref="#rasen">Räsen</rs> Haubtsach laut Schultschein</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
@@ -1083,12 +1085,12 @@
                   <cell>82 f 4 x</cell>
                </row>
             </table>
-            <p>Zu welch disen restierenden Vermigen zway in Cärnten sich befündende Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> mit Namen verhanden, denen solches ansonst, und in Nachgang der gemainen, und Tyrolischen Landts Rechten erblichen zue- und angefahlen were. All dieweillen aber er Herr Ableiber seel. wie vor gemelt, in seiner lezten Krankheit verordnet, und müntlichen hinterlassen, das denen selben in Bedenckhung sie zway Gebrüedern sich ausser Landts befünden, und er mithin selbe gar auszuschlüessen befuegt gewesen were, nur ain Gedenckhzaichen verabgefolgt, das ybrig wenige aber, ad pias causas angewendet werden solle, als wurde auch in Conformitet dis seines Lezten Willens, von Seithen der angeordnet gnedig geistlichen Commission und weltlicher Obrigkheit etc. ihnen zway Gebrüedern, ohngeacht des sich erzeigeten cleinen Vermigens Standts, nichts destoweniger jeden deren drey Duccatten zu einen verschaffenen Gedenckhzaichen, und mithin beeden zusammen sechs Duggaten geschöpfft, wohlfolgsam das ganz und völlig</p>
+            <p>Zu welch disen restierenden Vermigen zway in <rs type="place" ref="#kaernten">Cärnten</rs> sich befündende Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> mit Namen verhanden, denen solches ansonst, und in Nachgang der gemainen, und Tyrolischen Landts Rechten erblichen zue- und angefahlen were. All dieweillen aber er Herr Ableiber seel. wie vor gemelt, in seiner lezten Krankheit verordnet, und müntlichen hinterlassen, das denen selben in Bedenckhung sie zway Gebrüedern sich ausser Landts befünden, und er mithin selbe gar auszuschlüessen befuegt gewesen were, nur ain Gedenckhzaichen verabgefolgt, das ybrig wenige aber, ad pias causas angewendet werden solle, als wurde auch in Conformitet dis seines Lezten Willens, von Seithen der angeordnet gnedig geistlichen Commission und weltlicher Obrigkheit etc. ihnen zway Gebrüedern, ohngeacht des sich erzeigeten cleinen Vermigens Standts, nichts destoweniger jeden deren drey Duccatten zu einen verschaffenen Gedenckhzaichen, und mithin beeden zusammen sechs Duggaten geschöpfft, wohlfolgsam das ganz und völlig</p>
             <p>
                <pb n="224v"/>
             </p>
             <p>verhandene Vermigen dem Herrn Landtgerichtschreiber alhier, <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs>, als ersuechten Gemainschafft Fiehrer mit deme bestölt, und respective yberlassen, das selber die annoch verhandene Mobilien böst möglichist zu versilberen, all vorderist hievon, samt den ybrigen Vermigen die allseitig verhandene Abzüg und Schulden hinaus, nebst dem geschöpfften Gedenckhzaichen abzufiehren und zu bezahlen, und sofort aus dem verbleibenden Vorstandt die Helffte hievon denen haus armen Leuthen auszuthaillen, und die ybrige Helffte zu Heiligen Mössen zu applicieren bedacht, und respective gehalten seyn solle, deme auch selber nachzukhommen zuegesagt, und der gnedig geistlichen Commission und weldtlichen Obrigkheit das Handt Anloben erstatt hat.</p>
-            <p>Testes Ihro wohl Ehrwürden Herr <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiat bey dem Heiligen Creuz auf der Fronewisen, und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber alhier.</p>
+            <p>Testes Ihro wohl Ehrwürden Herr <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiat bey dem <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Creuz auf der Fronewisen</rs>, und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber alhier.</p>
             <p>Actum <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> den <date when="1766-12-31">31isten December 1766</date>
                 </p>
             <p>Wie vor zu söchen, ist zwahr beschlossen worden, das das Herrn Ableibers seel. zwoen Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> jeden drey Duggaten zu ainen brüederlichen Gedenckhzaichen gegeben, und das ybrig verbleibende Vermigen zu des Herrn Ableibers Seelen Hayl angewendet und appliciert werden solle. All</p>
@@ -1101,7 +1103,7 @@
             </p>
             <p>tröffenden 72 f 4 x dato baar aufgezölt, erlegt, und bezalt, welche sie Gebrüedere <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> auch<note>
                         <p rend="footnote text"> -ch<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-f-.</p>
-                    </note> baar eingenommen und empfangen zu haben bekhennen, darummen selbe, für sie und ihre Erben, ernenten Herrn Gemainschafft Fiehrer, und wem es weiters beriert, auf ewig quittiert, frey, ledig und losgesprochen, und demenach zukhommen, Ihro gestreng dem Herrn Pfleger Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">v. Englmohr</rs> etc. das Handt Anloben erstatt haben. In Beyseyn als Gezeugen Ihro wohl Ehrwürden des Herrn Beneficiaten bey dem Heiligen Creuz, <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs>, und <rs type="person" ref="#steeger_joseph">Josephen Steeger</rs> Schreibers alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</p>
+                    </note> baar eingenommen und empfangen zu haben bekhennen, darummen selbe, für sie und ihre Erben, ernenten Herrn Gemainschafft Fiehrer, und wem es weiters beriert, auf ewig quittiert, frey, ledig und losgesprochen, und demenach zukhommen, Ihro gestreng dem Herrn Pfleger Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">v. Englmohr</rs> etc. das Handt Anloben erstatt haben. In Beyseyn als Gezeugen Ihro wohl Ehrwürden des Herrn Beneficiaten bey dem <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Creuz</rs>, <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs>, und <rs type="person" ref="#steeger_joseph">Josephen Steeger</rs> Schreibers alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</p>
             <p>Actum <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1767-12-09">9ten December, anno 1767</date>.</p>
             <p>Es seind zwahr, wie kurz gemelt, für Herrn <rs type="person" ref="#baldtauf_mathias">Mathes Waldtauf</rs> zu Bezahlung des den Herrn Ableiber abgegeben haben sollenden Peth 10 f anrugg behalten worden, weillen aber selber<note>
                         <p rend="footnote text">

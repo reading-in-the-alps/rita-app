@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1771 IV 17, St. Lorenzen [Jais Coelestin Johann (Kooperator)]</title>
+            <titleshort>Jais Coelestin Johann (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1771</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="72r" to="85v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -57,7 +58,7 @@
             </p>
             <p>[Rubrum:] Vermigens Ergenzung Erbsthailung und Einraumbung weillende Herrn <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jais</rs> gewester Cooperatore alhier seel.</p>
             <p>[Aktenvermerk:] Exped. 2 [mal]</p>
-            <p>Actum in Pfarr Widumb zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1771-04-17">17ten April anno 1771</date>.</p>
+            <p>Actum in <rs type="place" ref="#st_lorenzen_kirche">Pfarr Widumb</rs> zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1771-04-17">17ten April anno 1771</date>.</p>
             <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain und Fragburg</rs>, S.S. Theol. Dri. Tyrollischen Herrn und Landtman, hochfirstlich Brixnerrischen wirckhlichen Consistorial Rath, auch Dechant und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als gnedig verordneten Commissario</p>
             <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkhirchen zu Mohregg</rs>, Pfeger und Landtrichtern, der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>,</p>
             <p>Zugegen des wohledlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> geistlicher Commission und Ambtgerichtschreibern zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des <rs type="person" ref="#kerschpaember_johan">Johan Kerschpämber</rs> Landtgerichtschreibers zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
@@ -75,7 +76,7 @@
             <p>
                <pb n="73r"/>
             </p>
-            <p>Güetter und Vermigen angesessen were, so ist man von Seiten der weltlichen Obrigkheit gezwungen gewesen, die Sach hochloblicher ooe. Regierung umbstentlich einzuberichten und hoch die selbe in Unterthenigkheit zu belangen, das die Vermigens Abhandlung disen foro albo Herr Ableiber seel. verstorben, zueerkhent werden mechte, und gleichwie auch ein solches von dorthen aus vermig den untern 15ten Märti anno diß eingangenen hochgnedigen Befelch beschechen, mit den weitter befelchlichen Auftrag, das alle derley Verabhandlung vorgenomben werden sollen, wo der Todtfahl ervolgt, und<note>
+            <p>Güetter und Vermigen angesessen were, so ist man von Seiten der weltlichen Obrigkheit gezwungen gewesen, die Sach hochloblicher ooe. Regierung umbstentlich einzuberichten und hoch die selbe in Unterthenigkheit zu belangen, das die Vermigens Abhandlung disen foro albo Herr Ableiber seel. verstorben, zueerkhent werden mechte, und gleichwie auch ein solches von dorthen aus vermig den untern <date when="1771-03-15">15ten Märti anno diß</date> eingangenen hochgnedigen Befelch beschechen, mit den weitter befelchlichen Auftrag, das alle derley Verabhandlung vorgenomben werden sollen, wo der Todtfahl ervolgt, und<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>welches.</p>
                     </note> sohin in Namen und anstatt der drei verhandenen Erbs Interessenten als des Herrn Ableibers seel. eheleiblich baidtpendigen Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> seiner Profession ain Pilthauer, dan des auch verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> bei <rs type="person" ref="#holzer_anna_maria">Anna Maria Holzerin</rs> in Ehepandt ainzig erzeigten Sohn <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> <rs type="person" ref="#posch_johan">Johan Posch</rs>
@@ -1001,11 +1002,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>ist auch Frau <rs type="person" ref="#pruner_maria">Maria Prunerin</rs> Herrn <rs type="person" ref="#paldauf_gottlieb">Gottlieb Paldauf</rs> Burger, Parbierer und Cramers alhier Ehewirthin, den Herrn Ableiber seel. 200 f yedoch mit deme schuldig worden, das 100 f hieraus solang dero Frau Schwester <rs type="person" ref="#pruner_maria">Maria Josepha Prunerin</rs> Closterfrau in Lienz, bei Leben sein wirdet, ohne Zins stilligen verbleiben, und sie <rs type="person" ref="#pruner_maria">Frau Prunerin</rs> zu geniessen haben, die andern 100 f aber, sollen jehrlichen in Zeit der Stilligung, mit drei pro cento verinteressiert und gegen ainer viertl jehrigen Ab- oder Aufkhindung bezalt werden, id est</cell>
+                  <cell>ist auch Frau <rs type="person" ref="#pruner_maria">Maria Prunerin</rs> Herrn <rs type="person" ref="#paldauf_gottlieb">Gottlieb Paldauf</rs> Burger, Parbierer und Cramers alhier Ehewirthin, den Herrn Ableiber seel. 200 f yedoch mit deme schuldig worden, das 100 f hieraus solang dero Frau Schwester <rs type="person" ref="#pruner_maria">Maria Josepha Prunerin</rs> Closterfrau in <rs type="place" ref="#lienz">Lienz</rs>, bei Leben sein wirdet, ohne Zins stilligen verbleiben, und sie <rs type="person" ref="#pruner_maria">Frau Prunerin</rs> zu geniessen haben, die andern 100 f aber, sollen jehrlichen in Zeit der Stilligung, mit drei pro cento verinteressiert und gegen ainer viertl jehrigen Ab- oder Aufkhindung bezalt werden, id est</cell>
                   <cell>200 f 0 x</cell>
                </row>
                <row>
-                  <cell>Interesse hievon von die abtreiblichen 100 f auf verwichen 20isten Jenner verfahlen, von ain Jahr</cell>
+                  <cell>Interesse hievon von die abtreiblichen 100 f auf <date when="1771-01-20">verwichen 20isten Jenner</date> verfahlen, von ain Jahr</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -1172,7 +1173,7 @@
                   <cell>8 f 49 x</cell>
                </row>
                <row>
-                  <cell>Der Pfarr Kirchen alhier willen den Herrn Ableiber in Grab gegebenen Paramenter und bei denen Gotts denst geprenten weisen Wax Kerzen</cell>
+                  <cell>Der <rs type="place" ref="#st_lorenzen_kirche">Pfarr Kirchen</rs> alhier willen den Herrn Ableiber in Grab gegebenen Paramenter und bei denen Gotts denst geprenten weisen Wax Kerzen</cell>
                   <cell>15 f 0 x</cell>
                </row>
             </table>

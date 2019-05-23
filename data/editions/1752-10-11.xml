@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1752 X 11, Saalen (in der Kaplanei) [Manucredo Marcus Aurelius (Kooperator)]</title>
+            <titleshort>Manucredo Marcus Aurelius (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Inventare des Mittleren Pustertals</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="1r" to="27r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -65,7 +66,7 @@
             <p>
                <pb n="1r"/>
             </p>
-            <p>Actum <rs type="place" ref="#saalen">Saallen</rs> in der Caplanei Behausung den <date when="1752-10-11">aindlifften Tag Monats Octobris anno sibenzöchenhundert zwaiundtfunfzig</date>.</p>
+            <p>Actum <rs type="place" ref="#saalen">Saallen</rs> in der <rs type="place" ref="#saalen_kaplanei">Caplanei Behausung</rs> den <date when="1752-10-11">aindlifften Tag Monats Octobris anno sibenzöchenhundert zwaiundtfunfzig</date>.</p>
             <p>Vor Ihro Hochwirden und Gnaden, dem hochwirdig hoch edlgebohrnen und hochgelehrten Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngramb von Liebenrain, und Fragburg</rs> hochfirstlich Brixnerischen Consistorial Rath, auch Döchandt, und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunögg</rs>, als von einer hochgeistlichen Obrigkheit zu <rs type="place" ref="#brixen">Brixen</rs> verorneten Herrn Commissario.</p>
             <p>Und den wohl edlgebohrn gstreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäty Englmohr, von Aufkhirchen zu Mohregg</rs>, beeder Rechten <pb n="1v"/> lit. oo. Regiments Advocäten auch Pflöger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>,</p>
             <p>Zugegen des wohl firnemben <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler, und Wirths zu <rs type="place" ref="#saalen">Saallen</rs>, als zuegezochnen Taxätor und Schäzern,</p>
@@ -74,16 +75,17 @@
                   <p rend="footnote text">
                      <hi rend="italic">Auf der linken Seite</hi> lit. A.<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
                   </p>
-            </note> registrierenden gnedigen Commissionsbefelch zu Abhandlung des numehro in Gott ruehenden Herrn <rs type="person" ref="#manucredo_marcus_aurelii">Cappellani</rs> alda zurugg begöbner zeitlichen Verlassenschafft die Commissions Vollmacht ertheillet hett, und dahero von denen Herrn und Frauen Erbs Interessenten zu vernemben ge-<pb n="2v"/>wertigen woll, was sie demselben zu solchem Ende anhanden zu göben belieben woll, all vorderist aber ob nit einiches Testäment verhanden were, so vor allen gewohnlicher Ordnung nach zu eröffnen were, woraufhin Ihro Hoch Ehrwirden Herr <rs type="person" ref="schifferle_jacob">Jacob Schiferle</rs> Cappellanus des loblichen Stifft und Closter <rs type="place" ref="#soneburg">Soneburg</rs>, als des Herrn Ableiber seelligen etwo in Löben gewöster Beichtvater sich hervorgethan, und eröffnet, wie das Herr Ableiber seelligen khurz vor seinen Todt zu deme gemeldet, und ersuecht, nach seinen Hinscheiden zu eröffnen, wölcher gestalten selber ausser der wenigen <bibl>Piecher</bibl>, und Mobillien wenig, oder gar nichts hinterlassen werde, und mithin seinen geistlichen Herrn <rs type="person" ref="#manucredo_joseph_carl">Brueder</rs> gebötten haben woll,
-            alles und jedes zu iber-<pb n="3r"/>nemben, und anmit seine Schulden abzufiehrn, und zu bezahlen, und zugleich demselben den in seinen Puldt erfindlichen Brief zuezustöllen, und zu behendigen, die Herrn, und Frauen Erbs Interessenten als benantlich der Herr Brueder der wohl ehrwirdig wohl edle und wohl gelehrte Herr <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> gewöst resignierter Curat zu Stainach, dan des auch verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_jacob_andree">Jacob Andreen Manucredo</rs> gewösten Burger, und Gerichts Advocätens zu Sanct Lorenzen seelligen bey seiner gehabten Ehewirthin, und hinterlassnen Wittfrauen <rs type="person" ref="#hueberin_maria_elisabetha">Maria Elisabetha gebohrnen Hueberin</rs> in Pandt der Ehe erworbne
-            finf Herrn und Sehn auch Töchtern, als der geistliche Herr Sohn Antany Sebastian, ittem der weltliche deto Johannes, <pb n="3v"/>und anstatt der Töchter <rs type="person" ref="#pifrader_maria_johanes">Maria, Johanesen Pifraders zu Rofereidt</rs> Ehewirthin, und der zwo noch lödigen deto Theresia, und Annä, dero bestölte Vertrötter <rs type="person" ref="#hueber_hans">Hans Hueber</rs>, verer des ebenfahls verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_leonardi_joachimi">Leonardi Joachimi Manucredo</rs> seelligen, mit und bey seiner gehabten Ehe- und hinterlassnen Wittfrauen <rs type="person" ref="#scheuckin_hellenae">Hellenä Schenckhin</rs> in Ehepandt erzeigt ruggs begöben zwo Herrn
+            </note> registrierenden gnedigen Commissionsbefelch zu Abhandlung des numehro in Gott ruehenden Herrn <rs type="person" ref="#manucredo_marcus_aurelii">Cappellani</rs> alda zurugg begöbner zeitlichen Verlassenschafft die Commissions Vollmacht ertheillet hett, und dahero von denen Herrn und Frauen Erbs Interessenten zu vernemben ge-<pb n="2v"/>wertigen woll, was sie demselben zu solchem Ende anhanden zu göben belieben woll, all vorderist aber ob nit einiches Testäment verhanden were, so vor allen gewohnlicher Ordnung nach zu eröffnen were, woraufhin Ihro Hoch Ehrwirden Herr <rs type="person" ref="schifferle_jacob">Jacob Schiferle</rs> Cappellanus des loblichen <rs type="place" ref="#stift_sonnenburg">Stifft und Closter Soneburg</rs>, als des Herrn Ableiber seelligen etwo in Löben gewöster Beichtvater sich hervorgethan, und eröffnet, wie das Herr Ableiber seelligen khurz vor seinen Todt zu deme gemeldet, und ersuecht, nach seinen Hinscheiden zu eröffnen, wölcher gestalten selber ausser der wenigen <bibl>Piecher</bibl>, und Mobillien wenig, oder gar nichts hinterlassen werde, und mithin seinen geistlichen Herrn <rs type="person" ref="#manucredo_joseph_carl">Brueder</rs> gebötten haben woll,
+            alles und jedes zu iber-<pb n="3r"/>nemben, und anmit seine Schulden abzufiehrn, und zu bezahlen, und zugleich demselben den in seinen Puldt erfindlichen Brief zuezustöllen, und zu behendigen, die Herrn, und Frauen Erbs Interessenten als benantlich der Herr Brueder der wohl ehrwirdig wohl edle und wohl gelehrte Herr <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> gewöst resignierter Curat zu <rs type="place" ref="#stainach">Stainach</rs>, dan des auch verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_jacob_andree">Jacob Andreen Manucredo</rs> gewösten Burger, und Gerichts Advocätens zu Sanct Lorenzen seelligen bey seiner gehabten Ehewirthin, und hinterlassnen Wittfrauen <rs type="person" ref="#hueberin_maria_elisabetha">Maria Elisabetha gebohrnen Hueberin</rs> in Pandt der Ehe erworbne
+            finf Herrn und Sehn auch Töchtern, als der geistliche Herr Sohn Antany Sebastian, ittem der weltliche deto Johannes, <pb n="3v"/>und anstatt der Töchter <rs type="person" ref="#pifrader_maria_johanes">Maria, Johanesen Pifraders</rs> zu <rs type="place" ref="#roveredo">Rofereidt</rs> Ehewirthin, und der zwo noch lödigen deto Theresia, und Annä, dero bestölte Vertrötter <rs type="person" ref="#hueber_hans">Hans Hueber</rs>, verer des ebenfahls verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_leonardi_joachimi">Leonardi Joachimi Manucredo</rs> seelligen, mit und bey seiner gehabten Ehe- und hinterlassnen Wittfrauen <rs type="person" ref="#scheuckin_hellenae">Hellenä Schenckhin</rs> in Ehepandt erzeigt ruggs begöben zwo Herrn
             Sehn, <rs type="person" ref="#manucredo_johann_antany">Johann Antany</rs> Priester, und mehr derselbe als bestölter Gewalthaber seines abwösigen Herrn Brueder <rs type="person" ref="#manucredo_joseph_joaechimb">Joseph Joächimb</rs> Diaconi sag alda zum Prothocoll registrierenden Gewaldt lit. B.<note>
                   <p rend="footnote text">
                      <hi rend="italic">Auf der linken Seite</hi> lit. B.<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
                   </p>
-            </note> und der verstorbnen Frauen Schwöster <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursulä Manucredin</rs> bey Herrn <rs type="person" ref="#wachtler_jacob">Jacoben Wachtler</rs> gewösten Burger, auch Wirth, und Gastgöben an der Rosen alda zu ersagten St. <pb n="4r"/> <rs type="place" ref="#st_lorenzen">Lorenzen</rs> baidt seelligen, in Ehewandl erworben, ainzige Herr Sohn, und zwo Frauen Töchter als Herr <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> Capplan zu Cranburg in Ober Inthall, wölcher aber nit zugögen, sondern
-            deme <rs type="person" ref="#hueber_hans">Hans Hueber</rs> Rindler vertrittet, dan <rs type="person" ref="#puell_maria_theresia">Maria Theresia verwittibte Puellin</rs> zu <rs type="place" ref="#brunegg">Brunögg</rs>, und Maria Ursulä Carl Khässer Weisgärbers zu <rs type="place" ref="#muehlbach">Milbach</rs> Ehewirthin, die in assistentia und mit Rath gemelten <rs type="person" ref="#hueber_hans">Hansen Huebers</rs> gehandlet, liessen hieryber in Gehorsamb, und Demueth anpringen, wölchergestalten selbe den schlechten Vermigens Standt sich leithtlich von selbs einpilden khenten, nichts destoweniger aber, und damit gleichwohlen selbe auf die aigentliche Beschaffenheit dössen kambeten, so wollen sie und die Inventur und volglich eine geist- und weldtliche Obrigkheit gebötten haben, der zuruggelassenen
-            Heiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> die Zuespröchung zu thuen, das selbe alles und <pb n="4v"/> jedes, was zu des Herrn<note>
+            </note> und der verstorbnen Frauen Schwöster <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursulä Manucredin</rs> bey Herrn <rs type="person" ref="#wachtler_jacob">Jacoben Wachtler</rs> gewösten Burger, auch Wirth, und Gastgöben an der Rosen alda zu ersagten St. <pb n="4r"/> <rs type="place" ref="#st_lorenzen">Lorenzen</rs> baidt seelligen, in Ehewandl erworben, ainzige Herr Sohn, und zwo Frauen Töchter als
+            Herr <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> Capplan zu <rs type="place" ref="#cronburg">Cranburg in Ober Inthall</rs>, wölcher aber nit zugögen, sondern deme <rs type="person" ref="#hueber_hans">Hans Hueber</rs> Rindler vertrittet, dan <rs type="person" ref="#puell_maria_theresia">Maria Theresia verwittibte Puellin</rs> zu <rs type="place" ref="#brunegg">Brunögg</rs>, und Maria Ursulä Carl Khässer Weisgärbers
+            zu <rs type="place" ref="#muehlbach">Milbach</rs> Ehewirthin, die in assistentia und mit Rath gemelten <rs type="person" ref="#hueber_hans">Hansen Huebers</rs> gehandlet, liessen hieryber in Gehorsamb, und Demueth anpringen, wölchergestalten selbe den schlechten Vermigens Standt sich leithtlich von selbs einpilden khenten, nichts destoweniger aber, und damit gleichwohlen selbe auf die aigentliche Beschaffenheit dössen kambeten, so wollen sie und die Inventur und volglich
+            eine geist- und weldtliche Obrigkheit gebötten haben, der zuruggelassenen Heiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> die Zuespröchung zu thuen, das selbe alles und <pb n="4v"/> jedes, was zu des Herrn<note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
@@ -1377,7 +1379,7 @@
                   <cell>9 x</cell>
                </row>
                <row>
-                  <cell>In ein clein Trichele befinden sich in Khreizern zway Gulden sambt einen Zötl, warauf geschriben, das ihme Herrn Ableiber seelligen, in allen siben Gulden dreissig Khreizer, fir allhiesige Unser Lieben Frauen Cappellen, zu einer Khirchen Zierdt, erlögt worden, mithin also derselbe</cell>
+                  <cell>In ein clein Trichele befinden sich in Khreizern zway Gulden sambt einen Zötl, warauf geschriben, das ihme Herrn Ableiber seelligen, in allen siben Gulden dreissig Khreizer, fir allhiesige <rs type="place" ref="#saalen_kaplanei">Unser Lieben Frauen Cappellen</rs>, zu einer Khirchen Zierdt, erlögt worden, mithin also derselbe</cell>
                   <cell/>
                </row>
                <row>
@@ -1623,7 +1625,7 @@
                 <cell>5 f 30 x</cell>
               </row>
               <row>
-                <cell>Den Maurer zu Mantan willen zu <rs type="place" ref="#saalen">Saallen</rs> aufgemacht auch weitterer Zuemachung des Grabs mit gehauten Stain,</cell>
+                <cell>Den Maurer zu <rs type="place" ref="#monthal">Mantan</rs> willen zu <rs type="place" ref="#saalen">Saallen</rs> aufgemacht auch weitterer Zuemachung des Grabs mit gehauten Stain,</cell>
                 <cell>3 f 0 x</cell>
               </row>
               <row>
@@ -1639,7 +1641,7 @@
                 <cell>200 fl 0 x</cell>
               </row>
               <row>
-                <cell>Der Cappellen zu <rs type="place" ref="#saalen">Saallen</rs>, wee-</cell>
+                <cell>Der <rs type="place" ref="#saalen_kaplanei">Cappellen zu Saallen</rs>, wee-</cell>
                 <cell/>
               </row>
               <row>
@@ -1664,7 +1666,7 @@
                 <cell>23 f 8 x</cell>
               </row>
               <row>
-                <cell>Wegen Pau, und Bösserung der Caplan Behausung dargögen aber, ist alda von Vermigen nichts abzusözen, weillen solch alles die Cappellen zu praestiern, und disfahls einen Herrn Capplan genzlichen frey zu halten hat, dis zu Bericht,</cell>
+                <cell>Wegen Pau, und Bösserung der <rs type="place" ref="#saalen_kaplanei">Caplan Behausung</rs> dargögen aber, ist alda von Vermigen nichts abzusözen, weillen solch alles die <rs type="place" ref="#saalen_kaplanei">Cappellen</rs> zu praestiern, und disfahls einen Herrn Capplan genzlichen frey zu halten hat, dis zu Bericht,</cell>
                 <cell/>
               </row>
               <row>
@@ -1707,7 +1709,7 @@
             <p>Ohnegeverdele</p>
             <p>Des zu wahrem Urkhundt, seint demnach zwo gleichlautende</p>
                <pb n="28r"/>
-            <p>Vermigens Ergenzungen und Einraumbungen aines Inhalts expediert, und ausgeschriben, und zwar jede in Sonderheit unter und mit vor hoch wohlgedacht Ihro Hochwirden und Gnaden des Herrn Döchandt, und Commissarii Joseph Mathias Yngramb von Liebenrain und Fragburg, und vor wohl eingefiehrts Ihro gstreng des Herrn Pflöger und Landtrichters zu Sanct Michaelspurg [i. u.] Lit. Joseph Ignäty Englmohr von Aufkhirchen zu Mohregg, von Commission, und respective Obrigkheit weegen hierfirgestölten hoch und wohl adelich angebohrnen Insigler (jedoch anderwerts daran ganz ohne Schaden) verfört und anmit die aine den Vermigens ybernembenden Herrn Brueder Joseph Carl Manucredo zu dössen nottwendigen Behelf, und Gebrauch, becröfftigter bestölt, und die andere gebreichigermassen bey Gerichts Handen aufbehalten worden. Geschechen die entliche Vermigens Er-
+            <p>Vermigens Ergenzungen und Einraumbungen aines Inhalts expediert, und ausgeschriben, und zwar jede in Sonderheit unter und mit vor hoch wohlgedacht Ihro Hochwirden und Gnaden des Herrn Döchandt, und Commissarii Joseph Mathias Yngramb von Liebenrain und Fragburg, und vor wohl eingefiehrts Ihro gstreng des Herrn Pflöger und Landtrichters zu <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs> [i. u.] Lit. Joseph Ignäty Englmohr von Aufkhirchen zu Mohregg, von Commission, und respective Obrigkheit weegen hierfirgestölten hoch und wohl adelich angebohrnen Insigler (jedoch anderwerts daran ganz ohne Schaden) verfört und anmit die aine den Vermigens ybernembenden Herrn Brueder Joseph Carl Manucredo zu dössen nottwendigen Behelf, und Gebrauch, becröfftigter bestölt, und die andere gebreichigermassen bey Gerichts Handen aufbehalten worden. Geschechen die entliche Vermigens Er-
             </p>
                <pb n="28v"/>
             <p>genzung und Einraumbung zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, in Beysein des geistlichen und weldtlichen Herrn Actuarii, den <date when="1752-10-12">zwölfften Tag Manats Octobris, in sibenzöchenhundert zwaiundtfunfzigisten Jahr</date>.</p>

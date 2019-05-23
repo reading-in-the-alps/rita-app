@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1750 VII 8, Dietenheim (Ansitz Getreuenstein) [Stockherin Maria Ursula (Terziarschwester)]</title>
+            <title type="short">Stockherin Maria Ursula (Terziarschwester)</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Inventare des Mittleren Pustertals</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="1r" to="19v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Testament; Testamentserweiterung; Inventar</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -90,7 +91,7 @@
             <p>
                <pb n="4r"/> <rs type="person" ref="#stockher_maria_ursula">Ursula Stockherischen</rs> Verlassenschafft Sach errichte Inventarium nebst dem Testament, und all andern mir zu extradieren angewissen worden were. Und da ich eben auch schon zum öfftern sowohl mündtlich, als auch schrifftlich von dem Herrn <rs type="person" ref="#stockher_franz_antoni">Franz Stockher</rs>, und Satzingerischen Erbs Interessenten, laut copialiter beiligenden Anrueffen, umb einstiger Vornemung der Thailung angegangen, und belanget werde, dieselbe zumahlen auch nit zu verdenckhen, das sye schon bei solangen Anstandt einst zu dem Ihrigen zu gelangen, und volgelich die Sach ausgemachter verlangen, und zum Thail auch selbs an entlichen Austrag derselben daran gelegen; Als beschicht hiemit mein widerholt</p>
             <p>
-               <pb n="4v"/> ambtschuldige Requisition denen ergangenen hochgnedigen Regiminalverordnungen den gehorsammen Volzug zu leisten, und in Erfolg dessen mir ehenegstens das Inventarium, nebst dem etwo in Hannden habenden Testament, und allenfahlig noch andern zur Verlassenschafft gehörigen Sachen, gegen Abstattung der Gebihr ohnbeschwert verabfolgen zu lassen. Wo ybrigens nit mein Befelch ware, das der Gerichtsdiener mein ersteres Requisitionschreiben selbs dahin ybertragen, unnd zuestellen solle, auch dessen Ansiz in mindisten Mas zu derogieren oder Praejudicierliches zuezufiegen verlange, erholle mithin mein voriges, in dessen Getröstung mich anbei diensthöflichist empfelchend.</p>
+               <pb n="4v"/> ambtschuldige Requisition denen ergangenen hochgnedigen Regiminalverordnungen den gehorsammen Volzug zu leisten, und in Erfolg dessen mir ehenegstens das Inventarium, nebst dem etwo in Hannden habenden Testament, und allenfahlig noch andern zur Verlassenschafft gehörigen Sachen, gegen Abstattung der Gebihr ohnbeschwert verabfolgen zu lassen. Wo ybrigens nit mein Befelch ware, das der Gerichtsdiener mein ersteres Requisitionschreiben selbs dahin ybertragen, unnd zuestellen solle, auch dessen <rs type="place" ref="#getreuenstain">Ansiz</rs> in mindisten Mas zu derogieren oder Praejudicierliches zuezufiegen verlange, erholle mithin mein voriges, in dessen Getröstung mich anbei diensthöflichist empfelchend.</p>
             <p>Euer woledlgebohrn etc.</p>
             <p>Schuldigster Diener</p>
             <p>

@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1797 XII 1 – 1798 III 31, Dietenheim [Lechner Georg (Beneficiat / Priester und Lokalkaplan)]</title>
+            <titleshort>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="208r" to="247v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -1982,7 +1983,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Der Mayrhof Innenhaber zu <rs type="place" ref="#gasteig">Gasteig</rs> zu <rs type="place" ref="#st_martin">St. Martin</rs> ist nun willen des ihm zum</cell>
+                  <cell>Der Mayrhof Innenhaber zu Gasteig zu <rs type="place" ref="#st_martin">St. Martin</rs> ist nun willen des ihm zum</cell>
                   <cell/>
                </row>
             </table>
@@ -2022,7 +2023,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Die Kinder des gewesten Mayr zu Grasstain zu <rs type="place" ref="#gasteig">Gasteig</rs> zahlen um willen eines Angerl unter Schwarzhörn v. 2 Tagmad</cell>
+                  <cell>Die Kinder des gewesten Mayr zu Grasstain zu zahlen um willen eines Angerl unter Schwarzhörn v. 2 Tagmad</cell>
                   <cell>11 f 0 x</cell>
                </row>
                <row>

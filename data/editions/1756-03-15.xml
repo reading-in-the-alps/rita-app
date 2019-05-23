@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1756 III 15 – 1756 III 29, Saalen (in der Benefiziaten-Behausung) [Stainer Sebastian Joseph (Benefiziat)]</title>
+            <title type="short">Stainer Sebastian Joseph (Benefiziat)</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Inventare des Mittleren Pustertals</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="42dr" to="42v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -94,8 +95,8 @@
                <pb n="42ar"/>
             </p>
             <p>Actum <rs type="place" ref="#klausen">Clausen</rs> den <date when="1756-03-25">finfundzwainzigisten Tag Mannats Marti anno sibenzöchenhundert sechsundfunfzig</date>.</p>
-            <p>Zumahlen Iro Wol Erwirden Herr <rs type="person" ref="#stainer_sebastian">Joseph Sebastian Stainer</rs>, gewester Beneficiat zu <rs type="place" ref="#saalen">Saln</rs>, in Pusterthal, yber dessen jingstliches Verableiben, seeligen, selbst khaine, dargegen von dessen Vatern, <rs type="person" ref="#stainer_jacob">Jacoben Stainer</rs>, gewesten Burger unnd Seckhlermaister alhier in <rs type="place" ref="#klausen">Clausen</rs>, vermig disortigen Statgerichts Protocol, zwo Stainerische eheleibliche Geschwistriget,
-            namens <rs type="person" ref="#stainer_christoph">Christoph</rs>, und <rs type="person" ref="#stainer_mariae">Mariä</rs>, als vaterpendiger seits negste Erben, verlassen, davon volgende Descendenz verhanden, als von ersten Haubtstollen, weilend Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewesten Raths Burger, und Handlsman disorts, aus <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesnerischer</rs> Ehe, finf Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs>, Vicari unter den Erzbistumb Salzburg,
+            <p>Zumahlen Iro Wol Erwirden Herr <rs type="person" ref="#stainer_sebastian">Joseph Sebastian Stainer</rs>, gewester Beneficiat zu <rs type="place" ref="#saalen">Saln, in Pusterthal</rs>, yber dessen jingstliches Verableiben, seeligen, selbst khaine, dargegen von dessen Vatern, <rs type="person" ref="#stainer_jacob">Jacoben Stainer</rs>, gewesten Burger unnd Seckhlermaister alhier in <rs type="place" ref="#klausen">Clausen</rs>, vermig disortigen Statgerichts Protocol, zwo Stainerische eheleibliche Geschwistriget,
+            namens <rs type="person" ref="#stainer_christoph">Christoph</rs>, und <rs type="person" ref="#stainer_mariae">Mariä</rs>, als vaterpendiger seits negste Erben, verlassen, davon volgende Descendenz verhanden, als von ersten Haubtstollen, weilend Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewesten Raths Burger, und Handlsman disorts, aus <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesnerischer</rs> Ehe, finf Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs>, Vicari unter den <rs type="place" ref="#salzburg">Erzbistumb Salzburg</rs>,
             dan <rs type="person" ref="#stainer_joseph">Joseph</rs>, Seckhlermaister zu <rs type="place" ref="#rattenperg">Ratenberg</rs>, <rs type="person" ref="#stainer_anthoni">Anthoni</rs>, so verstorben, unnd von <rs type="person" ref="#thaler_mariae">Mariä Schalerischer</rs> Ehe, acht Khinder, namens </p>
             <p>
                <pb n="42av"/>
@@ -120,7 +121,7 @@
             <p>Ohnegeverde.</p>
             <p>Zu wahren Urkhundt, hat der wohledl gestreng, unnd hochgelehrte herr <rs type="person" ref="#lunz_christian">Christian Lunz</rs>, beeder Rechten Lit. hochfürstlich Brixnerischer Statrichter zu <rs type="place" ref="#klausen">Clausen</rs>, unnd Gerichts Verwalter zu <rs type="place" ref="#lazfonns">Lazfonns</rs> und <rs type="place" ref="#verdings">Verdings</rs>, von Obrigkheitlichen Ambts unnd in Sonderheit auf voreinkhombnes Siglpith wegen, dero angebohrnes Insigl (doch anderwerts ohne Schaden) hierfirgestölt unnd anmit disen Gwalt pösten dessen verförth-, unnd becröfftiget. Actum ut supra.</p>
             <p>[Oblatensiegel]
-            <p>
+
                <pb n="Titel"/>
             </p>
             <p>[Kanzleivermerk:] Coll.</p>
@@ -135,7 +136,7 @@
             </p>
             <p>Actum <rs type="place" ref="#saalen">Saallen</rs> in der Beneficiaten Behausung, den <date when="1756-03-29">neinundtzwainzigisten Tag Monaths Märti anno sibenzöchenhundert sechsundtfunfzig.</date>
                 </p>
-            <p>Vor Ihro Hochwirden, und Gnaden, dem hochwirdig hoch edlgebohrnen und hochgelehrten Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb, von Liebenrain, unnd Fragburg</rs> Tyrollischen Herrn und Landtman, des hochfirstlichen Stüffts Brixen, Consistorialrath, dan Döchandt, und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als von hochgeistlicher Obrigkheit zu <rs type="place" ref="#brixen">Brixen</rs> verordneten Herrn Comissario.</p>
+            <p>Vor Ihro Hochwirden, und Gnaden, dem hochwirdig hoch edlgebohrnen und hochgelehrten Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb, von Liebenrain, unnd Fragburg</rs> Tyrollischen Herrn und Landtman, des hochfirstlichen Stüffts <rs type="place" ref="#brixen">Brixen</rs>, Consistorialrath, dan Döchandt, und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als von hochgeistlicher Obrigkheit zu <rs type="place" ref="#brixen">Brixen</rs> verordneten Herrn Comissario.</p>
             <p>Und den wohl edlgebohrn gestrengen und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr, von Aufkhirchen zu Moregg</rs> beeder Rechten Lit. oo. Regiments Advocaten, auch Pflöger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>.</p>
             <p>Zugegen des wohledlen Herrn</p>
             <p>
@@ -151,24 +152,24 @@
             <p>Die sich anruembende Erbsinteressenten vermelden, das denenselben von einichen Testäment nichts bewust, wie selbe aber vernomben, solle Ihro Hochehrwürden Herr Cooperator <rs type="person" ref="#mayrhofer_franz">Franz Mayrhofer</rs> zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, und der <rs type="person" ref="#hueber_hans">Hans Hueber</rs> Rindler allhier zu <rs type="place" ref="#saalen">Sallen</rs>, hievon einiche Wissenschaft haben, und bitten dohero eine geistliche Comission, und weltliche Obrigkheit dieselbe beikhumben zu lassen, und hieryber zu vernemben.</p>
             <p>Waraufhin Herr Cooperator Franz</p>
             <p>
-               <pb n="3r"/> <rs type="person" ref="#mayrhofer_franz">Mayrhofer</rs> vermeldet, das ihme Herr Ableiber angesagt hätt, er vermache allhier der loblichen Lauretä Cäpellen ainhundert Gulden, wie auch der Himblfahrts Bruederschafft zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs> ainhundert Gulden, und der Heillig Creuz Khirchen auf der Franewisen auch ainhundert Gulden. Nöbst etwöllich extra Heilligen Mössen, und zugleich auch seiner Heisserin zu ainen Angedenckhen nein Gulden.</p>
+               <pb n="3r"/> <rs type="person" ref="#mayrhofer_franz">Mayrhofer</rs> vermeldet, das ihme Herr Ableiber angesagt hätt, er vermache allhier der loblichen <rs type="place" ref="#saalen_kaplanei">Lauretä Cäpellen</rs> ainhundert Gulden, wie auch der Himblfahrts Bruederschafft zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs> ainhundert Gulden, und der <rs type="place" ref="#heiligkreuz_franewiese">Heillig Creuz Khirchen auf der Franewisen</rs> auch ainhundert Gulden. Nöbst etwöllich extra Heilligen Mössen, und zugleich auch seiner Heisserin zu ainen Angedenckhen nein Gulden.</p>
             <p>Ein gleiches hat auch Herr Ableiber seel. dem Gerichts Verpflichten allhier zu <rs type="place" ref="#saalen">Saallen</rs> <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> hienach angesagt, jedoch aber, das an jeden Orth hierfier ihme ein jehrlich weltebiger Jahrtag gehalten werden solle.</p>
             <p>Waryber gegenwertiger Lötster Willen, von Seithen der geist- unnd weltlichen Obrigkheit, denen</p>
             <p>
                <pb n="3v"/> Erbsinteressenten eröffnet, und sohin weitters referieret wurde, ob es selbe auch darbey bewenden zu lassen, oder allenfahls hieryber was zu moviern gedenckhen, umb sohin das weittere pro re nata vorkhern zu migen.</p>
             <p>Die sich hienach zu legitimiern erclerte Erbsinteressenten haben zwar das gethane<note>
-                            <p rend="footnote text">
-                                <hi rend="italic" xml:space="preserve"> Davor gestrichen</hi> an-.</p>
-                        </note> Vermächt
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Davor gestrichen</hi> an-.</p>
+                    </note> Vermächt
             vernomben, lassen solliches dermahlen in seinen Werth, unnd Ohnwerth beruheen, und reservieren ihnen hieryber ihre Rechts Behelf einwenden zu migen bevor, ambey aber in gehorsamb gebötten haben wollen, das Herrn Ableibers seeligen zurugg
             gelassene Vermigen, gebreichigenmassen in Beschreibung und Ergänzung zu bringen, vor allen aber der Heuserin die gewohnliche Zuespröchung zu thuen, das selbe alles und jedes, was zu der Verlassenschafft gehörig, und ihro wissent ist,</p>
             <p>
                <pb n="4r"/> zu beschreiben gethreulichen herfirgöben, und geflissner Dingen bei Straff Landtrechten nichts verhalten solle.</p>
             <p>Wan man nun von Seithen der geistlichen Comission, und weltlichen Obrigkheit sothanen Petito zu deferiern kheine Bedenckhen getragen, so wurde demnach der Jungfrau Heuserin <rs type="person" ref="#pirchner_aennae">Ännä Pirchnerin</rs> die
-            anbegerte <note>
-                            <p rend="footnote text"> anbege- <hi rend="italic" xml:space="preserve"> auf Rasuren geschrieben.</hi>
-                            </p>
-                        </note> Zuespröchung, zwar bei Verluest ihrer Testäments Sprich beschöchen, unnd daselbe auch deme nachzukhumben, sowohl der geistlichen Comission, als weltlichen Obrigkheit, das Hantanloben erstatt. Wurde sohin allerseiths Rechten ohnvergriffen, vorgenomben hernachvolgende</p>
+            anbegerte<note>
+                        <p rend="footnote text"> anbege- <hi rend="italic" xml:space="preserve"> auf Rasuren geschrieben.</hi>
+                        </p>
+                    </note> Zuespröchung, zwar bei Verluest ihrer Testäments Sprich beschöchen, unnd daselbe auch deme nachzukhumben, sowohl der geistlichen Comission, als weltlichen Obrigkheit, das Hantanloben erstatt. Wurde sohin allerseiths Rechten ohnvergriffen, vorgenomben hernachvolgende</p>
             <p>Inventur.</p>
             <p>Als erstlichen in der</p>
             <p>
@@ -204,9 +205,9 @@
                <row>
                   <cell>A:</cell>
                   <cell>Ain Vösper- und<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ain</p>
-                                </note> Christy Geburth Bildt mit glöser und gueth vergultem Ramben pr</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ain</p>
+                            </note> Christy Geburth Bildt mit glöser und gueth vergultem Ramben pr</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
@@ -625,9 +626,9 @@
                <row>
                   <cell>B:</cell>
                   <cell>Aber ain par deto härbene<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Zwischen</hi> -b- <hi rend="italic" xml:space="preserve">und</hi> -e- <hi rend="italic" xml:space="preserve">gestrichen </hi> -er-.</p>
-                                </note> mit clennern Spizen pr</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Zwischen</hi> -b- <hi rend="italic" xml:space="preserve">und</hi> -e- <hi rend="italic" xml:space="preserve">gestrichen </hi> -er-.</p>
+                            </note> mit clennern Spizen pr</cell>
                   <cell>1 f 48 x</cell>
                </row>
                <row>
@@ -1290,8 +1291,8 @@
                <row>
                   <cell>B:</cell>
                   <cell>Ain Span Pöthstätth<note>
-                                    <p rend="footnote text"> -h <hi rend="italic" xml:space="preserve">korrigiert aus </hi>-l.</p>
-                                </note> per</cell>
+                                <p rend="footnote text"> -h <hi rend="italic" xml:space="preserve">korrigiert aus </hi>-l.</p>
+                            </note> per</cell>
                   <cell>20 x</cell>
                </row>
                <row>
@@ -1512,9 +1513,9 @@
                <row>
                   <cell>C:</cell>
                   <cell>Ain claine khupferene Tempf Pfan, wigt drei ain viertl Pfundt zu<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>w-.</p>
-                                </note> zwölf Khreizer thuet</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>w-.</p>
+                            </note> zwölf Khreizer thuet</cell>
                   <cell>39 x</cell>
                </row>
                <row>
@@ -1777,10 +1778,10 @@
                <row>
                   <cell>C:</cell>
                   <cell>Ain neu und<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi>
-                                    </p>
-                                </note> gepfächtes Rogge Stär mit ain Eisen Raiff, und ain Schaufl pr</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi>
+                                </p>
+                            </note> gepfächtes Rogge Stär mit ain Eisen Raiff, und ain Schaufl pr</cell>
                   <cell>15 x</cell>
                </row>
                <row>
@@ -1892,10 +1893,10 @@
                <row>
                   <cell>A:</cell>
                   <cell>Darinen bei 1<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Nachträglich eingefügt.</hi>
-                                    </p>
-                                </note> ainhalb Schaff Khraut pr</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Nachträglich eingefügt.</hi>
+                                </p>
+                            </note> ainhalb Schaff Khraut pr</cell>
                   <cell>12 x</cell>
                </row>
                <row>
@@ -1920,7 +1921,7 @@
                </row>
                <row>
                   <cell>C:</cell>
-                  <cell>Und in den Heillig Creuz Haus auf der Franewisen, befindet sich noch ein den Herrn Erblasser geheriger<note>
+                  <cell>Und in den <rs type="place" ref="#heiligkreuz_franewiese">Heillig Creuz Haus auf der Franewisen</rs>, befindet sich noch ein den Herrn Erblasser geheriger<note>
                         <p rend="footnote text">
                            <hi rend="italic"> Über der Zeile eingefügt.</hi>
                         </p>
@@ -2038,7 +2039,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#lacrua">Lacrua</rs> in Schwein Löder pr
+                     <rs type="bibl" ref="#lacroix">Lacrua</rs> in Schwein Löder pr
                   </cell>
                   <cell>
                      2 f 0 x
@@ -2080,24 +2081,24 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#reverentis_patris_heches_proedigen">Rev(erentis) Patris Heches Prödigen</rs> in francösischen Einpundt <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>zwai thomi.</p>
-                                </note> pr
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>zwai thomi.</p>
+                            </note> pr
                   </cell>
                   <cell>
                      2 f 0 x<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Nach </hi>2 f <hi rend="italic" xml:space="preserve">folgt gestrichen </hi>36</p>
-                                </note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Nach </hi>2 f <hi rend="italic" xml:space="preserve">folgt gestrichen </hi>36</p>
+                            </note>
                   </cell>
                </row>
                <row>
                   <cell>
                      <rs type="bibl" ref="#pater_jordan_predigen">Pater Jordan Predigen</rs> in franzesischen Pundt 2 thomi<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic"> Gesamter Eintrag samt Tax mit Verweiszeichen auf der linken Seite nachgetragen.</hi>
-                                    </p>
-                                </note>
+                                <p rend="footnote text">
+                                    <hi rend="italic"> Gesamter Eintrag samt Tax mit Verweiszeichen auf der linken Seite nachgetragen.</hi>
+                                </p>
+                            </note>
                   </cell>
                   <cell>
                      2 f 36 x
@@ -2241,10 +2242,10 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#reiffenstuehl_theologus">Reiffenstuehl Theologus moralis</rs>
-                                <note>
-                                    <p rend="footnote text"> Reiffenstuehl Theologus<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
-                                    </p>
-                                </note> in Schweinlöder, pr
+                            <note>
+                                <p rend="footnote text"> Reiffenstuehl Theologus<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
+                                </p>
+                            </note> in Schweinlöder, pr
                   </cell>
                   <cell>
                      51 x
@@ -2253,10 +2254,10 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#concordantiae_biblionum">Concandantiae Bibliorum</rs>
-                                <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic"> Gemeint ist </hi>Concordantiae Bibliorum.</p>
-                                </note> in Schwein Löder, pr
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic"> Gemeint ist </hi>Concordantiae Bibliorum.</p>
+                            </note> in Schwein Löder, pr
                   </cell>
                   <cell>
                     1 f 24 x
@@ -2281,9 +2282,9 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#thrauner_callans_contans #thrauner_seelenjagd">Thraumer Callans Contans, item Geistliche Seellen Jagt</rs>
-                                <note>
-                                    <p rend="footnote text"> Thraumer <hi rend="italic">verschrieben für </hi>Thrauner.</p>
-                                </note>, pr
+                            <note>
+                                <p rend="footnote text"> Thraumer <hi rend="italic">verschrieben für </hi>Thrauner.</p>
+                            </note>, pr
                   </cell>
                   <cell>
                      1 f 36 x
@@ -2316,9 +2317,9 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#pater_stoz_tribunal">Pater Stoz Jenural Poenitentiae</rs>
-                                <note>
-                                    <p rend="footnote text"> Jenural <hi rend="italic">verschrieben für </hi>Tribunal.</p>
-                                </note> in francösischen Bundt pr
+                            <note>
+                                <p rend="footnote text"> Jenural <hi rend="italic">verschrieben für </hi>Tribunal.</p>
+                            </note> in francösischen Bundt pr
                   </cell>
                   <cell>
                      40 x
@@ -2368,9 +2369,9 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#p_neumayr_municulus_triplex">Pater Neumayr Municulus Triplex</rs>
-                                <note>
-                                    <p rend="footnote text"> Municulus<hi rend="italic" xml:space="preserve"> verschrieben für </hi>Funiculus.</p>
-                                </note>, in französischen Bundt in 2 Thaill, pr
+                            <note>
+                                <p rend="footnote text"> Municulus<hi rend="italic" xml:space="preserve"> verschrieben für </hi>Funiculus.</p>
+                            </note>, in französischen Bundt in 2 Thaill, pr
                   </cell>
                   <cell>
                      1 f 20 x
@@ -2428,10 +2429,10 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#strobl_geistliches_khartten">Strobl Geistliches Khartten Spill zway thomi</rs>
-                                <note>
-                                    <p rend="footnote text"> Strobl Geistliches Khartten<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
-                                    </p>
-                                </note>, pr
+                            <note>
+                                <p rend="footnote text"> Strobl Geistliches Khartten<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
+                                </p>
+                            </note>, pr
                   </cell>
                   <cell>
                     1 f 12 x
@@ -2543,9 +2544,9 @@
                   <cell>
                      <rs type="bibl" ref="#liber_apocalipicus_signatus">Liber Apocalipicus Signatus</rs>
                      <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic"> Gemeint ist</hi> Apocalipticus Signatus.</p>
-                                </note> pr
+                                <p rend="footnote text">
+                                    <hi rend="italic"> Gemeint ist</hi> Apocalipticus Signatus.</p>
+                            </note> pr
                   </cell>
                   <cell>
                      15 x
@@ -2562,11 +2563,11 @@
                <row>
                   <cell>
                      <rs type="bibl" ref="#pater_inderstorfer_in_decalogi">Pater Inderstorfer In Decalogi</rs>
-                                <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Zweites </hi>-r-<hi rend="italic" xml:space="preserve"> von Inderstorfer auf Rasur von </hi>-f-<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
-                                    </p>
-                                </note> pr
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Zweites </hi>-r-<hi rend="italic" xml:space="preserve"> von Inderstorfer auf Rasur von </hi>-f-<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
+                                </p>
+                            </note> pr
                   </cell>
                   <cell>
                      25 x
@@ -2649,9 +2650,9 @@
                   <cell>
                      <rs type="bibl" ref="#khnelinger_exempl_proedigen">Khnelinger Exempl Prödigen finff Thail</rs>
                     <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic"> Gemeint ist</hi> Knellinger.</p>
-                                </note> pr
+                                <p rend="footnote text">
+                                    <hi rend="italic"> Gemeint ist</hi> Knellinger.</p>
+                            </note> pr
                   </cell>
                   <cell>
                      2 f 0 x
@@ -2742,9 +2743,9 @@
                   <cell>
                      <rs type="bibl" ref="#weinzierl_conscientiae_rectae">Weinzerl Conscientiae Rectae</rs>
                     <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Gemeint ist </hi>Weinzierl <hi rend="italic" xml:space="preserve">anstatt </hi> Weinzerl.</p>
-                                </note> pr
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Gemeint ist </hi>Weinzierl <hi rend="italic" xml:space="preserve">anstatt </hi> Weinzerl.</p>
+                            </note> pr
                   </cell>
                   <cell>
                      36 x
@@ -2928,7 +2929,7 @@
             <p>Schulden herein</p>
             <table rend="rules">
                <row>
-                  <cell>Als erstlichen solle <rs type="person" ref="#steeger_peter_paul">Peter Paul Steeger</rs>, auf den Tschoggler Hoff ligendes Cäpitäll, </cell>
+                  <cell>Als erstlichen solle <rs type="person" ref="#steeger_peter_paul">Peter Paul Steeger</rs>, auf den <rs type="place" ref="tschogglerhof">Tschoggler Hoff</rs> ligendes Cäpitäll, </cell>
                   <cell>600 f 0 x</cell>
                </row>
                <row>
@@ -2962,7 +2963,7 @@
                </row>
                <row>
                   <cell>Ingleichen solle die nunmehr <rs type="person" ref="#schmoelzer_geoerg">Geörg Schmölzerische</rs> Concurs Handlung zu <rs type="place" ref="#klausen">Clausen</rs>
-                            </cell>
+                        </cell>
                   <cell/>
                </row>
                <row>
@@ -2997,10 +2998,10 @@
                <row>
                   <cell>Latus</cell>
                   <cell>266<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Auf Rasur geschrieben</hi>
-                                    </p>
-                                </note> f 18 x</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Auf Rasur geschrieben</hi>
+                                </p>
+                            </note> f 18 x</cell>
                </row>
             </table>
             <p>
@@ -3009,17 +3010,17 @@
             <table rend="rules">
                <row>
                   <cell>zwaiundtzwainzig Gulden neinundtdreissig Khreizer, dan von des <rs type="person" ref="#flaetscher_sebastian">Sebastian Flätschers</rs> gelössner Heilligen Mös, finfundtvierzig Khreizer,<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und</p>
-                                </note> und von des herrn <rs type="person" ref="#stainer_caspar">Casparn Stainers</rs> gestüfften wochentlichen Mössen söchs Gulden dreissig Khreizer, und zusamben so noch zu diser Verlassenschafft gehörig, und der neue Khirchprobst <rs type="person" ref="#schmidt_obwegser_geoerg">Geörg Schmidt Obwegser</rs> zu bezahlen hat</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und</p>
+                            </note> und von des herrn <rs type="person" ref="#stainer_caspar">Casparn Stainers</rs> gestüfften wochentlichen Mössen söchs Gulden dreissig Khreizer, und zusamben so noch zu diser Verlassenschafft gehörig, und der neue Khirchprobst <rs type="person" ref="#schmidt_obwegser_geoerg">Geörg Schmidt Obwegser</rs> zu bezahlen hat</cell>
                   <cell>29 f 54 x</cell>
                </row>
                <row>
                   <cell>Und der Herr Provisor <rs type="person" ref="#hueber_martin">Martin Hueber</rs>
-                                <note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Steht </hi>Mortin Hueber</p>
-                                </note>, solle weillen selberseith des Herrn Ableibers Todtfahl bis hiehero von der Verlassenschafft aus die Unterhaltung genossen, von drei Wochen à ain Gulden söchsundtdreissig Khreizer thuet</cell>
+                            <note>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Steht </hi>Mortin Hueber</p>
+                            </note>, solle weillen selberseith des Herrn Ableibers Todtfahl bis hiehero von der Verlassenschafft aus die Unterhaltung genossen, von drei Wochen à ain Gulden söchsundtdreissig Khreizer thuet</cell>
                   <cell>4 f 48 x</cell>
                </row>
                <row>
@@ -3095,7 +3096,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Herrn <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiaten beim Heilligen Creuz auf der Franewisen vor gelösen</cell>
+                  <cell>Herrn <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs> Beneficiaten beim <rs type="place" ref="#heiligkreuz_franewiese">Heilligen Creuz auf der Franewisen</rs> vor gelösen</cell>
                   <cell/>
                </row>
                <row>
@@ -3146,7 +3147,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Der loblichen Lauretä Cäpellen zu <rs type="place" ref="#saalen">Saallen</rs>, wegen den Herrn Ableiber in Grab gegöbnen Mösgewandt, und dergleichen, sambt beigeschaffner Beleichtung,</cell>
+                  <cell>Der loblichen <rs type="place" ref="#saalen_kaplanei">Lauretä Cäpellen</rs> zu <rs type="place" ref="#saalen">Saallen</rs>, wegen den Herrn Ableiber in Grab gegöbnen Mösgewandt, und dergleichen, sambt beigeschaffner Beleichtung,</cell>
                   <cell>15 f 0 x</cell>
                </row>
                <row>
@@ -3162,11 +3163,11 @@
                   <cell>15 f 0 x</cell>
                </row>
                <row>
-                  <cell>Item so seint auch vor die in der loblichen Laureta<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Am linken Rand nachgetragen.</hi>
-                                    </p>
-                                </note> Capellen zu <rs type="place" ref="#saalen">Saallen</rs>, item Unser Lieben Frauen Himblfahrts Bruederschafft in der Pfarr <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, und der Heilligen Creuz Khirchen auf der Franewisen verschafene jehrlig weltebige drei</cell>
+                  <cell>Item so seint auch vor die in der loblichen <rs type="place" ref="#saalen_kaplanei">Laureta Capellen</rs>
+                            <note>
+                                <p rend="footnote text"> Laureta<hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi>
+                                </p>
+                            </note> zu <rs type="place" ref="#saalen">Saallen</rs>, item Unser Lieben Frauen Himblfahrts Bruederschafft in der Pfarr <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, und der <rs type="place" ref="#heiligkreuz_franewiese">Heilligen Creuz Khirchen auf der Franewisen</rs> verschafene jehrlig weltebige drei</cell>
                   <cell/>
                </row>
                <row>
@@ -3188,7 +3189,7 @@
                </row>
                <row>
                   <cell>
-                                <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler, und Wirth zu <rs type="place" ref="#saalen">Saallen</rs>, umb Willen ausgehaltnen Mahlzeithen, item hergöbnen Wein, geschafnen Fischen, sambt was selber mit Auf- und Zuemachung des Grabs, den Maurer zahlt, yber dem Empfang noch,</cell>
+                            <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler, und Wirth zu <rs type="place" ref="#saalen">Saallen</rs>, umb Willen ausgehaltnen Mahlzeithen, item hergöbnen Wein, geschafnen Fischen, sambt was selber mit Auf- und Zuemachung des Grabs, den Maurer zahlt, yber dem Empfang noch,</cell>
                   <cell>40 f 47 x</cell>
                </row>
                <row>
@@ -3290,7 +3291,7 @@
             <p>Waraufhin gehorsamblich beikhumben Herr <rs type="person" ref="#iser_michael">Michael Isser</rs>, des Raths, und Handlsman zu <rs type="place" ref="#klausen">Clausen</rs>, und <rs type="person" ref="#kels_franz">Franz Khöls</rs> Tischlermaister zu <rs type="place" ref="#layen">Layen</rs>, als bestölte Gewalthabern, produciern all vorderist einen obrigkheitlich geförtigten Gewaldt- und respective Legitimationsbrief, de däto <rs type="place" ref="#klausen">Clausen</rs>, <date when="1756-03-25">finfundtzwainzigisten Märti, anno sibenzöchenhundert söchsundtfunfzig</date>, chrafft wöllichen zu ersöchen, das Herr Ableiber <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs> seeligen, selbst kheine, dargegen von dössen Vattern <rs type="person" ref="#stainer_jacob">Jacoben Stainer</rs> gewösten Burger und Söckhlermaister zu ersagten <rs type="place" ref="#klausen">Clausen</rs> vermig daselbstigen Stattgerichts Protocol zwo Stainerisch Eheleibliche Geschwistrigeth, namens <rs type="person" ref="#stainer_christoph">Christoph</rs>,</p>
             <p>
                <pb n="33r"/> und <rs type="person" ref="#stainer_mariae">Märiä</rs>, als vatterpendigerseiths negste Erben verlassen, davon volgende Descendenz verhanden,</p>
-            <p>als von ersten Haubtstollen, weillendt Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewösten Rathsburger, und Handlsman zu widerholten <rs type="place" ref="#klausen">Clausen</rs>, aus <rs type="person" ref="#mesner_apolaniae">Appolonia Mösnerischer</rs> Ehe finff Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs> Vicari unter den Erzbistumb Salzburg, dan <rs type="person" ref="#stainer_joseph">Joseph</rs> Seckhlermaister zu <rs type="place" ref="#rattenperg">Rattenperg</rs>, <rs type="person" ref="#stainer_anthoni">Antoni</rs>, so verstorben, und von <rs type="person" ref="#thaler_mariae">Märiä Schallerischer</rs> Ehe acht Khinder, namens <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_mariae">Märiä</rs>, <rs type="person" ref="#stainer_anna">Ännä</rs>, <rs type="person" ref="#stainer_catharinae">Cätharinä</rs>, <rs type="person" ref="#stainer_helenae">Helenä</rs>, <rs type="person" ref="#stainer_elisabeth">Elisäbeth</rs>, <rs type="person" ref="#stainer_ursulae">Ursulä</rs>, und <rs type="person" ref="#stainer_margreth">Margreth</rs>, zurugg begöben, dan <rs type="person" ref="#stainer_franz">Franz</rs> gewösten Söckhlermaisters zu <rs type="place" ref="#klausen">Clausen</rs>, bei <rs type="person" ref="#hueber_margreth">Margreth Hueberin</rs> ehelich erzeugten Sohn <rs type="person" ref="#stainer_johann_michael">Johan Michael</rs> genandt, und <rs type="person" ref="#stainer_mariae">Märiä Stainerin</rs>, noch ohnverheyrathen Standts, zu mehrgemelten <rs type="place" ref="#klausen">Clausen</rs> wohnendt, wöllich dise von den <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen abstambende Khinder, unnd Khints Khinder durch mehr widerholten</p>
+            <p>als von ersten Haubtstollen, weillendt Herrn <rs type="person" ref="#stainer_christoph">Christophen Stainer</rs>, gewösten Rathsburger, und Handlsman zu widerholten <rs type="place" ref="#klausen">Clausen</rs>, aus <rs type="person" ref="#mesner_apolaniae">Appolonia Mösnerischer</rs> Ehe finff Khinder, Herr <rs type="person" ref="#stainer_michael">Michael Stainer</rs> Vicari unter den <rs type="place" ref="#salzburg">Erzbistumb Salzburg</rs>, dan <rs type="person" ref="#stainer_joseph">Joseph</rs> Seckhlermaister zu <rs type="place" ref="#rattenperg">Rattenperg</rs>, <rs type="person" ref="#stainer_anthoni">Antoni</rs>, so verstorben, und von <rs type="person" ref="#thaler_mariae">Märiä Schallerischer</rs> Ehe acht Khinder, namens <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_mariae">Märiä</rs>, <rs type="person" ref="#stainer_anna">Ännä</rs>, <rs type="person" ref="#stainer_catharinae">Cätharinä</rs>, <rs type="person" ref="#stainer_helenae">Helenä</rs>, <rs type="person" ref="#stainer_elisabeth">Elisäbeth</rs>, <rs type="person" ref="#stainer_ursulae">Ursulä</rs>, und <rs type="person" ref="#stainer_margreth">Margreth</rs>, zurugg begöben, dan <rs type="person" ref="#stainer_franz">Franz</rs> gewösten Söckhlermaisters zu <rs type="place" ref="#klausen">Clausen</rs>, bei <rs type="person" ref="#hueber_margreth">Margreth Hueberin</rs> ehelich erzeugten Sohn <rs type="person" ref="#stainer_johann_michael">Johan Michael</rs> genandt, und <rs type="person" ref="#stainer_mariae">Märiä Stainerin</rs>, noch ohnverheyrathen Standts, zu mehrgemelten <rs type="place" ref="#klausen">Clausen</rs> wohnendt, wöllich dise von den <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen abstambende Khinder, unnd Khints Khinder durch mehr widerholten</p>
             <p>
                <pb n="33v"/> Herrn <rs type="person" ref="#iser_michael">Michael Isser</rs>, und <rs type="person" ref="#kels_franz">Franzen Köls</rs>, als wie gemelt bestölten Gewalthabern vertrötten werden, erster</p>
             <p>verer von anderten Haubtstollen des Herrn Ableibers seelligen Vatern Schwöster <rs type="person" ref="#stainer_mariae">Märiä Stainerin</rs>, bei ihren gehabten Ehemann <rs type="person" ref="#planer_stephan">Stöfan Planer</rs> erzeugter Sohn <rs type="person" ref="#planer_ignaeti">Ignäti Planner</rs>, gewöster Bestantswirth am Bern, zu mehr widerholten <rs type="place" ref="#klausen">Clausen</rs>, so auch verstorben, und bei <rs type="person" ref="#riglin_elisabeth">Elisabeth Riglin</rs> seiner gehabten Ehewirthin zway Khinder verlassen, namens <rs type="person" ref="#planer_jacob">Jacob</rs>, und <rs type="person" ref="#planer_anna">Ännä</rs>, Plannerische Geschwistrigeth, die ebenfahls offterdeuter bestelte Gewalthaber Herr <rs type="person" ref="#iser_michael">Michael Isser</rs> vertrötten, wiegemelt anderter vaterpändiger Haubtstollen,</p>
@@ -3309,9 +3310,9 @@
                <pb n="34v"/>
             </p>
             <p>und sothane Verlassenschafft, unter selbe jedoch mit Zuesaz, des ohnehin denenselben in Voraus zuruggfahlenden Stamben Gueths gleichlichen zu verthaillen, auch an- und auszuweisen, umb so mehrers, als sie Erbsinteressenten, und Vertröttern denen sich noch allenfahls hervorthuen sollenden weittern Erben, oder Praetendenten vor dissortigen Gerichts Foro, zu Röth, und Antworth zu stehen, auch allenfahlige Satisfaction<note>
-                            <p rend="footnote text">
-                                <hi rend="italic" xml:space="preserve"> Steht </hi>Satisfation.</p>
-                        </note> zu göben, und sovort auch loblich geistliche Comission, und weltliche Obrigkheit schadlos zu halten sub hipotheca bonorum sich hienit<note>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Steht </hi>Satisfation.</p>
+                    </note> zu göben, und sovort auch loblich geistliche Comission, und weltliche Obrigkheit schadlos zu halten sub hipotheca bonorum sich hienit<note>
                   <p rend="footnote text">
                      <hi rend="italic"> Irrig für</hi> hiemit.</p>
                </note> anercleren,</p>
@@ -3345,10 +3346,10 @@
                <row>
                   <cell>
                             <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainerisches</rs>
-                                <note>
-                                    <p rend="footnote text"> Seba-<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
-                                    </p>
-                                </note> gleichthailpar respective gewohnenes Vermigen vorstendig zu sein, dreitaussent söchshundert söchsundtfunfzig Gulden id est</cell>
+                            <note>
+                                <p rend="footnote text"> Seba-<hi rend="italic" xml:space="preserve"> auf der vorigen Seite geschrieben.</hi>
+                                </p>
+                            </note> gleichthailpar respective gewohnenes Vermigen vorstendig zu sein, dreitaussent söchshundert söchsundtfunfzig Gulden id est</cell>
                   <cell>3656 f 0 x</cell>
                </row>
                <row>
@@ -3434,9 +3435,9 @@
                </row>
             </table>
             <p>So hat auch<note>
-                            <p rend="footnote text">
-                                <hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> zuhaben.</p>
-                        </note> der anderte vätterlich</p>
+                        <p rend="footnote text">
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> zuhaben.</p>
+                    </note> der anderte vätterlich</p>
             <table rend="rules">
                <row>
                   <cell>
@@ -3515,9 +3516,9 @@
                         <p rend="footnote text"> -undt- <hi rend="italic">nachträglich über der Zeile eingefügt.</hi>
                         </p>
                      </note> Gulden<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Gulden.</p>
-                                </note> vierzig Khreizer, id est</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Gulden.</p>
+                            </note> vierzig Khreizer, id est</cell>
                   <cell>1368 f 40 x</cell>
                </row>
                <row>
@@ -3610,9 +3611,9 @@
                </row>
                <row>
                   <cell>Und entlichen so hat auch die Jungfrau Tochter, und Schwöster <rs type="person" ref="#hinterseer_aennae_elisaebeth">Ännä Elisäbeth Hinterseerin</rs>, ihre Herr vötterliche Erbschafft also zu empfangen, nemblichen<note>
-                                    <p rend="footnote text">
-                                        <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>de-.</p>
-                                </note> aus denen Inventurs Posten wie die ybrigen Geschwistrigeth die drite Portion mit</cell>
+                                <p rend="footnote text">
+                                    <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>de-.</p>
+                            </note> aus denen Inventurs Posten wie die ybrigen Geschwistrigeth die drite Portion mit</cell>
                   <cell>59 f 22 x</cell>
                </row>
                <row>
@@ -3656,9 +3657,9 @@
             </p>
             <p>vergiettet worden, dargegen aber Herr <rs type="person" ref="#wachtler_johann_antoni">Johan Antani Wachtler</rs> noch ohnausgewisner seine dreihundert Gulden Cäpitäll zum Vermigen schuldig,
             als haben die drei Gottsheuser solliche 300 f<note>
-                            <p rend="footnote text"> Cäpitäll zum Vermigen schuldig, als haben die drei Gottsheuser solliche 300 f<hi rend="italic" xml:space="preserve"> durch Verweiszeichen am linken Rand nachgetragen.</hi>
-                            </p>
-                        </note> von däto fir par an, bei ihme Herrn <rs type="person" ref="#wachtler_johann_antoni">Wachtler</rs> par einzulangen, und zu empfangen, hingegen selbe aber auch, und zwar jedes in Sonderheit den jehrlichen und ebigen Jahrtag halten zu lassen, und zu bezahlen.</p>
+                        <p rend="footnote text"> Cäpitäll zum Vermigen schuldig, als haben die drei Gottsheuser solliche 300 f<hi rend="italic" xml:space="preserve"> durch Verweiszeichen am linken Rand nachgetragen.</hi>
+                        </p>
+                    </note> von däto fir par an, bei ihme Herrn <rs type="person" ref="#wachtler_johann_antoni">Wachtler</rs> par einzulangen, und zu empfangen, hingegen selbe aber auch, und zwar jedes in Sonderheit den jehrlichen und ebigen Jahrtag halten zu lassen, und zu bezahlen.</p>
             <p>Firpfenter werden die Alten hiehero ohne Novation böstermassen erholt.</p>
             <p>Nachdem Ablösen bey sollicher Erbsthaillung es verbleiben zu lassen, und darwider nicht anders vorzunemben, oder zu handlen, sondern alles vöst, und stäth zu halten, haben die zwo Gewalthabern Herr <rs type="person" ref="#iser_michael">Michael Isser</rs>, und <rs type="person" ref="#kels_franz">Franz Khöls</rs> nomine dern Principällen, auch in sub hypotheca bonorum versprochner de rato Cavierung derselben,</p>
             <p>
@@ -3672,15 +3673,14 @@
             </p>
             <p>ers zu <rs type="place" ref="#saenct_michaelspurg">Sänct Michaelspurg</rs>, Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohrs, von Aufkhirchen zu Moregg</rs> etc. von Commission und respective Obrigkheit wegen, hierfirgestölten hoch- und wohl adelich angebohrnen Insigler (jedoch anderwerts daran ganz ohne Schaden) verförtigter und bechröfftigter, hievon die aine den erst vätterlich <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen, dan die anderte, den andert väterlich <rs type="person" ref="#stainer_mariae">Maria Stainerischen</rs> Haubtstollen, und die drite, und lötste, den driten mieterlich <rs type="person" ref="#hinterseer_johanes">Johanes Hinterseerischen</rs> Haubtstollen, auch dern allseitigen Pflichten Trager,
             und Vertröttern miteinander, zu dern nothwendigen Behelf, und Gebrauch hinaus ertheilt<note>
-                            <p rend="footnote text"> -l-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-t-.</p>
-                        </note> worden. Beschechen die entliche Thaillung in Beisein der voreingefiehrten Gerichtsbeisizern als Gezeugen, vorig <date when="1756-03-31">ainundtdreissigisten Tag Monaths Märti</date>, nach der gnadenreichen Geburth unsers lieben Herrn Heyl-</p>
+                        <p rend="footnote text"> -l-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-t-.</p>
+                    </note> worden. Beschechen die entliche Thaillung in Beisein der voreingefiehrten Gerichtsbeisizern als Gezeugen, vorig <date when="1756-03-31">ainundtdreissigisten Tag Monaths Märti</date>, nach der gnadenreichen Geburth unsers lieben Herrn Heyl-</p>
             <p>
                <pb n="42v"/>
             </p>
             <p>landt, unnd Seeligmachers Jesu Christi in sibenzöchenhundert söchsundtfunfzigisten Jahr.</p>
             <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
-         </p>
-            </div>
+   </div>
       </body>
    </text>
 </TEI>

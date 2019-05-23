@@ -10,7 +10,7 @@ let $result :=
     <result>{
         
         for $doc at $pos in collection($app:editions)//tei:TEI
-            let $title := normalize-space($doc//tei:titleStmt/tei:title/text())
+            let $title := normalize-space(string-join($doc//tei:titleStmt/tei:title/text(), ' '))
             return
                 <nodes>
                     <id>{$pos}</id>

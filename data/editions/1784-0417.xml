@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1784 IV 17 – 1784 VI 19, St. Lorenzen [Gassmayr Anton Ignaz (Priester)]</title>
+            <titleshort>Gassmayr Anton Ignaz (Priester)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="414r" to="426v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

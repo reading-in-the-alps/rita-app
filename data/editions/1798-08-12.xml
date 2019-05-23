@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1798 VII 12/13 – 1798 XII 19, St. Lorenzen (Fronwiese) [Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)]: Lizitationsprotokoll Vermögensergänzung und Erbteilung, Stammbaum, Vollmachten, Vermögensergänzung und Erbteilung (Fortsetzung), Inventar</title>
+            <titleshort>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="637r" to="710v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -2906,7 +2907,7 @@
                         </note> an des
                Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Mooss, und zum Theil<note>
                             <p rend="footnote text"> und zum Theil<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>gegen Mittag.</p>
-                        </note> an hinnach hieher gehorigen Stuckl Pichl, gegen Mittag wieder an Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Moss, und zum Theil an Mayr zu <rs type="place" ref="#gasteig">Gasteig</rs> Acker, gegen Abend an
+                        </note> an hinnach hieher gehorigen Stuckl Pichl, gegen Mittag wieder an Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Moss, und zum Theil an Mayr zu Gasteig Acker, gegen Abend an
                Herrn <rs type="person" ref="#wachtler_georg">Georg Wachtlers</rs> Acker<note>
                             <p rend="footnote text">
                                 <hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi>

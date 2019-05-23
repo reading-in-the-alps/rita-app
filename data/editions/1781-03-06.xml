@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1781 III 6 – 1781 V 1, St. Martin/Sonnenburg (in der Kaplanei des Stifts Sonnenburg und der Benefiziaten-Behausung in St. Martin) [Zöggeler Anton (Kaplan in Sonnenburg und Benefiziat in St. Martin)]</title>
+            <titleshort>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Inventare des Mittleren Pustertals</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="1r" to="30v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Inventare; Vermögensergänzung; Versteigerungsprotokoll</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -303,7 +304,7 @@
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>V Wirth zu Sallen 14 f 30 x</cell>
+                     <cell>V Wirth zu <rs type="place" ref="#saalen">Sallen</rs> 14 f 30 x</cell>
                      <cell>Vierzehn Stuck härben neue Firhäng von 28 Ellen à 20 x</cell>
                      <cell>9 f 20 x</cell>
                   </row>
@@ -3467,7 +3468,7 @@
                </p>
                <p>[Rubrum:] 1781</p>
                <p>Inventur und Abhandlung</p>
-               <p>So auf zeitlichen Hintrit des wohlehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggelers</rs> Stifft Sonnenburgischen Cappellani ad Sanctum Martinum vorgangen</p>
+               <p>So auf zeitlichen Hintrit des wohlehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggelers</rs> <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburgischen</rs> Cappellani ad <rs type="place" ref="#st_martin">Sanctum Martinum</rs> vorgangen</p>
                <p>[späterer Archivvermerk:] No -1205-</p>
                <p>
                   <pb n="1r"/>
@@ -3477,12 +3478,12 @@
                             </p>
                         </note>
                </p>
-               <p>Actum in der Stifft Sonnenburgischen Kaplaney- und Beneficial Behausung ad <rs type="place" ref="#st_martin">Sanctum Martinum</rs> den <date when="1781-03-06">6. Merzen 1781</date>.</p>
+               <p>Actum in der <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburgischen Kaplaney- und Beneficial Behausung</rs> ad <rs type="place" ref="#st_martin">Sanctum Martinum</rs> den <date when="1781-03-06">6. Merzen 1781</date>.</p>
                <p>Vor</p>
                <table rend="rules">
                   <row>
                      <cell>dem hochwürdig wohlgebohrnen Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias von Ingram zu Liebenrain, und Fragburg</rs> hochfürstlich Brixnerischen Consistorial Rath auch Dechandt, und Statt Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs> als von einem hochgeistlichen Officio zu <rs type="place" ref="#brixen">Brixen</rs> in Sachen gnädigen Commissario etc.</cell>
-                     <cell>dem wohl edlgebohrnen hochgelehrten Herrn <rs type="person" ref="#von_call_johann_leonhard">Johann Leonhard von Call</rs> i. u. Doctore des fürstlichen Stiffts und Gottshaus Sonnenburg Hof- und Lechen Richtern als Stifft Sonnenburgischer Deputierten.</cell>
+                     <cell>dem wohl edlgebohrnen hochgelehrten Herrn <rs type="person" ref="#von_call_johann_leonhard">Johann Leonhard von Call</rs> i. u. Doctore des fürstlichen <rs type="place" ref="#stift_sonnenburg">Stiffts und Gottshaus Sonnenburg</rs> Hof- und Lechen Richtern als <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburgischer</rs> Deputierten.</cell>
                   </row>
                </table>
                <p>In praesentia des wohl edlen Herren <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmeyr</rs> hochfürstlich Brixnerischen Commission- und Amtschreibers zu <rs type="place" ref="#brunegg">Brunegg</rs> als von hoch geistlicher Commission etc. zugezochenen,</p>
@@ -3497,7 +3498,7 @@
                <p>als von Seite der weltlichen Commission etc. zuegezochenen Beysassen.</p>
                <p>Actuante die Sonnenburgische Hofgerichtschreiberey.</p>
                <p>Ihro Hochwürden und Gnaden vor wohl eingefüehrten Herr Dechand als hochfürstlich Brixnerischer Comissarius referieren, das bey däto fir dem wohl ehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zöggele</rs> gewesten Stifft Sonnenburgischen Cappellano und Beneficiato ad <rs type="place" ref="#st_martin">St. Martinum</rs> seel[ig]en abgehaltenen 30ist Heiligen Gottesdenst die Ordnung erfordere, mit Erwitterung desselben Testaments, und sodann mit Beschreibung und Verabhandlung desselben zeitlichen Verlassenschafft firzuschreiten, seye demenach anhero gekommen ein so anderes der Ordnung nach vorgehen zu lassen.</p>
-               <p>Woriber der Stifft Sonnenburgisch angeordnete Herr Commissarius gleichfahls relationando ad prothocollum gegeben, das die Abhandlung der Stifft Sonnenburgischen Cappellanen bis <date when="1647-09-24">24. September 1647</date> jederzeit von Stifft Sonnenburg per deputationem alleinig vorgenommen,</p>
+               <p>Woriber der <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburgisch</rs> angeordnete Herr Commissarius gleichfahls relationando ad prothocollum gegeben, das die Abhandlung der Stifft Sonnenburgischen Cappellanen bis <date when="1647-09-24">24. September 1647</date> jederzeit von <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburg</rs> per deputationem alleinig vorgenommen,</p>
                <p>
                   <pb n="2r"/>
                </p>
@@ -3505,7 +3506,7 @@
                      <p rend="footnote text">
                         <hi rend="italic">Davor Rasur von</hi> Herrn<hi rend="italic">-Kürzung.</hi>
                      </p>
-               </note> Amt nicht nur an gedachten <date when="1647-09-24">24. September 1647</date> bey Hinscheiden geistlichen Herrn Schenfelders gewesten Cappellani ad St. Gothardum, sondern auch bey Verhandlung der hinach abgelebten Herrn Cappellanen<note>
+               </note> Amt nicht nur an gedachten <date when="1647-09-24">24. September 1647</date> bey Hinscheiden geistlichen Herrn Schenfelders gewesten Cappellani ad <rs type="place=" ref="#st_gotthard">St. Gothardum</rs>, sondern auch bey Verhandlung der hinach abgelebten Herrn Cappellanen<note>
                      <p rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Danach Rasur von </hi>-s.</p>
                   </note> hierwider protestiert, und die uhr alte Rechte und Privilegien in Anverwahrung gesezt, und mit solcher Anverwahrung, Protestation, und ausdrücklichen Contestation, das solches blos zu Bezeügung gehorsamsten Respects gegen das hochwürdigiste Ordinariat, im übrigen ganz unvergrifen, und ohne mindesten Nachtheil bescheche, die Abhandlungen vor beedseitigen Commissionen simultanee vorgehen lassen, und gleichwie mit solchen Vorbehalt und
@@ -3520,7 +3521,7 @@
                             <p rend="footnote text">
                                 <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Joha-.</p>
                         </note> <rs type="person" ref="#zoeggeler_anton">Anton Zöggele</rs> seel[ig]en errichten Testaments, dann desselben Vermägens Ergänzung und so dabey simultanee unvergrifen beschechen mäge, als wolle er Herr Stifft Sonnenburgische Deputierte ein solches alda ad prothocollum ohnverhalten gelassen, und seiner gnädigen Principälschafft gerechtsame jehe und alzeit in optima forma conserviret, und vorbehalten haben.</p>
-               <p>Über solch hofrichterliches Anbringen des Stiffts Sonnenburg haben Ihro Hochwürden und Gnaden hoch geistlich angeordneter Herr Commissarius erwidert, vi iuris et consuetudinis, wie auch vermog Maxmilianischen<note>
+               <p>Über solch hofrichterliches Anbringen des <rs type="place" ref="#stift_sonnenburg">Stiffts Sonnenburg</rs> haben Ihro Hochwürden und Gnaden hoch geistlich angeordneter Herr Commissarius erwidert, vi iuris et consuetudinis, wie auch vermog Maxmilianischen<note>
                             <p rend="footnote text"> Nach -x- <hi rend="italic" xml:space="preserve">folgt gestrichen </hi>-x-.</p>
                         </note> Vertrags der hochgeistlichen Obr[igkei]t etc. die Verhandlung der geistlichen Verlassenschafften ohne weiters gebihrig zu sein, westhalben wohl selber etc. seiner gnädigisten Principälschaffts Rechten zu wider die von Seiten Sonnenburg privative ansünnende Abhandlungs Rechte nicht nachgeben, auch hierwider zu protestieren vor der gnädigisten Principalschafft angewogen seye.</p>
                <p>
@@ -3535,8 +3536,8 @@
                         <hi rend="italic">Über der Zeile eingefügt.</hi>
                      </p>
                </note> Schuelhalters zu <rs type="place" ref="#gais">Gais</rs> in Gegenwarth <rs type="person" ref="#pranter_barbara">Barbara Pranterin</rs>, <rs type="person" ref="#kamerer_hanns">Hannsen Kamerer</rs> Schuestermeisters in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> Ehewirthin (welche in Namen ihrer
-               Muettern <rs type="person" ref="#egger_elisabeth">Elisabeth Eggerin</rs> <rs type="person" ref="#prantner_michael">Michael Prantnerischen</rs> Ehewirthin beikomen, und eine allenfahlige Erbin materno naturale eine Erbin zu sein glaubet (ferers in Beysein des <rs type="person" ref="#lercher_joseph">Josepf Lercher</rs> Lerchers in Ohnnach (dessen Ähnl <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="#lercher_andre">Andreen Lercher</rs> Lerchers in Ohnnach Ehegathin ware, und weilen des abgelebt geistlichen <rs type="person" ref="#zoeggeler_anton">Herrn Zöggelers</rs> eheleibliche Muetter <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="person" ref="#zoeggeler_anton">Antony Zöggelers</rs> gewesten Schmidmaisters in der Mähr geweste Ehewirtin einen gleichen Namen füehrte, eine Erb hierzue zu sein praesumierlichen vermeinte). Wie nit weniger in Gegenwarth fir übrig unbewusten Erben angeordneten Vertretter Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Turneretschers</rs> das verhandene am <date when="1778-05-14">14. May 1778</date> particulariter errichte
-               Testamentum nebst dem von hoch ehrwürdigen geistlichen Cassionalanus Cappellan ad St. Joannem unter heüntig däto abgebenen Attestato<note>
+               Muettern <rs type="person" ref="#egger_elisabeth">Elisabeth Eggerin</rs> <rs type="person" ref="#prantner_michael">Michael Prantnerischen</rs> Ehewirthin beikomen, und eine allenfahlige Erbin materno naturale eine Erbin zu sein glaubet (ferers in Beysein des <rs type="person" ref="#lercher_joseph">Josepf Lercher</rs> Lerchers in <rs type="place" ref="#onach">Ohnnach</rs> (dessen Ähnl <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="#lercher_andre">Andreen Lercher</rs> Lerchers in <rs type="place" ref="#onach">Ohnnach</rs> Ehegathin ware, und weilen des abgelebt geistlichen <rs type="person" ref="#zoeggeler_anton">Herrn Zöggelers</rs> eheleibliche Muetter <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs> <rs type="person" ref="#zoeggeler_anton">Antony Zöggelers</rs> gewesten Schmidmaisters <rs type="place" ref="#mahr">in der Mähr</rs> geweste Ehewirtin einen gleichen Namen füehrte, eine Erb hierzue zu sein praesumierlichen vermeinte). Wie nit weniger in Gegenwarth fir übrig unbewusten Erben angeordneten Vertretter Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Turneretschers</rs> das verhandene am <date when="1778-05-14">14. May 1778</date> particulariter errichte
+               Testamentum nebst dem von hoch ehrwürdigen geistlichen Cassiano Lang Cappellan ad <rs type="place" ref="#st_johannes">St. Joannem</rs> unter heüntig däto abgebenen Attestato<note>
                             <p rend="footnote text"> nebst dem von hoch ehrwürdigen geistlichen Cassionalanus Cappellan ad St. Joannem unter heüntig däto abgebenen Attestato<hi rend="italic"> am linken Rand eingefügt.</hi>
                             </p>
                         </note> abgelesen, und<note>
@@ -3554,15 +3555,16 @@
                             <p rend="footnote text">
                                 <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>angeb-.</p>
                         </note> und Herr Vertretter angebracht, das er das eröfnete Testament dermahlen in seinem Werth und Unwerth beruehen lasse, sich dargegen darwider nach Umständen all gedenliche Behelfe einzubringen in Vorbehalt nemme.</p>
-               <p>Woraufhin von Seiten der weldlichen Obr[igkei]t weiters alda b[eric]htlichen beigesezt worden, das mann zu Erfragung der <rs type="person" ref="#zoeggeler_anton">Zöggelischen</rs> Eventual Erben an die lobliche Obr[igkei]ten in Ulten, Paseyr, und Särnthall zwar die Requisitiones erlassen und angesuecht habe, weder von ein noch andern unzt anhero was vorgekommen seye, derowegen mann dann auch sich bemüset gefunden in Sachen einen Vertretter anzuordnen.</p>
-               <p>Nach welchen unvergrifen allerseits Rechten, weilen doch nach allschon von Kloster Stifft</p>
+               <p>Woraufhin von Seiten der weldlichen Obr[igkei]t weiters alda b[eric]htlichen beigesezt worden, das mann zu Erfragung der <rs type="person" ref="#zoeggeler_anton">Zöggelischen</rs> Eventual Erben an die lobliche Obr[igkei]ten in <rs type="place" ref="#ulten">Ulten</rs>, <rs type="place" ref="#passeier">Paseyr</rs>, und <rs type="place" ref="#sarnthal">Särnthall</rs> zwar die Requisitiones erlassen und angesuecht habe, weder von ein noch andern unzt anhero was vorgekommen seye, derowegen mann dann auch sich bemüset gefunden in Sachen einen Vertretter anzuordnen.</p>
+               <p>Nach welchen unvergrifen allerseits Rechten, weilen doch nach allschon von <rs type="place" ref="#stift_sonnenburg">Kloster Stifft</rs>
+                    </p>
                <p>
                   <pb n="4r"/>
                </p>
                <p>ernenten<note>
                             <p rend="footnote text">
                                 <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Herrn<hi rend="italic" xml:space="preserve">-Kürzung</hi>.</p>
-                        </note> neyen Herrn Capellano die Beneficial Behausung zu evaluieren
+                        </note> neyen Herrn Capellano die <rs type="place" ref="#stift_sonnenburg">Beneficial Behausung</rs> zu evaluieren
                in Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
                         <note>
                             <p rend="footnote text"> Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
@@ -5865,7 +5867,7 @@
                      <cell>42 x</cell>
                   </row>
                   <row>
-                     <cell>Ist dem Kloster Convent zu <rs type="place" ref="#soneburg">Sonnenburg</rs> vermacht worden</cell>
+                     <cell>Ist dem <rs type="place" ref="#stift_sonnenburg">Kloster Convent zu Sonnenburg</rs> vermacht worden</cell>
                      <cell>1 Kasten<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Über </hi>1 Kasten <hi rend="italic" xml:space="preserve">gestrichen </hi>In ein-.</p>
@@ -5873,7 +5875,7 @@
                      <cell>1 f 24 x</cell>
                   </row>
                   <row>
-                     <cell>[Ist dem Kloster Convent zu <rs type="place" ref="#soneburg">Sonnenburg</rs> vermacht worden]</cell>
+                     <cell>[Ist dem <rs type="place" ref="#stift_sonnenburg">Kloster Convent zu Sonnenburg</rs> vermacht worden]</cell>
                      <cell>Darinen 1 Krippen von zerschidenen Figuren und Abwexlungen, dise<note>
                                     <p rend="footnote text">
                                         <hi rend="italic"> Nachträglich geschrieben.</hi>
@@ -5976,7 +5978,7 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>[In der Bibliotheca]<p/>Dem Stifft Sonnenburg vertestrirt</cell>
+                     <cell>[In der Bibliotheca]<p/>Dem <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburg</rs> vertestrirt</cell>
                      <cell>2<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Am linken Rand korrigiert aus </hi>1.</p>
@@ -6095,7 +6097,7 @@
                      <cell>5 f 32 x</cell>
                   </row>
                   <row>
-                     <cell>So loblichen Heiligen Kreiz Kirchen vertestieret worden</cell>
+                     <cell>So loblichen <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreiz Kirchen</rs> vertestieret worden</cell>
                      <cell>Aber 4 deti von 2 Pfundt à 44 x</cell>
                      <cell>1 f 28 x</cell>
                   </row>
@@ -6530,7 +6532,7 @@
                         <note>
                                     <p rend="footnote text">Herr Cooperator <hi rend="italic"> mit Bleistift geschrieben und mit Tinte nachgezogen.</hi>
                                     </p>
-                                </note> in Widum <rs type="person" ref="#vischnaller_joseph">Joseph Vischnaller</rs>
+                                </note> in <rs type="place" ref="#olang_kirche">Widum</rs> <rs type="person" ref="#vischnaller_joseph">Joseph Vischnaller</rs>
                         gegen<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>42 x Ver-<hi rend="italic" xml:space="preserve">, danach</hi> f x.</p>
@@ -6769,7 +6771,7 @@
                                 <hi rend="italic" xml:space="preserve"> Zweite </hi>1 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>0.</p>
                         </note>
                     </p>
-               <p>Des wohl ehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zeggeler</rs> gewest Stifft Sonnenburgischen Kaplan ad <rs type="place" ref="#st_martin">St. Martinum</rs> vorgangene</p>
+               <p>Des wohl ehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zeggeler</rs> gewest <rs type="place" ref="#stift_sonnenburg"> Stifft Sonnenburgischen</rs> Kaplan ad <rs type="place" ref="#st_martin">St. Martinum</rs> vorgangene</p>
                <p>Vermägensabhandlung</p>
                <p>[späterer Archivvermerk:] No -1206-</p>
                <p>
@@ -10739,8 +10741,7 @@
                <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des Kaplaney Beneficii von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith,<note>
                             <p rend="footnote text">
                                 <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und bestehen in folgenden.</p>
-                        </note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich,
-               und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
+                        </note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich, und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
                samentliche Jahrs Gefäll sovillen annoch in Ausstand<note>
                             <p rend="footnote text"> sovillen annoch in Ausstand<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi>
                             </p>
@@ -10750,11 +10751,12 @@
                         </note> pro rato temporis hinach denen Abzügen per Schuld hinaus einzuverleiben.</p>
                <table rend="rules">
                   <row>
-                     <cell>Als der Piterle zu St. Sigmundt</cell>
+                     <cell>Als der Piterle zu <rs type="place" ref="#st_sigmund">St. Sigmundt</rs>
+                            </cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>Elzenbaumer zu Pfalzen in Geldt</cell>
+                     <cell>Elzenbaumer zu <rs type="place" ref="#pfalzen">Pfalzen</rs> in Geldt</cell>
                      <cell/>
                   </row>
                   <row>
@@ -10776,7 +10778,8 @@
                   </row>
                   <row>
                      <cell>
-                                <rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
+                                <rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu <rs type="place" ref="#lothen">Lothen</rs>
+                            </cell>
                      <cell>18¾ x</cell>
                   </row>
                   <row>
@@ -10790,7 +10793,8 @@
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Titl. Herr von Millstetterische Verlassenschafft von Goslbichl</cell>
+                     <cell>Titl. Herr von Millstetterische Verlassenschafft von <rs type="place" ref="#goslbichl">Goslbichl</rs>
+                            </cell>
                      <cell>4 x</cell>
                   </row>
                   <row>
@@ -10834,7 +10838,7 @@
                      <cell>19 f 50 x</cell>
                   </row>
                   <row>
-                     <cell>Auer Hof in Millbach pro anno 1780 Geldt</cell>
+                     <cell>Auer Hof in <rs type="place" ref="#muehlbach">Millbach</rs> pro anno 1780 Geldt</cell>
                      <cell>2 f 0 x</cell>
                   </row>
                   <row>
@@ -10842,7 +10846,7 @@
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
-                     <cell>Johann Vidsoth ob Picolein von Jahr 1780 Geldt</cell>
+                     <cell>Johann Vidsoth ob <rs type="place" ref="#picolein">Picolein</rs> von Jahr 1780 Geldt</cell>
                      <cell>3 f 12 x</cell>
                   </row>
                   <row>
@@ -10859,11 +10863,11 @@
                      <cell>4 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Hanns Domenicus Plänätscher zu Soregä Geldt pro anno 1780 32 x weiterer Ausstandt 1778 et 1779 ab 2 Jahr 1 f 4 x</cell>
+                     <cell>Hanns Domenicus Plänätscher zu <rs type="place" ref="#sorega">Soregä</rs> Geldt pro anno 1780 32 x weiterer Ausstandt 1778 et 1779 ab 2 Jahr 1 f 4 x</cell>
                      <cell>1 f 36 x</cell>
                   </row>
                   <row>
-                     <cell>Das fürstliche Stifft Sonnenburg gibt disem Kaplaney Beneficio all jährlichen zu einem Beytrag 15 Stär Roggen à 52 x macht 13 f 0 x weiters fir die gnädig zugesagte Mahlgelder ab 11 Monath von Neü Jahr 1780 bis zum Tottfall geraith 27 f 30 x fir seit Neü Jahr 1780 bis zum Sterbfall 9 gröser gehaltenen Jahrtäg 2 f 0 x fir ordentlichen kleinern Jahrtäge samt Vigiliis et Patrociniis 11 f 52 x fir ordentliche Ablass Mesen und Psalieren 5 f 6 x von Egererischen</cell>
+                     <cell>Das fürstliche <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburg</rs> gibt disem Kaplaney Beneficio all jährlichen zu einem Beytrag 15 Stär Roggen à 52 x macht 13 f 0 x weiters fir die gnädig zugesagte Mahlgelder ab 11 Monath von Neü Jahr 1780 bis zum Tottfall geraith 27 f 30 x fir seit Neü Jahr 1780 bis zum Sterbfall 9 gröser gehaltenen Jahrtäg 2 f 0 x fir ordentlichen kleinern Jahrtäge samt Vigiliis et Patrociniis 11 f 52 x fir ordentliche Ablass Mesen und Psalieren 5 f 6 x von Egererischen</cell>
                      <cell/>
                   </row>
                   <row>
@@ -10881,7 +10885,8 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige Stifft<note>
+                     <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige <rs type="place" ref="#stift_sonnenburg">Stifft</rs>
+                                <note>
                                     <p rend="footnote text">
                                         <hi rend="italic">Am linken Rand eingefügt.</hi>
                                     </p>
@@ -10898,14 +10903,15 @@
                                 </note> f 34 x restriert also noch<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p>
-                                </note> wohl ersagtes Stifft</cell>
+                                </note> wohl ersagtes <rs type="place" ref="#stift_sonnenburg">Stifft</rs>
+                            </cell>
                      <cell>38 f 0 x</cell>
                   </row>
                   <row>
                      <cell>Jakob nun Peter<note>
                                     <p rend="footnote text"> nun Peter<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi>
                                     </p>
-                                </note> Kanerätä zu Obvill ob Picolein pro anno 1780</cell>
+                                </note> Kanerätä zu <rs type="place" ref="#obvill">Obvill</rs> ob <rs type="place" ref="#picolein">Picolein</rs> pro anno 1780</cell>
                      <cell>3 f 5½ x</cell>
                   </row>
                   <row>
@@ -10913,7 +10919,7 @@
                      <cell>26½ x</cell>
                   </row>
                   <row>
-                     <cell>Kristian Mutschlechner zu Steegen pro anno 1780 4 x und Ausstandt pro anno 1779 4 x</cell>
+                     <cell>Kristian Mutschlechner zu <rs type="place" ref="#stegen">Steegen</rs> pro anno 1780 4 x und Ausstandt pro anno 1779 4 x</cell>
                      <cell>8 x</cell>
                   </row>
                </table>
@@ -10928,7 +10934,8 @@
                      <cell>20 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Peter Hueber Miller in Millbüchl</cell>
+                     <cell>Peter Hueber Miller in <rs type="place" ref="#muehlbach_bei_gais">Millbüchl</rs>
+                            </cell>
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
@@ -10946,7 +10953,8 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Joseph Klamer Klampperer zu St. Martin</cell>
+                     <cell>Joseph Klamer Klampperer zu <rs type="place" ref="#st_martin">St. Martin</rs>
+                            </cell>
                      <cell>10 f 0 x</cell>
                   </row>
                   <row>
@@ -10963,11 +10971,11 @@
                   <row>
                      <cell>
                         <p>Die Jungfrau Häuserin Ursula Niderwangerin hat wehrenden Kranksein des geistlichen Herrn Tschöggeles, und hinach post mortem wohl deselben von zerschidenen <unclear>Clehiten</unclear> an Geldt eingenommen,</p>
-                        <p>als von Mathes Mayr zu Sonnenburg in Glurnhör 31 x</p>
-                        <p>von Stocker zu Vassing Franz Gatterer 33 x</p>
+                        <p>als von Mathes Mayr zu <rs type="place" ref="#soneburg">Sonnenburg</rs> in <rs type="place" ref="#glurnhor_hebenstreit">Glurnhör</rs> 31 x</p>
+                        <p>von Stocker zu <rs type="place" ref="#fassing">Vassing</rs> Franz Gatterer 33 x</p>
                         <p>von Pargger Miller einschlüesslich des Rests pro anno 1779 1 f 40 x</p>
-                        <p>von Michael Steürer Millermeister an der Pfarr Ollang 1 f 2 x</p>
-                        <p>von Hausstettern zu Stöphansdorf 46½ x</p>
+                        <p>von Michael Steürer Millermeister an der Pfarr <rs type="place" ref="#niederolang">Ollang</rs> 1 f 2 x</p>
+                        <p>von Hausstettern zu <rs type="place" ref="#stephansdorf">Stöphansdorf</rs> 46½ x</p>
                         <p>von Ätte-</p>
                      </cell>
                      <cell/>
@@ -10983,7 +10991,7 @@
                <table rend="rules">
                   <row>
                      <cell>
-                        <p>ler zu Uttenheim 1 f 12 x</p>
+                        <p>ler zu <rs type="place" ref="#uttenheim">Uttenheim</rs> 1 f 12 x</p>
                         <p>von Jakob Acherer von sogenanten Kränebiter Haus 36 x</p>
                         <p>von Hortmiller Joseph Stainer 6 x</p>
                         <p>von Auer Miller Joseph Planer 10 f</p>
@@ -10991,7 +10999,7 @@
                                         <p rend="footnote text">
                                             <hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1.</p>
                                     </note> f 0 x</p>
-                        <p>von Simon Nidermayr Pichler zu Stöphansdorf 33 f<note>
+                        <p>von Simon Nidermayr Pichler zu <rs type="place" ref="#stephansdorf">Stöphansdorf</rs> 33 f<note>
                                         <p rend="footnote text">
                                             <hi rend="italic">Gesamter Eintrag samt Betrag am linken Rand eingefügt.</hi>
                                         </p>
@@ -11019,7 +11027,7 @@
                                         <p rend="footnote text">
                                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>leicht.</p>
                                     </note> 8 Leichtrager samt was dabei sag Conto der Aichholzerin 8 f 5 x</p>
-                        <p>und fir der Fuhr von Gschlierer hinter Saalen abhollen gelasenen 1 Stär Roggen und 1 Stär Gersten 7 x</p>
+                        <p>und fir der Fuhr von Gschlierer hinter <rs type="place" ref="#saalen">Saalen</rs> abhollen gelasenen 1 Stär Roggen und 1 Stär Gersten 7 x</p>
                         <p>Betragt solcher Hindanfall 14 f 12 x, erscheint also noch überling, so titl. Herr Hofamtmann als Vertrettern dern sich legitimierenden Erben von der Ursula Niderwangerin<note>
                                         <p rend="footnote text">
                                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>be-.</p>
@@ -11093,12 +11101,13 @@
                   </row>
                   <row>
                      <cell>No 3: v</cell>
-                     <cell>Martin Hilber Schmid in Pflaurenz Sagconto</cell>
+                     <cell>Martin Hilber Schmid in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> Sagconto</cell>
                      <cell>2 f 7 x</cell>
                   </row>
                   <row>
                      <cell>No 4: v</cell>
-                     <cell>Martin Fräs Radermeister in Pflaurenz</cell>
+                     <cell>Martin Fräs Radermeister in <rs type="place" ref="#pflaurenz">Pflaurenz</rs>
+                            </cell>
                      <cell>4 f 9 x</cell>
                   </row>
                   <row>
@@ -11114,7 +11123,7 @@
                            <p rend="footnote text">
                               <hi rend="italic">Kürzungsstrich versehentlich auf zweitem</hi> -n- <hi rend="italic">statt</hi> -m- <hi rend="italic">gesetzt.</hi>
                            </p>
-                        </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu Brunegg das Geldt<note>
+                        </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs> das Geldt<note>
                                     <p rend="footnote text"> das Geldt <hi rend="italic" xml:space="preserve">nachträglich eingefügt, </hi>Geldt<hi rend="italic" xml:space="preserve"> am linken Rand.</hi>
                                     </p>
                                 </note> ausgehändiget worden</cell>
@@ -11138,12 +11147,13 @@
                   </row>
                   <row>
                      <cell>No 8: v</cell>
-                     <cell>Titl. Herr Johann Anton Vestner Statt Physico zu Brunegg</cell>
+                     <cell>Titl. Herr Johann Anton Vestner Statt Physico zu <rs type="place" ref="#brunegg">Brunegg</rs>
+                            </cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
                      <cell>No 9: v</cell>
-                     <cell>Herrn Franz Xaveri Kipperer als Kirchprobsten zu Brunegg fir der armen Seelen Bruederschafft</cell>
+                     <cell>Herrn Franz Xaveri Kipperer als Kirchprobsten zu <rs type="place" ref="#brunegg">Brunegg</rs> fir der armen Seelen Bruederschafft</cell>
                      <cell>52 x</cell>
                   </row>
                   <row>
@@ -11158,7 +11168,7 @@
                <table rend="rules">
                   <row>
                      <cell>v</cell>
-                     <cell>Quidecimal Steür zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<note>
+                     <cell>Quidecimal Steür zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu <rs type="place" ref="#brunegg">Brunegg</rs> in Cameral Patent ist zalt worden<note>
                                     <p rend="footnote text"> zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt statt gestrichenem </hi>Ihro Hochwürden.</p>
                                 </note>
                             </cell>
@@ -11166,7 +11176,7 @@
                   </row>
                   <row>
                      <cell>No 10: v</cell>
-                     <cell>Dem Mesner bey St. Martin Joseph Klamer Klampperer Besoldung<note>
+                     <cell>Dem Mesner bey <rs type="place" ref="#st_martin">St. Martin</rs> Joseph Klamer Klampperer Besoldung<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a-.</p>
                                 </note> von 1 Jahr</cell>
@@ -11213,12 +11223,12 @@
                            <p rend="footnote text">
                               <hi rend="italic">Links vom Text nachgetragen.</hi>
                            </p>
-                        </note> bey denen P. P. Capucinern zu Brunegg andergleichen</cell>
+                        </note> bey denen <rs type="place" ref="#brunegg_kappuziner">P. P. Capucinern zu Brunegg</rs> andergleichen</cell>
                      <cell>20 f 0 x</cell>
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Ittem denen Haus Armen zu Sonnenburg und St. Martin zum Tag des 30ist Heiligen Gottesdenst zu einen Allmosen auszutheillen</cell>
+                     <cell>Ittem denen Haus Armen zu <rs type="place" ref="#soneburg">Sonnenburg</rs> und <rs type="place" ref="#st_martin">St. Martin</rs> zum Tag des 30ist Heiligen Gottesdenst zu einen Allmosen auszutheillen</cell>
                      <cell>30 f 0 x</cell>
                   </row>
                   <row>
@@ -11240,17 +11250,17 @@
                <table rend="rules">
                   <row>
                      <cell>v</cell>
-                     <cell>bene und taxierte Krippen wurde vermacht denen hochwürdigen Convent Frauen zu Sonnenburg in Tax per</cell>
+                     <cell>bene und taxierte Krippen wurde vermacht denen hochwürdigen Convent Frauen zu <rs type="place" ref="#stift_sonnenburg">Sonnenburg</rs> in Tax per</cell>
                      <cell>19 f 24 x</cell>
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Die zwo neüe Kamod Kasten dem Stiffts Gottshaus zu Sonnenburg zum Aufbehalt der Kirchen Paramenten, so taxieret worden per</cell>
+                     <cell>Die zwo neüe Kamod Kasten dem <rs type="place" ref="#stift_sonnenburg">Stiffts Gottshaus zu Sonnenburg</rs> zum Aufbehalt der Kirchen Paramenten, so taxieret worden per</cell>
                      <cell>11 f 0 x</cell>
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Der Heiligen Kreiz Kirchen auf der Franewisen 4 zinnen Tafl<note>
+                     <cell>Der <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreiz Kirchen auf der Franewisen</rs> 4 zinnen Tafl<note>
                            <p rend="footnote text">
                               <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
@@ -11420,7 +11430,7 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Herrn Johann Gampper gewesten Junckmeister zu Brunegg nunmehro Orgänisten zu Sillian wurde
+                     <cell>Herrn Johann Gampper gewesten Junckmeister zu <rs type="place" ref="#brunegg">Brunegg</rs> nunmehro Orgänisten zu <rs type="place" ref="#sillian">Sillian</rs> wurde
                        ebnermassen<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Zwischen </hi>ebner-<hi rend="italic" xml:space="preserve"> und </hi>-massen<hi rend="italic" xml:space="preserve"> gestrichen </hi>-mei-.</p>
@@ -11451,7 +11461,7 @@
                      <cell>1000 f 0 x</cell>
                   </row>
                </table>
-               <p>Also ergänzt zu Sonnenburg in hofrichterlichen Amts Behausung den 14. Merzen 1781.</p>
+               <p>Also ergänzt zu <rs type="place" ref="#soneburg">Sonnenburg</rs> in hofrichterlichen Amts Behausung den <date when="1781-03-14">14. Merzen 1781</date>.</p>
                <p>Vor- und zugegen auch Actuante ut ante.</p>
             </div>
             <div>
@@ -11464,7 +11474,8 @@
                <p>
                   <pb n="Titel verso"/>
                </p>
-               <p>Angefangen den 1. May 1781<note>
+               <p>Angefangen den <date when="1781-05-01">1. May 1781</date>
+                        <note>
                      <p rend="footnote text">
                         <hi rend="italic">War ein Dienstag.</hi>
                      </p>

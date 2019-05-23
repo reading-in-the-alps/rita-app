@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1766 VIII 11, Dietenheim [Pichler Joseph (Kaplan)]</title>
+            <titleshort>Pichler Joseph (Kaplan)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="245r" to="250r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -66,7 +67,7 @@
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>La-.</p>
                     </note> <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> Landtgerichtschreiber zu <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
-            <p>Demnach es dem Allerhöchsten abermahlen gefahlen, seinen Göttlichen Willen zu vollziechen, und weylande dem hochehrwürdigen edlen und hochgelehrten Herrn <rs type="person" ref="#pichler_joseph">Joseph Pichler</rs> hochfreyherrlich von Sternpachischen Caplanum alhie in <rs type="place" ref="#dietenheim">Dietenhaim</rs> nach ausgestandener langwirigen Leibs Indisposition und all vorhero empfangenen Heiligen Sacramenten, von diser zergenglichen Weldt ab- und der angezweifleten Hofnung, zu sich in die himelische Freydt aufzunemmen, welch diser und all ybrig in Gott verschidenen christglaubigen Seelen, der Allerhöchste mit Gnaden Pfleger und am Tag</p>
+            <p>Demnach es dem Allerhöchsten abermahlen gefahlen, seinen Göttlichen Willen zu vollziechen, und weylande dem hochehrwürdigen edlen und hochgelehrten Herrn <rs type="person" ref="#pichler_joseph">Joseph Pichler</rs> <rs type="place" ref="#himmelfahrt_kirche">hochfreyherrlich von Sternpachischen Caplanum</rs> alhie in <rs type="place" ref="#dietenheim">Dietenhaim</rs> nach ausgestandener langwirigen Leibs Indisposition und all vorhero empfangenen Heiligen Sacramenten, von diser zergenglichen Weldt ab- und der angezweifleten Hofnung, zu sich in die himelische Freydt aufzunemmen, welch diser und all ybrig in Gott verschidenen christglaubigen Seelen, der Allerhöchste mit Gnaden Pfleger und am Tag</p>
             <p>
                <pb n="245v"/>
             </p>
@@ -305,7 +306,7 @@
             <p>Ligendts Gueth.</p>
             <table rend="rules">
                <row>
-                  <cell>Nemlichen ain Äckherle hinter den Cäpuciner Closter beyleüfig von ainen Samstag<note>
+                  <cell>Nemlichen ain Äckherle hinter den <rs type="place" ref="brunegg_kappuziner">Cäpuciner Closter</rs> beyleüfig von ainen Samstag<note>
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Tag, den man zum Aussäen benötigt. </hi>
                                 </p>

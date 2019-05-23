@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1761 VII 23 – 1761 VIII 17, St. Georgen (in der Benefiziaten-Behausung) [Fezl Christoph Sebastian (Benefiziat)]</title>
+            <titleshort>Fezl Christoph Sebastian (Benefiziat)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="24ar" to="24v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -107,7 +108,7 @@
             <p>
                <pb n="1r"/>
             </p>
-            <p>Actum in der Beneficiaten Behausung zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> den sibenzechende<note>
+            <p>Actum in der <rs type="place" ref="#st_georgen_kirche">Beneficiaten Behausung</rs> zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> den sibenzechende<note>
                   <p rend="footnote text"> zechende <hi rend="italic">über der Zeile eingefügt statt gestrichenem </hi>zenden.
                   </p>
             </note> <date when="1761-08-10">Tag Manaths Augusti änno sibenzechenhundert ainundsechzig</date>
@@ -533,23 +534,28 @@
                </row>
             </table>
             <p>Ligende Guether</p>
-            <p>Nemblichen die Paurecht nach volgende Stuckh, unnd Gietter die Prugger Stuckh genant zu bestimbten <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Landt Gerichts <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs> gelegen, als erstens ain Jauch Ackher gehaisen in der Grindten auf den Rienz Veldt legent, stosst</p>
+            <p>Nemblichen die Paurecht nach volgende Stuckh, unnd Gietter die Prugger Stuckh genant zu bestimbten <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Landt Gerichts <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs> gelegen, als erstens ain Jauch Ackher gehaisen in der Grindten auf den <rs type="place" ref="#rienzfeld">Rienz Veldt</rs> legent, stosst</p>
             <p>
                <pb n="9v"/>
             </p>
-            <p>gegen Morgent an Andreen Kachler Proger Huebers Inhabern, Mittentag an Mösen Gueths Ackher, Abent an dem gemainen Weeg der von <rs type="place" ref="#st_georgen">Sanct Georgen</rs> gehen Steegen geheet, unnd gegen Mitternacht an ain Stuckh, so jezt der Obermutschlechner zu Steegen innehat, verer ain Tradten zu Kofflach bei drei Tagmaden gros, coherenzt gegen Morgen an Herren Merls zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Stuckh, Mittentag an Herren Herren Grafen Troyers seeligen Erben Erden Ackher, Abent an ain Akcher, so in die Hueben in Anger zu beretten <rs type="place" ref="#st_georgen">Sanct Georgen</rs> geherig, unnd die Herren Herren Grafen Troyerischen Erben innehaben, unnd Mitternacht an gemelts Andreen Khachler Progers Stuckh, mer ain Äckherle Obmayr Kuenzen Thall bei ainer Äch gros, stosst gegen Morgent an des <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofers</rs> innehabenden Stuckh mittentag an ain Stuckh, so die <rs type="person" ref="#kessler_geoerg">Geörg Kesslerischen</rs> Eheleith inen-</p>
+            <p>gegen Morgent an Andreen Kachler Proger Huebers Inhabern, Mittentag an Mösen Gueths Ackher, Abent an dem gemainen Weeg der von <rs type="place" ref="#st_georgen">Sanct Georgen</rs> gehen <rs type="place" ref="#steegen">Steegen</rs> geheet, unnd gegen Mitternacht an ain Stuckh, so jezt der Obermutschlechner zu <rs type="place" ref="#steegen">Steegen</rs> innehat, verer ain Tradten zu <rs type="place" ref="#kofflach">Kofflach</rs> bei drei Tagmaden gros, coherenzt gegen Morgen an Herren Merls zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Stuckh, Mittentag an Herren Herren Grafen Troyers seeligen Erben Erden Ackher, Abent an ain Akcher, so in die Hueben in Anger zu beretten <rs type="place" ref="#st_georgen">Sanct Georgen</rs> geherig, unnd die Herren Herren Grafen Troyerischen Erben innehaben, unnd Mitternacht an gemelts Andreen Khachler Progers Stuckh, mer ain Äckherle Obmayr <rs type="place" ref="#kuenzenthall">Kuenzen Thall</rs> bei ainer Äch gros, stosst gegen Morgent an des <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofers</rs> innehabenden Stuckh mittentag an ain Stuckh, so die <rs type="person" ref="#kessler_geoerg">Geörg Kesslerischen</rs> Eheleith inen-</p>
             <p>
                <pb n="10r"/>
             </p>
             <p>haben, gegen Abent an <rs type="person" ref="#pifrader_hanns">Hannsen Pifrader</rs> halben Kuchlmayrs Stuckh, unnd Mitternacht an widerholten <rs type="person" ref="#kessler_geoerg">Georgen Kesslerischen</rs> Eheleithen inenhabenden Stuckh, umd<note>
                   <p rend="footnote text">
                      <hi rend="italic">Irrig für</hi> und.</p>
-            </note> lötstlichen ain sanders Stuckh Erdtrich in Wüsen ohngefährlichen zwo Tagmaden gros, wellches vor Alters frei ledig, unnd lutaigen gewest, hienach aber zu vorbemelter Paurecht geschlagen, und auf ewig incorporiert worden, stosst gegen morgent an Herren Merl, Mittag an <rs type="person" ref="#tinckhhauser_hanns">Hannsen Tinckhhausers</rs> Ehewirthin, Abent an bestimbten <rs type="person" ref="#khachler_andre">Andreen Khachlers</rs> Stuckh, unnd Mitternacht an ain Stuckh so in die Hueben in Anger geherig, yber wellich dise vier Stuckh ist das Luttarhische Ambt an Stockh zu <rs type="place" ref="#uttenheim">Uttenhaimb</rs> Recht ordentliche Grundtherrschafft, dahin verzinst, unnd verdient man jährlichen, unnd weltewig, auch jedes Jahr besanders allwegen nach Utten-</p>
+            </note> lötstlichen ain sanders Stuckh Erdtrich in Wüsen ohngefährlichen zwo Tagmaden gros, wellches vor Alters frei ledig, unnd lutaigen gewest, hienach aber zu vorbemelter Paurecht geschlagen, und auf ewig incorporiert worden, stosst gegen morgent an Herren Merl, Mittag an <rs type="person" ref="#tinckhhauser_hanns">Hannsen Tinckhhausers</rs> Ehewirthin, Abent an bestimbten <rs type="person" ref="#khachler_andre">Andreen Khachlers</rs> Stuckh, unnd Mitternacht an ain Stuckh so in die Hueben in Anger geherig, yber wellich dise vier Stuckh ist das Luttarhische Ambt an <rs type="place" ref="#stock">Stockh</rs> zu <rs type="place" ref="#uttenheim">Uttenhaimb</rs> Recht ordentliche Grundtherrschafft, dahin verzinst, unnd verdient man jährlichen, unnd weltewig, auch jedes Jahr besanders allwegen nach </p>
             <p>
                <pb n="10v"/>
             </p>
             <p>
-                    <rs type="place" ref="#uttenheim">haimb</rs> zum Ansiz Stockh zu lifern, unnd zu antworthen in guetten Gelt funfzig Khreizer, in Getraidt Roggen sechs und Gersten auch 6<note>
+                    <rs type="place" ref="#uttenheim">Uttenhaimb</rs>
+                    <note>
+                        <p rend="footnote text"> Utten-<hi rend="italic"> auf der letzten Seite geschrieben.</hi>
+                        </p>
+                    </note> zum <rs type="place" ref="#stock">Ansiz Stockh</rs> zu lifern, unnd zu antworthen in guetten Gelt funfzig Khreizer, in Getraidt Roggen sechs
+                    und Gersten auch 6<note>
                         <p rend="footnote text"> und Gersten auch 6 <hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi>
                         </p>
                     </note> Stär Luttacher Ambt Maas, guets saubers wohl gefirmets Korn, zu Weisath ain Kiz, dreissig Ayr, unnd zwo Hennen, alles rechten Grundt, und Herren Zins, dargegen hat man hierein
@@ -594,7 +600,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frischhueberischen zurugg gelassenen Kinderen zu Neinheiseren Gerichts Alträsen ist auf Ybergeben der <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs> <rs type="person" ref="#lercher_georg">Georgen Lercher</rs> Gatterers auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto Räsen <date when="1743-05-01">ersten May sibenzechenhundert dreiundtvierzig</date> der Frauen <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
+                            <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frischhueberischen zurugg gelassenen Kinderen zu <rs type="place" ref="#neunhaeusern">Neinheiseren Gerichts Alträsen</rs> ist auf Ybergeben der <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs> <rs type="person" ref="#lercher_georg">Georgen Lercher</rs> Gatterers auf den <rs type="place" ref="#tesselberg">Tesslperg</rs> Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto <rs type="place" ref="#rasen">Räsen</rs> <date when="1743-05-01">ersten May sibenzechenhundert dreiundtvierzig</date> der Frauen <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
                             <note>
                                 <p rend="footnote text"> -cherin<hi rend="italic" xml:space="preserve"> am nächsten Blatt geschrieben.</hi>
                                 </p>
@@ -634,7 +640,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in Mitterthall Antholz sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto Äntholz <date when="1745-12-22">zwoundtzwainzigisten December änno sibenzechenhundert finfundtvierzig</date> Capitall zwohundert<note>
+                            <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in <rs type="place" ref="#antholz_mittertal">Mitterthall Antholz</rs> sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto <rs type="place" ref="#antholz_mittertal">Äntholz</rs> <date when="1745-12-22">zwoundtzwainzigisten December änno sibenzechenhundert finfundtvierzig</date> Capitall zwohundert<note>
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Gulden.</p>
                             </note> funfzig Gulden, so Herr Ableiber seeligen von dessen Frauen Muetter Maria</cell>
@@ -651,7 +657,7 @@
                   <cell>250 f 0 x</cell>
                </row>
                <row>
-                  <cell>Mehr solle er <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> crafft Ybergab de däto Räsen <date when="1751-06-29">neinundt zwainzigisten Juni änno sibenzechenhundert ainundtfunfzig</date> auf Ybergeben seines Brueder <rs type="person" ref="#techterle_simon">Simon Techterle</rs> zu Räsen ebenfahls von dessen Frau Muetter herrierendes Capitall vierundtsibenzig Gulden, vierzig Kreizer id est</cell>
+                  <cell>Mehr solle er <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> crafft Ybergab de däto <rs type="place" ref="#rasen">Räsen</rs> <date when="1751-06-29">neinundt zwainzigisten Juni änno sibenzechenhundert ainundtfunfzig</date> auf Ybergeben seines Brueder <rs type="person" ref="#techterle_simon">Simon Techterle</rs> zu <rs type="place" ref="#rasen">Räsen</rs> ebenfahls von dessen Frau Muetter herrierendes Capitall vierundtsibenzig Gulden, vierzig Kreizer id est</cell>
                   <cell>74 f 40 x</cell>
                </row>
                <row>
@@ -851,10 +857,11 @@
                   <cell>4 f 10 x</cell>
                </row>
                <row>
-                  <cell>Der Khirchen alhier fir<note>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Khirchen alhier</rs> fir<note>
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>die.</p>
-                            </note> die angelegt, unnd in Grab getragnen Paramentis, auch in der Khirchen</cell>
+                            </note> die angelegt, unnd in Grab getragnen Paramentis, auch in der <rs type="place" ref="#st_georgen_kirche">Khirchen</rs>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -881,7 +888,7 @@
                <row>
                   <cell>
                      <p>Wegen erkhaufften Prugger Stuckh ist Herr Ableiber noch volgende Capitallien yberpendenermasser zu bezahlen schuldig,</p>
-                     <p>Als dem loblichen <rs type="place" ref="#st_georgen">Sanct Georgen</rs>
+                     <p>Als dem loblichen <rs type="place" ref="#st_georgen_kirche">Sanct Georgen</rs>
                             </p>
                   </cell>
                   <cell/>
@@ -896,7 +903,7 @@
                   <cell>608 f 0 x</cell>
                </row>
                <row>
-                  <cell>Interesse Ausstandt dem gewesten Khirchprobsten <rs type="person" ref="#khachler_hanns">Hannsen Khachler</rs> auf verwichen Liechtmössen sibenzechenhundert ainundtsechzig verfallen von ain Jahr vierundt zwainzig Gulden neinzechen Khreizer, daran ihme der Nachparschaffts Cassier, das deme von der Kirch aus zu empfangen gehabte Deputat inhanden gelassen mit funfzechen Gulden, sechs Khreizer, Rest noch ihme Khirchprobst nein Gulden, dreizechen Khreizer id est</cell>
+                  <cell>Interesse Ausstandt dem gewesten Khirchprobsten <rs type="person" ref="#khachler_hanns">Hannsen Khachler</rs> auf verwichen Liechtmössen sibenzechenhundert ainundtsechzig verfallen von ain Jahr vierundt zwainzig Gulden neinzechen Khreizer, daran ihme der Nachparschaffts Cassier, das deme von der <rs type="place" ref="#st_georgen_kirche">Kirch</rs> aus zu empfangen gehabte Deputat inhanden gelassen mit funfzechen Gulden, sechs Khreizer, Rest noch ihme Khirchprobst nein Gulden, dreizechen Khreizer id est</cell>
                   <cell>9 f 13 x</cell>
                </row>
                <row>
@@ -933,7 +940,7 @@
                   <cell>20 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem loblichen Sanct Jacobs Gottes Haus zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> yberpundene Interesse ainhundert nein-</cell>
+                  <cell>Dem loblichen <rs type="place" ref="#dietenheim_jakob">Sanct Jacobs Gottes Haus</rs> zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> yberpundene Interesse ainhundert nein-</cell>
                   <cell/>
                </row>
             </table>
@@ -981,7 +988,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu Steegen umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
+                            <rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu <rs type="place" ref="#steegen">Steegen</rs> umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
                   <cell>5 f 9 x</cell>
                </row>
                <row>

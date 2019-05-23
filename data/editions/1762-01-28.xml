@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator)]</title>
+            <titleshort>Mitterdorfer Jakob Christoph (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1762</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="53r" to="65r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -67,11 +68,11 @@
                <pb n="53r"/>
             </p>
             <p>Unseren freundlichen Gruß, und Dienst zuvor. Ehrwürdig, edl, hochgelehrter besonders lieber Freund und Herr!</p>
-            <p>Demnach des Herrn Berichts genugs untern 28ten lezten verflossenen Monats, und Jahrs Priester Jacob Christoph Mitterdorfer gewesener Cooperator zu St. Lorenzen zeitlichen Tods verblichen, und hierauf in Namen diesortigen Ordinariats von dem Herrn an das Ableibers hintergebenen Zeitlichkeiten die Secretur angelegt worden; Als wollen es nit nur dabey bewenden lassen, sondern auch dem Herrn anmit den behörigen Commissions Gwalt dahin auftragen, daß selber gedachten Ableibers hinterlassene Vermögenheit servatis servandis, et vocatis vocandis vollständig beschreiben, ergänzen, vertheilen, und behöriger Orten aushändigen. Da aber die allenfalls verhanden leztwillige Verordnung von denen Erbs-, oder anderen Interessenten angefochten wurde, das zu Hinlegung derley Differenz verfachende Projecten zu diesortiger Entscheidung, wie auch seiner Zeiten die Handlungs acta in originali, oder copia authentica mit seinen Berichten anhero einsenden</p>
+            <p>Demnach des Herrn Berichts genugs untern 28ten lezten verflossenen Monats, und Jahrs Priester Jacob Christoph Mitterdorfer gewesener Cooperator zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> zeitlichen Tods verblichen, und hierauf in Namen diesortigen Ordinariats von dem Herrn an das Ableibers hintergebenen Zeitlichkeiten die Secretur angelegt worden; Als wollen es nit nur dabey bewenden lassen, sondern auch dem Herrn anmit den behörigen Commissions Gwalt dahin auftragen, daß selber gedachten Ableibers hinterlassene Vermögenheit servatis servandis, et vocatis vocandis vollständig beschreiben, ergänzen, vertheilen, und behöriger Orten aushändigen. Da aber die allenfalls verhanden leztwillige Verordnung von denen Erbs-, oder anderen Interessenten angefochten wurde, das zu Hinlegung derley Differenz verfachende Projecten zu diesortiger Entscheidung, wie auch seiner Zeiten die Handlungs acta in originali, oder copia authentica mit seinen Berichten anhero einsenden</p>
             <p>
                <pb n="53v"/>
             </p>
-            <p>solle. Hieran vollziecht der Herr unseren Willen, und Maynung, und wür verbleiben demselben anbey wohl zugethan. Geben in Consistorio zu Brixen den 4. Jenner 1762.</p>
+            <p>solle. Hieran vollziecht der Herr unseren Willen, und Maynung, und wür verbleiben demselben anbey wohl zugethan. Geben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den 4. Jenner 1762.</p>
             <p>
                     <rs type="person" ref="#ferdinand_joseph">Ferdinand Joseph</rs> Bischof zu Hypsopolitanus, Praesident m.p.</p>
             <p>
@@ -83,24 +84,26 @@
                <pb n="54v"/>
             </p>
             <p>[Rubrum:] 4 Jener 1762</p>
-            <p>Commissionsgwalt zur Abhandlung des verstorben Cooperator zu St. Lorenzen P(ate)rs Jacob Christoph Mitterdorferische Verlassenschafft seel. den 14ten detto.</p>
-            <p>[Briefadresse:] Dem ehrwürdig, edlen, hochgelehrten Joseph Mathias Ingram von Liebenrain, und Fragburg SS. Theol. Dri. fürstlich Brixnerisch wirklichen Consistorial Rath, auch Dechand, und Pfarrern zu Brunegg, unseren besonders lieben Freund, und Herrn.</p>
-            <p>Brunegg</p>
+            <p>Commissionsgwalt zur Abhandlung des verstorben Cooperator zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> P(ate)rs Jacob Christoph Mitterdorferische Verlassenschafft seel. den 14ten detto.</p>
+            <p>[Briefadresse:] Dem ehrwürdig, edlen, hochgelehrten Joseph Mathias Ingram von Liebenrain, und Fragburg SS. Theol. Dri. fürstlich Brixnerisch wirklichen Consistorial Rath, auch Dechand, und Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>, unseren besonders lieben Freund, und Herrn.</p>
+            <p>
+                    <rs type="place" ref="#brunegg">Brunegg</rs>
+                </p>
             <p>[Oblatensiegel des Ferdinand Joseph Gabriel zu Sarnthein]</p>
             <p>
                <pb n="55r"/>
             </p>
             <p>[Rubrum:] Abhandlung Herr Jacob Christoph Mitterdorfer Cooperator seel.</p>
             <p>[Aktenvermerk:] Exped.</p>
-            <p>Actum in Pfarr Widumb zu Sanct Lorenzen, den 28isten Jenner anno 1762.</p>
-            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn Joseph Mathias Igramb von Liebenrain und Fragburg, S.S. Theol. Dri., Tyrollischen Herrn und Landtman hochfirstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dechandt und Pfarrherrn zu Brunegg, als vermig vorgewisen und alda ad acto registrierten gnedigen Commissions Befelch, gnedig verordneten Commissario</p>
-            <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn Joseph Ignati Englmohr, von Aufkhirchen zu Mohregg, beeder Rechten Lit. ooe. Regimentsadvocaten, auch Pfleger und Landtrichtern, der Herrschafft Sanct Michaelspurg.</p>
-            <p>Zugegen des wohledlen Herrn Franz Michael Marchner geistlichen Commission und Ambt Gerichtschreibern zu Brunegg.</p>
+            <p>Actum in <rs type="place" ref="#st_lorenzen_kirche">Pfarr Widumb</rs> zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den 28isten Jenner anno 1762.</p>
+            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn Joseph Mathias Igramb von Liebenrain und Fragburg, S.S. Theol. Dri., Tyrollischen Herrn und Landtman hochfirstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dechandt und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als vermig vorgewisen und alda ad acto registrierten gnedigen Commissions Befelch, gnedig verordneten Commissario</p>
+            <p>Und dem wohledl gebohrn gestreng und hochgelehrten Herrn Joseph Ignati Englmohr, von Aufkhirchen zu Mohregg, beeder Rechten Lit. ooe. Regimentsadvocaten, auch Pfleger und Landtrichtern, der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Zugegen des wohledlen Herrn Franz Michael Marchner geistlichen Commission und Ambt Gerichtschreibern zu <rs type="place" ref="#brunegg">Brunegg</rs>.</p>
             <p>Demnach aus Göttlicher zuelass so der Verordnung, an dem kurz verwichenen</p>
             <p>
                <pb n="55v"/>
             </p>
-            <p>Herbst alhie eingerissenen Hizigen Tisl unter andern auch der hoch erwirdig edl und hochgelehrte Herr Jacob Christoph Mitterdorffer damahlig eltiste Cooperator alhie zu Sanct Lorenzen, in Ausyebung der Seelsorg, ergriffen wurde, und nach ausgestandener 9tegiger Ohnbessligkheit, das Zeitliche mit dem ebigen und sonders Zweifl besseren Leben verwexlet, und ebenfahls daran zu allmeniglichen Betauren verstorben, welch diser und all ybrig in Gott verschidenen Seelen der Allerhegste mit Gnaden pflögen und am Tag des Jüngst und Letsten Gerichts ein frelichn Urstent und erwintschten Eingang in die immerwerende Freidt und Seeligkheit aller mildist verlichen wolle, seint iber vorleifig von Seiten der gnedig geistlichen Comission und weltlichen Obrigkeit angelegter Secretur und zu Hilf und Trost der abgeleibten Seel abgehaltenen gewohnlichen Heiligen Gottsdienst, vor hochgemelt gnedigen Herrn Herrn Comissario und loblich weltlicher Obrigkeit in Gehorsamb beikhumben, des Herrn Ableibers seel. eheleibliche Vater der wohlfirnemb Mathes Mitterdorffer Gerichtsausschuss auch Würth und Gastgeb zu Tilliach, dan dessen</p>
+            <p>Herbst alhie eingerissenen Hizigen Tisl unter andern auch der hoch erwirdig edl und hochgelehrte Herr Jacob Christoph Mitterdorffer damahlig eltiste Cooperator alhie zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, in Ausyebung der Seelsorg, ergriffen wurde, und nach ausgestandener 9tegiger Ohnbessligkheit, das Zeitliche mit dem ebigen und sonders Zweifl besseren Leben verwexlet, und ebenfahls daran zu allmeniglichen Betauren verstorben, welch diser und all ybrig in Gott verschidenen Seelen der Allerhegste mit Gnaden pflögen und am Tag des Jüngst und Letsten Gerichts ein frelichn Urstent und erwintschten Eingang in die immerwerende Freidt und Seeligkheit aller mildist verlichen wolle, seint iber vorleifig von Seiten der gnedig geistlichen Comission und weltlichen Obrigkeit angelegter Secretur und zu Hilf und Trost der abgeleibten Seel abgehaltenen gewohnlichen Heiligen Gottsdienst, vor hochgemelt gnedigen Herrn Herrn Comissario und loblich weltlicher Obrigkeit in Gehorsamb beikhumben, des Herrn Ableibers seel. eheleibliche Vater der wohlfirnemb Mathes Mitterdorffer Gerichtsausschuss auch Würth und Gastgeb zu <rs type="place" ref="#st_lorenzen">Tilliach</rs>, dan dessen</p>
             <p>
                <pb n="56r"/>
             </p>
@@ -433,7 +436,7 @@
                   <cell rend="left">1 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Und die Vahrnüssen so Herr Ableiber seel. in Jempach zum Aufbehalt hat, betröffen laut der von Herren Curat daselbs Sebastian Waiz abgebener und denen Erben behendigter Specification</cell>
+                  <cell rend="left">Und die Vahrnüssen so Herr Ableiber seel. in <rs type="place" ref="#jempach">Jempach</rs> zum Aufbehalt hat, betröffen laut der von Herren Curat daselbs Sebastian Waiz abgebener und denen Erben behendigter Specification</cell>
                   <cell rend="left">15 f 11 x</cell>
                </row>
                <row>
@@ -850,7 +853,7 @@
             <table rend="rules">
                <row>
                   <cell rend="left">
-                     Und nach Sag vor allegierter Specification von Herrn Curat in Jempach betröffen die daselbs habende <bibl>Piecher</bibl>
+                     Und nach Sag vor allegierter Specification von Herrn Curat in <rs type="place" ref="#jempach">Jempach</rs> betröffen die daselbs habende <bibl>Piecher</bibl>
                   </cell>
                   <cell rend="left">15 f 0 x</cell>
                </row>
@@ -989,7 +992,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell rend="left">vor Herrn Ableiber seel. alhier und zu Reischach gelesene Heilige Mössen</cell>
+                  <cell rend="left">vor Herrn Ableiber seel. alhier und zu <rs type="place" ref="#reischach">Reischach</rs> gelesene Heilige Mössen</cell>
                   <cell rend="left">1 f 6 x</cell>
                </row>
                <row>
@@ -997,7 +1000,7 @@
                   <cell rend="left">5 f 36 x</cell>
                </row>
                <row>
-                  <cell rend="left">Sodan den P. Capucinern zu Brunegg vor gelesene Heilige Mässen</cell>
+                  <cell rend="left">Sodan den P. Capucinern zu <rs type="place" ref="#brunegg">Brunegg</rs> vor gelesene Heilige Mässen</cell>
                   <cell rend="left">2 f 48 x</cell>
                </row>
                <row>
@@ -1038,15 +1041,16 @@
                   <cell rend="left">1 f 50 x</cell>
                </row>
                <row>
-                  <cell rend="left">No 8: Den Antoni Salcher Schuelmaister zu Brunegg</cell>
+                  <cell rend="left">No 8: Den Antoni Salcher Schuelmaister zu <rs type="place" ref="#brunegg">Brunegg</rs>
+                        </cell>
                   <cell rend="left">1 f 54 x</cell>
                </row>
                <row>
-                  <cell rend="left">Der loblichen Pfarr Kirchen alhier willen in Grab gegebenen Paramentae und in Sarch gethaner Begrebnus</cell>
+                  <cell rend="left">Der loblichen <rs type="place" ref="#st_lorenzen_kirche">Pfarr Kirchen</rs> alhier willen in Grab gegebenen Paramentae und in Sarch gethaner Begrebnus</cell>
                   <cell rend="left">22 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Der Jungfrau Heiserin in Pfarr Widumb auch Diern und Paschi noch ausstendiges Neu Jahr Regal</cell>
+                  <cell rend="left">Der Jungfrau Heiserin in <rs type="place" ref="#st_lorenzen_kirche">Pfarr Widumb</rs> auch Diern und Paschi noch ausstendiges Neu Jahr Regal</cell>
                   <cell rend="left">2 f 0 x</cell>
                </row>
                <row>
@@ -1075,7 +1079,7 @@
                   <cell rend="left">12 f 0 x</cell>
                </row>
                <row>
-                  <cell rend="left">Den Herrn Cooperatore zu Brunegg willen gelesenen Heilige Mössen</cell>
+                  <cell rend="left">Den Herrn Cooperatore zu <rs type="place" ref="#brunegg">Brunegg</rs> willen gelesenen Heilige Mössen</cell>
                   <cell rend="left">3 f 0 x</cell>
                </row>
                <row>
@@ -1087,7 +1091,7 @@
                   <cell rend="left">1 f 45 x</cell>
                </row>
                <row>
-                  <cell rend="left">Der Christina Eypergerin in Jempach Capitäl</cell>
+                  <cell rend="left">Der Christina Eypergerin in <rs type="place" ref="#jempach">Jempach</rs> Capitäl</cell>
                   <cell rend="left">25 f 0 x</cell>
                </row>
                <row>
@@ -1135,7 +1139,7 @@
             <p>
                <pb n="64v"/>
             </p>
-            <p>Geherde abzufiehren und zu bezahlen; Umb damit aber die gnedig geistliche Commission und weltliche Obrigkeit umb sothaner Ybernembung sowohl- als umb willen der zugleich anverlangter Extradierung des Vermigens nit etwa angefochten, sondern in Sicherheit gesezt werde, und verbleiben mege, sollen sie Geschwistriget nebst dero eheleiblichen Vater, und zwar all insgesambt- und iedes zu Sonderheit unter Verpfendung ihres Vermigens, da und zum Fall wider verhofen, was wüdrigens iber kurz oder lang heraus khumben solt, vor dissortigen foro ohne mindist machende Exception, Redt und Antworth und allenfahlige Satisfaction zu geben schuldig, denenselben dargegen ebenfahls die noch in Jempach ausligen sollende 100 f und respective annoch weitteres Vermigen unter sich selbst verthaillen zu khenen yberlassen sein.</p>
+            <p>Geherde abzufiehren und zu bezahlen; Umb damit aber die gnedig geistliche Commission und weltliche Obrigkeit umb sothaner Ybernembung sowohl- als umb willen der zugleich anverlangter Extradierung des Vermigens nit etwa angefochten, sondern in Sicherheit gesezt werde, und verbleiben mege, sollen sie Geschwistriget nebst dero eheleiblichen Vater, und zwar all insgesambt- und iedes zu Sonderheit unter Verpfendung ihres Vermigens, da und zum Fall wider verhofen, was wüdrigens iber kurz oder lang heraus khumben solt, vor dissortigen foro ohne mindist machende Exception, Redt und Antworth und allenfahlige Satisfaction zu geben schuldig, denenselben dargegen ebenfahls die noch in <rs type="place" ref="#jempach">Jempach</rs> ausligen sollende 100 f und respective annoch weitteres Vermigen unter sich selbst verthaillen zu khenen yberlassen sein.</p>
             <p>Allermassen nach beschechner Ablesung, auch<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>hiemit wegen spruchermassen</p>
@@ -1151,7 +1155,7 @@
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen</hi> unter Verpfendung dero Vermigenheiten.</p>
                     </note> in Gehorsamb und Demueth das Handt Anloben und zu Ausfertigung aines solchen Instruments, die Sigl Pith erstatt haben.</p>
-            <p>Testes Johan Kherschpaumber Landtgerichtschreiber, und Joseph Steeger Schreiber etc. beedt alhier zu Sanct Lorenzen.</p>
+            <p>Testes Johan Kherschpaumber Landtgerichtschreiber, und Joseph Steeger Schreiber etc. beedt alhier zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</p>
          </div>
       </body>
    </text>

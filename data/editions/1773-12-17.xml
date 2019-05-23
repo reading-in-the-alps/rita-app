@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1773 XII 17/18, St. Georgen (in der Kaplanei) und 1788 II 18/19, St. Lorenzen [Gasser Joseph (Benefiziat)]</title>
+            <titleshort>Gasser Joseph (Benefiziat)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -23,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1773; Verfachbuch St. Michaelsburg 1778</repository>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="117r" to="183r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -55,16 +56,16 @@
             <p>
                <pb n="117r"/>
             </p>
-            <p>[Rubrum:] Vermigens Egenzung Einraumung und Erbs Thaillung weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> seel.</p>
+            <p>[Rubrum:] Vermigens Ergenzung Einraumung und Erbs Thaillung weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> seel.</p>
             <p>[Aktenvermerk:] Exped. 1 [mal]</p>
-            <p>Actum <rs type="place" ref="#st_georgen">Sanct Georgen</rs> in der Caplaney Behausung, den <date when="1773-12-17">17</date> und <date when="1773-12-18">18sten December, anno 1773</date>.</p>
+            <p>Actum <rs type="place" ref="#st_georgen">Sanct Georgen</rs> in der <rs type="place" ref="#st_georgen_kirche">Caplaney Behausung</rs>, den <date when="1773-12-17">17</date> und <date when="1773-12-18">18sten December, anno 1773</date>.</p>
             <p>Vor Ihro Hochwürden, und Gnaden, dem wohl gebohrnen Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Igramb zu Liebenrain, und Fragburg</rs>, Tyrolischen Herren und Landman, S.S. Theol. Dri. hochfürstlich Brixnerisch würcklichen Consistorial Rath, auch Dochand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>. Dann dem wohl edlgebohrnen, gestrengen, und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkirchen, zu Mohregg</rs>, Pfleger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
             <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michaelen Marchner</rs> Amtgericht- und Comissionschreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>. Und des fürnemmen <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofer</rs> Würth, und Gastgebens auch Gerichts Ausschus allda zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs> sössig, als Beysizern, und Taxatores.</p>
             <p>Nachdeme Gott dem Allmächtigen abermalen beliebet, seinen allerheiligisten Willen zu vollziechen, und andurch weylande dem wohlehrwürdigen edlen und wohlgelehrten Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> von diesen Zeitlichen zu dem Ewigen abzufordern, und zweifls ohne zu sich in die ewig himlische Freüd und Glickseligkeit an- und aufzunemmen, Gott gnad der Seelen, hat man von Seiten der gnädig geistlichen Commission, und weltlichen Obrigkeit etc. nicht ermanglet, also gleich die Secretur anzelegen, und seinen ainen</p>
             <p>
                <pb n="117v"/>
             </p>
-            <p>als vatterbändig noch minderjährigen Brueder auch <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> zu <rs type="place" ref="#brixen">Brixen</rs>, massen der baidpändige Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> seiner Profession ein Hafner sich in Engeland begeben, und bereits schon 25 Jahr abwesig ohne in Wissenschaft zu haben, obe selber noch bey Leben, oder tod seye, diesen Todfall wissent zu machen. Und so nun er ainpändige Brueder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit seinem Stief-Vatter <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs>, als hierzue verpflichten Curatore anhero beykommen, und gehorsamblichen gebethen, das Herrn brüederlich angefallene Vermigen in gebräuchige Beschreibung und Ergänzung zu bringen, und soforth dasselbe ihme, weilen der abwesige Brueder soviel als tod zu halten, allein einzuraummen, und zu yberlassen. Als wurde zu solchem Ende auf anheut däto Anstalt ernennet, und zufolg solch billichmessigen Begehrn, all vorderist die Secretur eröfnet, und sodann das zurugg gelassene Vermigen in Ergänzung und Verhandlung gebracht, wie mehrers hernach zu vernemmen, und folgt vor allen die</p>
+            <p>als vatterbändig noch minderjährigen Brueder auch <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> zu <rs type="place" ref="#brixen">Brixen</rs>, massen der baidpändige Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> seiner Profession ein Hafner sich in <rs type="place" ref="#england">Engeland</rs> begeben, und bereits schon 25 Jahr abwesig ohne in Wissenschaft zu haben, obe selber noch bey Leben, oder tod seye, diesen Todfall wissent zu machen. Und so nun er ainpändige Brueder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit seinem Stief-Vatter <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs>, als hierzue verpflichten Curatore anhero beykommen, und gehorsamblichen gebethen, das Herrn brüederlich angefallene Vermigen in gebräuchige Beschreibung und Ergänzung zu bringen, und soforth dasselbe ihme, weilen der abwesige Brueder soviel als tod zu halten, allein einzuraummen, und zu yberlassen. Als wurde zu solchem Ende auf anheut däto Anstalt ernennet, und zufolg solch billichmessigen Begehrn, all vorderist die Secretur eröfnet, und sodann das zurugg gelassene Vermigen in Ergänzung und Verhandlung gebracht, wie mehrers hernach zu vernemmen, und folgt vor allen die</p>
             <p>Inventur</p>
             <p>Und zwar erstlichen in den klain Stübelen.</p>
             <table rend="rules">
@@ -358,7 +359,7 @@
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell>Aber ain <hi rend="bold">Schreib-Buld</hi> mit 3 Tätlen, per</cell>
+                  <cell>Aber ain <bibl>Schreib-Buld</bibl> mit 3 Tätlen, per</cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -1903,7 +1904,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Wie in des Herren Ableibers Aufschreibung zu ersehen, seind noch 89 Heilige Messen, und darunter 3 auf der Porkirchen zu <rs type="place" ref="#gais">Gais</rs> zu lesen ausständig, hierfür zu 30 und respective 24 x ausgesezt wirdet</cell>
+                  <cell>Wie in des Herren Ableibers Aufschreibung zu ersehen, seind noch 89 Heilige Messen, und darunter 3 auf der <rs type="place" ref="#gais_kirche">Porkirchen</rs> zu <rs type="place" ref="#gais">Gais</rs> zu lesen ausständig, hierfür zu 30 und respective 24 x ausgesezt wirdet</cell>
                   <cell>35 f 54 x</cell>
                </row>
                <row>
@@ -1927,7 +1928,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dem <rs type="person" ref="#ehrnhauser_michael">Michael Ehrnhauser</rs> Hinteregger in der Neustüft, noch Rest an abgebenen Wein</cell>
+                  <cell>Dem <rs type="person" ref="#ehrnhauser_michael">Michael Ehrnhauser</rs> Hinteregger in der <rs type="place" ref="neustift">Neustüft</rs>, noch Rest an abgebenen Wein</cell>
                   <cell>5 f 21 x</cell>
                </row>
                <row>
@@ -1976,7 +1977,7 @@
                   <cell>6 f 18 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#hueber_niclaus">Niclaus Hueber</rs>, so von des Herrn Ableibers Todfall an bis anhero in dem Widum gewesen, und auf die Fahrnussen obacht getragen, mit Einschlus der auf <rs type="place" ref="#brixen">Brixen</rs> zu Ansagung des Todfalls gemachten Rais</cell>
+                  <cell>Dem <rs type="person" ref="#hueber_niclaus">Niclaus Hueber</rs>, so von des Herrn Ableibers Todfall an bis anhero in dem <rs type="place" ref="#st_georgen_kirche">Widum</rs> gewesen, und auf die Fahrnussen obacht getragen, mit Einschlus der auf <rs type="place" ref="#brixen">Brixen</rs> zu Ansagung des Todfalls gemachten Rais</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -2025,14 +2026,14 @@
             <p>
                <pb n="130v"/>
             </p>
-            <p>interessenten in Voraus, aus der ybrigen Helfte aber ain Dritl der Kirchen wo selber verstorben, ain Dritl denen Armen, und das ybrige Drittl abermalen denen Erben, da diese aber arm, und betürftig waren, auch solches Drittl denenselben zuekommen, und der diesfallige Erb ebenfalls für arm, und dieses Dritl höchst betürftig zu seyn zu halten, als hat mithin allvorderist von vorständig verbliebenen Vermigen für den Erb abgezochen zu werden,</p>
+            <p>interessenten in Voraus, aus der ybrigen Helfte aber ain Dritl der <rs type="place" ref="#st_georgen_kirche">Kirchen</rs> wo selber verstorben, ain Dritl denen Armen, und das ybrige Drittl abermalen denen Erben, da diese aber arm, und betürftig waren, auch solches Drittl denenselben zuekommen, und der diesfallige Erb ebenfalls für arm, und dieses Dritl höchst betürftig zu seyn zu halten, als hat mithin allvorderist von vorständig verbliebenen Vermigen für den Erb abgezochen zu werden,</p>
             <table rend="rules">
                <row>
                   <cell>die Helfte mit</cell>
                   <cell>120 f 24 x</cell>
                </row>
                <row>
-                  <cell>Dann von der ybrigen Helfte ain Dritl für der allhiesigen <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirchen, mit</cell>
+                  <cell>Dann von der ybrigen Helfte ain Dritl für der allhiesigen <rs type="place" ref="#st_georgen_kirche">St. Georgen Kirchen</rs>, mit</cell>
                   <cell>40 f 8 x</cell>
                </row>
                <row>
@@ -2073,7 +2074,7 @@
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Am linken Rand eingefügt. </hi>
                                 </p>
-                            </note> der loblichen <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirchen die</cell>
+                            </note> der loblichen <rs type="place" ref="#st_georgen">St. Georgen Kirchen</rs> die</cell>
                   <cell>40 f 8 x</cell>
                </row>
                <row>
@@ -2094,7 +2095,7 @@
                         <p rend="footnote text"> mit Versprö- <hi rend="italic" xml:space="preserve"> auf Rasur korrigiert. </hi>
                         </p>
                     </note>, wann er <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs>, oder von ihme jemande Legitimierter yber kurz, oder lang beykommen, und das Erb anspröchen wurde, demenselben zu Red, und Antworth zu stehen, allenfalls Satisfaction zu geben, und diesfalls sowohl die gnädig geistliche Commission als weltliche Obrigkeit ohne Nachtheil und Schaden zu halten.</p>
-            <p>Schlüslichen verbleibt um die Schulden hinaus, der Kirchen ihr Contingent, und Herrn brüederlichen Erb, des Vermigens ybernemenden <rs type="person" ref="#tratter_mathes">Mathesen Tratters</rs> ganzes und völliges Vermigen in specie die Einraummung fürpfändlichen einge-</p>
+            <p>Schlüslichen verbleibt um die Schulden hinaus, der <rs type="place" ref="#st_georgen_kirche">Kirchen</rs> ihr Contingent, und Herrn brüederlichen Erb, des Vermigens ybernemenden <rs type="person" ref="#tratter_mathes">Mathesen Tratters</rs> ganzes und völliges Vermigen in specie die Einraummung fürpfändlichen einge-</p>
             <p>
                <pb n="131v"/>
             </p>
@@ -2223,7 +2224,7 @@
                <p>eigen angefallene, und zugemitlte Erbs Gebührnuss samt was dabey berühret, verabgefolget werden könne.</p>
                <p>Den <date when="1787-07-18">18ten July 1787</date> hat derselbe, da er sich schon etliche Jahr in <rs type="place" ref="#naudersberg">Naudersberg</rs> verehelichet, und mitlst eines Haussankaufs ansessig gemachet, seinem Stiefvater <rs type="person" ref="#brunegger_antoni">Anton Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs> zu Erhebung dieser Erbschaft,
                worzu er wegen so langer Abwesenheit des <rs type="person" ref="#gasser_jacob">Jacob Gassers</rs> eine Caution einzustellen nicht beursachet seyn werde, den Gewalt abgeben.</p>
-               <p>Verwichenes Monat November, und December 1787 ist er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>, und zwar erstmals mit seinen Stiefvater, letzterhand aber allein dieser Ursachen halber anhero beygekommen, eben darumen hat sich derselbe auch vorgestern zu titl. Herrn Pfleger zu Altrasen in Meynung, dieser seye von denen Befreünden in <rs type="place" ref="#sterzing">Sterzing</rs> begwältiget, begeben, aber ohnverrichter Sachen wiederumen zurück gekommen; dessentwegen auf dessen Ansuchen unter heüntigen Dato ein Promotoriale nacher Alträsen ausgefertiget, unterdessen aber das sich dermalen zeigende Erbs Quantum einsmals, so viel möglich, in folgende Richtigkeit gebracht worden.</p>
+               <p>Verwichenes Monat November, und December 1787 ist er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>, und zwar erstmals mit seinen Stiefvater, letzterhand aber allein dieser Ursachen halber anhero beygekommen, eben darumen hat sich derselbe auch vorgestern zu titl. Herrn Pfleger zu <rs type="place" ref="#rasen">Altrasen</rs> in Meynung, dieser seye von denen Befreünden in <rs type="place" ref="#sterzing">Sterzing</rs> begwältiget, begeben, aber ohnverrichter Sachen wiederumen zurück gekommen; dessentwegen auf dessen Ansuchen unter heüntigen Dato ein Promotoriale nacher <rs type="place" ref="#rasen">Alträsen</rs> ausgefertiget, unterdessen aber das sich dermalen zeigende Erbs Quantum einsmals, so viel möglich, in folgende Richtigkeit gebracht worden.</p>
                <p>
                   <pb n="179v"/>
                </p>
@@ -2233,7 +2234,7 @@
                      <cell>240 f 48 x</cell>
                   </row>
                   <row>
-                     <cell>Davon kommen die bereits der <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirche schon erlegte</cell>
+                     <cell>Davon kommen die bereits der <rs type="place" ref="#st_georgen_kirche">St. Georgen Kirche</rs> schon erlegte</cell>
                      <cell>40 f 8 x</cell>
                   </row>
                   <row>
@@ -2314,7 +2315,7 @@
                             </cell>
                   </row>
                   <row>
-                     <cell>Nämlich für dem <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> als Armen, als welcher in erst obige Abzüge, weilen die <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirche schon ganz bezahlet, die völlige Helfte mit 13 f 20 x zu entgelten hat, noch</cell>
+                     <cell>Nämlich für dem <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> als Armen, als welcher in erst obige Abzüge, weilen die <rs type="place" ref="#st_georgen_kirche">St. Georgen Kirche</rs> schon ganz bezahlet, die völlige Helfte mit 13 f 20 x zu entgelten hat, noch</cell>
                      <cell>66 f 56 x</cell>
                   </row>
                   <row>
@@ -2369,14 +2370,14 @@
                      <cell>130 f 0 x</cell>
                   </row>
                </table>
-               <p>Nach so liquidierten Vermögen ist der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit dem Ersuchschreiben nacher Alträsen abgegangen, geistlicher Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> hat angelanget die Sach doch dermaleinist dem Ausgang zuzuwenden.</p>
+               <p>Nach so liquidierten Vermögen ist der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit dem Ersuchschreiben nacher <rs type="place" ref="#rasen">Alträsen</rs> abgegangen, geistlicher Herr <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> hat angelanget die Sach doch dermaleinist dem Ausgang zuzuwenden.</p>
                <p>Wobey es dato einsmals verblieben.</p>
                <p>
                   <pb n="181r"/>
                </p>
                <p>Actum St. Lorenzen den <date when="1788-02-19">19ten Februar 1788</date>.</p>
                <p>Vor, und zugegen ut supra.</p>
-               <p>Hat <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> von titl. Herrn Pfleger zu Alträsen ein Antwortschreiben von heüntigen Dato beygebracht, und gebetten, ihme nicht nur seine Particular Praetension, sondern auch das würkliche Erb erfolgen zu lassen, da ihme ehedeme aus Verursachung der <rs type="place" ref="#sterzing">Sterzingerischen</rs> Befreünden die jährliche Interesse hievon entgangen, er dessentwegen viele Reisen, und Gäng um sein baares Geld verrichten, auch eben wegen dem geistlichen Herrn brüderlichen Erb an der pässlichen Mollauerischen Erbschaft verkürzet werden musste, derowegen er sich auch all weiteren Gesuch vorbehaltet.</p>
+               <p>Hat <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> von titl. Herrn Pfleger zu <rs type="place" ref="#rasen">Alträsen</rs> ein Antwortschreiben von heüntigen Dato beygebracht, und gebetten, ihme nicht nur seine Particular Praetension, sondern auch das würkliche Erb erfolgen zu lassen, da ihme ehedeme aus Verursachung der <rs type="place" ref="#sterzing">Sterzingerischen</rs> Befreünden die jährliche Interesse hievon entgangen, er dessentwegen viele Reisen, und Gäng um sein baares Geld verrichten, auch eben wegen dem geistlichen Herrn brüderlichen Erb an der pässlichen Mollauerischen Erbschaft verkürzet werden musste, derowegen er sich auch all weiteren Gesuch vorbehaltet.</p>
                <p>Ex parte judicii</p>
                <p>findet man in dieser Erbs Anliegenheit 2 Gegenstände, nämlich, wer dann zu dieser Erbschaft zu admittieren, und obe dann auch ein Stammenguts Praetension noch Blatz habe. Betrachtet man nur die Berufung zur Erbschaft, erhellet aus der Vermögens Abhandlung de anno 1773 und zwar aus der Einraumung No. 3tens, dass der <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> nur von darumen, weilen von dem baidbändigen
                Bruder <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, obe selber ja, oder nicht bey Leben, nichts bekant ware, in so lang nicht erheben kunte, bis nicht er Joseph Gasser eine annehmliche Caution allda einstelle, und, zum Fahl der <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, oder</p>

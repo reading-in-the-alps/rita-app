@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1798 IX 1, St. Lorenzen [Hueber Jakob (Benefiziat in Saalen)]</title>
+            <titleshort>Hueber Jakob (Benefiziat in Saalen)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="559r" to="563r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

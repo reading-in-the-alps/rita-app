@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1792 XI 13/14 (Inventur) &amp; 15 (Vermögensergänzung), St. Georgen [Tratter Josef (Kaplan)]</title>
+            <titleshort>Tratter Josef (Kaplan)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="477r" to="502v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
@@ -198,7 +199,7 @@
             <p>1: der wohl ehrwürdige Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> Cooperator zu <rs type="place" ref="#lazfonns">Latzfons</rs>, dann</p>
             <p>2: <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, Tratter allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Stadtgerichts <rs type="place" ref="#brunegg">Bruneck</rs>, weiters</p>
             <p>3: <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin Prantlechnerin</rs> daselbs in assistentia des wohl ehrsamen <rs type="person" ref="#felser_joseph">Joseph Felsers halben Kaltenhausers</rs> allda, nicht weniger</p>
-            <p>4: der auch wohl ehrsame <rs type="person" ref="#peintner_georg">Georg Peintner Kachler Würth</rs> daselbs als obrigkeitlicher verpflichten Curatores nicht nur der von Bruder <rs type="person" ref="#tratter_veit">Veit Tratter</rs> gewesten Weisgärbermeistern zu <rs type="place" ref="#stoerzing">Störzing</rs> bey
+            <p>4: der auch wohl ehrsame <rs type="person" ref="#peintner_georg">Georg Peintner Kachler Würth</rs> daselbs als obrigkeitlicher verpflichten Curatores nicht nur der von Bruder <rs type="person" ref="#tratter_veit">Veit Tratter</rs> gewesten Weisgärbermeistern zu <rs type="place" ref="#sterzing">Störzing</rs> bey
             <rs type="person" ref="#tratter_anna">Anna gebohrnen Ofnerin</rs> nachgelassenen 8 Kindern, deren Nämen allda vorbehalten, wovon nur sie Wittib gegenwärtig, sondern auch</p>
             <p>5to: der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> einer Wittwe in Borgo nächst <rs type="place" ref="#roveredo">Roveredo</rs>, und</p>
             <p>6to: der von weilend <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> in Pasln, oder selber Gegend ruckbegebenen Descendenten</p>
@@ -1120,7 +1121,7 @@
                   <cell>22 f 47 x</cell>
                </row>
             </table>
-            <p>Obiger <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> hat denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kindern zu <rs type="place" ref="#stoerzing">Sterzing</rs> an der noch betroffenen änderlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Erbschaft pr 228 f 34 x auf erhaltene Übergab 200 f vorgestrecket, worumen sich geistlicher Herr Erblasser übershin unter eigenen Handschrift und Petschaft als Bürg eingelassen, welches allda mit deme Berichtsweis angeführet wird, das respectu der übrigen 28 f 34 x die Schuldnerin <rs type="person" ref="#tratter_margaretha">Margaretha Mayrin Tratterin</rs> selbs 21 f denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kindern mitlst bezahlten <rs type="person" ref="#herrnegger_johann">Johann Herrneggerischen</rs> Interessen schon gut gemachet, mithin sie <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder bey der Tratterin noch 7 f 34 x zu begehren haben.</p>
+            <p>Obiger <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> hat denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kindern zu <rs type="place" ref="#sterzing">Sterzing</rs> an der noch betroffenen änderlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Erbschaft pr 228 f 34 x auf erhaltene Übergab 200 f vorgestrecket, worumen sich geistlicher Herr Erblasser übershin unter eigenen Handschrift und Petschaft als Bürg eingelassen, welches allda mit deme Berichtsweis angeführet wird, das respectu der übrigen 28 f 34 x die Schuldnerin <rs type="person" ref="#tratter_margaretha">Margaretha Mayrin Tratterin</rs> selbs 21 f denen <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Kindern mitlst bezahlten <rs type="person" ref="#herrnegger_johann">Johann Herrneggerischen</rs> Interessen schon gut gemachet, mithin sie <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder bey der Tratterin noch 7 f 34 x zu begehren haben.</p>
             <p>Erstgemelte <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder haben auf Credit des geistlichen Herrn Erblassers sel. von <rs type="person" ref="#kammerer_joseph">Joseph Kammerer gewesten Grienbachers</rs> zu <rs type="place" ref="#kiens">Kiens</rs> ein Mast Rindl in Werth</p>
             <table rend="rules">
                <row>
@@ -1611,7 +1612,7 @@
                   <cell>166 f 40 x</cell>
                </row>
                <row>
-                  <cell>Die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> 8 Kinder zu <rs type="place" ref="#stoerzing">Sterzing</rs> haben auch geistlichen Herrn vetterliches Erb zu ersuchen</cell>
+                  <cell>Die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> 8 Kinder zu <rs type="place" ref="#sterzing">Sterzing</rs> haben auch geistlichen Herrn vetterliches Erb zu ersuchen</cell>
                   <cell>166 f 40 x</cell>
                </row>
                <row>
