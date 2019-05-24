@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1781</repository>
@@ -70,7 +70,7 @@
                <pb n="306r"/>
             </p>
             <p>Unsern freundlichen Gruss, und Dienst anvor: Ehrwürdig[er], edl[er], hochgelehrt[er], besonders lieber Freund, und Herr!</p>
-            <p>Da aus des Herrn Berichte erhellet, das den 7ten dies der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs> verstorben, und in unserm Namen die Sperre an dessen Verlassenschaft behörig angeleget worden;</p>
+            <p>Da aus des Herrn Berichte erhellet, das den <date when="1781-04-07">7ten dies</date> der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs> verstorben, und in unserm Namen die Sperre an dessen Verlassenschaft behörig angeleget worden;</p>
             <p>Also ertheilen Wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
             <p>Hieran vollziecht der Herr unsern Willen, und Meynung; und wir verbleiben anbey demselben wohl beygethan.</p>
             <p>Gegeben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1781-04-23">23ten April 1781</date>.</p>
@@ -92,7 +92,7 @@
             <p>
                <pb n="294r"/>
             </p>
-            <p>Actum <rs type="place" ref="#saalen">Saalen</rs> in der Kaplanei Behausung den <date when="1781-05-07">7ten May 1781</date>.</p>
+            <p>Actum <rs type="place" ref="#saalen">Saalen</rs> in der <rs type="place" ref="#saalen_kaplanei">Kaplanei Behausung</rs> den <date when="1781-05-07">7ten May 1781</date>.</p>
             <p>Vor Ihro Hochwürden und Gnaden dem hochwürdig wohlgebohrn und hochgelehrten Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngram v. Liebenrain und Fragburg</rs> Tyrol. Herrn und Landman des hochfürstlichen Stifts <rs type="place" ref="#brixen">Brixen</rs> würcklichen Consistorial Rath, dan Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunneck</rs>, als vermög beylegend hochgnädigen Consistorial Befehl – [späterer Vermerk:] NB Dieser allegierte Befehl ist hinach fol. 306 eingebundner zu erfünden. – zu <rs type="place" ref="#brixen">Brixen</rs> dato <date when="1781-04-23">23ten Apprill 1781</date> verordneten Herrn Commissario etc.</p>
             <p>Und dem wohledl gestrengen und hochgelehrten Herrn <rs type="person" ref="#steinburger_johann_stephann">Johann Stephann Steinberger</rs> i. u. cand. auch Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
             <p>Zugegen des wohledlen Herrn <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmayr</rs> Amtschreibern zu <rs type="place" ref="#brunegg">Brunneck</rs>, dann dem fürnemmen <rs type="person" ref="#hueber_joseph_2">Joseph Hueber</rs> Winckler und Gerichts Ausschuss allda zu <rs type="place" ref="#saalen">Saalen</rs>.</p>
@@ -121,7 +121,7 @@
             zu Vornemmung solcher Inventur<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>g-.</p>
-                    </note> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
+                    </note> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des <rs type="place" ref="#saalen_kaplanei">Beneficiaten Haus</rs> verfüget, und wurde<note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
@@ -396,7 +396,7 @@
                </row>
             </table>
             <p>In dem Verschlägl.</p>
-            <p>Vermög die der Kirchen Cassa vorfindigen zu den Beneficiaten Haus gehörigen Stellungs Instrument kommen nachstehende Posten von gegenwärtiger Inventur abzusezen<note>
+            <p>Vermög die der Kirchen Cassa vorfindigen zu den <rs type="place" ref="#saalen_kaplanei">Beneficiaten Haus</rs> gehörigen Stellungs Instrument kommen nachstehende Posten von gegenwärtiger Inventur abzusezen<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Gesamte Bemerkung am linken Rand geschrieben.</hi>
                         </p>
@@ -1345,7 +1345,7 @@
                   <cell>2 f 24 x</cell>
                </row>
                <row>
-                  <cell>Auf Absterben des ehrwirdigen Herrn <rs type="person" ref="#stocker_antoni">Anton Stocker</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_oswald">St. Oswald</rs> in Gericht Kastlruth ist zwar besag von hochgeistlicher Commission und loblicher Pfleggerichts Obrigkeit den <date when="1779-10-19">19ten October 1779</date> vorgangener Inventur Vermögens Liquidation und Theillung dem Herrn Ableiber an solch brüderlichen Erb einsmal 195 f 22½ x</cell>
+                  <cell>Auf Absterben des ehrwirdigen Herrn <rs type="person" ref="#stocker_antoni">Anton Stocker</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_oswald">St. Oswald</rs> in Gericht <rs type="place" ref="#kastelruth">Kastlruth</rs> ist zwar besag von hochgeistlicher Commission und loblicher Pfleggerichts Obrigkeit den <date when="1779-10-19">19ten October 1779</date> vorgangener Inventur Vermögens Liquidation und Theillung dem Herrn Ableiber an solch brüderlichen Erb einsmal 195 f 22½ x</cell>
                   <cell/>
                </row>
             </table>
@@ -1375,7 +1375,7 @@
                   <cell>2 f 0x</cell>
                </row>
                <row>
-                  <cell>Der loblichen Lauretto Kapellen wegen der in der Kirchen verstatten Begräbnus,</cell>
+                  <cell>Der loblichen <rs type="place" ref="#saalen_kaplanei">Lauretto Kapellen</rs> wegen der in der Kirchen verstatten Begräbnus,</cell>
                   <cell>3 f 0x<note>
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Gesamter Eintrag durch Verweiszeichen am linken Rand nachgetragen.</hi>
@@ -1384,7 +1384,7 @@
                         </cell>
                </row>
                <row>
-                  <cell>Dem loblichen St. Niclaus Gotteshaus für 1 alts Messgewanth, so dem geistlichen Herrn Ableiber in Grab mitgeben worden</cell>
+                  <cell>Dem loblichen <rs type="place" ref="#steegen_nikolaus">St. Niclaus Gotteshaus</rs> für 1 alts Messgewanth, so dem geistlichen Herrn Ableiber in Grab mitgeben worden</cell>
                   <cell>2 f 0 x<note>
                                 <p rend="footnote text">
                                     <hi rend="italic" xml:space="preserve"> Gesamter Eintrag durch Verweiszeichen am linken Rand nachgetragen.</hi>
@@ -1506,11 +1506,11 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>An Reparationen bey der Kaplanei Behausung solle alldaigen Verlassenschaft nach Aussag des Kirchprobstens zu <rs type="place" ref="#saalen">Saalen</rs> nichts zu ersezen haben, indeme geistlicher Herr Erblasser diesfals seiner Obligation nachgekommen seye.</cell>
+                  <cell>An Reparationen bey der <rs type="place" ref="#saalen_kaplanei">Kaplanei Behausung</rs> solle alldaigen Verlassenschaft nach Aussag des Kirchprobstens zu <rs type="place" ref="#saalen">Saalen</rs> nichts zu ersezen haben, indeme geistlicher Herr Erblasser diesfals seiner Obligation nachgekommen seye.</cell>
                   <cell/>
                </row>
                <row>
-                  <cell>Dem Baur Miller zu Monthan vor abgebenes Mehl von 5 Ster Waizen, und 2 Stär Roggen</cell>
+                  <cell>Dem Baur Miller zu <rs type="place" ref="#monthal">Monthan</rs> vor abgebenes Mehl von 5 Ster Waizen, und 2 Stär Roggen</cell>
                   <cell>2 f 55 x</cell>
                </row>
                <row>

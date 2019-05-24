@@ -3567,8 +3567,7 @@
                         </note> neyen Herrn Capellano die <rs type="place" ref="#stift_sonnenburg">Beneficial Behausung</rs> zu evaluieren
                in Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
                         <note>
-                            <p rend="footnote text"> Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
-                                <hi rend="italic"> am linken Rand geschrieben.</hi>
+                            <p rend="footnote text"> Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman Johann Joseph Turneretschers<hi rend="italic"> am linken Rand geschrieben.</hi>
                             </p>
                         </note> vorgenommen worden dise</p>
                <p>Inventur</p>
@@ -7637,7 +7636,7 @@
                      <cell/>
                      <cell>Summa vorstehender Inventur</cell>
                      <cell>1036 f 23 x<note>
-                                    <p>
+                                    <p rend="footnote text">
                                         <hi rend="italic"> Nebenrechnung auf der linken Seite:</hi> 1024 [f] 38 [x] 3 F(iere)r [+] 11 [f] 45 [x] = 1036 [f] 23 [x]</p>
                                 </note>
                             </cell>
@@ -11538,7 +11537,8 @@
                      <cell>24 x</cell>
                   </row>
                </table>
-               <p>Mesnerin in Kloster Sonnenburg</p>
+               <p>Mesnerin in <rs type="place" ref="#stift_sonnenburg">Kloster Sonnenburg</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Polster Ziechen v. Schaffehl dt.</cell>
@@ -12781,7 +12781,8 @@
                      </cell>
                   </row>
                </table>
-               <p>Würth zu Saalen</p>
+               <p>Würth zu <rs type="place" ref="#saalen">Saalen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>8 Körzen Bretten dt.</cell>
@@ -13226,7 +13227,8 @@
                      <cell>18 x</cell>
                   </row>
                </table>
-               <p>Herr Chirurgus zu Bruneck</p>
+               <p>Herr Chirurgus zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Fir 1 Täfele und Schachtl dt.</cell>
@@ -13593,14 +13595,16 @@
                      <cell>28 x</cell>
                   </row>
                </table>
-               <p>Miller in Pflaurenz</p>
+               <p>Miller in <rs type="place" ref="#pflaurenz">Pflaurenz</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>5 Leichter und 1 Butzer dt.</cell>
                      <cell>30 x</cell>
                   </row>
                </table>
-               <p>Pichler zu Stephansdorf</p>
+               <p>Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 kupferner Strauben Laur dt.</cell>
@@ -13707,10 +13711,15 @@
                      </cell>
                   </row>
                </table>
-               <p>Herr Prugger in Ros</p>
+               <p>Herr Prugger</p>
                <table rend="rules">
                   <row>
-                     <cell>[kein Inventurposten]</cell>
+                     <cell>in Ros<note>
+                                    <p rend="footnote text">
+                                        <hi rend="italic" xml:space="preserve"> Unsichere Lesung.</hi>
+                                    </p>
+                                </note>
+                            </cell>
                      <cell>16 x</cell>
                   </row>
                   <row>
@@ -13747,7 +13756,7 @@
                   </row>
                   <row>
                      <cell>[Summa]</cell>
-                     <cell>1 f 22 x<note>
+                     <cell>1 f 38 x<note>
                            <p rend="footnote text">
                               <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
@@ -13897,7 +13906,8 @@
                <p>
                   <pb n="9r"/>
                </p>
-               <p>Satler zu Bruneck</p>
+               <p>Satler zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Maderatzen dt.</cell>
@@ -13915,7 +13925,8 @@
                      <cell>2 x</cell>
                   </row>
                </table>
-               <p>Tischler zu Gais</p>
+               <p>Tischler zu <rs type="place" ref="#gais">Gais</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Tisch Tuech dt.</cell>
@@ -13966,7 +13977,8 @@
                      <cell>1 f 3 x</cell>
                   </row>
                </table>
-               <p>Kremppe Pieder auf Ellen</p>
+               <p>Kremppe Pieder auf <rs type="place" ref="#ellen">Ellen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Die gipsen Mödl dt.</cell>
@@ -13997,7 +14009,7 @@
                      <cell>1½ x</cell>
                   </row>
                   <row>
-                     <cell>dt. [Summe Tafeln und Bilder, ohne letztes Gipsbild]</cell>
+                     <cell>dt.</cell>
                      <cell>16</cell>
                   </row>
                   <row>
@@ -14098,7 +14110,8 @@
                      <cell>21¼ x</cell>
                   </row>
                </table>
-               <p>Schmid zu St. Lorenzen</p>
+               <p>Schmid zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Fir 11 Stuck Glöser dt.</cell>
@@ -14188,7 +14201,8 @@
                      </cell>
                   </row>
                </table>
-               <p>Mahlerin zu St. Lorenzen</p>
+               <p>Mahlerin zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Fir Butzer, und Träcterl dt.</cell>
@@ -14339,7 +14353,8 @@
                      <cell>12 x</cell>
                   </row>
                </table>
-               <p>Garber zu Lorenzen</p>
+               <p>Garber zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Lutern 1 Essich Glass, 1 <bibl>Schreib Zeig</bibl> dt.</cell>
@@ -14394,7 +14409,8 @@
                      <cell>24 x</cell>
                   </row>
                </table>
-               <p>Würthin an der Gassen zu Kiens</p>
+               <p>Würthin an der Gassen zu <rs type="place" ref="#kiens">Kiens</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Fir 3 Gläslen dt.</cell>
@@ -14422,7 +14438,8 @@
                     <p rend="footnote text">
                        <hi rend="italic" xml:space="preserve">Name und alle zugehörigen Einträge mit mit Bleistift gezogener gschwungener Klammer zusammengefasst und darunter, ebenfalls mit Bleistift </hi>NB <hi rend="italic">geschrieben.</hi>
                     </p>
-                  </note>Satler zu Bruneck</p>
+                  </note>Satler zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Fir 1 Tabak Tosen dt.</cell>
@@ -14461,7 +14478,8 @@
                      <cell>7 x</cell>
                   </row>
                </table>
-               <p>Titl. Herr Pfleger zu Gais</p>
+               <p>Titl. Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -14589,10 +14607,7 @@
                      <cell>18 x</cell>
                   </row>
                </table>
-               <p>Unterweeger zu Mauren<note>
-                            <p rend="footnote text"> Gemeint ist <hi rend="italic">Mauern.</hi>
-                            </p>
-                        </note>
+               <p>Unterweeger zu <rs type="place" ref="#mauern">Mauren</rs>
                     </p>
                <table rend="rules">
                   <row>
@@ -14695,14 +14710,16 @@
                      <cell>2 x</cell>
                   </row>
                </table>
-               <p>Pichler zu Runggen</p>
+               <p>Pichler zu <rs type="place" ref="#runggen">Runggen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Für 6 Tisch Servieter dt.</cell>
                      <cell>1 f 36 x</cell>
                   </row>
                </table>
-               <p>Winkler zu Saalen</p>
+               <p>Winkler zu <rs type="place" ref="#saalen">Saalen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Allerhand Rumpl</cell>
@@ -14862,14 +14879,16 @@
                <p>
                   <pb n="14v"/>
                </p>
-               <p>Bek zu Lorenzen</p>
+               <p>Bek zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Rosoli Glas dt.</cell>
                      <cell>2 x</cell>
                   </row>
                </table>
-               <p>Titl. Herr Gerichtschreiber zu Kiens<note>
+               <p>Titl. Herr Gerichtschreiber zu <rs type="place" ref="#kiens">Kiens</rs>
+                        <note>
                      <p rend="footnote text">
                         <hi rend="italic">Durch Verweis als Herr Suitner identifizierbar.</hi>
                      </p>
@@ -15108,7 +15127,9 @@
                             </p>
                         </note>
                     </p>
-               <p>Kirchen beym Heilligen Kreiz<note>
+               <p>
+                        <rs type="place" ref="#heiligkreuz_franewise">Kirchen beym Heilligen Kreiz</rs>
+                        <note>
                   <p rend="footnote text">
                      <hi rend="italic">Name und gesamter Eintrag mit Tinte geschrieben.</hi>
                   </p>

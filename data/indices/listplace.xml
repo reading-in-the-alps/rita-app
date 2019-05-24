@@ -257,6 +257,7 @@
             <place xml:id="roveredo">
                <placeName>Rovereto</placeName>
                <placeName type="italiano">Rovereto</placeName>
+               <district>Rovereto</district>
                <location>
                         <geo decls="#LatLng">45.8904 11.04053</geo>
                     </location>
@@ -879,10 +880,128 @@
                     </location>
                <idno type="GEONAMES">http://www.geonames.org/2765044</idno>
             </place>
+            <place xml:id="ellen">
+               <placeName>Ellen</placeName>
+               <placeName type="italiano">Elle</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.77601 11.83533</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/8973126</idno>
+            </place>
+            <place xml:id="kiens">
+               <placeName>Kiens</placeName>
+               <placeName type="italiano">Chienes</placeName>
+               <district ref="schenegg">Schöneck</district>
+               <location>
+                        <geo decls="#LatLng">46.8068 11.84</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
+            </place>
+            <place xml:id="mauern">
+               <placeName>Mauern</placeName>
+	             <settlement ref="moos">moos</settlement>
+               <location>
+                        <geo decls="#LatLng">46.7725 11.8895</geo>
+                    </location>
+            </place>
+            <place xml:id="runggen">
+               <placeName>Runggen</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.77725 11.8738</geo>
+                    </location>
+            </place>
+            <place xml:id="st_oswald">
+               <placeName>St. Oswald</placeName>
+               <placeName type="italiano">Sant'Osvaldo</placeName>
+               <district ref="#kastelruth">Kastelruth</district>
+               <location>
+                        <geo decls="#LatLng">46.5567 11.5213</geo>
+                    </location>
+            </place>
+            <place xml:id="kastelruth">
+               <placeName>Kastelruth</placeName>
+               <placeName type="italiano">Castelrotto</placeName>
+               <location>
+                        <geo decls="#LatLng">46.56662 11.56098</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/6535890</idno>
+            </place>
+            <place xml:id="steegen_nikolaus">
+               <placeName>St. Nikolaus (Kirche)</placeName>
+               <placeName type="italiano">Chiesa Stegona</placeName>
+	             <settlement ref="steegen">Stegen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.7972 11.9234</geo>
+                    </location>
+            </place>
+            <place xml:id="schwaz">
+               <placeName>Schwaz</placeName>
+               <district>Freundsberg</district>
+               <location>
+                        <geo decls="#LatLng">47.35169 11.71014</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/2765390</idno>
+            </place>
+            <place xml:id="stainhaus">
+               <placeName>Steinhaus</placeName>
+               <placeName type="italiano">Cadipietra</placeName>
+	             <settlement ref="aehrn">Ahrntal</settlement>
+               <location>
+                        <geo decls="#LatLng">46.995 11.98</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/8950556</idno>
+            </place>
+            <place xml:id="brixen_neustift">
+               <placeName>Neustift (Kloster)</placeName>
+               <placeName type="italiano">Abbazia Di Novacella</placeName>
+               <district ref="brixen">Brixen</district>
+               <location>
+                        <geo decls="#LatLng">46.74247 11.6489</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/11789813</idno>
+            </place>
+            <place xml:id="lemberg">
+               <placeName>Lemberg / Lviv</placeName>
+               <location>
+                        <geo decls="#LatLng">49.83826 24.02324</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/702550</idno>
+            </place>
+            <place xml:id="borgo">
+               <placeName>Borgo Sacco</placeName>
+               <placeName type="italiano">Borgo Sacco</placeName>
+               <settlement ref="roveredo">Rovereto</settlement>
+               <location>
+                        <geo decls="#LatLng">45.88622 11.01987</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/3168735</idno>
+            </place>
+            <place xml:id="pasln">
+               <placeName>Baslan</placeName>
+               <placeName type="italiano">Baslan</placeName>
+	             <settlement ref="tscherms">Tscherms</settlement>
+               <location>
+                        <geo decls="#LatLng">46.63942 11.14207</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/8960929</idno>
+            </place>
+            <place xml:id="tscherms">
+               <placeName>Tscherms</placeName>
+               <placeName type="italiano">Cermes</placeName>
+               <district>Meran</district>
+               <location>
+                        <geo decls="#LatLng">46.63462 11.14657</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/6535891</idno>
+            </place>
+            <place xml:id="keselanger">
+               <placeName>Keselanger</placeName>
+            </place>
 
 
-<!-- Zöggeller 1781 III bis -1207-
-
+<!--  bis exkl. 1797
             <place xml:id="XXX">
                <placeName>XXX</placeName>
                <placeName type="italiano">XXX</placeName>
@@ -891,70 +1010,34 @@
                <location><geo decls="#LatLng">XXX XXX</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/XXX</idno>
             </place>
-
  -->
 
             <place xml:id="welsberg">
                <placeName>Monguelfo</placeName>
                <location>
-                  <geo decls="#LatLng">46.75774 12.10556</geo>
-               </location>
+                        <geo decls="#LatLng">46.75774 12.10556</geo>
+                    </location>
                <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
-            </place>
-            <place xml:id="st_oswald">
-               <placeName>Sant'Osvaldo</placeName>
-               <location>
-                  <geo decls="#LatLng">46.55664 11.521267</geo>
-               </location>
-               <idno type="GEONAMES"/>
-            </place>
-            <place xml:id="lemberg">
-               <placeName>Lemberg</placeName>
-               <location>
-                  <geo decls="#LatLng">49.83826 24.02324</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/702550</idno>
-            </place>
-            <place xml:id="schwaz">
-               <placeName>Schwaz</placeName>
-               <location>
-                  <geo decls="#LatLng">47.35169 11.71014</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/2765390</idno>
-            </place>
-            <place xml:id="stainhaus">
-               <placeName>Steinhaus</placeName>
-               <location>
-                  <geo decls="#LatLng">46.99623 11.97988</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/6534793</idno>
             </place>
             <place xml:id="aichholz">
                <placeName>Roverè della Luna</placeName>
                <location>
-                  <geo decls="#LatLng">46.25008 11.17233</geo>
-               </location>
+                        <geo decls="#LatLng">46.25008 11.17233</geo>
+                    </location>
                <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
-            </place>
-            <place xml:id="kiens">
-               <placeName>Chienes</placeName>
-               <location>
-                  <geo decls="#LatLng">46.806667 11.836667</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
             </place>
             <place xml:id="st_vigili">
                <placeName>San Vigilio di Marebbe</placeName>
                <location>
-                  <geo decls="#LatLng">46.69884 11.93104</geo>
-               </location>
+                        <geo decls="#LatLng">46.69884 11.93104</geo>
+                    </location>
                <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
             </place>
             <place xml:id="oberfellach">
                <placeName>Oberfellach</placeName>
                <location>
-                  <geo decls="#LatLng"/>
-               </location>
+                        <geo decls="#LatLng"/>
+                    </location>
                <idno type="GEONAMES"/>
             </place>
          </listPlace>

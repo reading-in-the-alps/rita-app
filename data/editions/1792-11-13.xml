@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1792</repository>
@@ -104,7 +104,7 @@
             <p>
                <pb n="479r"/>
             </p>
-            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> in der Kapplaney Behausung den <date when="1792-11-13">13ten November 1792</date>
+            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> in der <rs type="place" ref="#st_georgen_kirche">Kapplaney Behausung</rs> den <date when="1792-11-13">13ten November 1792</date>
                 </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Zugegen des wohl geachten <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Mühlermeisters, und Landgerichts Ausschus allda als zugezohenen Taxatore, und Beysitzer.</p>
@@ -201,8 +201,8 @@
             <p>3: <rs type="person" ref="#tratter_maria">Maria Tratterin verwittwete Pifraderin Prantlechnerin</rs> daselbs in assistentia des wohl ehrsamen <rs type="person" ref="#felser_joseph">Joseph Felsers halben Kaltenhausers</rs> allda, nicht weniger</p>
             <p>4: der auch wohl ehrsame <rs type="person" ref="#peintner_georg">Georg Peintner Kachler Würth</rs> daselbs als obrigkeitlicher verpflichten Curatores nicht nur der von Bruder <rs type="person" ref="#tratter_veit">Veit Tratter</rs> gewesten Weisgärbermeistern zu <rs type="place" ref="#sterzing">Störzing</rs> bey
             <rs type="person" ref="#tratter_anna">Anna gebohrnen Ofnerin</rs> nachgelassenen 8 Kindern, deren Nämen allda vorbehalten, wovon nur sie Wittib gegenwärtig, sondern auch</p>
-            <p>5to: der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> einer Wittwe in Borgo nächst <rs type="place" ref="#roveredo">Roveredo</rs>, und</p>
-            <p>6to: der von weilend <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> in Pasln, oder selber Gegend ruckbegebenen Descendenten</p>
+            <p>5to: der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> einer Wittwe in <rs type="place" ref="#borgo">Borgo</rs> nächst <rs type="place" ref="#roveredo">Roveredo</rs>, und</p>
+            <p>6to: der von weilend <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> in <rs type="place" ref="#pasln">Pasln</rs>, oder selber Gegend ruckbegebenen Descendenten</p>
             <p>eine lobliche Landgerichts Obrigkeit weiters ersuchet unter einen mit der Verlassenschafts Abhandlung fürzugehen,</p>
             <p>
                <pb n="480v"/>
@@ -1143,7 +1143,7 @@
             <p>
                <pb n="491r"/>
             </p>
-            <p>Belangend die Kapplaney Gefälle: hat der hoch ehrwürdige Herr Ableiber nur<note>
+            <p>Belangend die <rs type="place" ref="#st_georgen_kirche">Kapplaney</rs> Gefälle: hat der hoch ehrwürdige Herr Ableiber nur<note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile nachgetragen.</hi>
                   </p>
@@ -1161,7 +1161,7 @@
                     </note> 50 x, mithin in allen 36 f 32 x zu ersetzen habe, so hienach per Schuld hinaus einzutragen komet pr Bht.</p>
             <p>Hingegen, da laut sonderbaren Protokolls von gestrigen dato die alldaige Nachbaurschaft den Bstandzins von<note>
                   <p rend="footnote text"> v- <hi rend="italic">korrigiert aus</hi> d-.</p>
-               </note> Keselanger einschlüsslich der 1791ten Benutzung dem Herrn Erblasser zugeeignet, und hieran noch einige Restanten sich befinden, als werden solche allda zum Vermögen beschrieben, und ist noch ausständig</p>
+               </note> <rs type="place" ref="#keselanger">Keselanger</rs> einschlüsslich der 1791ten Benutzung dem Herrn Erblasser zugeeignet, und hieran noch einige Restanten sich befinden, als werden solche allda zum Vermögen beschrieben, und ist noch ausständig</p>
             <table rend="rules">
                <row>
                   <cell>
@@ -1366,13 +1366,13 @@
                   <cell>36 f 32 x</cell>
                </row>
                <row>
-                  <cell>Und laut sonderbaren Protokolls von gestrig dato der daselbstigen Kapploney die wegen dem Kesselanger verglichene</cell>
+                  <cell>Und laut sonderbaren Protokolls von gestrig dato der daselbstigen Kapploney die wegen dem <rs type="place" ref="#keselanger">Kesselanger</rs> verglichene</cell>
                   <cell>24 f 0 x</cell>
                </row>
                <row>
                   <cell>Dann werden zu Bezahlung extra Heilige Messen für den Herrn<note>
                                 <p rend="footnote text"> H-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>E-.</p>
-                            </note> Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen Herrn Pfarrer zu Gais pr Abzug gebracht</cell>
+                            </note> Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> pr Abzug gebracht</cell>
                   <cell>80 f 0 x</cell>
                </row>
                <row>
@@ -1393,7 +1393,7 @@
                   <cell>84 f 12 x</cell>
                </row>
             </table>
-            <p>Was wegen dem Herrn Ableiber in Grab gegebnen Paramenten der Kirche zu vergüten, und allenfalls denen Armen noch zu vertheillen, wird hinach bestimmet werden,</p>
+            <p>Was wegen dem Herrn Ableiber in Grab gegebnen Paramenten der <rs type="place" ref="#st_georgen_kirche">Kirche</rs> zu vergüten, und allenfalls denen Armen noch zu vertheillen, wird hinach bestimmet werden,</p>
             <p>Nur mus noch Anmerkung beschehen, das laut allegirter mütterlichen <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Erbs Theillung de dato <date when="1791-04-28">28ten April 1791</date> von der loblichen Stadtgerichts Obrigkeit zu <rs type="place" ref="#brunegg">Bruneck</rs> zur Versicherung der Vorbehalt genommen worden, womit, wann es mit der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> in der Wurge erhalten haben sollende 200 f keine Richtigkeit haben wurde, gesamte Geschwistern, und mithin auch das gegenwärtig Herrn brüderlich <rs type="person" ref="#tratter_joseph">Joseph Tratterische</rs> Erbvermög in Gewehrschaft zu stehen habe.</p>
             <table rend="rules">
                <row>
@@ -1490,7 +1490,7 @@
             <p>Mit diesen wollen sie Erben eben wiederum nach dem Willen des Herrn Erblassers folgende Disposition machen.</p>
             <table rend="rules">
                <row>
-                  <cell>1mo: Sollen der Kirche zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einbegrif des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<note>
+                  <cell>1mo: Sollen der <rs type="place" ref="#st_georgen_kirche">Kirche</rs> zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einbegrif des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<note>
                                 <p rend="footnote text"> des bey dem exponirten Leichnam verbrauchten Wachs, und Öel, dann<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi>
                                 </p>
                             </note> der dem Herrn Ableiber in das Grab mitgegebnen Paramenten ohne anderweiter Obligation</cell>
@@ -1825,11 +1825,11 @@
                   <cell>4 f 12 x</cell>
                </row>
                <row>
-                  <cell>Der Kirche allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Legat, und was weiters dabey berührt</cell>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kirche</rs> allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Legat, und was weiters dabey berührt</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Kapploney daselbs gegen abhalten lassenden ewigen Jahrtag</cell>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney</rs> daselbs gegen abhalten lassenden ewigen Jahrtag</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -1851,7 +1851,7 @@
                </row>
             </table>
             <p>Ihme <rs type="person" ref="#pifrader_joseph">Gemeinschaftführer</rs> wird zugleich auch der Gewalt mitgegeben, die ihme eingeraumte Schulden gütig, und wo noth rechtlich abzutreiben, einzunemmen, hierum zu quittiren, einen anderen die alten Rechte abzutretten, oder auch ihme überbundene Passiva hierauf in alten Rechten anzuweisen, und all dasjenige zu thun, was sie Erben selbs zu handlen befugt, und zu leisten schuldig wären.</p>
-            <p>Anbey wird der schon unter vorigen Abzügen wegen der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> in Borgo eingekommene Berichts Punkt allda bestens erhollet.</p>
+            <p>Anbey wird der schon unter vorigen Abzügen wegen der Schwester <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> in <rs type="place" ref="#borgo">Borgo</rs> eingekommene Berichts Punkt allda bestens erhollet.</p>
             <p>Also in Erhollung der alten Rechten ergänzt, vertheilt, an- und ausgewiesen.</p>
             <p>Nach dem Ablesen zur Bekräftigung alles vorigen Herr <rs type="person" ref="#tratter_balthasar">Balthasar Tratter</rs> sich allda ad protocollum eigenhändig unterschrieben, und die übrige Erben als <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs>, dann</p>
             <p>

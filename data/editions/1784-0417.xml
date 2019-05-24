@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1784</repository>
@@ -97,7 +97,7 @@
                <pb n="414r"/>
             </p>
             <p>Unsern freundlichen Gruß, und Dienst anvor: Ehrwürdiger, edler, hochgelehrter, besonders lieber Freund, und Herr!</p>
-            <p>Demnach des Herrn Berichte gemäß der in dem Pfarrwidum zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> befindlich gewesene Priester <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignatz Gaßmayr</rs> von einem Schlagfluße betroffen den 11ten dieß Monats verstorben, und in unserm Namen die Sekretur an dessen Verlassenschaft behörig angeleget worden;</p>
+            <p>Demnach des Herrn Berichte gemäß der in dem <rs type="place" ref="#st_lorenzen_kirche">Pfarrwidum</rs> zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> befindlich gewesene Priester <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignatz Gaßmayr</rs> von einem Schlagfluße betroffen den 11ten dieß Monats verstorben, und in unserm Namen die Sekretur an dessen Verlassenschaft behörig angeleget worden;</p>
             <p>Also tragen dem Herrn die Kommißion auf, daß derselbe des Erblassers Vermögenheit ordentlich beschreiben, ergänzen, vertheilen, und an<note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
@@ -128,7 +128,7 @@
             <p>
                <pb n="418r"/>
             </p>
-            <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> in den Pfarr Hof den <date when="1784-06-19">19ten Juni 1784</date>
+            <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> in den <rs type="place" ref="#st_lorenzen_kirche">Pfarr Hof</rs> den <date when="1784-06-19">19ten Juni 1784</date>
                 </p>
             <p>Vor</p>
             <table rend="rules">
@@ -402,7 +402,7 @@
             <p>Schulden herein</p>
             <table rend="rules">
                <row>
-                  <cell>Bey der <rs type="person" ref="#durregger_jacob">Jacob Durregger Oberlinderischen</rs> Verlassenschaft in <rs type="place" ref="#stainhaus">Stainhaus</rs> Landgericht Taufers, vorbehaltlich wer nunmehro in alter Rechten Schuldner sind capitalisch anliegend</cell>
+                  <cell>Bey der <rs type="person" ref="#durregger_jacob">Jacob Durregger Oberlinderischen</rs> Verlassenschaft in <rs type="place" ref="#stainhaus">Stainhaus</rs> Landgericht <rs type="place" ref="#taufers">Taufers</rs>, vorbehaltlich wer nunmehro in alter Rechten Schuldner sind capitalisch anliegend</cell>
                   <cell>750 f 0 x</cell>
                </row>
                <row>
@@ -479,7 +479,7 @@
                   <cell>44 f 33 x</cell>
                </row>
                <row>
-                  <cell>Der Pfarrkirch für Paramente und Mes Gewanth</cell>
+                  <cell>Der <rs type="place" ref="#st_lorenzen_kirche">Pfarrkirch</rs> für Paramente und Mes Gewanth</cell>
                   <cell>11 f 0 x</cell>
                </row>
                <row>
@@ -531,7 +531,7 @@
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Ma-.</p>
                     </note> <rs type="person" ref="#zaecher_elisabeth">Elisa gebohrene Zacherin</rs> 2 Kinder</p>
             <p>1: Aldaig geistlichen Herrn Erblasser <rs type="person" ref="#gassmayr_antoni_ignati">Anton Gaßmayr</rs>, dan</p>
-            <p>2: Frau <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gaßmayrin</rs>, diese aber bey titl. Herrn <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard Erlach</rs> k. k. Vice Factore zu <rs type="place" ref="#schwaz">Schwatz</rs> über einen Herrn Sohn, so im loblichen Collegio in der Neistift mit Nam Leopold als Professus sich einfindet noch 5 Kinder als</p>
+            <p>2: Frau <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gaßmayrin</rs>, diese aber bey titl. Herrn <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard Erlach</rs> k. k. Vice Factore zu <rs type="place" ref="#schwaz">Schwatz</rs> über einen Herrn Sohn, so im loblichen <rs type="place" ref="#brixen_neustift">Collegio in der Neistift</rs> mit Nam <rs type="person" ref="#erlacher_leopold">Leopold</rs> als Professus sich einfindet noch 5 Kinder als</p>
             <p>
                <pb n="423v"/>
             </p>
