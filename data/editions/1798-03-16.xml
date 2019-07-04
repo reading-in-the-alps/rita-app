@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1797; Verfachbuch St. Michaelsburg 1798</repository>
@@ -57,7 +57,7 @@
                <p>
                   <pb n="669v / 670r"/>
                </p>
-               <p>Kund und zuwissen wirdet angefügt männlichen, wie daß von dem Landrichter Amt der Pfandsherrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> auf Vorstellen des Priesters Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines obrigkeitlich verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den <date when="1798-09-21">21ten dies Monats September</date> um 9 bis 10 Uhr Vormittag in alldaiger Gerichts Kanzley an nachstehende Effeten Versteigerungs Tagsazung anberaumet wird; wobey jeder Kaufslustige zu erscheinen vorgeladen ist. Es wird nemmlich dem Meistbote feilgestellet; als die Baurecht und Gerechtigkeit einer Behausung im Markte <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den Platz liegend mit No. 16 signiret, mit derselben Ein- und Zugehörung, Backen, und Kreütle Garten. Über welch diese Behausung und Zugehörde ist die aufgehobene Maria Himmelfahrts Bruderschaft allda Grundherrschaft, und zinst man dahin jährlich auf Martini zu Handen eines jedweiligen Herrn Administrators 1 f 36 x, vorbehältlich der Steüer und anderen nachbarlichen Oblagen. Dazu gehören auch zwey Gemeinds Grundstücke auf der Frohnwiese liegend.</p>
+               <p>Kund und zuwissen wirdet angefügt männlichen, wie daß von dem Landrichter Amt der Pfandsherrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> auf Vorstellen des Priesters Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines obrigkeitlich verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den <date when="1798-09-21">21ten dies Monats September</date> um 9 bis 10 Uhr Vormittag in alldaiger Gerichts Kanzley an nachstehende Effeten Versteigerungs Tagsazung anberaumet wird; wobey jeder Kaufslustige zu erscheinen vorgeladen ist. Es wird nemmlich dem Meistbote feilgestellet; als die Baurecht und Gerechtigkeit einer Behausung im Markte <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den Platz liegend mit No. 16 signiret, mit derselben Ein- und Zugehörung, Backen, und Kreütle Garten. Über welch diese Behausung und Zugehörde ist die aufgehobene Maria Himmelfahrts Bruderschaft allda Grundherrschaft, und zinst man dahin jährlich auf Martini zu Handen eines jedweiligen Herrn Administrators 1 f 36 x, vorbehältlich der Steüer und anderen nachbarlichen Oblagen. Dazu gehören auch zwey Gemeinds Grundstücke auf der <rs type="place" ref="#heiligkreuz_franewiese">Frohnwiese</rs> liegend.</p>
                <p>Bedingnüsse.</p>
                <p>1mo: Wird für diese Behausung samt den darzu gehörigen Gemeindsstüken zum ersten Ausrufspreis bestimmet, und festgesezet 1600 f.</p>
                <p>2do: Wird kein minderer Darbot als die Erfellung des ersten Ausrufspreises angenommen.</p>
@@ -91,11 +91,11 @@
                      <cell>1 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>Edicte dem dasigen Amtsdiener Übertrag</cell>
+                     <cell>Edicte dem dasigen <rs type="person" ref="#amtsdiener_bruneck">Amtsdiener</rs> Übertrag</cell>
                      <cell>38 x</cell>
                   </row>
                   <row>
-                     <cell>Edicte der Obrigkeit Michaelsburg hiefür Siglgeld</cell>
+                     <cell>Edicte der Obrigkeit <rs type="place" ref="#saenct_michaelspurg">Michaelsburg</rs> hiefür Siglgeld</cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
@@ -103,7 +103,8 @@
                      <cell>20 x</cell>
                   </row>
                   <row>
-                     <cell>Für das Edict in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> der Obrigkeit für Anfrag an dem Amtsdiener</cell>
+                     <cell>Für das Edict in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> der Obrigkeit für Anfrag an dem <rs type="person" ref="#amtsdiener_lorenzen">Amtsdiener</rs>
+                            </cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
@@ -134,7 +135,9 @@
                      <cell>45 x</cell>
                   </row>
                   <row>
-                     <cell>Amtd(iene)r</cell>
+                     <cell>
+                                <rs type="person" ref="#amtsdiener_lorenzen">Amtd(iene)r</rs>
+                            </cell>
                      <cell>15 x</cell>
                   </row>
                   <row>
@@ -146,7 +149,7 @@
                      <cell>2 f 36 x</cell>
                   </row>
                </table>
-               <p>Es hat der geistliche Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines hohen Alters wegen verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> um eine öffentliche Versteigerung seiner daselbst besizenden Behausung mit No. 16 signieret, samt der Zugehörde, und denen zugetheilten Gemeinds Grundstücken auf der Frohnwiese gelegen, bey loblicher Landgerichts Obrigkeit angelanget; Zu diesem Ende wurden untern 1ten dies die diesfälligen Versteigerungsedikte ausgefertiget, und sohin in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, in <rs type="place" ref="#brunegg">Bruneck</rs>, und <rs type="place" ref="#scheneck">Scheneck</rs> behörig kundgemachet. Da dann zu solcher Versteigerung auf heut dato</p>
+               <p>Es hat der geistliche Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines hohen Alters wegen verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> um eine öffentliche Versteigerung seiner daselbst besizenden Behausung mit No. 16 signieret, samt der Zugehörde, und denen zugetheilten Gemeinds Grundstücken auf der <rs type="place" ref="#heiligkreuz_franewiese">Frohnwiese</rs> gelegen, bey loblicher Landgerichts Obrigkeit angelanget; Zu diesem Ende wurden untern 1ten dies die diesfälligen Versteigerungsedikte ausgefertiget, und sohin in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, in <rs type="place" ref="#brunegg">Bruneck</rs>, und <rs type="place" ref="#scheneck">Scheneck</rs> behörig kundgemachet. Da dann zu solcher Versteigerung auf heut dato</p>
                <p>
                   <pb n="667v"/>
                </p>
@@ -164,20 +167,21 @@
                <p>
                   <pb n="358bv"/>
                </p>
-               <p>[Briefadresse:] <rs type="person" ref="#plaickner_anton"/>Anton<note>
+               <p>[Briefadresse:] <rs type="person" ref="#plaickner_anton">Anton Plaickner</rs>
+                        <note>
                             <p rend="footnote text">
-                                <hi rend="italic" xml:space="preserve"> Davor sowie darüber gestrichen </hi>Herrn.</p>
-                        </note> Plaickner burgerlichen Weisgärbermeistern in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                                <hi rend="italic" xml:space="preserve"> Vor sowie über </hi>Anton <hi rend="italic" xml:space="preserve">gestrichen </hi>Herrn.</p>
+                        </note> burgerlichen Weisgärbermeistern in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </p>
                <p>
                   <pb n="358ar"/>
                </p>
                <p>Besonders vilgeehrter Maister,</p>
-               <p>Erst am dato erhalte von meiner Obrigkeit das Ersuchschreiben das ich auf den <date notBefore="1798-03-16" notAfter="1798-03-17">16ten et 17. dis</date> zu meines geistlichen Herrn Bruders Abhandlung in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> erscheinen solle, da ich mich aber nicht allerdings wohlauf befinde, als siehe mich nicht in Stande eine solliche Rais zumachen, und da ich gar niemande Bekanntes in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> weiß, als habe mich an den Meister wenden, und bitten wollen mich bei der Herr Brüderlichen Abhandlung zuvertretten, zu wellichen Ende den Meister hiemit den vollen Gwalt mit allen Rechtsklauslen, nebst der</p>
+               <p>Erst am dato erhalte von meiner Obrigkeit das Ersuchschreiben das ich auf den <date notBefore="1798-03-16" notAfter="1798-03-17">16ten et 17. dis</date> zu meines <rs type="person" ref="#manucredo_antany_sebastian">geistlichen Herrn Bruders</rs> Abhandlung in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> erscheinen solle, da ich mich aber nicht allerdings wohlauf befinde, als siehe mich nicht in Stande eine solliche Rais zumachen, und da ich gar niemande Bekanntes in <rs type="place" ref="#st_lorenzen">Lorenzen</rs> weiß, als habe mich an den Meister wenden, und bitten wollen mich bei der Herr Brüderlichen Abhandlung zuvertretten, zu wellichen Ende den Meister hiemit den vollen Gwalt mit allen Rechtsklauslen, nebst der</p>
                <p>
                   <pb n="358av"/>
                </p>
-               <p>Substitution, und Schadloshaltung, ertheilet haben will, womit nebst einen freindlichen Gruß an die eheliebste, und Jungfrau Schwester Maria verbleibe</p>
+               <p>Substitution, und Schadloshaltung, ertheilet haben will, womit nebst einen freindlichen Gruß an die <rs type="person" ref="#plaickner_eheliebste">eheliebste</rs>, und Jungfrau Schwester <rs type="person" ref="#plaickner_maria">Maria</rs> verbleibe</p>
                <p>der altbekante <rs type="person" ref="#manucredo_johann_jakob">Johann Jakob Manucredo</rs> Stadt et Landgerichts Anwald m.p.</p>
                <p>
                         <rs type="place" ref="#sterzing">Sterzing</rs> den <date when="1798-03-13">13. Marti 1798</date>
@@ -260,7 +264,7 @@
                                 </note> a 36 x</cell>
                      <cell>2 f 24 x<note>
                                     <p rend="footnote text">
-                                        <hi rend="italic">Korrigiert aus</hi> 1 f 30 x. <hi rend="italic">2 f 24 x ist der Wert für 4 Stück.</hi>
+                                        <hi rend="italic"> Korrigiert aus</hi> 1 f 30 x. <hi rend="italic">2 f 24 x ist der Wert für 4 Stück.</hi>
                                     </p>
                                 </note>
                             </cell>
@@ -313,7 +317,7 @@
                      <cell>Ein zinnenes Obergiessbeket wägt 3¼ Pfund a 26 x</cell>
                      <cell>1 f 37½ x<note>
                                     <p rend="footnote text">
-                                        <hi rend="italic">Betrag wäre der Wert für 30 x pro Pfund oder 3¾ Pfund zu 26 x, richtig wäre 1 f 24½ x.</hi>
+                                        <hi rend="italic"> Betrag wäre der Wert für 30 x pro Pfund oder 3¾ Pfund zu 26 x, richtig wäre 1 f 24½ x.</hi>
                                     </p>
                                 </note>
                             </cell>
@@ -588,7 +592,7 @@
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>Das wenige schlechte Kuchlgeschirr solle Herr Ableiber seiner Junfrau Baas geschenckt haben pr Bht.</cell>
+                     <cell>Das wenige schlechte Kuchlgeschirr solle Herr Ableiber seiner <rs type="person" ref="#mitscha_maria">Jungfrau Baas</rs> geschenckt haben pr Bht.</cell>
                      <cell/>
                   </row>
                </table>
@@ -806,7 +810,8 @@
                      <cell>2 f 46 x</cell>
                   </row>
                   <row>
-                     <cell>Tonig extra</cell>
+                     <cell>
+                                <rs type="person" ref="#tonig">Tonig</rs> extra</cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
@@ -826,9 +831,9 @@
                      <cell/>
                   </row>
                </table>
-               <p>Den 18ten vorigen Monats ist der hochehrwürdige Priester Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manukredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> seel. welcher von keiner Kuratpfründe, sondern von eigenen Mittlen lebte, im 76ten Jahr seines Alters eines natürlichen Todes verstorben.</p>
+               <p>Den <date when="1798-02-18">18ten vorigen Monats</date> ist der hochehrwürdige Priester Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manukredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> seel. welcher von keiner Kuratpfründe, sondern von eigenen Mittlen lebte, im 76ten Jahr seines Alters eines natürlichen Todes verstorben.</p>
                <p>Es kommt daher dessen ganzes Vermögen lediglich nur unter dessen 2 Geschwisterte zu vertheilen, so da sind</p>
-               <p>I. Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo Gerichts</rs> Anwald zu <rs type="place" ref="#sterzing">Sterzing</rs>, und</p>
+               <p>I. Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> Gerichts Anwald zu <rs type="place" ref="#sterzing">Sterzing</rs>, und</p>
                <p>II. Frau <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> des Herrn <rs type="person" ref="#mitscha_michael">Michael Mitscha</rs> Weissgarbermeisters zu <rs type="place" ref="#roveredo">Roveredo</rs> Ehegattin.</p>
                <p>
                   <pb n="355v"/>
@@ -858,7 +863,7 @@
                   <pb n="356r"/>
                </p>
                <p>eine letztwillige Verordnung mit der Bitte mündlich eröffnet haben, dieselben wollen nach seinen Hinscheiden solch vernommenen letzten Willen dem Gericht ordentlich kundmachen:</p>
-               <p>Es sind demnach auch Herr <rs type="person" ref="#dam_franz">Franz Dam</rs>, und Herr <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> anhero erschienen, diese melden vor allen, dass Herr Ableiber nicht ihnen allein sondern auch dem damals gegenwärtigen Herrn Kaplan zu <rs type="place" ref="#soneburg">Sonnenburg</rs> mithin dreyen Gezeügen seinen letzten Willen mündlich eröffnet, welcher in folgenden bestehe:</p>
+               <p>Es sind demnach auch Herr <rs type="person" ref="#dam_franz">Franz Dam</rs>, und Herr <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> anhero erschienen, diese melden vor allen, dass Herr Ableiber nicht ihnen allein sondern auch dem damals gegenwärtigen <rs type="person" ref="#kaplan_sonnenburg">Herrn Kaplan</rs> zu <rs type="place" ref="#soneburg">Sonnenburg</rs> mithin dreyen Gezeügen seinen letzten Willen mündlich eröffnet, welcher in folgenden bestehe:</p>
                <p>Er bath vor allen nach seinen Hinscheiden, seine Schriften zu untersehen, und nachzusehen, obe etwo noch bezahlte Heilige Messen in Ausstand ungelesen verblieben, in diesen Falle wolle er, dass die Erben von seinen Vermögen die ausständigen Heiligen Messen nachlesen lassen sollen. Sollten aber keine Heiligen Messen
                  in Ausstand seyen,<note>
                             <p rend="footnote text">
@@ -869,9 +874,9 @@
                </p>
                <p>seinen Geschwisterten folgende Erbtheile zuflüsen.</p>
                <p>Dem Herrn Bruder <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> in <rs type="place" ref="#sterzing">Sterzing</rs> 50 f, der Frau Schwester <rs type="person" ref="#manucredo_anna">Anna verehlichte Mitscha</rs> 100 f, und der
-               Jungfrauen Baas nemlich seiner Hauserin Maria Mitscha<note>
-                            <p rend="footnote text"> <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
-                                <hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi>
+               Jungfrauen Baas nemlich seiner Hauserin <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
+                        <note>
+                            <p rend="footnote text"> Maria Mitscha<hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi>
                             </p>
                         </note> als eine Erkenntlichkeit für ihre getreue Haushaltung und fleissige Aufwartung ein Legat pr 25 f.</p>
                <p>Was demnach über solche bestimmte Erbs- und Legatsgebuhren noch ubrig verbleiben würde, solle zu Lesenlassung Heiliger Messen verwendet werden.</p>
@@ -894,7 +899,8 @@
                <p>Vermogensergänzung.</p>
                <table rend="rules">
                   <row>
-                     <cell>Die Inventur betragt laut Protokoll von gestrigen Datum</cell>
+                     <cell>Die Inventur betragt laut Protokoll von <date when="1798-03-16">gestrigen Datum</date>
+                            </cell>
                      <cell>138 f 32½ x</cell>
                   </row>
                   <row>
@@ -950,7 +956,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>No 1: Funeral Conto in loblichem Pfarrwidum allda</cell>
+                     <cell>No 1: Funeral Conto in <rs type="place" ref="#st_lorenzen_kirche">loblichem Pfarrwidum</rs> allda</cell>
                      <cell>18 f 33 x</cell>
                   </row>
                   <row>
@@ -958,7 +964,7 @@
                      <cell>2 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>[No] 3: Dem <rs type="person" ref="#mayr_franz">Franz Mayr</rs> Schneidermeister an Arbeit Lohn, und Todtfall ansagen</cell>
+                     <cell>[No] 3: Dem <rs type="person" ref="#mayr_franz_2">Franz Mayr</rs> Schneidermeister an Arbeit Lohn, und Todtfall ansagen</cell>
                      <cell>2 f 45 x</cell>
                   </row>
                   <row>
@@ -966,7 +972,7 @@
                      <cell>6 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>[No] 5: Dem Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> Kameralad(ministrat)or an<note>
+                     <cell>[No] 5: Dem Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Salcher</rs> Kameralad(ministrat)or an<note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Folgt erneut irrig </hi>an.</p>
                                 </note> alt ausständigen Kapital- und Grundzinsen</cell>
@@ -1002,15 +1008,16 @@
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Dem Tischler für die Todten Truchen</cell>
+                     <cell>Dem <rs type="person" ref="#tischler_lorenzen">Tischler</rs> für die Todten Truchen</cell>
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
-                     <cell>Der loblichen Pfarrkirche fur das Messgewandt, so dem Herrn Ableiber ins Grab mitgegeben worden</cell>
+                     <cell>Der loblichen <rs type="place" ref="#st_lorenzen_kirche">Pfarrkirche</rs> fur das Messgewandt, so dem Herrn Ableiber ins Grab mitgegeben worden</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Die Jungfrau Hausserin<note>
+                     <cell>Die Jungfrau <rs type="person" ref="#mitscha_maria">Hausserin</rs>
+                                <note>
                                     <p rend="footnote text">
                                         <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Lidlohn.</p>
                                 </note> hat selbst Lidlohn ab 5 Monath zubegehren</cell>
@@ -1055,7 +1062,7 @@
                                 <note>
                                     <p rend="footnote text"> M-<hi rend="italic" xml:space="preserve"> von </hi>Maria<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>Ba-.</p>
                                 </note> will
-                     der Herr Johann Manucredische Vertretter <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs>, das zugedachte Legat verbilligen mit</cell>
+                     der Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredische</rs> Vertretter <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs>, das zugedachte Legat verbilligen mit</cell>
                      <cell>25 f 0 x</cell>
                   </row>
                   <row>
@@ -1148,7 +1155,7 @@
                      <cell>Und Legat</cell>
                      <cell>25 f 0 x<note>
                                     <p rend="footnote text">
-                                        <hi rend="italic">Auslassungsstrich für 0 korrigiert aus</hi> 25.</p>
+                                        <hi rend="italic"> Auslassungsstrich für 0 korrigiert aus</hi> 25.</p>
                                 </note>
                             </cell>
                   </row>
@@ -1228,7 +1235,7 @@
                      <cell>201 f 28½ x</cell>
                   </row>
                </table>
-               <p>Um welchen Erlag dann auch sie Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> in proprio, und in de rato Cavirung ihrer Frau Mutter den auszahlenden Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> nach Landes Rechten hiemit bestens quittiret haben will.</p>
+               <p>Um welchen Erlag dann auch sie Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> in proprio, und in de rato Cavirung ihrer <rs type="person" ref="#manucredo_anna">Frau Mutter</rs> den auszahlenden Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> nach Landes Rechten hiemit bestens quittiret haben will.</p>
                <p>Es ist also Herr <rs type="person" ref="#dam_franz">Franz Dam</rs> der Frau <rs type="person" ref="#manucredo_anna">Anna Mitscha</rs> noch 100 f heutiges Erb, und der Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> auch noch 100 f, so in vorallegirter Kaufschillingsliquidation und Schuldensüberbündung für selbe als Lidlohn einkommen, auf Martini dies Jahrs zu 3½ p.c. verzinslich schuldig.</p>
                <p>
                   <pb n="362r"/>

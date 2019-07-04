@@ -897,7 +897,7 @@
                   <cell>29 f 47 x</cell>
                </row>
                <row>
-                  <cell>Und an weitern baaren Geldt ist verhanden von Ihro Hochfreylich Gnaden Herrn Pfarrer an bezalten Wochen Gulden, und erkhaufften Tischgwandt, und noch extra für ain Spänisch Rohr zusamen</cell>
+                  <cell>Und an weitern baaren Geldt ist verhanden von Ihro Hochfreylich Gnaden <rs type="person" ref="#pfarrer_lorenzen">Herrn Pfarrer</rs> an bezalten Wochen Gulden, und erkhaufften Tischgwandt, und noch extra für ain Spänisch Rohr zusamen</cell>
                   <cell>18 f 0 x</cell>
                </row>
                <row>
@@ -912,7 +912,7 @@
                   <cell>18 f 5 x</cell>
                </row>
                <row>
-                  <cell>Wie aus den von Herrn Curat zu <rs type="place" ref="#strengen">Strengen in Oberinthall</rs> <rs type="person" ref="#woechner_joseph">Joseph Wöchner</rs> an Ihro Hochwürden und Gnaden Herrn Döchand yberschribenen Misiv Brief zu ersöchen, seind die daselbs den Herrn Ableiber zuegehörig geweste Mobilien verkhaufft, und yber 6 f Abzug, für einer daselbs befündlichen gewisen Jungfrauen, noch an Geldt einzulangen vorstendig verbliben 29 f, welche aber allererst den negsten Hörbst bezalt werden, id est</cell>
+                  <cell>Wie aus den von Herrn Curat zu <rs type="place" ref="#strengen">Strengen in Oberinthall</rs> <rs type="person" ref="#woechner_joseph">Joseph Wöchner</rs> an Ihro Hochwürden und Gnaden <rs type="person" ref="#ingramb_joseph_mathias">Herrn Döchand</rs> yberschribenen Misiv Brief zu ersöchen, seind die daselbs den Herrn Ableiber zuegehörig geweste Mobilien verkhaufft, und yber 6 f Abzug, für einer daselbs befündlichen gewisen Jungfrauen, noch an Geldt einzulangen vorstendig verbliben 29 f, welche aber allererst den negsten Hörbst bezalt werden, id est</cell>
                   <cell>29 f 0 x</cell>
                </row>
             </table>
@@ -962,7 +962,7 @@
                   <cell>1 f 44 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Dem Herrn Nidergötscher wegen für Herrn Ableiber seel. gelesenen Heiligen Mössen, und extra gethaner Verrichtung</cell>
+                  <cell>Dedit. Dem <rs type="person" ref="#nidergoetscher">Herrn Nidergötscher</rs> wegen für Herrn Ableiber seel. gelesenen Heiligen Mössen, und extra gethaner Verrichtung</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -987,7 +987,8 @@
                   <cell>10 f 14 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Dem Barbierer alhier</cell>
+                  <cell>Dedit. Dem <rs type="person" ref="#barbier_lorenzen">Barbierer alhier</rs>
+                        </cell>
                   <cell>1 f 43 x</cell>
                </row>
                <row>
@@ -995,7 +996,7 @@
                   <cell>7 f 28 x</cell>
                </row>
                <row>
-                  <cell>No 4: Dedit. Ihro gestreng dem Herrn Pfleger zu <rs type="place" ref="#rasen">Räsen</rs> Haubtsach laut Schultschein</cell>
+                  <cell>No 4: Dedit. Ihro gestreng dem <rs type="person" ref="#pfleger_rasen">Herrn Pfleger</rs> zu <rs type="place" ref="#rasen">Räsen</rs> Haubtsach laut Schultschein</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
@@ -1007,7 +1008,8 @@
                   <cell>14 f 14 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Dem <rs type="person" ref="#helweger_jacob">Jacob Helweger</rs> weegen von <rs type="place" ref="#brunegg">Brunegg</rs> herab- und widerumb hinauf gefiehrten Herrn Doctor</cell>
+                  <cell>Dedit. Dem <rs type="person" ref="#helweger_jacob">Jacob Helweger</rs> weegen von <rs type="place" ref="#brunegg">Brunegg</rs> herab- und widerumb hinauf gefiehrten <rs type="person" ref="#vogl_">Herrn Doctor</rs>
+                        </cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
@@ -1043,16 +1045,16 @@
                </row>
                <row>
                   <cell>
-                     Dedit. Dem Herrn Haslmayr zu <rs type="place" ref="#innsbruck">Yhnsprugg</rs> wegen yberschickhten und lesen gelassenen Zeitungen
+                     Dedit. Dem <rs type="person" ref="#haslmayr_innsbruck">Herrn Haslmayr</rs> zu <rs type="place" ref="#innsbruck">Yhnsprugg</rs> wegen yberschickhten und lesen gelassenen Zeitungen
                   </cell>
                   <cell>3 f 45 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Ingleichen dem Herrn Steyrer zu <rs type="place" ref="#brunegg">Brunegg</rs> von ¾tl Jahr</cell>
+                  <cell>Dedit. Ingleichen dem <rs type="person" ref="#steyrer_bruneck">Herrn Steyrer</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> von ¾tl Jahr</cell>
                   <cell>45 x</cell>
                </row>
                <row>
-                  <cell>Dedit. Der Freyele Heiserin zu einer geringen Erkhandtligkheit</cell>
+                  <cell>Dedit. Der <rs type="person" ref="#sigmayr_haeuserin">Freyele Heiserin</rs> zu einer geringen Erkhandtligkheit</cell>
                   <cell>1 f 30 x</cell>
                </row>
                <row>
@@ -1097,25 +1099,25 @@
             <p>
                <pb n="225r"/>
             </p>
-            <p>dieweillen aber die däto anhero bey gekhommene Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> vermig den von der loblichen Obrigkheit zu Alträsen beygebrachten vid(imierten) Extract von <date when="1766-12-01">ersten December anno 1766</date>, so auf dessen verstorbenen Vattern <rs type="person" ref="#sigmayr_andree">Andreen Sigmayr</rs> seel. Verabhandlung von <date when="1743-05-20">20ten May anno 1743</date> gezochen worden, dargethan und erwisen, das denenselben der abgeleibte Herr Brueder <rs type="person" ref="#sigmayr_andree">Andree Sigmayr</rs> seel. noch von Studieren per 128 f 41 x richtig schuldig verbliben seye, und mithin das völlig restierende Vermigen anbegehrt. Vorwider man von Seithen der g(nä)d(i)g(en) geistlichen Commission und weldtlichen Obrigkheit an dessen Ausfolglassung bis auf 10 f umbsoweniger Bedenckhen getragen, als ohnedeme solches zu Contentierung ihrer Praetension nit zuelenckhlich wäre, die 10 f aber zu Vergnüegung des inzwischen in Vorschein kommen und dem Herrn <rs type="person" ref="#baldtauf_mathias">Mathias Baldtauf</rs> noch schuldigen Yberpoths anrugg zu verbleiben haben sollen. Als wurde sohin auch von den Gemainschafftfiehrer Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> ihnen zwo Gebrüedern das noch restierende Vermigen, yedoch wie gemelt, yber Abzug der 10 f mit denen noch be-</p>
+            <p>dieweillen aber die däto anhero bey gekhommene Gebrüedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> vermig den von der loblichen Obrigkheit zu <rs type="place" ref="#rasen">Alträsen</rs> beygebrachten vid(imierten) Extract von <date when="1766-12-01">ersten December anno 1766</date>, so auf dessen verstorbenen Vattern <rs type="person" ref="#sigmayr_andree_sen">Andreen Sigmayr</rs> seel. Verabhandlung von <date when="1743-05-20">20ten May anno 1743</date> gezochen worden, dargethan und erwisen, das denenselben der abgeleibte Herr Brueder <rs type="person" ref="#sigmayr_andree">Andree Sigmayr</rs> seel. noch von Studieren per 128 f 41 x richtig schuldig verbliben seye, und mithin das völlig restierende Vermigen anbegehrt. Vorwider man von Seithen der g(nä)d(i)g(en) geistlichen Commission und weldtlichen Obrigkheit an dessen Ausfolglassung bis auf 10 f umbsoweniger Bedenckhen getragen, als ohnedeme solches zu Contentierung ihrer Praetension nit zuelenckhlich wäre, die 10 f aber zu Vergnüegung des inzwischen in Vorschein kommen und dem Herrn <rs type="person" ref="#baldtauf_mathias">Mathias Baldtauf</rs> noch schuldigen Yberpoths anrugg zu verbleiben haben sollen. Als wurde sohin auch von den Gemainschafftfiehrer Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> ihnen zwo Gebrüedern das noch restierende Vermigen, yedoch wie gemelt, yber Abzug der 10 f mit denen noch be-</p>
             <p>
                <pb n="225v"/>
             </p>
             <p>tröffenden 72 f 4 x dato baar aufgezölt, erlegt, und bezalt, welche sie Gebrüedere <rs type="person" ref="#sigmayr_bartlmee">Bartlmee</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> auch<note>
                         <p rend="footnote text"> -ch<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-f-.</p>
-                    </note> baar eingenommen und empfangen zu haben bekhennen, darummen selbe, für sie und ihre Erben, ernenten Herrn Gemainschafft Fiehrer, und wem es weiters beriert, auf ewig quittiert, frey, ledig und losgesprochen, und demenach zukhommen, Ihro gestreng dem Herrn Pfleger Lit. <rs type="person" ref="#englmohr_joseph_ignaeti">v. Englmohr</rs> etc. das Handt Anloben erstatt haben. In Beyseyn als Gezeugen Ihro wohl Ehrwürden des Herrn Beneficiaten bey dem <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Creuz</rs>, <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs>, und <rs type="person" ref="#steeger_joseph">Josephen Steeger</rs> Schreibers alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</p>
+                    </note> baar eingenommen und empfangen zu haben bekhennen, darummen selbe, für sie und ihre Erben, ernenten <rs type="person" ref="#kerschpaember_johan">Herrn Gemainschafft Fiehrer</rs>, und wem es weiters beriert, auf ewig quittiert, frey, ledig und losgesprochen, und demenach zukhommen, Ihro gestreng dem Herrn Pfleger Lit. v. <rs type="person" ref="#englmohr_joseph_ignaeti">Englmohr</rs> etc. das Handt Anloben erstatt haben. In Beyseyn als Gezeugen Ihro wohl Ehrwürden des Herrn Beneficiaten bey dem <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Creuz</rs>, <rs type="person" ref="#steeger_leopoldt_niclaus">Leopoldt Niclaus Steeger</rs>, und <rs type="person" ref="#steeger_joseph">Josephen Steeger</rs> Schreibers alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</p>
             <p>Actum <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1767-12-09">9ten December, anno 1767</date>.</p>
             <p>Es seind zwahr, wie kurz gemelt, für Herrn <rs type="person" ref="#baldtauf_mathias">Mathes Waldtauf</rs> zu Bezahlung des den Herrn Ableiber abgegeben haben sollenden Peth 10 f anrugg behalten worden, weillen aber selber<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>de-.</p>
-                    </note> auf der von Ihro Hochwürden und Gnaden Herrn Döchand demselben beschechner Zueschreibung bis zu däto kein Antworth gegeben, mithin abzunemmen seye, das er solche nitmehr anzubegehren haben dörffte, hievon aber 57 x so von</p>
+                    </note> auf der von Ihro Hochwürden und Gnaden <rs type="person" ref="#ingramb_joseph_mathias">Herrn Döchand</rs> demselben beschechner Zueschreibung bis zu däto kein Antworth gegeben, mithin abzunemmen seye, das er solche nitmehr anzubegehren haben dörffte, hievon aber 57 x so von</p>
             <p>
                <pb n="226r"/>
             </p>
-            <p>ratum weniger und 18 x dem Herrn Döhand bezalt worden, abzuziechen kommen, mithin noch 8 f 45 x restierend verbleiben, als hat auch <note>
+            <p>ratum weniger und 18 x dem <rs type="person" ref="#ingramb_joseph_mathias">Herrn Döhand</rs> bezalt worden, abzuziechen kommen, mithin noch 8 f 45 x restierend verbleiben, als hat auch <note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>wo-.</p>
-                    </note> hoch gemelter Herr Döhand solche denen zwo gebrüedern ausfolgen zu lassen verwilliget. Und gleichwie auch der anheut däto beygekommene Brueder <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> dise 8 f 45 x von dem Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> par eingenommen und empfangen zu haben bekhendt, als hat derselbe für sich und nomine seines Bruedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee Sigmayrs</rs> ihnen hierummen quittiert und zu Bekhräfftigung dessen sich alda aigenhendig unterschriben. Actum ut supra.</p>
+                    </note> hoch gemelter <rs type="person" ref="#ingramb_joseph_mathias">Herr Döhand</rs> solche denen zwo gebrüedern ausfolgen zu lassen verwilliget. Und gleichwie auch der anheut däto beygekommene Brueder <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> dise 8 f 45 x von dem Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaummer</rs> par eingenommen und empfangen zu haben bekhendt, als hat derselbe für sich und nomine seines Bruedern <rs type="person" ref="#sigmayr_bartlmee">Bartlmee Sigmayrs</rs> ihnen hierummen quittiert und zu Bekhräfftigung dessen sich alda aigenhendig unterschriben. Actum ut supra.</p>
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> bekhene wie obsteth</p>
          </div>
       </body>

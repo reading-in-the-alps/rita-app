@@ -139,7 +139,7 @@
             <place xml:id="himmelfahrt_kirche">
                <placeName>Dietenheim (Maria-Himmelfahrt-Kirche)</placeName>
                <placeName type="italiano">Santa Maria Assunta</placeName>
-	             <settlement ref="dietenheim">Dietenheim</settlement>
+	             <settlement ref="#dietenheim">Dietenheim</settlement>
                <location>
                         <geo decls="#LatLng">46.794386 11.943221</geo>
                     </location>
@@ -147,7 +147,7 @@
             <place xml:id="brunegg_kappuziner">
                <placeName>Bruneck (Kapuzinerkirche)</placeName>
                <placeName type="italiano">Chiesa di Cappuccini</placeName>
-	             <settlement ref="brunegg">Bruneck</settlement>
+	             <settlement ref="#brunegg">Bruneck</settlement>
                <location>
                         <geo decls="#LatLng">46.797182 11.940627</geo>
                     </location>
@@ -350,7 +350,7 @@
                <idno type="GEONAMES">http://www.geonames.org/8951089</idno>
             </place>
             <place xml:id="heiligkreuz_franewiese">
-               <placeName>Hl.-Kreuz-Kirche auf der Fronwiese</placeName>
+               <placeName>Hl.-Kreuz-Kirche / Fronwiese</placeName>
                <placeName type="italiano">Santa Croce</placeName>
                <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
@@ -360,7 +360,7 @@
             <place xml:id="st_lorenzen_kirche">
                <placeName>St. Lorenzen (Kirche)</placeName>
                <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
-               <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.783527 11.902577</geo>
                     </location>
@@ -375,7 +375,7 @@
             <place xml:id="reischach_kirche">
                <placeName>Reischach (Kirche)</placeName>
                <placeName type="italiano">Chiesa parrocchia Reischach</placeName>
-	             <settlement ref="reischach">Reischach</settlement>
+	             <settlement ref="#reischach">Reischach</settlement>
                <location>
                         <geo decls="#LatLng">46.777046 11.950265</geo>
                     </location>
@@ -612,7 +612,7 @@
             <place xml:id="pflaurenz">
                <placeName>Pflaurenz</placeName>
                <placeName type="italiano">Floronzo</placeName>
-               <district ref="soneburg">Sonnenburg</district>
+               <district ref="#soneburg">Sonnenburg</district>
                <location>
                         <geo decls="#LatLng">46.78225 11.89223</geo>
                     </location>
@@ -663,7 +663,7 @@
             <place xml:id="st_martin">
                <placeName>St. Martin</placeName>
                <placeName type="italiano">San Martino</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.77714 11.89806</geo>
                     </location>
@@ -672,7 +672,7 @@
             <place xml:id="st_gotthard">
                <placeName>St.-Gotthard-und-St.-Erhard-Kirche</placeName>
                <placeName type="italiano">Chiesa di San Gottardo e Sant'Erardo</placeName>
-               <district ref="brixen">Brixen</district>
+               <district ref="#brixen">Brixen</district>
                <location>
                         <geo decls="#LatLng">46.715864 11.655517</geo>
                     </location>
@@ -680,7 +680,7 @@
             <place xml:id="onach">
                <placeName>Onach</placeName>
                <placeName type="italiano">Onies</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.74843 11.86496</geo>
                     </location>
@@ -689,13 +689,13 @@
             <place xml:id="mahr">
                <placeName>In der Mahr</placeName>
                <placeName type="italiano">La Mara</placeName>
-               <district ref="brixen">Brixen</district>
+               <district ref="#brixen">Brixen</district>
                <location>
                         <geo decls="#LatLng">46.696169 11.641767</geo>
                     </location>
             </place>
             <place xml:id="st_johannes">
-               <placeName>St. Johannes</placeName>
+               <placeName>St. Johannes (eventuell <rs type="place" ref="#gais_kirche">St. Johannes in Gais</rs>)</placeName>
             </place>
             <place xml:id="ulten">
                <placeName>Ultental</placeName>
@@ -724,18 +724,10 @@
                     </location>
                <idno type="GEONAMES">http://www.geonames.org/6535928</idno>
             </place>
-            <place xml:id="olang_kirche">
-               <placeName>St. Petrus und St. Agnes (Kirche)</placeName>
-               <placeName type="italiano">Parrocchia Valdaora Di Sotto</placeName>
-	             <settlement ref="niederolang">Niederolang</settlement>
-               <location>
-                        <geo decls="#LatLng">46.767856 12.016395</geo>
-                    </location>
-            </place>
             <place xml:id="niederolang">
                <placeName>Niederolang</placeName>
                <placeName type="italiano">Valdaora Di Sotto</placeName>
-	             <settlement ref="ollang">Olang</settlement>
+	             <settlement ref="#ollang">Olang</settlement>
                <location>
                         <geo decls="#LatLng">46.7681 12.01818</geo>
                     </location>
@@ -753,7 +745,7 @@
             <place xml:id="st_sigmund">
                <placeName>St. Sigmund</placeName>
                <placeName type="italiano">San Sigismondo</placeName>
-               <district ref="scheneck">Schöneck</district>
+               <district ref="#scheneck">Schöneck</district>
                <location>
                         <geo decls="#LatLng">46.81151 11.80267</geo>
                     </location>
@@ -762,7 +754,7 @@
             <place xml:id="pfalzen">
                <placeName>Pfalzen</placeName>
                <placeName type="italiano">Falzes</placeName>
-               <district ref="scheneck">Schöneck</district>
+               <district ref="#scheneck">Schöneck</district>
                <location>
                         <geo decls="#LatLng">46.81359 11.88308</geo>
                     </location>
@@ -777,7 +769,7 @@
             <place xml:id="moos">
                <placeName>Moos</placeName>
                <placeName type="italiano">Moja</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.76931 11.89759</geo>
                     </location>
@@ -786,7 +778,7 @@
             <place xml:id="lothen">
                <placeName>Lothen</placeName>
                <placeName type="italiano">Campolino</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.79238 11.88692</geo>
                     </location>
@@ -798,7 +790,7 @@
             <place xml:id="stephansdorf">
                <placeName>Stefansdorf</placeName>
                <placeName type="italiano">Santo Stefano</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.7702 11.92189</geo>
                     </location>
@@ -807,7 +799,7 @@
             <place xml:id="picolein">
                <placeName>Pikolein</placeName>
                <placeName type="italiano">Piccolino</placeName>
-	             <settlement ref="st_martin_thurn">St. Martin in Thurn</settlement>
+	             <settlement ref="#st_martin_thurn">St. Martin in Thurn</settlement>
                <location>
                         <geo decls="#LatLng">46.68724 11.89539</geo>
                     </location>
@@ -816,23 +808,32 @@
             <place xml:id="st_martin_thurn">
                <placeName>St. Martin in Thurn</placeName>
                <placeName type="italiano">San Martino in Badia</placeName>
-               <district ref="thurn">Thurn</district>
+               <district ref="#thurn">Thurn</district>
                <location>
                         <geo decls="#LatLng">46.68153 11.89809</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
+               <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
+            </place>
+            <place xml:id="thurn_schloss">
+               <placeName>Schloss Thurn</placeName>
+               <placeName type="italiano">Castel Tor</placeName>
+               <settlement ref="#st_martin_thurn">St. Martin in Thurn</settlement>
+               <location>
+                        <geo decls="#LatLng">46.6807 11.89325</geo>
+                    </location>
             </place>
             <place xml:id="thurn">
                <placeName>Thurn</placeName>
                <placeName type="italiano">Badia</placeName>
                <location>
-                        <geo decls="#LatLng">46.680773 11.893280</geo>
+                        <geo decls="#LatLng">46.68153 11.89809</geo>
                     </location>
+               <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
             </place>
             <place xml:id="sorega">
                <placeName>Sorega</placeName>
                <placeName type="italiano">Sorega</placeName>
-	             <settlement ref="st_kassian">St. Kassian</settlement>
+	             <settlement ref="#st_kassian">St. Kassian</settlement>
                <location>
                         <geo decls="#LatLng">46.56688 11.93478</geo>
                     </location>
@@ -840,7 +841,7 @@
             <place xml:id="st_kassian">
                <placeName>St. Kassian</placeName>
                <placeName type="italiano">San Cassiano</placeName>
-	             <district ref="ennenberg">Enneberg</district>
+	             <district ref="#ennenberg">Enneberg</district>
                <location>
                         <geo decls="#LatLng">46.57007 11.93606</geo>
                     </location>
@@ -850,8 +851,9 @@
                <placeName>Enneberg</placeName>
                <placeName type="italiano">Marebbe</placeName>
                <location>
-                        <geo decls="#LatLng">46.698 11.9315</geo>
+                        <geo decls="#LatLng">46.69792 11.93544</geo>
                     </location>
+               <idno type="GEONAMES">http://www.geonames.org/3173977</idno>
             </place>
             <place xml:id="obvill">
                <placeName>Obvill</placeName>
@@ -866,7 +868,7 @@
             <place xml:id="fassing">
                <placeName>Fassing</placeName>
                <placeName type="italiano">Fassine</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.7915 11.8967</geo>
                     </location>
@@ -883,7 +885,7 @@
             <place xml:id="ellen">
                <placeName>Ellen</placeName>
                <placeName type="italiano">Elle</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.77601 11.83533</geo>
                     </location>
@@ -892,7 +894,7 @@
             <place xml:id="kiens">
                <placeName>Kiens</placeName>
                <placeName type="italiano">Chienes</placeName>
-               <district ref="schenegg">Schöneck</district>
+               <district ref="#schenegg">Schöneck</district>
                <location>
                         <geo decls="#LatLng">46.8068 11.84</geo>
                     </location>
@@ -900,14 +902,14 @@
             </place>
             <place xml:id="mauern">
                <placeName>Mauern</placeName>
-	             <settlement ref="moos">moos</settlement>
+	             <settlement ref="#moos">moos</settlement>
                <location>
                         <geo decls="#LatLng">46.7725 11.8895</geo>
                     </location>
             </place>
             <place xml:id="runggen">
                <placeName>Runggen</placeName>
-	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
                         <geo decls="#LatLng">46.77725 11.8738</geo>
                     </location>
@@ -915,7 +917,7 @@
             <place xml:id="st_oswald">
                <placeName>St. Oswald</placeName>
                <placeName type="italiano">Sant'Osvaldo</placeName>
-               <district ref="#kastelruth">Kastelruth</district>
+               <district reF="#kastelruth">Kastelruth</district>
                <location>
                         <geo decls="#LatLng">46.5567 11.5213</geo>
                     </location>
@@ -931,7 +933,7 @@
             <place xml:id="steegen_nikolaus">
                <placeName>St. Nikolaus (Kirche)</placeName>
                <placeName type="italiano">Chiesa Stegona</placeName>
-	             <settlement ref="steegen">Stegen</settlement>
+	             <settlement ref="#steegen">Stegen</settlement>
                <location>
                         <geo decls="#LatLng">46.7972 11.9234</geo>
                     </location>
@@ -947,7 +949,7 @@
             <place xml:id="stainhaus">
                <placeName>Steinhaus</placeName>
                <placeName type="italiano">Cadipietra</placeName>
-	             <settlement ref="aehrn">Ahrntal</settlement>
+	             <settlement ref="#aehrn">Ahrntal</settlement>
                <location>
                         <geo decls="#LatLng">46.995 11.98</geo>
                     </location>
@@ -956,7 +958,7 @@
             <place xml:id="brixen_neustift">
                <placeName>Neustift (Kloster)</placeName>
                <placeName type="italiano">Abbazia Di Novacella</placeName>
-               <district ref="brixen">Brixen</district>
+               <district ref="#brixen">Brixen</district>
                <location>
                         <geo decls="#LatLng">46.74247 11.6489</geo>
                     </location>
@@ -972,7 +974,7 @@
             <place xml:id="borgo">
                <placeName>Borgo Sacco</placeName>
                <placeName type="italiano">Borgo Sacco</placeName>
-               <settlement ref="roveredo">Rovereto</settlement>
+               <settlement ref="#roveredo">Rovereto</settlement>
                <location>
                         <geo decls="#LatLng">45.88622 11.01987</geo>
                     </location>
@@ -981,7 +983,7 @@
             <place xml:id="pasln">
                <placeName>Baslan</placeName>
                <placeName type="italiano">Baslan</placeName>
-	             <settlement ref="tscherms">Tscherms</settlement>
+	             <settlement ref="#tscherms">Tscherms</settlement>
                <location>
                         <geo decls="#LatLng">46.63942 11.14207</geo>
                     </location>
@@ -999,46 +1001,112 @@
             <place xml:id="keselanger">
                <placeName>Keselanger</placeName>
             </place>
-
-
-<!--  bis exkl. 1797
-            <place xml:id="XXX">
-               <placeName>XXX</placeName>
-               <placeName type="italiano">XXX</placeName>
-               <district ref="XXX">XXX</district>
-	             <settlement ref="XXX">XXX</settlement>
-               <location><geo decls="#LatLng">XXX XXX</geo></location>
-               <idno type="GEONAMES">http://www.geonames.org/XXX</idno>
-            </place>
- -->
-
-            <place xml:id="welsberg">
-               <placeName>Monguelfo</placeName>
+            <place xml:id="luns">
+               <placeName>Luns</placeName>
+               <placeName type="italiano">Lunes</placeName>
+               <district ref="#saenct_michaelsburg">St. Michaelsburg</district>
                <location>
-                        <geo decls="#LatLng">46.75774 12.10556</geo>
+                        <geo decls="#LatLng">46.79643 11.96948</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
+               <idno type="GEONAMES">http://www.geonames.org/8961704</idno>
             </place>
-            <place xml:id="aichholz">
-               <placeName>Roverè della Luna</placeName>
+            <place xml:id="st_martin_kaplanei">
+               <placeName>St. Martin (Kirche)</placeName>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
-                        <geo decls="#LatLng">46.25008 11.17233</geo>
+                        <geo decls="#LatLng">46.776636 11.895204</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
+            </place>
+            <place xml:id="brunegg_ursulinen">
+               <placeName>Bruneck (Ursulinenkirche)</placeName>
+               <placeName type="italiano">Chiesa di Orsoline</placeName>
+	             <settlement ref="#brunegg">Bruneck</settlement>
+               <location>
+                        <geo decls="#LatLng">46.795207 11.936215</geo>
+                    </location>
             </place>
             <place xml:id="st_vigili">
-               <placeName>San Vigilio di Marebbe</placeName>
+               <placeName>St. Vigil</placeName>
+               <placeName type="italiano">San Vigilio di Marebbe</placeName>
+               <district ref="#ennenberg">Enneberg</district>
                <location>
                         <geo decls="#LatLng">46.69884 11.93104</geo>
                     </location>
                <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
             </place>
-            <place xml:id="oberfellach">
-               <placeName>Oberfellach</placeName>
+            <place xml:id="kals_gericht">
+               <placeName>Kals</placeName>
                <location>
-                        <geo decls="#LatLng"/>
+                        <geo decls="#LatLng">47 12.65</geo>
                     </location>
-               <idno type="GEONAMES"/>
+               <idno type="GEONAMES">http://www.geonames.org/2774897</idno>
+            </place>
+            <place xml:id="oberfellach">
+               <placeName>Obervellach</placeName>
+               <district ref="#falkenstein">Oberfalkenstein</district>
+               <location>
+                        <geo decls="#LatLng">46.93309 13.19738</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/7871655</idno>
+            </place>
+            <place xml:id="falkenstein">
+               <placeName>Oberfalkenstein</placeName>
+               <location>
+                        <geo decls="#LatLng">46.922775 13.240425</geo>
+                    </location>
+            </place>
+            <place xml:id="enneberg_maria">
+               <placeName>Maria vom Guten Rat (Kirche)</placeName>
+               <placeName type="italiano">Pieve di Marebbe</placeName>
+	             <settlement ref="#ennenberg_pfarre">Enneberg-Pfarre</settlement>
+               <location>
+                        <geo decls="#LatLng">46.718899 11.919184</geo>
+                    </location>
+            </place>
+            <place xml:id="enneberg_pfarre">
+               <placeName>Enneberg-Pfarre</placeName>
+               <placeName type="italiano">Pieve di Marebbe</placeName>
+               <district ref="#ennenberg">Enneberg</district>
+               <location>
+                        <geo decls="#LatLng">46.71901 11.91694</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/3170749</idno>
+            </place>
+            <place xml:id="lovara">
+               <placeName>Lovara</placeName>
+               <placeName type="italiano">Lovara</placeName>
+	             <settlement ref="#st_martin_thurn">St. Martin in Thurn</settlement>
+               <location>
+                        <geo decls="#LatLng">46.67374 11.899791</geo>
+                    </location>
+            </place>
+            <place xml:id="enneberg_gericht">
+               <placeName>Gerichtshaus Enneberg</placeName>
+	             <settlement ref="#st_vigili">St. Vigil</settlement>
+               <location>
+                        <geo decls="#LatLng">46.69831 11.930725</geo>
+                    </location>
+            </place>
+            <place xml:id="klettenheim">
+               <placeName>Klettenheim</placeName>
+            </place>
+            <place xml:id="ahornach">
+               <placeName>Ahornach</placeName>
+               <placeName type="italiano">Acereto</placeName>
+	             <settlement ref="#sand">Sand in Taufers</settlement>
+               <location>
+                        <geo decls="#LatLng">46.9264 11.9789</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/3183545</idno>
+            </place>
+            <place xml:id="sand">
+               <placeName>Sand in Taufers</placeName>
+               <placeName type="italiano">Campo Tures</placeName>
+	             <district ref="#taufers">Taufers</district>
+               <location>
+                        <geo decls="#LatLng">46.91882 11.953575</geo>
+                    </location>
+               <idno type="GEONAMES">http://www.geonames.org/3180908</idno>
             </place>
          </listPlace>
       </body>

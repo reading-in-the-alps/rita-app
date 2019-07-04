@@ -69,7 +69,7 @@
             <p>Deto hierfür samt Schreibgeld 1 f 2 x, so in Verfachbüchl eingeschrieben worden.
                <note>
                         <p rend="footnote text">
-                            <hi rend="italic">Gesamte Anmerkung am linken Rand geschrieben.</hi>
+                            <hi rend="italic"> Gesamte Anmerkung am linken Rand geschrieben.</hi>
                         </p>
                     </note>
             </p>
@@ -174,7 +174,8 @@
                   <cell>4 f 48 x</cell>
                </row>
                <row>
-                  <cell>Dem Actuario</cell>
+                  <cell>Dem <rs type="person" ref="#aktuar_tratter">Actuario</rs>
+                        </cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -284,7 +285,7 @@
             <p>
                <pb n="481v"/>
             </p>
-            <p>erbnemmenden geistlichen Herrn Bruder mit den <rs type="bibl" ref="#brevier">alten Breviren</rs> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
+            <p>erbnemmenden geistlichen <rs type="person" ref="#tratter_balthasar">Herrn Bruder</rs> mit den <rs type="bibl" ref="#brevier">alten Breviren</rs> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
             <p>Haus Fahrnussen.</p>
             <table rend="rules">
                <row>
@@ -1099,7 +1100,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Häuslmayr allda bekennt mitlst an die lobliche Landgerichts Obrigkeit erstatteten Hand Anloben allher schuldig zu seyn Darlehen</cell>
+                            <rs type="person" ref="#steeger_joseph_2">Joseph Steeger</rs> Häuslmayr allda bekennt mitlst an die lobliche Landgerichts Obrigkeit erstatteten Hand Anloben allher schuldig zu seyn Darlehen</cell>
                   <cell>350 f 0 x</cell>
                </row>
                <row>
@@ -1137,7 +1138,7 @@
             <p>
                <pb n="490v"/>
             </p>
-            <p>Auskunft mit deme eröffnet, es seyen ihre, nämlich die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder zum mütterlichen, und respective ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Vermögen eben nur wegen der Grienbacherischen Ochsen Schuld 400 f zum Vermögen zu conferiren schuldig gewesen, weilen sie ansonst nur 350 f zu conferiren gehabt hätten, hingegen hätte in der ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Abhandlung solche 50 f wiederum pr Schuld hinaus eingetragen werden sollen; Um aber dieses zu verhüten, und keine Irrung zu machen, habe sich der geistliche Herr Bruder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> seel. in das Mittel geleget, und diese Schuld alleinig zu entgelten übernommen. Bey so angebrachter Beschafenheit wurde der Frau <rs type="person" ref="#tratter_anna">Anna verwittweten Tratterin</rs> Glauben beygemessen, mithin die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder von dieser Ansprache entlediget.</p>
+            <p>Auskunft mit deme eröffnet, es seyen ihre, nämlich die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder zum mütterlichen, und respective ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Vermögen eben nur wegen der <rs type="person" ref="#kammerer_joseph">Grienbacherischen</rs> Ochsen Schuld 400 f zum Vermögen zu conferiren schuldig gewesen, weilen sie ansonst nur 350 f zu conferiren gehabt hätten, hingegen hätte in der ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Abhandlung solche 50 f wiederum pr Schuld hinaus eingetragen werden sollen; Um aber dieses zu verhüten, und keine Irrung zu machen, habe sich der geistliche Herr Bruder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> seel. in das Mittel geleget, und diese Schuld alleinig zu entgelten übernommen. Bey so angebrachter Beschafenheit wurde der Frau <rs type="person" ref="#tratter_anna">Anna verwittweten Tratterin</rs> Glauben beygemessen, mithin die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder von dieser Ansprache entlediget.</p>
             <p>
                     <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> ein Tratter Sohn allda hat von Herrn Ableiber zu Anfangs Monat September 40 f zu Anlechen empfangen, mit der Kreide findet man noch diese Schuld aufgeschrieben, dieser entschuldiget sich aber diese 40 f in kurzer Zeit wiederum zurück gezahlet zu haben, bedenklich scheinet aber doch die Sach von darumen zu seyn, weilen dieses Geld nicht zu erfinden, und die Kreiden Note noch unausgelöscht ist, es kommet also noch auf dieses an, obe der <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> noch weiters auf seinen Vorgeben beharren werde pr Bericht.</p>
             <p>
@@ -1145,17 +1146,17 @@
             </p>
             <p>Belangend die <rs type="place" ref="#st_georgen_kirche">Kapplaney</rs> Gefälle: hat der hoch ehrwürdige Herr Ableiber nur<note>
                   <p rend="footnote text">
-                     <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                     <hi rend="italic"> Über der Zeile nachgetragen.</hi>
                   </p>
                </note>
                einen<note>
                         <p rend="footnote text">
-                            <hi rend="italic">Über der Zeile korrigiert aus gestrichenem </hi>die.</p>
+                            <hi rend="italic"> Über der Zeile korrigiert aus gestrichenem </hi>die.</p>
                     </note> hochfreyherrlichen v. Sternbachische<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und geistlichen Herrn Mutschlechnerische.</p>
                     </note> Stift Mess dieses Jahr gelesen,
-               und doch nicht nur für diese, sonder auch für die andere Sternbachische Stiftmess, und Herrn Mutschlechnerischen Jahrtag die völlige Gebühr per 4 f 12 x, einfolgsam um 2 f 42 x zu viel empfangen. Auf gleiche Weis hat wohl derselbe auch einschlüsslich Quartal Crucis die übrigen Einkünfte, und noch darzu auch für das Quartal Luciae vorhinein 40 f erhalten, so das alldaige Verlassenschaft, weilen Herrn Erblasser an lesten Quartal nur 2 Wochen erlebet, auch an diesem dem Herrn Successor von 11 Wochen die Gebühr pr 33 f<note>
+               und doch nicht nur für diese, sonder auch für die andere Sternbachische Stiftmess, und Herrn <rs type="person" ref="#mutschlechner_michael">Mutschlechnerischen</rs> Jahrtag die völlige Gebühr per 4 f 12 x, einfolgsam um 2 f 42 x zu viel empfangen. Auf gleiche Weis hat wohl derselbe auch einschlüsslich Quartal Crucis die übrigen Einkünfte, und noch darzu auch für das Quartal Luciae vorhinein 40 f erhalten, so das alldaige Verlassenschaft, weilen Herrn Erblasser an lesten Quartal nur 2 Wochen erlebet, auch an diesem dem Herrn <rs type="person" ref="#tratter_nachfolger">Successor</rs> von 11 Wochen die Gebühr pr 33 f<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen unlesbare Ziffer und </hi>8½.</p>
                     </note> 50 x, mithin in allen 36 f 32 x zu ersetzen habe, so hienach per Schuld hinaus einzutragen komet pr Bht.</p>
@@ -1202,8 +1203,8 @@
             <table rend="rules">
                <row>
                   <cell>Ihro<note>
-                                <p rend="footnote text">I-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>H-.</p>
-                            </note> Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen
+                                <p rend="footnote text"> I-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>H-.</p>
+                            </note> Hochwürden dem <rs type="person" ref="#pfarrer_gais_2">Herrn Pfarrer</rs> zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen
                   geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> auch gewesten Kapplon allhier anno 1773 bezahlt worden</cell>
                   <cell>8 f 0 x</cell>
                </row>
@@ -1212,7 +1213,7 @@
                   <cell>2 f 45 x</cell>
                </row>
                <row>
-                  <cell>Deme Herren Herren Cooperatore zu <rs type="place" ref="#gais">Gais</rs> für Conduct, und Vigilien</cell>
+                  <cell>Deme <rs type="person" ref="#kooperator_gais">Herren Herren Cooperatore</rs> zu <rs type="place" ref="#gais">Gais</rs> für Conduct, und Vigilien</cell>
                   <cell>2 f 24 x</cell>
                </row>
                <row>
@@ -1220,7 +1221,7 @@
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell>Dem Cantor für Conduct, Vigilien, und Ämter</cell>
+                  <cell>Dem <rs type="person" ref="#kantor_gais">Cantor</rs> für Conduct, Vigilien, und Ämter</cell>
                   <cell>2 f 24 x</cell>
                </row>
                <row>
@@ -1228,7 +1229,7 @@
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell>Dem Mesner zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einschluss des Jahrtags</cell>
+                  <cell>Dem <rs type="person" ref="#hueber_christian">Mesner</rs> zu <rs type="place" ref="#st_georgen">St. Georgen</rs> mit Einschluss des Jahrtags</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -1245,7 +1246,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Bey denen Exsequien seynd 10 extra Heilige Messen gelesen worden, gebiehrt von jeder dem Mesner sonderbar 3 x,</cell>
+                  <cell>Bey denen Exsequien seynd 10 extra Heilige Messen gelesen worden, gebiehrt von jeder dem <rs type="person" ref="#mesner_georgen_2">Mesner</rs> sonderbar 3 x,</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -1261,7 +1262,7 @@
                   <cell>10½ x</cell>
                </row>
                <row>
-                  <cell>Dem Sohn des Mesners, welcher eigens nacher <rs type="place" ref="#lazfonns">Latzfons</rs> geschicket worden, über Empfang 1 f 12 x, so von der nachgelassenen Baarschaft deme bestellet worden, noch</cell>
+                  <cell>Dem <rs type="person" ref="#mesner_georgen_2_sohn">Sohn des Mesners</rs>, welcher eigens nacher <rs type="place" ref="#lazfonns">Latzfons</rs> geschicket worden, über Empfang 1 f 12 x, so von der nachgelassenen Baarschaft deme bestellet worden, noch</cell>
                   <cell>54 x</cell>
                </row>
                <row>
@@ -1297,15 +1298,16 @@
                   <cell>3 f 36 x</cell>
                </row>
                <row>
-                  <cell>Herr Doctor Defrenes für gemachte Visit, und verschriebene Recepten</cell>
+                  <cell>Herr Doctor <rs type="person" ref="#frenes_">Defrenes</rs> für gemachte Visit, und verschriebene Recepten</cell>
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>In die Stadt Apoteck zu <rs type="place" ref="#brunegg">Bruneck</rs> an Medicamenten</cell>
+                  <cell>In die <rs type="person" ref="#apotheker_bruneck">Stadt Apoteck</rs> zu <rs type="place" ref="#brunegg">Bruneck</rs> an Medicamenten</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem Bader alldort Johann Mutz samt ausständigen Barbierer Lohn, und einschlüsslich 1 f 12 x Trinkgeld für den Gesellen</cell>
+                  <cell>Dem Bader alldort <rs type="person" ref="#muz_johan_geoerg">Johann Mutz</rs> samt ausständigen Barbierer Lohn, und einschlüsslich 1 f 12 x Trinkgeld für den <rs type="person" ref="#muz_johan_geoerg_geselle">Gesellen</rs>
+                        </cell>
                   <cell>11 f 15 x</cell>
                </row>
                <row>
@@ -1357,22 +1359,22 @@
                </row>
                <row>
                   <cell>Wie anfor<note>
-                                <p rend="footnote text">-f-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-b-.</p>
+                                <p rend="footnote text"> -f-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-b-.</p>
                             </note> bey dem Vermögen Anführung beschehen, hat die <rs type="person" ref="#kammerer_joseph">Joseph Kammerer Grienbacherische</rs> Verlassenschaft zu <rs type="place" ref="#kiens">Kiens</rs> noch zu begehren</cell>
                   <cell>39 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dann ist man schuldig dem succedirenden Herrn Kapplon an Stiftungs Gefällen, so Herr Erblasser vorhin ein empfangen</cell>
+                  <cell>Dann ist man schuldig dem <rs type="person" ref="#tratter_nachfolger">succedirenden Herrn Kapplon</rs> an Stiftungs Gefällen, so Herr Erblasser vorhin ein empfangen</cell>
                   <cell>36 f 32 x</cell>
                </row>
                <row>
-                  <cell>Und laut sonderbaren Protokolls von gestrig dato der daselbstigen Kapploney die wegen dem <rs type="place" ref="#keselanger">Kesselanger</rs> verglichene</cell>
+                  <cell>Und laut sonderbaren Protokolls von gestrig dato der <rs type="place" ref="#st_georgen_kirche">daselbstigen Kapploney</rs> die wegen dem <rs type="place" ref="#keselanger">Kesselanger</rs> verglichene</cell>
                   <cell>24 f 0 x</cell>
                </row>
                <row>
                   <cell>Dann werden zu Bezahlung extra Heilige Messen für den Herrn<note>
                                 <p rend="footnote text"> H-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>E-.</p>
-                            </note> Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> pr Abzug gebracht</cell>
+                            </note> Erblasser, samt was wohl derselbe zu lesen in Ausstand belassen nach selbstiger Einsicht, und Erkenntnis des hochwürdigen <rs type="person" ref="#pfarrer_gais_2">Herrn Pfarrer</rs> zu <rs type="place" ref="#gais">Gais</rs> pr Abzug gebracht</cell>
                   <cell>80 f 0 x</cell>
                </row>
                <row>
@@ -1426,7 +1428,7 @@
                   <cell>45 x</cell>
                </row>
                <row>
-                  <cell>Dero Sohn für das Aufwarten, und Wachen bis zu dem dreysigsten Heiligen Gottesdienst</cell>
+                  <cell>Dero <rs type="person" ref="#pifrader_peter">Sohn</rs> für das Aufwarten, und Wachen bis zu dem dreysigsten Heiligen Gottesdienst</cell>
                   <cell>4 f 12 x</cell>
                </row>
                <row>
@@ -1437,7 +1439,7 @@
                      </note> f 30 x</cell>
                </row>
                <row>
-                  <cell>Dessen 2 Söhnen aber für zerschiedene Mühewaltung</cell>
+                  <cell>Dessen <rs type="person" ref="#peintner_georg_soehne">2 Söhnen</rs> aber für zerschiedene Mühewaltung</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
@@ -1451,7 +1453,7 @@
                         </cell>
                </row>
                <row>
-                  <cell>Denen 3 Götlen, als denen 2 Tratter Söhnen <rs type="person" ref="#tratter_mathes">Mathias</rs>, und <rs type="person" ref="#tratter_bartlmae">Bartlmä Tratter</rs>, dann dem Prantlechner Sohn <rs type="person" ref="#pifrader_peter">Peter Pifrader</rs> jedem 1 Species Thaler a 2 f 6 x</cell>
+                  <cell>Denen 3 Götlen, als denen 2 Tratter Söhnen <rs type="person" ref="#tratter_mathes_2">Mathias</rs>, und <rs type="person" ref="#tratter_bartlmae">Bartlmä Tratter</rs>, dann dem Prantlechner Sohn <rs type="person" ref="#pifrader_peter">Peter Pifrader</rs> jedem 1 Species Thaler a 2 f 6 x</cell>
                   <cell>6 f 18 x</cell>
                </row>
                <row>
@@ -1476,11 +1478,11 @@
                </row>
             </table>
             <p>Bevor nun die Landgerichts Obrigkeit zu würklichen Erbstheillung schreitten kann, ist von nöthen zu wissen, obe die Erben das von <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda den <date when="1792-11-13">13ten dies</date> ad protocollum gegebene so gemeinte Testament des hoch ehrwürdigen Herrn Erblassers als eine würkliche lestwillige Verordnung ja, oder nicht anerkennen wollen, damit sodann die Erbstheillung hiernach reguliret werden könne.</p>
-            <p>Hierauf haben sich die Erbs Interessenten erkläret, sie finden sich in allweg schuldig, sich lediglich nach dem Willen des abgeleibten Herrn Erblassers zu fügen, und sie haben ihme noch in das Grab Dank zu sagen, das er ihrer ingedenkt gewesen, und ihnen dasjenige zurucklassen wollte, was er von seinen Eltern erblich überkommen habe, und es seyn zugleich auch billich, das der Überrest des erhausten Vermögens zu frommen Ziel, und Enden an-</p>
+            <p>Hierauf haben sich die Erbs Interessenten erkläret, sie finden sich in allweg schuldig, sich lediglich nach dem Willen des abgeleibten Herrn Erblassers zu fügen, und sie haben ihme noch in das Grab Dank zu sagen, das er ihrer ingedenkt gewesen, und ihnen dasjenige zurucklassen wollte, was er von seinen <rs type="person" ref="#tratter_maria_2 #tratter_matthias">Eltern</rs> erblich überkommen habe, und es seyn zugleich auch billich, das der Überrest des erhausten Vermögens zu frommen Ziel, und Enden an-</p>
             <p>
                <pb n="495v"/>
             </p>
-            <p>gewendet werde. Um aber einer loblichen Landgerichts Obrigkeit wegen Bestimmung der Erbgelder, und der ad pias causas gemeinten Legaten das behörige anhanden zu geben, weise die schon öfters allegirt mütterliche <rs type="person" ref="#tratter_maria_2">Maria Kammererische</rs> Abhandlung, und zugleich vorige Vermögens Ergänzung, das abgeleibter Herr Bruder am mütterlichen Erb 628 f 37 x überkommen habe; Von seinen Vater <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> aber habe das Erb, über was Herr Bruder sel. in studiis verbrauchet, 400 f noch betroffen. Ohngeachtet nun der Bruder <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> solch väterlich entliches Erb, weilen nämlich kein Abhandlungsbrief verhanden, nur mit 330 f ansaget, und ohngeachtet allererst die Frag wäre, obe was Herr Bruder sel. in studiis verbrauchet, und deme von väterlichen Erb abzezchn [sic!] worden, nicht doch auch zum ganzen väterlichen Erb hinzuzusetzen, mithin dieses auf 600 f zu berechnen wäre, so haben doch die Erbs Interessenten und Vertrettern das väter- und mütterliche Erb überhaupts auf 1000 f geachtet, und zur Vertheillung fest gesetzet.</p>
+            <p>gewendet werde. Um aber einer loblichen Landgerichts Obrigkeit wegen Bestimmung der Erbgelder, und der ad pias causas gemeinten Legaten das behörige anhanden zu geben, weise die schon öfters allegirt mütterliche <rs type="person" ref="#tratter_maria_2">Maria Kammererische</rs> Abhandlung, und zugleich vorige Vermögens Ergänzung, das abgeleibter Herr Bruder am mütterlichen Erb 628 f 37 x überkommen habe; Von seinen Vater <rs type="person" ref="#tratter_matthias">Mathias Tratter</rs> aber habe das Erb, über was Herr Bruder sel. in studiis verbrauchet, 400 f noch betroffen. Ohngeachtet nun der Bruder <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> solch väterlich entliches Erb, weilen nämlich kein Abhandlungsbrief verhanden, nur mit 330 f ansaget, und ohngeachtet allererst die Frag wäre, obe was Herr Bruder sel. in studiis verbrauchet, und deme von väterlichen Erb abzezchn [sic!] worden, nicht doch auch zum ganzen väterlichen Erb hinzuzusetzen, mithin dieses auf 600 f zu berechnen wäre, so haben doch die Erbs Interessenten und Vertrettern das väter- und mütterliche Erb überhaupts auf 1000 f geachtet, und zur Vertheillung fest gesetzet.</p>
             <p>Es verbleiben demenach gemäs des geistlichen Herrn brüderlichen Willens, welchen nicht nur allein der <rs type="person" ref="#hueber_christian">Christian Hueber</rs>
                 </p>
             <p>
@@ -1497,7 +1499,7 @@
                   <cell>100 f 0 x</cell>
                </row>
                <row>
-                  <cell>2do: Der alldaigen Kapploney gegen einen jährlich in Monat Oktober abhalten lassenden ewigen Jahrtag gleich der geistlichen Herrn <rs type="person" ref="#mutschlechner_michael">Michael Mutschlechnerischen</rs> Stiftung</cell>
+                  <cell>2do: Der <rs type="place" ref="#st_georgen_kirche">alldaigen Kapploney</rs> gegen einen jährlich in Monat Oktober abhalten lassenden ewigen Jahrtag gleich der geistlichen Herrn <rs type="person" ref="#mutschlechner_michael">Michael Mutschlechnerischen</rs> Stiftung</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -1620,7 +1622,7 @@
                   <cell>50 f 0 x</cell>
                </row>
                <row>
-                  <cell>Und dero Frau Mutter die in <rs type="place" ref="#brunegg">Bruneck</rs> bezahlte</cell>
+                  <cell>Und dero <rs type="person" ref="#tratter_anna">Frau Mutter</rs> die in <rs type="place" ref="#brunegg">Bruneck</rs> bezahlte</cell>
                   <cell>1 f 27 x</cell>
                </row>
                <row>
@@ -1634,7 +1636,7 @@
                   <cell>16 f 48 x</cell>
                </row>
                <row>
-                  <cell>Bey <rs type="person" ref="#steeger_joseph">Joseph Steeger Häuslmayr</rs> auf Sonnebend 1793 erstmals zu 3 p.c. Verzinsung mit Kapital</cell>
+                  <cell>Bey <rs type="person" ref="#steeger_joseph_2">Joseph Steeger Häuslmayr</rs> auf Sonnebend 1793 erstmals zu 3 p.c. Verzinsung mit Kapital</cell>
                   <cell>151<note>
                         <p rend="footnote text"> 5 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>4.</p>
                      </note> f 19 x</cell>
@@ -1687,7 +1689,7 @@
                   <cell>347 f 33 x</cell>
                </row>
                <row>
-                  <cell>Bey <rs type="person" ref="#steeger_joseph">Joseph Steeger Häuslmayr</rs> auf Sonnebend 1793 zu 3 p.c. Verzinsung Haubtsach</cell>
+                  <cell>Bey <rs type="person" ref="#steeger_joseph_2">Joseph Steeger Häuslmayr</rs> auf Sonnebend 1793 zu 3 p.c. Verzinsung Haubtsach</cell>
                   <cell>198 f 41 x</cell>
                </row>
                <row>
@@ -1705,7 +1707,7 @@
                   <cell>8 f 0 x</cell>
                </row>
                <row>
-                  <cell>Und bey dem Rader Baurn allda</cell>
+                  <cell>Und bey dem <rs type="person" ref="#rader_bauer">Rader Baurn</rs> allda</cell>
                   <cell>4 f 0 x</cell>
                </row>
                <row>
@@ -1719,11 +1721,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Loblichen Pfarrwidum zu <rs type="place" ref="#gais">Gais</rs> Funeral Conto samt dem Mesner</cell>
+                  <cell>Loblichen <rs type="place" ref="#gais_kirche">Pfarrwidum</rs> zu <rs type="place" ref="#gais">Gais</rs> Funeral Conto samt dem Mesner</cell>
                   <cell>19 f 39 x</cell>
                </row>
                <row>
-                  <cell>Sonderbar dem Mesner, und sein Sohn in 7 Posten</cell>
+                  <cell>Sonderbar dem <rs type="person" ref="#hueber_christian">Mesner</rs>, und sein <rs type="person" ref="#mesner_georgen_2_sohn">Sohn</rs> in 7 Posten</cell>
                   <cell>6 f 27<note>
                         <p rend="footnote text">
                            <hi rend="italic">Auf Rasur geschrieben.</hi>
@@ -1744,16 +1746,18 @@
                   <cell>3 f 36 x</cell>
                </row>
                <row>
-                  <cell>Herrn Medicinae Doctori Defrenes</cell>
+                  <cell>Herrn Medicinae Doctori <rs type="person" ref="#frenes_">Defrenes</rs>
+                        </cell>
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>In die Stadt Appoteck zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                  <cell>In die <rs type="person" ref="#apotheker_bruneck">Stadt Appoteck</rs> zu <rs type="place" ref="#brunegg">Bruneck</rs>
                         </cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem Herrn <rs type="person" ref="#muz_johan_geoerg">Johann Mutz</rs> Baader alldort</cell>
+                  <cell>Dem Herrn <rs type="person" ref="#muz_johan_geoerg">Johann Mutz</rs> Baader <rs type="place" ref="#brunegg">alldort</rs>
+                        </cell>
                   <cell>11 f 15 x</cell>
                </row>
                <row>
@@ -1765,16 +1769,18 @@
                   <cell>49 f 26 x</cell>
                </row>
                <row>
-                  <cell>Herrn Grienbacher zu <rs type="place" ref="#kiens">Kiens</rs>
+                  <cell>Herrn <rs type="person" ref="#kammerer_joseph">Grienbacher</rs> zu <rs type="place" ref="#kiens">Kiens</rs>
                         </cell>
                   <cell>39 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem kunftigen Herrn Kapplon</cell>
+                  <cell>Dem <rs type="person" ref="#tratter_nachfolger">kunftigen Herrn Kapplon</rs>
+                        </cell>
                   <cell>36 f 32 x</cell>
                </row>
                <row>
-                  <cell>Der Kapploney daselbs</cell>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney daselbs</rs>
+                        </cell>
                   <cell>24 f 0 x</cell>
                </row>
                <row>
@@ -1804,7 +1810,8 @@
                   <cell>3 f 30 x</cell>
                </row>
                <row>
-                  <cell>Und dessen 2 Söhnen</cell>
+                  <cell>Und dessen <rs type="person" ref="#peintner_georg_soehne">2 Söhnen</rs>
+                        </cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
@@ -1817,7 +1824,7 @@
                   <cell>4 f 24 x</cell>
                </row>
                <row>
-                  <cell>Denen 3 Götlen jedem 2 f 6 x</cell>
+                  <cell>Denen <rs type="person" ref="#pifrader_peter #tratter_bartlmae #tratter_mathes_2">3 Götlen</rs> jedem 2 f 6 x</cell>
                   <cell>6 f 18 x</cell>
                </row>
                <row>
@@ -1829,7 +1836,7 @@
                   <cell>100 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney</rs> daselbs gegen abhalten lassenden ewigen Jahrtag</cell>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney daselbs</rs> gegen abhalten lassenden ewigen Jahrtag</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -1858,7 +1865,7 @@
                <pb n="500v"/>
             </p>
             <p>dessen Schwester <rs type="person" ref="#tratter_maria">Maria verwittwete Pifraderin Prantlechnerin</rs> mit ihrem Anweiser <rs type="person" ref="#felser_joseph">Joseph Felser</rs>, nicht weniger <rs type="person" ref="#peintner_georg">Georg Peintner Kachler</rs> als Vertretter, wie eingekommen, weiters Frau <rs type="person" ref="#tratter_anna">Anna verwittwete Tratterin</rs>, und entlich der Gemeinschaft Führer <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> loblichem Landgerichts Obrigkeit globt haben.</p>
-            <p>[Eigenhändige Unterschrift:] <rs type="person" ref="#tratter_balthasar">Balthauser</rs> Tratter Coop. zu <rs type="place" ref="#lazfonns">Lazfans</rs>.</p>
+            <p>[Eigenhändige Unterschrift:] <rs type="person" ref="#tratter_balthasar">Balthauser Tratter</rs> Coop. zu <rs type="place" ref="#lazfonns">Lazfans</rs>.</p>
             <p>Testes der Beysitzer <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs>, und <rs type="person" ref="#mayr_peter">Peter Mayr</rs> Schreiber.</p>
             <p>Zu Bericht wird allda noch weiters angeführet, dass geistlicher Herr <rs type="person" ref="#tratter_balthasar">Balthauser Tratter</rs> von der einsmals wiederum in Verwahr genommenen Baarschaft selbs 10 Species Thaler zurück behalten, dann seinen Bruder <rs type="person" ref="#tratter_mathes">Mathias</rs> 2 deto, der Schwester <rs type="person" ref="#tratter_maria">Maria verwittweten Pifraderin</rs> 10 weiters der <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Wittwe <rs type="tratter_anna">Anna gebohrnen Ofnerin</rs> für ihre Kinder 8 nicht weniger dem <rs type="person" ref="#peintner_georg">Georg Peintner</rs> als Vertrettern der 2 Schwestern <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> für jede 2 thut 4 Kayserliche Thaller, und die noch übrige Baarschaft pr 90 f 22 x dem Gemeinschaftführer <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> bestellet habe.</p>
          </div>

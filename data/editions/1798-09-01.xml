@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1798</repository>
@@ -62,14 +62,14 @@
                     </note> Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Zugegen des fürnehmen <rs type="person" ref="#mayr_jakob">Jakob Mayr Graspeintner</rs> als Beysitzer.</p>
             <p>Den <date when="1798-08-28">28ten vorigen Monats</date> ist der hochehrwürdige Herr <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> in 65ten Jahr seines Alters eines natürlichen Todes verstorben.</p>
-            <p>Derselbe hatte einen einzigen Brueder namens <rs type="person" ref="#hueber_michael">Michael Hueber</rs>, so am Achorner Berggerichts <rs type="place" ref="#taufers">Taufers</rs> wohnhaft war, und bereits schon vorhero verstorben ist, aber bey seiner gehabten
+            <p>Derselbe hatte einen einzigen Brueder namens <rs type="person" ref="#hueber_michael">Michael Hueber</rs>, so am <rs type="place" ref="#ahornach">Achorner Berg</rs> Gerichts <rs type="place" ref="#taufers">Taufers</rs> wohnhaft war, und bereits schon vorhero verstorben ist, aber bey seiner gehabten
             Ehewürthin <rs type="person" ref="#auer_maria">Maria Auerin</rs> 4 Söhne namens <rs type="person" ref="#hueber_johann_2">Johann</rs>, <rs type="person" ref="#hueber_joseph_3">Joseph</rs>, <rs type="person" ref="#hueber_martin_2">Martin</rs>, und <rs type="person" ref="#hueber_mathes_2">Mathias Hueber</rs> erzeuget, welche bereits alle die
             Grossjährigkeit erreichet haben, und im Gericht <rs type="place" ref="#taufers">Taufers</rs> wohnhaft, auch dato zugegen sind.</p>
             <p>Dem Anlangens dieser einschreitenden Erbens gemes wurde am gestern die Beschreibung</p>
             <p>
                <pb n="559v"/>
             </p>
-            <p>der Fahrnussen, und Baarschaft in dem Beneficiatenhaus zu <rs type="place" ref="#saalen">Saalen</rs> vorgenommen, auf dato aber<note>
+            <p>der Fahrnussen, und Baarschaft in dem <rs type="place" ref="#saalen_kaplanei">Beneficiatenhaus</rs> zu <rs type="place" ref="#saalen">Saalen</rs> vorgenommen, auf dato aber<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>weilen aber die Erben annoch gegenwärtig sind, und selbe.</p>
                     </note> zu Vertheilung der<note>
@@ -90,7 +90,7 @@
             <p>Hauptvermögen.</p>
             <table rend="rules">
                <row>
-                  <cell>Herr Ableiber seel. hat auf Absterben seines Vaters des wohlehrsamen <rs type="person" ref="#hueber_michael">Michael Hueber gewesten Perlbaurs</rs> am Sand Landgerichts <rs type="place" ref="#taufers">Taufers</rs> laut Abhandlung von <date when="1776-10-16">16.</date> und <date when="1776-10-30">30ten October</date> und <date when="1776-11-03">3ten November 1776</date> 404 f 3 [x] ererbet, von diesen sind noch anliegend bey</cell>
+                  <cell>Herr Ableiber seel. hat auf Absterben seines Vaters des wohlehrsamen <rs type="person" ref="#hueber_michael_2">Michael Hueber gewesten Perlbaurs</rs> <rs type="place" ref="#sand">am Sand</rs> Landgerichts <rs type="place" ref="#taufers">Taufers</rs> laut Abhandlung von <date when="1776-10-16">16.</date> und <date when="1776-10-30">30ten October</date> und <date when="1776-11-03">3ten November 1776</date> 404 f 3 [x] ererbet, von diesen sind noch anliegend bey</cell>
                   <cell/>
                </row>
             </table>
@@ -104,7 +104,7 @@
                             <note>
                                 <p rend="footnote text"> Johann<hi rend="italic" xml:space="preserve"> auf der letzten Seite geschrieben.</hi>
                                 </p>
-                            </note> am Sand ersagten Landgerichts <rs type="place" ref="#taufers">Taufers</rs>
+                            </note> <rs type="place" ref="#sand">am Sand</rs> ersagten Landgerichts <rs type="place" ref="#taufers">Taufers</rs>
                         </cell>
                   <cell>300 f 0 x</cell>
                </row>
@@ -120,7 +120,7 @@
                   <cell>2 f 47 x</cell>
                </row>
             </table>
-            <p>Weil die Erben nicht anzugeben wissen, wie viel Herr Ableiber eigentlich von seiner Mutter ererbet habe, so konnte man mit der Vermögens Ergänzung auch nicht weiters fürfahren, sondern musste die Erben mit der Weissung einsmals entlassen, dass sie das Abhandlungs Instrument von des Herrn Ableibers Mutter ausfindig machen, und dann zur weiteren Erbsverhandlung wieder allda vor Gericht erscheinen sollen.</p>
+            <p>Weil die Erben nicht anzugeben wissen, wie viel Herr Ableiber eigentlich von seiner <rs type="person" ref="#mayr_katharina">Mutter</rs> ererbet habe, so konnte man mit der Vermögens Ergänzung auch nicht weiters fürfahren, sondern musste die Erben mit der Weissung einsmals entlassen, dass sie das Abhandlungs Instrument von des Herrn Ableibers <rs type="person" ref="#mayr_katharina">Mutter</rs> ausfindig machen, und dann zur weiteren Erbsverhandlung wieder allda vor Gericht erscheinen sollen.</p>
             <p>Die Erben haben sich hierauf entschlossen, um nicht noch einmal den weiten Weg von <rs type="place" ref="#taufers">Taufers</rs> hieher machen zu müssen, sich allda um einen Gewalthaber zur würklichen Erbstheilung umzusehen, den sie auch laut der beyliegenden</p>
             <p>
                <pb n="560v"/>
@@ -128,7 +128,8 @@
             <p>Vollmacht in der Persohn des Herrn <rs type="person" ref="#steger_georg">Georg Stegers</rs> bürgerlichen Würth und Gastgeb allda zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> aufgestellet haben.</p>
             <p>Actum <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1798-09-06">6ten September 1798</date>.</p>
             <p>Vor und zugegen ut supra</p>
-            <p>Am dato sind zur loblichen Landgerichts Obrigkeit beygekommen die Miterben <rs type="person" ref="#hueber_joseph_3">Joseph</rs> und <rs type="person" ref="#hueber_mathes_2">Mathias Hueber</rs>, dann vorgedachter Herr <rs type="person" ref="#steger_georg">Georg Steger</rs> Sonnenwürth allda als Gewalthaber des <rs type="person" ref="#hueber_johann_2">Johann</rs>, und <rs type="person" ref="#hueber_martin_2">Martin Hueber</rs>. Da nun dieselbe mit der zur geistlichen Herrn Hueberischen Vermögens Ergänzung erforderlichen Urkunden versehen zu seyn vorgeben, so hat man von Seite des Gerichts nicht ermangelt, in gedachten Verlassenschafts Abhandlungs Geschäft hiemit weiters<note>
+            <p>Am dato sind zur loblichen Landgerichts Obrigkeit beygekommen die Miterben <rs type="person" ref="#hueber_joseph_3">Joseph</rs> und <rs type="person" ref="#hueber_mathes_2">Mathias Hueber</rs>, dann vorgedachter Herr <rs type="person" ref="#steger_georg">Georg Steger</rs> Sonnenwürth allda als Gewalthaber des <rs type="person" ref="#hueber_johann_2">Johann</rs>, und <rs type="person" ref="#hueber_martin_2">Martin Hueber</rs>. Da nun dieselbe mit der zur geistlichen
+            Herrn <rs type="person" ref="#hueber_jakob">Hueberischen</rs> Vermögens Ergänzung erforderlichen Urkunden versehen zu seyn vorgeben, so hat man von Seite des Gerichts nicht ermangelt, in gedachten Verlassenschafts Abhandlungs Geschäft hiemit weiters<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>fürzufa-.</p>
                     </note> fürzuschreiten, und dasselbe noch heute dem Ende zuzuführen.</p>
@@ -170,11 +171,11 @@
                   <cell>13 f 25 x</cell>
                </row>
                <row>
-                  <cell>Herrn <rs type="person" ref="#steger_georg">Georg Steger</rs> Schrafflwürth an Todtfalls Zöhrung laut Conto</cell>
+                  <cell>Herrn <rs type="person" ref="#steger_georg_2">Georg Steger</rs> Schrafflwürth an Todtfalls Zöhrung laut Conto</cell>
                   <cell>9 f 28 x</cell>
                </row>
                <row>
-                  <cell>Der lobwürdigen Loretto Kappellen zu <rs type="place" ref="#saalen">Saalen</rs> zu Anschaffung eines Messgewantes als Ersatz des jenigen, so dem Herrn Ableiber ins Grab mit gegeben worden</cell>
+                  <cell>Der lobwürdigen <rs type="place" ref="#saalen_kaplanei">Loretto Kappellen</rs> zu <rs type="place" ref="#saalen">Saalen</rs> zu Anschaffung eines Messgewantes als Ersatz des jenigen, so dem Herrn Ableiber ins Grab mit gegeben worden</cell>
                   <cell>7 f 0 x</cell>
                </row>
                <row>
@@ -182,7 +183,7 @@
                   <cell>88 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#hueber_johann_2">Johann Hueber</rs> Würth zu <rs type="place" ref="#saalen">Saalen</rs> Kirchvolkzöhrung und andere Todtfalls Ausgaben laut Conto</cell>
+                  <cell>Dem <rs type="person" ref="#hueber_johann_3">Johann Hueber</rs> Würth zu <rs type="place" ref="#saalen">Saalen</rs> Kirchvolkzöhrung und andere Todtfalls Ausgaben laut Conto</cell>
                   <cell>40 f 31 x</cell>
                </row>
                <row>
@@ -216,7 +217,7 @@
                   <cell>334 f 45¾ x</cell>
                </row>
                <row>
-                  <cell>Davon gebührt ein Drittel der Lorreto Kirchen zu <rs type="place" ref="#saalen">Saalen</rs>
+                  <cell>Davon gebührt ein Drittel der <rs type="place" ref="#saalen_kaplanei">Lorreto Kirchen</rs> zu <rs type="place" ref="#saalen">Saalen</rs>
                         </cell>
                   <cell>111 f 35¼ x</cell>
                </row>
@@ -237,10 +238,10 @@
                <pb n="562v"/>
             </p>
             <p>Anweisung.</p>
-            <p>Die Kirche zu <rs type="place" ref="#saalen">Saalen</rs> wird mit ihren vorentworfenen Antheil pr 111 f 35¼ x bey <rs type="person" ref="#forer_johann">Johann Forer Perlbauer</rs> am Sand Landgerichts <rs type="place" ref="#taufers">Taufers</rs> aus dessen zum Vermögen schuldigen 300 f Kapital in alten Furpfandsrechten hiemit angewiesen.</p>
+            <p>Die <rs type="place" ref="#saalen_kaplanei">Kirche</rs> zu <rs type="place" ref="#saalen">Saalen</rs> wird mit ihren vorentworfenen Antheil pr 111 f 35¼ x bey <rs type="person" ref="#forer_johann">Johann Forer Perlbauer</rs> <rs type="place" ref="#sand">am Sand</rs> Landgerichts <rs type="place" ref="#taufers">Taufers</rs> aus dessen zum Vermögen schuldigen 300 f Kapital in alten Furpfandsrechten hiemit angewiesen.</p>
             <p>Eine gleiche Anweisung erhaltet hiemit auch<note>
                         <p rend="footnote text">
-                            <hi rend="italic">Über der Zeile eingefügt.</hi>
+                            <hi rend="italic"> Über der Zeile eingefügt.</hi>
                         </p>
                     </note> der Armen Fond um<note>
                         <p rend="footnote text">
@@ -249,7 +250,7 @@
             <p>Die Erben bitten<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>zwass.</p>
-                    </note> zwar, obige Betreffnisse nicht denen Armen, und der Kirche zu <rs type="place" ref="#saalen">Saalen</rs> verabfolgen, sondern vielmehr ihnen aus dem Grunde zuflüssen zu lassen, weil sie vermög vorgezeigten obrigkeitlichen
+                    </note> zwar, obige Betreffnisse nicht denen Armen, und der <rs type="place" ref="#saalen_kaplanei">Kirche</rs> zu <rs type="place" ref="#saalen">Saalen</rs> verabfolgen, sondern vielmehr ihnen aus dem Grunde zuflüssen zu lassen, weil sie vermög vorgezeigten obrigkeitlichen
             Attestat ohne Vermögen, und<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ganz.</p>
@@ -258,11 +259,11 @@
                             <hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi>
                         </p>
                     </note> Lebzeiten vielleicht
-            unbekannt mit den geistlichen Erbfolgsgesetzen, selbst schon unter 2 malen 100 f zu Austheilung unter die Armen seinem Beichtvater behändiget habe; gleichwie er auch in seinem Testamente §4 hierwegen schon Disposition getroffen zu haben Erwehnung macht.</p>
+            unbekannt mit den geistlichen Erbfolgsgesetzen, selbst schon unter 2 malen 100 f zu Austheilung unter die Armen seinem <rs type="person" ref="#hueber_jakob_beichtvater">Beichtvater</rs> behändiget habe; gleichwie er auch in seinem Testamente §4 hierwegen schon Disposition getroffen zu haben Erwehnung macht.</p>
             <p>
                <pb n="563r"/>
             </p>
-            <p>Die nemmliche Beschaffenheit habe es mit der Kirche zu <rs type="place" ref="#saalen">Saalen</rs>, auch für diese habe er schon noch bey Lebzeiten dem Kirchprobsten 100<note>
+            <p>Die nemmliche Beschaffenheit habe es mit der <rs type="place" ref="#saalen_kaplanei">Kirche</rs> zu <rs type="place" ref="#saalen">Saalen</rs>, auch für diese habe er schon noch bey Lebzeiten dem <rs type="person" ref="#kirchpropst_saalen">Kirchprobsten</rs> 100<note>
                         <p rend="footnote text"> 1<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>2.</p>
                     </note> f baar behändiget. Sie hoffen daher, dass ihre diesfallige Bitte gar keinen Anstand unterliegen könne.</p>
             <p>Da es aber nicht in der Macht des Gerichts stehet, der Kirche<note>

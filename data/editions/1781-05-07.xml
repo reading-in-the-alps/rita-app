@@ -101,7 +101,7 @@
             <p>
                <pb n="294v"/>
             </p>
-            <p>S.S. theol. et S.S. canonicus cand. in Leben gewesten Beneficiaten allhier zu <rs type="place" ref="#saalen">Saalen</rs> jüngst verschiner Zeit nach vorhero ausgestandener Leibskranckheit den <date when="1781-04-07">7ten Apprill</date> von diesen Zeitlichen zweifls ohne zu sich in die himmelische Freyd zu beruffen, Gott gnade dero Seele. Wurde einsmalen auf erfolgten Todtfall von Ihro Hochwürden und Gnaden Herrn Herrn Dechant etc. und vor wohlersagten Herrn Landrichter die Secretur an denen behörigen Orthen angelegt, und sodan am dato von hocherdeuten Herrn Herrn Decano etc. referiret, welcher gestalten hochdemselben von dem hochgeistlichen officio zu <rs type="place" ref="#brixen">Brixen</rs> das Commissorium ertheillet worden, mit dem Innhalt, das hochselber des geistlichen Herrn Ableibers seel. Verlassenschaft vollständig verhandlen, und sohin den Bericht hierüber einsenden solle,</p>
+            <p>S.S. theol. et S.S. canonicus cand. in Leben gewesten Beneficiaten allhier zu <rs type="place" ref="#saalen">Saalen</rs> jüngst verschiner Zeit nach vorhero ausgestandener Leibskranckheit den <date when="1781-04-07">7ten Apprill</date> von diesen Zeitlichen zweifls ohne zu sich in die himmelische Freyd zu beruffen, Gott gnade dero Seele. Wurde einsmalen auf erfolgten Todtfall von Ihro Hochwürden und Gnaden Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Dechant</rs> etc. und vor wohlersagten <rs type="person" ref="#steinburger_johann_stephann">Herrn Landrichter</rs> die Secretur an denen behörigen Orthen angelegt, und sodan am dato von hocherdeuten Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Decano</rs> etc. referiret, welcher gestalten hochdemselben von dem hochgeistlichen officio zu <rs type="place" ref="#brixen">Brixen</rs> das Commissorium ertheillet worden, mit dem Innhalt, das hochselber des geistlichen Herrn Ableibers seel. Verlassenschaft vollständig verhandlen, und sohin den Bericht hierüber einsenden solle,</p>
             <p>Woraufhin dann in Gehorsam beykommen<note>
                         <p rend="footnote text">
                             <hi rend="italic" xml:space="preserve"> Folgt Beistrich gestrichen.</hi>
@@ -112,7 +112,7 @@
                     </note> eheleiblichen
             Bruder<note>
                         <p rend="footnote text">
-                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-n <rs type="person" ref="#stocker_antoni">Antoni</rs>.</p>
+                            <hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-n Antoni.</p>
                     </note> zuruckgelassene Kinder als, von des ebenfals abgeleibten <rs type="person" ref="#stocker_johann">Johann Stockers</rs> gewesten Pfarrmesners zu <rs type="place" ref="#brunegg">Brunneck</rs> bey <rs type="person" ref="#taesser_maria">Maria Tässerin</rs> seel. erzeügten und zurück-</p>
             <p>
                <pb n="295r"/>
@@ -1341,7 +1341,7 @@
                   <cell>10 f 0 x</cell>
                </row>
                <row>
-                  <cell>Weitters solle Herr Provisor, oder Herr Successor ersehen, jenigen Trunck, welchen die Gemeindes Leithe bey Liferung des Holzes genossen, und zwar von 24 Mas Wein drey viertel Theil a 8 x</cell>
+                  <cell>Weitters solle <rs type="person" ref="#knilling_johann">Herr Provisor</rs>, oder <rs type="person" ref="#treyer_peter">Herr Successor</rs> ersehen, jenigen Trunck, welchen die Gemeindes Leithe bey Liferung des Holzes genossen, und zwar von 24 Mas Wein drey viertel Theil a 8 x</cell>
                   <cell>2 f 24 x</cell>
                </row>
                <row>
@@ -1367,7 +1367,7 @@
                <row>
                   <cell>Die Funeral Kosten betrefend<note>
                                 <p rend="footnote text"> -ef-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>-ag-.</p>
-                            </note>, begehrn Ihro hochfreyherrlich Gnaden titl. etc. Herr Pfarrer allda nicht mehrers als per aversum.</cell>
+                            </note>, begehrn Ihro hochfreyherrlich Gnaden titl. etc. <rs type="person" ref="#ingramb_joseph_mathias">Herr Pfarrer</rs> allda nicht mehrers als per aversum.</cell>
                   <cell>4 f 0 x</cell>
                </row>
                <row>
@@ -1397,11 +1397,11 @@
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell>No 1: Dem <rs type="person" ref="#huber_franz">Franz Huber</rs> Rindler und Wirth zu <rs type="place" ref="#saalen">Saalen</rs> an geführten und abgeholten Wein auch Brod, samt bezahlten Maurer für das Grab machen</cell>
+                  <cell>No 1: Dem <rs type="person" ref="#huber_franz">Franz Huber</rs> Rindler und Wirth zu <rs type="place" ref="#saalen">Saalen</rs> an geführten und abgeholten Wein auch Brod, samt bezahlten <rs type="person" ref="#saalen_maurer">Maurer</rs> für das Grab machen</cell>
                   <cell>12 f 48 x</cell>
                </row>
                <row>
-                  <cell>[No] 2: Titl. Herrn Medicinae Dri. Defrenes für 2 Visiten samt Recepten ut No 2</cell>
+                  <cell>[No] 2: Titl. Herrn Medicinae <rs type="person" ref="#frenes_">Dri. Defrenes</rs> für 2 Visiten samt Recepten ut No 2</cell>
                   <cell>2 f 48 x</cell>
                </row>
                <row>
@@ -1414,11 +1414,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>No 3: Herrn Appotecker zu <rs type="place" ref="#brunegg">Brunneck</rs> laut der No 3:</cell>
+                  <cell>No 3: <rs type="person" ref="#apotheker_bruneck">Herrn Appotecker</rs> zu <rs type="place" ref="#brunegg">Brunneck</rs> laut der No 3:</cell>
                   <cell>2 f 31 x</cell>
                </row>
                <row>
-                  <cell>[No] 4: Titl. Herrn Stadtschreiber zu <rs type="place" ref="#brunegg">Brunneck</rs> an 2 Yhren 2 Pazzen empfangenen Wein No 4:</cell>
+                  <cell>[No] 4: Titl. <rs type="person" ref="#von_tschusi_franz_andree">Herrn Stadtschreiber</rs> zu <rs type="place" ref="#brunegg">Brunneck</rs> an 2 Yhren 2 Pazzen empfangenen Wein No 4:</cell>
                   <cell>17 f 20<note>
                         <p rend="footnote text">
                            <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>24.</p>
@@ -1448,15 +1448,15 @@
                   <cell>12 f 30 x</cell>
                </row>
                <row>
-                  <cell>[No] 7: Dem Herrn Organisten, Mesner und Schulern laut Conto No 7</cell>
+                  <cell>[No] 7: Dem Herrn <rs type="person" ref="#saalen_organist">Organisten</rs>, <rs type="person" ref="#saalen_mesner">Mesner</rs> und Schulern laut Conto No 7</cell>
                   <cell>7 f 6 x</cell>
                </row>
                <row>
-                  <cell>Dem Mesner zu <rs type="place" ref="#saalen">Saalen</rs>,</cell>
+                  <cell>Dem <rs type="person" ref="#saalen_mesner">Mesner</rs> zu <rs type="place" ref="#saalen">Saalen</rs>,</cell>
                   <cell>48 x</cell>
                </row>
                <row>
-                  <cell>Dem Rader für das Auswarten in der Kranckheit, und Wachen bey der Leich</cell>
+                  <cell>Dem <rs type="person" ref="#fraes_martin">Rader</rs> für das Auswarten in der Kranckheit, und Wachen bey der Leich</cell>
                   <cell>1 f 12 x</cell>
                </row>
                <row>
@@ -1464,11 +1464,11 @@
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Haushalterin an Lidlohn bis zum Todtfall</cell>
+                  <cell>Der <rs type="person" ref="#saalen_haeuserin">Haushalterin</rs> an Lidlohn bis zum Todtfall</cell>
                   <cell>8 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem Wirths tagwercker wegen hinein gezochenen Wein</cell>
+                  <cell>Dem <rs type="person" ref="#wirttagwerker">Wirths tagwercker</rs> wegen hinein gezochenen Wein</cell>
                   <cell>12 x</cell>
                </row>
                <row>
@@ -1506,11 +1506,11 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>An Reparationen bey der <rs type="place" ref="#saalen_kaplanei">Kaplanei Behausung</rs> solle alldaigen Verlassenschaft nach Aussag des Kirchprobstens zu <rs type="place" ref="#saalen">Saalen</rs> nichts zu ersezen haben, indeme geistlicher Herr Erblasser diesfals seiner Obligation nachgekommen seye.</cell>
+                  <cell>An Reparationen bey der <rs type="place" ref="#saalen_kaplanei">Kaplanei Behausung</rs> solle alldaigen Verlassenschaft nach Aussag des <rs type="person" ref="#schmidt_obwegser_geoerg">Kirchprobstens</rs> zu <rs type="place" ref="#saalen">Saalen</rs> nichts zu ersezen haben, indeme geistlicher Herr Erblasser diesfals seiner Obligation nachgekommen seye.</cell>
                   <cell/>
                </row>
                <row>
-                  <cell>Dem Baur Miller zu <rs type="place" ref="#monthal">Monthan</rs> vor abgebenes Mehl von 5 Ster Waizen, und 2 Stär Roggen</cell>
+                  <cell>Dem <rs type="person" ref="#baurmiller_">Baur Miller</rs> zu <rs type="place" ref="#monthal">Monthan</rs> vor abgebenes Mehl von 5 Ster Waizen, und 2 Stär Roggen</cell>
                   <cell>2 f 55 x</cell>
                </row>
                <row>
@@ -1609,7 +1609,7 @@
                         </cell>
                </row>
             </table>
-            <p>Und würdet das ganze und vellig, vor beschriebene und unbeschriebene, geistliche Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockerische</rs> Vermögen denen verhandenen zweyen Jungfrauen Baasen und Erbinen hiemit Erb Eigenthum weise gegen Abführung gesamter Schulden hinnaus, und was etwo weiters in Vorschein kommen möchte, hiemit eingeraumt, und denenselben bevor gestellet, wie bereits schon oben angebracht, das selbige nebst was an Herr
+            <p>Und würdet das ganze und vellig, vor beschriebene und unbeschriebene, geistliche Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockerische</rs> Vermögen denen verhandenen <rs type="person" ref="#stocker_maria #stocker_anna">zweyen Jungfrauen Baasen und Erbinen</rs> hiemit Erb Eigenthum weise gegen Abführung gesamter Schulden hinnaus, und was etwo weiters in Vorschein kommen möchte, hiemit eingeraumt, und denenselben bevor gestellet, wie bereits schon oben angebracht, das selbige nebst was an Herr
             brüderlichen <rs type="person" ref="#stocker_antoni">Anton Stockerischen</rs> Erb darzu komt, sohin unter sich selbs zuvertheillen, indessen aber sie Erbinen auch in eventum dieser Erbs Immissions halber sowohl der hochgeistlichen angeordneten</p>
             <p>
                <pb n="305r"/>
@@ -1621,8 +1621,8 @@
                      <hi rend="italic">Auf der linken Seite nachgetragen.</hi>
                   </p>
             </note>, und <rs type="person" ref="#von_elzenbaum_johann_rudolph">Johann Rudolph v. Elzenpaum</rs>.</p>
-            <p>Zu Bericht wirdet angeführt, das Herr Gerhab sammentliche Conti ab actis erhebet habe.</p>
-            <p>Die Brechtlische Schuldbekantnus hat Herr <rs type="person" ref="#schwaickhofer_anton">Antoni Schwaickhofer</rs> erhebt.</p>
+            <p>Zu Bericht wirdet angeführt, das <rs type="person" ref="#schwaickhofer_anton">Herr Gerhab</rs> sammentliche Conti ab actis erhebet habe.</p>
+            <p>Die <rs type="person" ref="#prechtl_elisabeth">Brechtlische</rs> Schuldbekantnus hat Herr <rs type="person" ref="#schwaickhofer_anton">Antoni Schwaickhofer</rs> erhebt.</p>
          </div>
       </body>
    </text>
