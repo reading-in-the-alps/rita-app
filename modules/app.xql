@@ -10,6 +10,7 @@ import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:or
 
 declare variable $app:data := $config:app-root||'/data';
 declare variable $app:editions := $config:app-root||'/data/editions';
+declare variable $app:rita1 := $config:app-root||'/data/rita1';
 declare variable $app:inventare := $config:app-root||'/data/inventare';
 declare variable $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
@@ -214,7 +215,7 @@ let $href := concat('show.html','?document=', app:getDocName($node), '&amp;direc
 declare function app:indexSearch_hits($node as node(), $model as map(*),  $searchkey as xs:string?, $path as xs:string?){
 let $indexSerachKey := $searchkey
 let $searchkey:= '#'||$searchkey
-let $entities := collection($app:data)//tei:TEI[.//*/@ref=$searchkey]
+let $entities := collection($app:editions)//tei:TEI[.//*/@ref=$searchkey] | collection($app:rita1)//tei:TEI[.//*/@ref=$searchkey]
 let $terms := collection($app:editions)//tei:TEI[.//tei:term[./text() eq substring-after($searchkey, '#')]]
 for $title in ($entities, $terms)
     let $docTitle := string-join(root($title)//tei:titleStmt/tei:title[@type='main']//text(), ' ')
