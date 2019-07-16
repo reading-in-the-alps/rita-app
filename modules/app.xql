@@ -323,7 +323,7 @@ declare function app:toc($node as node(), $model as map(*)) {
                 <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
         return
         <tr>
-           <td>{$date}</td>
+           <td><a href="{app:hrefToDoc($title, $collection)}">{$date}</a></td>
            <td>{$datum}</td>
            <td>{$place}</td>
            <td>{$docType}</td>
@@ -506,7 +506,7 @@ declare function app:rita1($node as node(), $model as map(*)) {
                 <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
         return
         <tr>
-           <td>{$date}</td>
+           <td><a href="{app:hrefToDoc($title, $collection)}">{$date}</a></td>
            <td>{$datum}</td>
            <td>{$place}</td>
            <td>{$link2doc}</td>
