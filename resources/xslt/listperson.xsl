@@ -56,7 +56,7 @@
                                             <td>
                                                 <xsl:choose>
                                                     <xsl:when test="./tei:forename and ./tei:surname">
-                                                        <xsl:value-of select="concat(./tei:forename, ' ', ./tei:surname)"/>
+                                                        <xsl:value-of select="concat(./tei:forename[1], ' ', ./tei:surname[1])"/>
                                                     </xsl:when>
                                                     <xsl:when test="./tei:forename or ./tei:surname">
                                                         <xsl:value-of select="./tei:forename"/>
