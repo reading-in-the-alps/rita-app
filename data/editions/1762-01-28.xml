@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator)]</title>
-            <titleshort>Mitterdorfer Jakob Christoph (Kooperator)</titleshort>
+            <title type="short">Mitterdorfer Jakob Christoph (Kooperator)</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -47,18 +47,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <p>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">
-                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
-               </fallback>
-            </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">
-                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
-               </fallback>
-            </xi:include>
-         </p>
+         <p/>
       </encodingDesc>
    </teiHeader>
    <text>

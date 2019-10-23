@@ -436,7 +436,10 @@ declare function app:listBibl($node as node(), $model as map(*)) {
             let $cert := data($x/@cer)
             let $cert := if ($cert) then $app:certometer($cert) else 'green-dot'
             return <li><a href="{$x/text()}">see</a><span class="{$cert}"/></li>
-        let $mentions := count(collection($app:editions)//tei:rs[contains(./@ref, $itemRef)])
+        let $indocs := collection($app:editions)//tei:rs[contains(./@ref, $itemRef)]
+        let $invs := for $inv in $indocs
+            return <li><a href="{app:hrefToDoc($inv, 'editions')}">{root($inv)//tei:title[@type="short"]/text()}</a></li>
+        let $mentions := count($indocs)
 
    return
         <tr>
@@ -446,6 +449,7 @@ declare function app:listBibl($node as node(), $model as map(*)) {
             <td>{$author}</td>
             <td>{$exemplare}</td>
             <td>{$mentions}</td>
+            <td>{$invs}</td>
         </tr>
 };
 
