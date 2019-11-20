@@ -1,10 +1,10 @@
 xquery version "3.1";
-module namespace app="http://www.digital-archiv.at/ns/rita/templates";
+module namespace app="http://www.digital-archiv.at/ns/templates";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace functx = 'http://www.functx.com';
 import module namespace http="http://expath.org/ns/http-client";
 import module namespace templates="http://exist-db.org/xquery/templates" ;
-import module namespace config="http://www.digital-archiv.at/ns/rita/config" at "config.xqm";
+import module namespace config="http://www.digital-archiv.at/ns/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
 
 
@@ -67,9 +67,9 @@ declare function functx:substring-after-last
    concat(upper-case(substring($arg,1,1)),
              substring($arg,2))
  } ;
- 
+
 (:~
- : returns the names of the previous, current and next document  
+ : returns the names of the previous, current and next document
 :)
 
 declare function app:next-doc($collection as xs:string, $current as xs:string) {
@@ -77,7 +77,7 @@ let $all := sort(xmldb:get-child-resources($collection))
 let $currentIx := index-of($all, $current)
 let $prev := if ($currentIx > 1) then $all[$currentIx - 1] else false()
 let $next := if ($currentIx < count($all)) then $all[$currentIx + 1] else false()
-return 
+return
     ($prev, $current, $next)
 };
 
@@ -87,7 +87,7 @@ let $currentIx := index-of($all, $current)
 let $prev := if ($currentIx > 1) then $all[$currentIx - 1] else false()
 let $next := if ($currentIx < count($all)) then $all[$currentIx + 1] else false()
 let $amount := count($all)
-return 
+return
     ($prev, $current, $next, $amount, $currentIx)
 };
 
@@ -404,7 +404,7 @@ let $params :=
     <param name="amount" value="{$amount}"/>
     <param name="currentIx" value="{$currentIx}"/>
     <param name="progress" value="{$progress}"/>
-    
+
    {
         for $p in request:get-parameter-names()
             let $val := request:get-parameter($p,())
@@ -461,7 +461,7 @@ declare function app:listOrg($node as node(), $model as map(*)) {
     for $item in doc($app:orgIndex)//tei:listOrg/tei:org
     let $altnames := normalize-space(string-join($item//tei:orgName[@type='alt'], ' '))
     let $gnd := $item//tei:idno/text()
-    let $gnd_link := if ($gnd) 
+    let $gnd_link := if ($gnd)
         then
             <a href="{$gnd}">{$gnd}</a>
         else
@@ -522,10 +522,9 @@ declare function app:rita1($node as node(), $model as map(*)) {
  :)
 declare function app:fetchImprint($node as node(), $model as map(*)) {
     let $url := $app:redmineBaseUrl||$app:redmineID
-    let $request := 
+    let $request :=
     <http:request href="{$url}" method="GET"/>
     let $response := http:send-request($request)
         return $response[2]
 
 };
-
