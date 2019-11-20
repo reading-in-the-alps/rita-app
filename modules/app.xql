@@ -242,13 +242,15 @@ for $title in ($entities, $terms)
  :)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
-    for $person in doc($app:personIndex)//tei:body//tei:person
-        let $relations := $person//tei:note[@type="family"]//text()
-        let $functions := $person//tei:note[@type="function"]//text()
+    for $person in doc($app:personIndex)//tei:listPerson[not(./@xml:id='editors')]//tei:person
+        let $relations := for $x in $person//tei:note[@type="family"] return <li>{$x}</li>
+        let $functions := for $x in $person//tei:note[@type="function"] return <li>{$x//text()}</li>
         let $project := data($person/parent::tei:listPerson/@xml:id)
         let $id: = data($person/@xml:id)
         let $ref := "#"||$id
-        let $docs := collection($app:editions)//tei:TEI[.//tei:rs[@ref=$ref]]//tei:title[1]
+        let $occupation := $person/tei:occupation
+        let $docs := collection($app:editions)//tei:TEI[.//tei:rs[@ref=$ref]] | collection($app:rita1)//tei:TEI[.//tei:rs[@ref=$ref]]
+        let $name := if ($person/tei:persName/tei:surname/text()) then $person/tei:persName/tei:surname else 'nicht identifiziert'
         let $links := for $x in $docs
             let $collection := app:getColName($x)
             let $docName := util:document-name($x)
@@ -256,25 +258,28 @@ declare function app:listPers($node as node(), $model as map(*)) {
             where $collection != "listperson.xml"
             return
                 <li><a href="{$link2doc}">{$docName}</a></li>
-            return
-            <tr>
-                <td>
-                    <a href="{concat($hitHtml,$id)}">{$person/tei:persName/tei:surname}</a>
-                </td>
-                <td>
-                    {$person/tei:persName/tei:forename}
-                </td>
-                <td>
-                    {$relations}
-                </td>
-                <td>
-                    {$functions}
-                </td>
-                <td>{$links}</td>
-                <td>
-                    {$project}
-                </td>
-            </tr>
+      return
+      <tr>
+          <td>
+              <a href="{concat($hitHtml,$id)}">{$name}</a>
+          </td>
+          <td>
+              {$person/tei:persName/tei:forename}
+          </td>
+          <td>
+              {$relations}
+          </td>
+          <td>
+              {$functions}
+          </td>
+          <td>{$occupation}</td>
+          <td>{$person/tei:note[@type="placing"]//text()}</td>
+          <td>{$links}</td>
+          <td>{count($links)}</td>
+          <td>
+              {$project}
+          </td>
+      </tr>
 };
 
 (:~
