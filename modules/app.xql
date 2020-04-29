@@ -317,7 +317,7 @@ declare function app:toc($node as node(), $model as map(*)) {
         else
             collection(concat($config:app-root, '/data/editions/'))//tei:TEI
     for $title in $docs
-        let $date := $title//tei:title//text()
+        let $date := $title//tei:title[@type='short']//text()
         let $datum := data($title//tei:origin[1]/@notBefore)
         let $place : = $title//tei:origin/tei:rs/text()
         let $docType := $title//tei:msItem//tei:note/tei:rs/text()

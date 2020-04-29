@@ -283,4 +283,5 @@
         </xsl:choose>
 
     </xsl:template>
+    <xsl:template match="tei:back"/>
 </xsl:stylesheet>
