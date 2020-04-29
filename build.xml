@@ -4,6 +4,9 @@
     <property name="project.version" value="${package(version)}"/>
     <property name="project.app" value="rita"/>
     <property name="build.dir" value="build"/>
+    <copy todir="data/" flatten="false">
+      <fileset dir="../rita2-data/data"/>
+    </copy>
     <target name="xar">
         <mkdir dir="${build.dir}"/>
         <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/* data/temp/** temp/**"/>
