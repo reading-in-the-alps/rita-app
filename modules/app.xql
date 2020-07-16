@@ -339,9 +339,9 @@ declare function app:toc($node as node(), $model as map(*)) {
 (:~
  : creates a basic table of content derived from the documents stored in '/data/inventare'
  :)
-declare function app:inventare($node as node(), $model as map(*)) {
+declare function app:inventare_pustertal($node as node(), $model as map(*)) {
 
-    let $collection := request:get-parameter("collection", "")
+    let $collection := request:get-parameter("collection", "inventare")
     let $docs := if ($collection)
         then
             collection(concat($config:app-root, '/data/', $collection, '/'))//tei:TEI

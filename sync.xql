@@ -5,7 +5,7 @@ declare namespace repo="http://exist-db.org/xquery/repo";
 
 import module namespace config="http://www.digital-archiv.at/ns/config" at "modules/config.xqm";
 
-let $target-base-default := "/home/csae8092/repos/sync"
+let $target-base-default := "/home/csae8092/repos/rita-project/rita-app"
 let $app-name := doc(concat($config:app-root, "/repo.xml"))//repo:target/text()
 return
 
@@ -13,7 +13,7 @@ return
 try{
     let $source := request:get-parameter("source",$config:app-root)
     let $target-base := request:get-parameter("target-base",$target-base-default)
-    let $synced-files :=  file:sync($source, $target-base||"/"||$app-name, ())
+    let $synced-files :=  file:sync($source, "/home/csae8092/repos/rita-project/rita-app", ())
     return $synced-files
 
 } catch * {
