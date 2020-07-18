@@ -3,11 +3,11 @@
 
   <div class="card">
     <div class="card-header" style="text-align:center;">
-      <h1>Inventarauswertung<br/>
+      <h1>Inventarauswertung (gesamt)<br/>
       </h1>
       <h3>
-        <a href="show.html?document=rita1.xml&amp;directory=meta">
-          <i class="fas fa-info" title="Info zu diesen Inventaren"/>
+        <a>
+          <i class="fas fa-info" title="Info" data-toggle="modal" data-target="#exampleModal"/>
         </a>
         |
         <a href="../../../../exist/restxq/rita/api/collections/inventare">
@@ -85,6 +85,39 @@
           <tr data-template="app:inventare_pustertal"/>
         </tbody>
       </table>
+    </div>
+  </div>
+  <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Infor zur Gesamtübersicht</h5>
+        </div>
+        <div class="modal-body">
+          <p>
+            Untenstehende Tabelle ist eine Zusammenschau der Auswertung der Bestände
+            <ul>
+              <li>Landgericht St. Michaelsburg</li>
+              <li>Stadtgericht Bruneck</li>
+              <li>Oberamtsgericht Bruneck</li>
+              <li>sowie des Sonderbestandes "Inventare Mittleres Pustertal"</li>
+            </ul>
+          </p>
+          <p>
+            Die Sortierung der einzelnen Spalten kann durch einen Klick auf die Spaltenüberschrift geändert werden. Das Suchfeld links oberhalb der Tabelle durchsucht den gesamten Tabelleninhalt. Darüber hinaus können mit Hilfe der Suchfelder unterhalb der
+            Spaltenüberschriften die Inhalte dieser Spalten durchsucht beziehungsweise gefiltert werden.
+          </p>
+          <p>
+            Die (ggf. gefilterte) Tabelle kann als PDF oder Excel heruntergeladen beziehungsweise in den Zwischenspeicher kopiert werden.
+          </p>
+          <p>
+            Zusätzliche Spalten können über das Dropdown-Menü "Spalten" eingeblendet werden. Damit in diesen neu eingeblendeten Spalten aber auch gesucht werden kann, muss die Seite leider neu geladen werden.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
+        </div>
+      </div>
     </div>
   </div>
   <script type="text/javascript" src="../resources/js/datatables.custom.js"/>

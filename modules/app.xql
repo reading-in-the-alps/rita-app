@@ -341,11 +341,11 @@ declare function app:toc($node as node(), $model as map(*)) {
  :)
 declare function app:inventare_pustertal($node as node(), $model as map(*)) {
 
-  for $row in collection($config:app-root, '/data/inventare')//tei:row
-        let $cells := $row/tei:cell
-        return
-        <tr>
-           {for $cell in $cells return <td>{$cell}</td>}
+  for $row in collection($app:inventare)//tei:row[not(./@style="header") and not(./@style="footer")]
+    return
+        <tr>{
+            for $cell in $row/tei:cell return <td>{$cell//text()}</td>
+        }
         </tr>
 };
 
