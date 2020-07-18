@@ -341,27 +341,11 @@ declare function app:toc($node as node(), $model as map(*)) {
  :)
 declare function app:inventare_pustertal($node as node(), $model as map(*)) {
 
-    let $collection := request:get-parameter("collection", "inventare")
-    let $docs := if ($collection)
-        then
-            collection(concat($config:app-root, '/data/', $collection, '/'))//tei:TEI
-        else
-            collection(concat($config:app-root, '/data/editions/'))//tei:TEI
-    for $title in $docs
-        let $date := $title//tei:title//text()
-        let $amountInv := count($title//tei:row) - 2
-        let $place : = $title//tei:origin/tei:rs/text()
-        let $docType := $title//tei:msItem//tei:note/tei:rs/text()
-        let $link2doc := if ($collection)
-            then
-                <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
-            else
-                <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
+  for $row in collection($config:app-root, '/data/inventare')//tei:row
+        let $cells := $row/tei:cell
         return
         <tr>
-           <td>{$date}</td>
-           <td>{$amountInv}</td>
-           <td>{$link2doc}</td>
+           {for $cell in $cells return <td>{$cell}</td>}
         </tr>
 };
 
