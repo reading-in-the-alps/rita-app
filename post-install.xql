@@ -2,6 +2,8 @@ xquery version "3.0";
 import module namespace config="http://www.digital-archiv.at/ns/config" at "modules/config.xqm";
 import module namespace app="http://www.digital-archiv.at/ns/templates" at "modules/app.xql";
 import module namespace netvis="https://digital-archiv/ns/netvis" at "netvis/netvis.xqm";
+import module namespace enrich="http://www.digital-archiv.at/ns/enrich" at "modules/enrich.xql";
+
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 (: grant general execution rights to all scripts in analyze and modules collection :)
@@ -16,6 +18,8 @@ for $resource in xmldb:get-child-resources(xs:anyURI($config:app-root||"/ac/"))
 
 for $resource in xmldb:get-child-resources(xs:anyURI($config:app-root||"/netvis/"))
     return sm:chmod(xs:anyURI($config:app-root||'/netvis/'||$resource), "rwxrwxr-x"),
+
+enrich:add_base_and_xmlid('https://id.acdh.oeaw.ac.at/rita/', 'editions'),
 
 
 for $x in collection($app:editions)//tei:TEI
